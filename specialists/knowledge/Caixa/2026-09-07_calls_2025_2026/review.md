@@ -1,0 +1,22 @@
+# Caixa — memória temática do resultado 2T26 e lacunas históricas
+
+Revisão: 07/09/2026. Fontes: legenda automática do canal oficial CAIXA, vídeo K0BjeF0KkTs, em data/calls/Caixa/2T26/youtube.txt; vídeo Vimeo do RI (evento 6039702, mídia 1208166145), baixado e transcrito em asr.txt. A versão Vimeo reproduz a mesma apresentação, com offset diferente; os trechos finais foram comparados e também não contêm Q&A. Locadores em hh:mm:ss da gravação. A transmissão encontrada contém apresentação institucional/financeira; não foi identificada sessão de perguntas e respostas nela. Não atribuir respostas a analistas a esse material.
+
+## Conhecimento extraído — afirmações da administração
+
+- **00:24–00:38, Carlos Vieira:** transformação digital busca integrar aplicativos, facilitar abertura de contas e ampliar relacionamento. Super app ainda em teste com liberação mais ampla pretendida até o fim de 2026; não confundir piloto com implantação universal. Ferramenta interna de IA facilita consulta de normas e atendimento. O banco preserva papel da rede física, inclusive expansão em localidades sem atendimento bancário; digitalização não implica automaticamente fechamento generalizado.
+- **00:38–00:51:** habitação, microcrédito orientado, sustentabilidade e serviços públicos integram o mandato. Benefício social declarado não é medida de rentabilidade financeira; manter as duas dimensões separadas.
+- **00:53–01:03, Marcos Brasiliano Rosa:** recomposição da margem depende da velocidade relativa de receitas e despesas financeiras e da renovação da carteira, preservando o mandato de crédito. A comparação de provisões com 2025 é afetada pela adoção da Resolução 4.966 e ajuste inicial no patrimônio; ainda assim a administração reconhece agravamento de risco em carteiras. Serviços, despesas de pessoal e retenção de lucro também explicam resultado e retorno. Maior saldo de poupança não é sinônimo de captação líquida: inclui remuneração acumulada.
+- **01:03:40–01:06:00:** distinguir habitação com FGTS/Fundo Social de recursos próprios, poupança e livres; distinguir saldo de carteira e contratação. Mudança de compulsório contribui para capacidade de originação com recursos próprios. Crédito comercial PF e PJ têm trajetórias distintas.
+- **01:06–01:11:** risco varia fortemente entre agro, comercial e habitação. Melhor indicador agregado não dispensa olhar carteira e renegociação. Grupos C1–C5 de garantias não são estágios 1–3 de crédito. Cobertura de estágio 3, saldo de provisão e despesa de provisão são conceitos diferentes. Infraestrutura pode combinar baixa inadimplência observada e recuperação complexa/lenta.
+- **01:12–01:17:** instrumentos subordinados apoiam capital regulatório; não constituem receita operacional. A leitura do guidance exige observar limites, fontes e cronograma de desembolso. A faixa de habitação FGTS discutida não inclui Fundo Social. Administração espera acomodação de despesas ao longo do ano e margem ainda sustentando resultado.
+
+**Inferência:** a tensão central combina mandato público, recuperação de margem, crescimento imobiliário e deterioração em carteiras menores de maior risco. A modernização pode ampliar relacionamento e eficiência, mas a apresentação não isola retorno financeiro incremental de IA/super app. Confiança moderada nessa interpretação; métricas automáticas exigem validação documental.
+
+## Compromissos abertos
+
+Super app mais amplamente disponível até fim de 2026; normalização de despesas e composição do guidance no segundo semestre; melhora de retorno desejada pela administração. Nenhum desses compromissos foi considerado entregue só pela declaração. Testar no próximo resultado com métricas de clientes ativos, conversão, custo de servir, risco e margem.
+
+## Cobertura incompleta
+
+1T25, 2T25, 3T25, 4T25 e 1T26 ainda sem transcrição de call recuperada. Foram consultados central de resultados, páginas de lives/divulgação, canal oficial e hospedagem Vimeo vinculada ao RI. O catálogo público da produtora MZ lista CEF 3T25 POR (1125971034); a busca também encontrou 1141148782 com esse título. Os acessos tentados retornaram exigência de login/autorização negada, incluindo os players. Um aviso de 1T25 aponta para registro histórico em webinar Zoom, não para gravação recuperada. Isso não prova inexistência de outros arquivos públicos. Não substituir por Caixa Seguridade, reportagem curta ou release e chamar de call. Fontes técnicas de busca e erros preservadas em data/calls/.

@@ -1,0 +1,3 @@
+WARNING: [vimeo:event] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+WARNING: [vimeo:event] 6039702: Failed to parse XML: not well-formed (invalid token): line 1, column 0
+WARNING: [vimeo:event] 6039702: Failed to parse XML: not well-formed (invalid token): line 1, column 0

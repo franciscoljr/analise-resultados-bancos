@@ -1,0 +1,27 @@
+# Itaú — memória temática dos calls, 1T25–2T26
+
+Revisão em 07/09/2026. Seis transcrições oficiais em `data/calls/Itau/<trimestre>/official.txt`, com páginas preservadas. Legendas YouTube nos cinco primeiros trimestres; mídia Vimeo para 2T26 tratada separadamente. Manifesto: `data/calls/manifest.json`. Leitura temática de apresentação/Q&A; não conferência integral de áudio nem validação independente de todas as métricas. Conteúdo abaixo é fala atribuída à administração, seguido de inferências explicitamente indicadas.
+
+## Evolução e mecanismos
+
+- **1T25, pp.1–2,7,21–22,26–27,34:** Milton separa ROE consolidado, Brasil e ajuste hipotético ao CET1 de 11,5%; este último não é o retorno publicado sem ajuste. Explica manutenção dos critérios de write-off apesar da flexibilidade regulatória; o backtest de menor custo de crédito sob outra política é contrafactual. Funding não é otimizado a qualquer custo: remunerar poupança/investimentos do cliente preserva franquia e principalidade. Selic afeta simultaneamente depósitos, teto de produtos, carteira e hedge de capital; não usar uma sensibilidade isolada para todo o lucro. IA de investimentos ainda é piloto sujeito a controles.
+- **2T25, pp.1–2,28–30:** crescimento de resultado/retorno acompanha One Itaú e aceleração digital. Milton explica possível alta mecânica de NPL de PME pelo fim de carências e normalização do denominador. Mantém disciplina de safra e recusa expandir indiscriminadamente a públicos vulneráveis antes de reduzir custo de servir e amadurecer modelos. A discussão de spreads corporativos apertados reforça que crescimento bancário e atividade de mercado de capitais podem divergir.
+- **3T25, pp.1–2,10,17,22–23:** EMPs passa de plataforma em evolução a papel mais relevante na estratégia digital de PJ varejo. Milton diz que o cenário prospectivo e casos específicos exigiram provisões adicionais; boa inadimplência não significa ausência de reforço de perdas esperadas. A ambição de dobrar carteira até 2030 não autoriza um CAGR anual fixo nem crescimento de 15% no guidance seguinte. O plano depende de risco, preço e capital.
+- **4T25, pp.1–2,32–35,38–39:** tecnologia, dados e cultura de risco são apresentados como base da centralidade no cliente. Na resposta a Mizrahi, Milton reafirma provisionamento antecipado e recomenda analisar write-off versus formação passada de NPL para evitar melhora aparente de curto prazo. Na resposta a Carlos, associa competitividade imobiliária à franquia de poupança, jornada e menor dependência de funding de mercado. A aplicação de IA pretende melhorar serviço, contato e principalidade, além de despesas; os ganhos ainda precisam ser medidos.
+- **1T26, pp.1–2,27–28,30–31:** o lucro e ROE são contextualizados pela distribuição extraordinária de dividendos no 4T25; lucro hipotético sem esse efeito é ajuste analítico da gestão, não lucro efetivo. Milton aponta serviços/DCM e performance fees como principais desafios ao guidance; margens e crédito parecem mais confortáveis naquele momento. Distingue ganhos concretos de IA de expectativas ainda em teste nos modelos de crédito. JCP e mix entre empresas explicam parte da alíquota menor, com normalização esperada.
+- **2T26, pp.1–2,11,24,28–30:** crescimento mantém foco em rating/garantias; NPL de PME pode subir mecanicamente antes de exercício de garantias, citado em 90–180 dias conforme programa. Milton vê deterioração marginal do ambiente e endividamento das famílias, mas atribui resiliência à franquia e à gestão de risco. O IA.I amplia a ambição de experiência e produtividade; não é prova de monetização já realizada. Após revisão de linhas do guidance, diz que o lucro implícito permanece próximo do anterior, com compensações entre receitas, despesas e impostos. A leitura correta é agregada e não “cada linha inalterada”.
+
+## Compromissos e testes
+
+| Origem | Expectativa | Evidência posterior nos calls | Estado |
+|---|---|---|---|
+| 1T25 p.21 | Escalar IA na experiência de investimentos | 4T25 p.38 e 2T26 p.28 ampliam narrativa de soluções | Evolução de produto; ganho de receita/custo não isolado aqui |
+| 2T25 p.28 | Normalização mecânica de NPL PME | 2T26 p.11 volta a explicar carência e execução de garantia | Explicação reiterada; testar por safra e programa |
+| 3T25 pp.22–23 | Crescimento de longo prazo condicionado, sem CAGR anual fixo | 4T25/1T26 mantêm disciplina de alocação | Não transformar ambição 2030 em promessa anual |
+| 1T26 p.27 | Serviços são principal desafio ao guidance | 2T26 p.30 menciona ajuste de serviços/seguros | Risco antecipado coerente com revisão posterior; quantificar com releases |
+
+**Inferência:** a estratégia combina franquia de investimentos e pagamentos, menor custo de servir e expansão seletiva de crédito. Não depende apenas da Selic ou de relaxar risco. Alternativas explicativas a controlar: mix de produtos, distribuição de capital, impostos, provisões e escopo Brasil/consolidado. Confiança moderada na atribuição causal; forte suporte dos calls para a intenção estratégica, mas confirmação econômica demanda métricas por safra/franquia.
+
+## Regras persistentes
+
+Não comparar ROE Brasil ajustado a capital com ROE consolidado publicado dos pares. Não confundir cobertura de estágio 3 com NPL90. IA em piloto não é produtividade realizada. Funding pertence à ponte de balanço; receita de margem à ponte de lucro. Preservar orientação de provisões à frente do resultado como afirmação da gestão, não certificado independente de qualidade de crédito.

@@ -1,0 +1,38 @@
+[youtube] Extracting URL: https://www.youtube.com/embed/vnj0zbcStz4?si=VgxpZXgoko6ZjNZc
+[youtube] vnj0zbcStz4: Downloading webpage
+[youtube] vnj0zbcStz4: Downloading visionos player API JSON
+[youtube] vnj0zbcStz4: Downloading m3u8 information
+[info] vnj0zbcStz4: Downloading subtitles: pt-orig, pt
+[info] vnj0zbcStz4: Downloading 1 format(s): 248+251
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Bradesco/2T25/youtube.pt-orig.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Bradesco/2T25/youtube.pt-orig.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Bradesco/2T25/youtube.pt-orig.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at  Unknown B/s (00:00:00)
+[download]   63.00KiB at   35.76MiB/s (00:00:00)
+[download]  127.00KiB at    3.00MiB/s (00:00:00)
+[download]  255.00KiB at    2.48MiB/s (00:00:00)
+[download]  511.00KiB at    1.80MiB/s (00:00:00)
+[download]  869.65KiB at    2.86MiB/s (00:00:00)
+[download] 100% of  869.65KiB in 00:00:00 at 1.83MiB/s
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Bradesco/2T25/youtube.pt.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Bradesco/2T25/youtube.pt.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Bradesco/2T25/youtube.pt.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at  Unknown B/s (00:00:00)
+[download]   63.00KiB at  Unknown B/s (00:00:00)
+[download]  127.00KiB at    4.74MiB/s (00:00:00)
+[download]  255.00KiB at    3.45MiB/s (00:00:00)
+[download]  511.00KiB at    3.52MiB/s (00:00:00)
+[download]  869.65KiB at    4.37MiB/s (00:00:00)
+[download] 100% of  869.65KiB in 00:00:00 at 2.28MiB/s
+[info] Writing video metadata as JSON to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Bradesco/2T25/youtube.info.json
+

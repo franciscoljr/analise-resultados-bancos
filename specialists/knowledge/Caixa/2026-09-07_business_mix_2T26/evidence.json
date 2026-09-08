@@ -1,0 +1,57 @@
+{
+  "basis": "Lucro líquido IFRS dos segmentos antes de eliminações; R$ milhões",
+  "names": [
+    "Bancário",
+    "Gestão de recursos",
+    "Seguridade",
+    "Meios de pagamento",
+    "Transações intersegmentos e não controladores"
+  ],
+  "values": [
+    4733.12,
+    300.989,
+    1159.604,
+    145.123,
+    -1833.378
+  ],
+  "method": "Valores de 2T26 publicados, com ponte de consolidação; participações brutas não equivalem a contribuição econômica líquida",
+  "asset_segments": [
+    2362407.929,
+    743.604,
+    15002.272,
+    20315.463
+  ],
+  "sources": [
+    {
+      "bank": "Caixa",
+      "period": "2T26",
+      "title": "IFRS - Demonstrações contábeis consolidadas 2T26",
+      "path": "documents/Caixa/2026/2T26/IFRS_-_Demonstracoes_contabeis_consolidadas_2T26__75f4daac10fc.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/fb86b0b8-b4e9-407b-a575-ba3668a566a9/734cdb53-9bcc-8a24-532b-ce20bf7ad16a?origin=2",
+      "pages": [
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "bank": "Caixa",
+      "period": "2T26",
+      "title": "Relatório de Análise de Desempenho 2T26",
+      "path": "documents/Caixa/2026/2T26/Relatorio_de_Analise_de_Desempenho_2T26__131132d0814d.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/fb86b0b8-b4e9-407b-a575-ba3668a566a9/bb24031e-d71e-1660-7cf8-e66703ab1361?origin=2",
+      "pages": [
+        7
+      ]
+    }
+  ],
+  "period": "2T26",
+  "total": 4505.458,
+  "shares": [
+    105.05302679550003,
+    6.6805416896573,
+    25.737760733758925,
+    3.2210487812781743,
+    -40.69237800019444
+  ]
+}

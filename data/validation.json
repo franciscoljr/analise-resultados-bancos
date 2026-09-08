@@ -1,0 +1,3311 @@
+{
+  "archive": [
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Dezembro_de_2025__a9b84fd69bb2.xlsx",
+      "status": "passed",
+      "sha256": "a9b84fd69bb211bdd5100f97fefdd0616d1060735046374baad4451ff936d7aa"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Demonstracoes_Financeiras_4T25_-_Consolidado_-_IFRS__ce5ff293c005.pdf",
+      "status": "passed",
+      "pages": 71,
+      "sha256": "ce5ff293c0055fc951571e59925f7b4f193d1dc39bffd902bc9a39eaab30776f"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Apresentacao_4T25__8850b1704182.pdf",
+      "status": "passed",
+      "pages": 30,
+      "sha256": "8850b1704182b1053224176f192ad36d7579b5610e55825c4bc51de26e378e97"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Demonstracoes_Financeiras_4T25_-_Completa__92dbf146f51f.pdf",
+      "status": "passed",
+      "pages": 72,
+      "sha256": "92dbf146f51f40e9e64f96d476146925a5b5ce9bdc60100dca91a7f84fcb3234"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Gerenciamento_de_Risco_-_Dezembro_de_2025__d569b0e674a1.pdf",
+      "status": "passed",
+      "pages": 49,
+      "sha256": "d569b0e674a1dfc70a359ae0550a85df29db4657374d6f25f496c4e80b8598ab"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Earnings_Release_4T25__bc4eea46c3d0.pdf",
+      "status": "passed",
+      "pages": 36,
+      "sha256": "bc4eea46c3d0ce202c300ef096d003a8b6da7823ca00ac3d5bd634665b86a59a"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Audio_Teleconferencia_4T25__080cca9ffc0b.mp3",
+      "status": "passed",
+      "sha256": "080cca9ffc0b5cd838e25903f31b68780c252b5edd3676f35b270d2a7661de95",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/4T25/Planilha_Series_Historicas_4T25__d2f83dc27b81.xlsx",
+      "status": "passed",
+      "sha256": "d2f83dc27b81747d4aa3b99621aab38b247527e4b040c3b5877516bb5927e810"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Demonstracoes_Financeiras_1T25_-_Consolidado_-_IFRS__4a5ed513cba2.pdf",
+      "status": "passed",
+      "pages": 46,
+      "sha256": "4a5ed513cba220842c75e715cf7f64be0dbfe00dcb05ca9b6b1aadac32abac41"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Planilha_Series_Historicas_1T25__25f27eae189a.xlsx",
+      "status": "passed",
+      "sha256": "25f27eae189acfa3573454ab4beaa55c5989a82f1b22e0be0a497c5951c1fc64"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Gerenciamento_de_Risco_-_Marco_de_2025__666dfdc342ca.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "666dfdc342ca1cf40cc09bf60ce6efac1dcce3b436b09d36f29c5522a1354867"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Earnings_Release_1T25__42606fe4fc6e.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "42606fe4fc6ed7806373293ac47540483924d843b331c27964de2fbace3bba6c"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Audio_Teleconferencia_1T25__ecf5e1194312.mp3",
+      "status": "passed",
+      "sha256": "ecf5e1194312049ddbbbcaf65ab0cc37f2ca7d2b26907243dabe6bcf6e1041b1",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Demonstracoes_Financeiras_1T25_-_Completa__56aa7bee70a4.pdf",
+      "status": "passed",
+      "pages": 57,
+      "sha256": "56aa7bee70a4bd87229d94c3bc9c85f7b804b188e703affc72d25d4d3eec6525"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Apresentacao_1T25__f265f07b59ad.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "f265f07b59ad7d5bb7c3489eb1d619bc299d503a668585a9ccfde11fec50be16"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/1T25/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Marco_de_2025__09a51c860917.xlsx",
+      "status": "passed",
+      "sha256": "09a51c8609178f63bab03f49399a19a7152360276078b76e1312859f1ee7ecd3"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Planilha_Series_Historicas_2T25__1e9225d0347a.xlsx",
+      "status": "passed",
+      "sha256": "1e9225d0347a0c0520dd9f9cb1e8fbd85541896a6524fe3321608177b076bdb8"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Earnings_Release_2T25__a1b9dede8ad7.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "a1b9dede8ad7a59e9d378ccc2eeb9fb6b73c0ce9033659146f1abab14217d02d"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Demonstracoes_Financeiras_2T25_-_Consolidado_-_IFRS__a63a796988c1.pdf",
+      "status": "passed",
+      "pages": 46,
+      "sha256": "a63a796988c1a52137317975904c8cde957cab4d8c954f2ce55d55c0ccc3dcf9"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Gerenciamento_de_Risco_-_Junho_de_2025__c9e0e939df17.pdf",
+      "status": "passed",
+      "pages": 37,
+      "sha256": "c9e0e939df179c761a473055f13c06a7b8f8b665af1196c50d0e0cb8b647b4ed"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Demonstracoes_Financeiras_2T25_-_Completa__76944af572f9.pdf",
+      "status": "passed",
+      "pages": 68,
+      "sha256": "76944af572f97ab35a0ab728a0ff9f175598289f11f1a296ba5e7cf191296aa7"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Apresentacao_2T25__a803503dd445.pdf",
+      "status": "passed",
+      "pages": 24,
+      "sha256": "a803503dd4454e9f1c6ed0edadcf04141d2d0a4bd3c27431f395a806eba15e92"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Audio_Teleconferencia_2T25__a167abfd25fe.mp3",
+      "status": "passed",
+      "sha256": "a167abfd25fed551596106ef37e359f784699367014c61ee9a2be3f073eed424",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/2T25/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Junho_de_2025__14433d3a79e0.xlsx",
+      "status": "passed",
+      "sha256": "14433d3a79e00b242ca4050c89b46320a30f9031363e367e79495372fa3ed44f"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Gerenciamento_de_Risco_-_Setembro_de_2025__28fb1d382c75.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "28fb1d382c7503daba81326897f4e0347f0676dd19701b386cf23eb735a74430"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Demonstracoes_Financeiras_3T25_-_Completa__929125b0734e.pdf",
+      "status": "passed",
+      "pages": 58,
+      "sha256": "929125b0734ecc6c9f3d30787a0d57e002dd531029957cb2d903d35e51527530"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Apresentacao_3T25__c5b78c66fb24.pdf",
+      "status": "passed",
+      "pages": 24,
+      "sha256": "c5b78c66fb24900d70619983d070c080da530846651f6a38630abe1c7e239559"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Demonstracoes_Financeiras_3T25_-_Consolidado_-_IFRS__5a37e598c585.pdf",
+      "status": "passed",
+      "pages": 47,
+      "sha256": "5a37e598c585f34690bce68508d0ed85eb90ced2747fea62e2016fe4beab97e9"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Setembro_de_2025__f323037f9766.xlsx",
+      "status": "passed",
+      "sha256": "f323037f9766601aec4c42ba7f0c4f0067d06395ce4b851542859cdaa99b59b4"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Audio_Teleconferencia_3T25__4792411f8ce4.mp3",
+      "status": "passed",
+      "sha256": "4792411f8ce49cce554697c6dc27b6cc4b833e521d9bf8f4fe1283f38f8e8909",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Earnings_Release_3T25__7841a97d7837.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "7841a97d7837f97ff80659716d6ac0619d4c5633de1496316bd1f8b0c339c440"
+    },
+    {
+      "path": "documents/BTG_Pactual/2025/3T25/Planilha_Series_Historicas_3T25__247a389927b8.xlsx",
+      "status": "passed",
+      "sha256": "247a389927b84ec71ae14375118513aba83311a9c8101e34da1e0122c6e08263"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Audio_Teleconferencia_4T24__e493ca95bc4e.mp3",
+      "status": "passed",
+      "sha256": "e493ca95bc4e535f15137c18cc518893a1367ad6c600cfc5883afe4dac9c9666",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Demonstracoes_Financeiras_4T24_-_Completa__587c30ae72ac.pdf",
+      "status": "passed",
+      "pages": 62,
+      "sha256": "587c30ae72ace59b7470e303187ad261aa2ef7f308205358c4bca69c73e2b09e"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Earnings_Release_4T24__6b30cbfb5b24.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "6b30cbfb5b2420b02a6572973b874f1da4ebfdad342798d4995d7fa932dbb81c"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Gerenciamento_de_Risco_-_Dezembro_de_2024__2a55e61e3166.pdf",
+      "status": "passed",
+      "pages": 45,
+      "sha256": "2a55e61e316665c0acf8081f67d898873d57e51719eeb3efc7f418ee3f4cb464"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Planilha_Series_Historicas_4T24__e436978524fa.xlsx",
+      "status": "passed",
+      "sha256": "e436978524fa04b6be6a041d6eeeef1654e5d937b320728f3b0b1ea94c0cf5ce"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Apresentacao_4T24__d02c57475f3e.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "d02c57475f3e665a5d55b79bcc3e612cab94dba235a2dad1d7e05d828f5d2ef6"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Dezembro_de_2024__1f3d5b1c1e06.xlsx",
+      "status": "passed",
+      "sha256": "1f3d5b1c1e06e8b6940f806278d76c76457396be48e18fc14cfabcd962e279c5"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/4T24/Demonstracoes_Financeiras_4T24_-_Consolidado_-_IFRS__10cd746f3c50.pdf",
+      "status": "passed",
+      "pages": 70,
+      "sha256": "10cd746f3c500ca18249304879a9b206e6c64f3510ecda6222ec7c088378aef1"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Earnings_Release_1T24__139ba042be4e.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "139ba042be4e045a9e24d7660f68d09b14b4dd5bfeb450876a7af4ceb45e3f9d"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Marco_de_2024__f7da28176af6.xlsx",
+      "status": "passed",
+      "sha256": "f7da28176af60c6ee43ca8ed1795bc144d5aa7eb00f88a57dfdc8b2d35b08b61"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Planilha_Series_Historicas_1T24__2bb6e3700fe4.xlsx",
+      "status": "passed",
+      "sha256": "2bb6e3700fe4615cdb35253d511348dade8d4e48f3f593215c0637f1d83f470b"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Apresentacao_1T24__09f9bbb31ccc.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "09f9bbb31cccf9dd4dbf858482e4f2605ccdc782aeb9f5b4b043b690cf4a7db4"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Demonstracoes_Financeiras_1T24_-_Completa__46818160299c.pdf",
+      "status": "passed",
+      "pages": 48,
+      "sha256": "46818160299cb1207973382d5175543a8462e10e4e3083f8ebba5d3f7124676e"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Audio_Teleconferencia_1T24__43c371cd59b3.mp3",
+      "status": "passed",
+      "sha256": "43c371cd59b31816bcb5958cba93ecdbb0d71ef8dc2438436e93212f1f3bc720",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Gerenciamento_de_Risco_-_Marco_de_2024__b9218339481a.pdf",
+      "status": "passed",
+      "pages": 28,
+      "sha256": "b9218339481acbcf397a5f7a915721f56a1c1de0d611c3451e5b276e10285884"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/1T24/Demonstracoes_Financeiras_1T24_-_Consolidado_-_IFRS__245f76859a9b.pdf",
+      "status": "passed",
+      "pages": 44,
+      "sha256": "245f76859a9b457a68684a07e7fa3eec2a8bbfe9b7d9e340ee80c9d862577a52"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Audio_Teleconferencia_2T24__4ea92052d9c0.mp3",
+      "status": "passed",
+      "sha256": "4ea92052d9c0d05f989cef12f29d12cf9078bda14eafae4a4a366d0bc92007da",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Demonstracoes_Financeiras_2T24_-_Completa__789ccc6f5b8d.pdf",
+      "status": "passed",
+      "pages": 57,
+      "sha256": "789ccc6f5b8d1367f9414db6b96e089d45182ad390a694e79d84213cef3d7496"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Earnings_Release_2T24__f0420e515013.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "f0420e5150134920fe9677e025842c96329c481bbbf2ac383718b206506d1e79"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Gerenciamento_de_Risco_-_Junho_de_2024__51060f206db4.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "51060f206db45df447b7566ac32c50182cfcb21539b13aacda9eead22b1e98f0"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Apresentacao_2T24__1bb285a09cbb.pdf",
+      "status": "passed",
+      "pages": 24,
+      "sha256": "1bb285a09cbb3fb9ce240d4e0f58ebbb981ddd1b21ae146e4dcb77d67a6e9d34"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Junho_de_2024__7bb9bf5f158b.xlsx",
+      "status": "passed",
+      "sha256": "7bb9bf5f158b190173c784cfdc7c9ba72c4faeadfc11edf6d45d78b0a1beeb6e"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Planilha_Series_Historicas_2T24__9bff70c78b44.xlsx",
+      "status": "passed",
+      "sha256": "9bff70c78b4476c2d521d260e6656a7c8b51ae88e64f40c5d49de18215883d89"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/2T24/Demonstracoes_Financeiras_2T24_-_Consolidado_-_IFRS__0a85a9340fbb.pdf",
+      "status": "passed",
+      "pages": 46,
+      "sha256": "0a85a9340fbba8336bc33f9495ee1c29ba2c4fc8634528608c0c5254b5027210"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Planilha_Series_Historicas_3T24__c2690d3eff47.xlsx",
+      "status": "passed",
+      "sha256": "c2690d3eff47004e49154a6457ff855975aec622cb1babe33f3b5632e54612a5"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Apresentacao_3T24__98890791281d.pdf",
+      "status": "passed",
+      "pages": 24,
+      "sha256": "98890791281db0f684350b862ab0f787d06efa21171c43be48882d2b2a09f212"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Gerenciamento_de_Risco_-_Setembro_de_2024__4e9dfafd14a8.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "4e9dfafd14a8ba12143c4a690fe2b2e7a8331e17b7e99adfa6020afb5efb2bb7"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Audio_Teleconferencia_3T24__3610ce581d01.mp3",
+      "status": "passed",
+      "sha256": "3610ce581d0180ceebb7da905f1e364ba520cff4e5ebc5ef060c76bd02c1d8fc",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Earnings_Release_3T24__dfebcfed61a8.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "dfebcfed61a8619dbf068f0a15b1c65e06a29b526406722725a88993ad08594e"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Demonstracoes_Financeiras_3T24_-_Completa__cbb923fcf71f.pdf",
+      "status": "passed",
+      "pages": 52,
+      "sha256": "cbb923fcf71fac42b7fafd4e35e85897da976b8807a185ac90e2ffcd15f5b8b6"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Demonstracoes_Financeiras_3T24_-_Consolidado_-_IFRS__cb85eba4b11d.pdf",
+      "status": "passed",
+      "pages": 47,
+      "sha256": "cb85eba4b11d8880a36bcdd2a9c85cabfc39d65cca511423358bc57ed74c2e4d"
+    },
+    {
+      "path": "documents/BTG_Pactual/2024/3T24/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Setembro_de_2024__939106f15c51.xlsx",
+      "status": "passed",
+      "sha256": "939106f15c51f120e0019d5c7f1204c4c8126fb88ad0a7cec7566b5a77ae2965"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Earnings_Release_2T26__60db3a76d472.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "60db3a76d4720fc5ceb06633eb969bbf07df0766a8063c753d1bff5d72043374"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Demonstracoes_Financeiras_2T26_-_Consolidado_-_IFRS__81cde722477a.pdf",
+      "status": "passed",
+      "pages": 46,
+      "sha256": "81cde722477a3c509028bc0a72d0ddc1fb319f25036adb23cfb150fa60b0d30e"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Demonstracoes_Financeiras_2T26_-_Completa__a0c1608e8133.pdf",
+      "status": "passed",
+      "pages": 69,
+      "sha256": "a0c1608e8133303cdb84daf1d4d79e3d5dcadc50f78aaf6dff0fb844ec5d8c8f"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Junho_de_2026__2c5eac4c6262.xlsx",
+      "status": "passed",
+      "sha256": "2c5eac4c6262ce5aeaebe55ca02abc05e47e966e9594bfb7dd4781c012081866"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Gerenciamento_de_Risco_-_Junho_de_2026__92eb5de54cc5.pdf",
+      "status": "passed",
+      "pages": 35,
+      "sha256": "92eb5de54cc51da2d5c8c602391a98495e1b53100aa2319be8f6fbada7e7f19f"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Apresentacao_2T26__3f16dd5259e2.pdf",
+      "status": "passed",
+      "pages": 24,
+      "sha256": "3f16dd5259e25a029e8a7f4af0b2c18cee503ad74560f817374c73bb23aac03d"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Audio_Teleconferencia_2T26__672229d41d58.mp4",
+      "status": "passed",
+      "sha256": "672229d41d58f11d97be87657d647da77541776e00b49f3d80500f5a4cae161c",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/2T26/Planilhas_Series_Historicas_2T26__fcd319bf1765.xlsx",
+      "status": "passed",
+      "sha256": "fcd319bf1765b93a11d47577b8d8b4847d0f4820cf9a943b136dc78659b02d77"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Apresentacao_1T26__f18c8b800b6e.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "f18c8b800b6e68a7c0b20fa76113abdc902a011da499d4c9256145df49a62a95"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Demonstracoes_Financeiras_1T26_-_Consolidado_-_IFRS__5ebad6d8ba3f.pdf",
+      "status": "passed",
+      "pages": 48,
+      "sha256": "5ebad6d8ba3f1532aea7eaa462a0aef53b88dc0a6292620e8d9155336b078680"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Gerenciamento_de_Risco_Planilha_Auxiliar_-_Marco_de_2026__d5b0e864d345.xlsx",
+      "status": "passed",
+      "sha256": "d5b0e864d3455617bc774e385b21bcf665f446e4be1078511e3f7544324f7d38"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Audio_Teleconferencia_1T26__3905d322c5cf.mp4",
+      "status": "passed",
+      "sha256": "3905d322c5cfe1b84aa08db635620734ef5a8e9979932a8e456282f37df3ea8b",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Planilha_Series_Historicas_1T26__5a3844b0b58b.xlsx",
+      "status": "passed",
+      "sha256": "5a3844b0b58b0f254caa12ed31b4d6a71f39d72c87fdfbf09570bcf353219972"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Earnings_Release_1T26__c2859efe5870.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "c2859efe5870c5e5fc3b2b2dde9846dad3d6d0d051d23cf7ecf46f7483199173"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Demonstracoes_Financeiras_1T26_-_Completa__15ad3e9d6552.pdf",
+      "status": "passed",
+      "pages": 63,
+      "sha256": "15ad3e9d6552d904b08f706dc0b873a826624d26d8bb2eb45fe51aabda261598"
+    },
+    {
+      "path": "documents/BTG_Pactual/2026/1T26/Gerenciamento_de_Risco_-_Marco_de_2026__f20459933ad1.pdf",
+      "status": "passed",
+      "pages": 28,
+      "sha256": "f20459933ad17925306d6e47030cd3593b0a540ef524206d4aa5c10f6d356f73"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Apresentacao_de_Resultados__e21b529ac731.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "e21b529ac73182a54b813c7968e07f6602d3f78f23d7bace88ce543fe9349f7f"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Demonstracoes_Financeiras_Consolidadas_-_IFRS_4T25__95e9f937f463.pdf",
+      "status": "passed",
+      "pages": 172,
+      "sha256": "95e9f937f4632d504e4d2fcabae6b3b4535df10f05f24e4635a0e566dd1ccb8f"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Relatorio_de_Analise_Economica_e_Financeira__95ef4d7a1605.pdf",
+      "status": "passed",
+      "pages": 222,
+      "sha256": "95ef4d7a1605b480298e657baee01c327fedba58d3aa7b3baaeebf322c4c1435"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Relatorio_de_Gerenciamento_de_Riscos__bbdc36eb3250.pdf",
+      "status": "passed",
+      "pages": 84,
+      "sha256": "bbdc36eb325063e8cb15311df26ff9ba1246d5dba8dd59b3e658199f1b3422f4"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Series_Historicas__5d4d99fbd51b.xlsx",
+      "status": "passed",
+      "sha256": "5d4d99fbd51bf9f1c65c2e293384fab6d2a7d0855271d9f6b3f5886facc920ca"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Anexos_Pilar_3__0ed23df8beeb.xlsx",
+      "status": "passed",
+      "sha256": "0ed23df8beebf95a2f48e0118033f9108a51feb2d0702adb39e5f4cb574b2b2b"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Informativo_Trimestral__5d8c686d3fbd.pdf",
+      "status": "passed",
+      "pages": 8,
+      "sha256": "5d8c686d3fbddc2f5ff77de58c10d59ba5c40cee3be62d0fb2f6249b79e9798a"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Press_Release__e45d87a45ed9.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "e45d87a45ed9b28fcc9e0bc7eab0b635a42adc5c0abc3d27ac338ba17a0f8451"
+    },
+    {
+      "path": "documents/Bradesco/2025/4T25/Bradesco_4T25_-_Transcricao_Videoconferencia__2ee4f5792b75.pdf",
+      "status": "passed",
+      "pages": 24,
+      "sha256": "2ee4f5792b75f557522f8c0cf372065cab31a236d83e7f96a2d98f3eeb3d23fa"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Demonstracoes_Financeiras_Consolidadas_-_IFRS_1T25__8a25d1958dbd.pdf",
+      "status": "passed",
+      "pages": 104,
+      "sha256": "8a25d1958dbd7fd97cef042705415cb1206b6ef9844fe56d7b19235659f1f0ae"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Press_Release__7fc8f0711540.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "7fc8f07115405f8696d68a851bb52a34c08e109e7770317ddfcbaa9af4fa38b6"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Anexos_Pilar_3__ce6a694f1383.xlsx",
+      "status": "passed",
+      "sha256": "ce6a694f1383ba5ce49e7a25108a11ecd7e47b1efaad29257565d6230a4939af"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Transcricao_Videoconferencia__ce38e35cdd81.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "ce38e35cdd810721a724e7b58e8e9225ab2f39bac0822da297be9065f9b89c96"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Informativo_Trimestral__ba023042af3e.pdf",
+      "status": "passed",
+      "pages": 10,
+      "sha256": "ba023042af3e6113db5921748e5b4557c493a5e51060e53f3db2437d21f28d85"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Series_Historicas__c02a30d07e7d.xlsx",
+      "status": "passed",
+      "sha256": "c02a30d07e7d301ab12793e2b3e40f2a6b3acd1c3da1255e4bb2c1beee6c0aad"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Relatorio_de_Gerenciamento_de_Riscos__929a41bc8d9b.pdf",
+      "status": "passed",
+      "pages": 75,
+      "sha256": "929a41bc8d9b87c05024e62463d0e3f8bc5e5b728afe0d6a66c4de1cf1fffd6d"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Relatorio_de_Analise_Economica_e_Financeira__debaa9ac5276.pdf",
+      "status": "passed",
+      "pages": 162,
+      "sha256": "debaa9ac5276f677c71c1b5560c0636646ceacf88666a74664cf61ef4946bbe1"
+    },
+    {
+      "path": "documents/Bradesco/2025/1T25/Bradesco_1T25_-_Apresentacao_de_Resultados__e0a1d2349c46.pdf",
+      "status": "passed",
+      "pages": 16,
+      "sha256": "e0a1d2349c46941eca242d006734667d2be0564162aeae17352cd47562b40b3b"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Apresentacao_de_Resultados__0c8d8149942b.pdf",
+      "status": "passed",
+      "pages": 18,
+      "sha256": "0c8d8149942bbe5e04135b1527a719255584015e234595e6dedc5b18ed824c79"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Relatorio_de_Analise_Economica_e_Financeira__c3a510ba9fe8.pdf",
+      "status": "passed",
+      "pages": 185,
+      "sha256": "c3a510ba9fe86bba3ca80740df9d66487213ee14a15cea1a06aa6c0230a27909"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Informativo_Trimestral__83c4e82a7741.pdf",
+      "status": "passed",
+      "pages": 10,
+      "sha256": "83c4e82a774132b1ddcad5768351f9df5c9d1e72be0616e64b913eca9321df16"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Anexos_Pilar_3__f1cfc03497fc.xlsx",
+      "status": "passed",
+      "sha256": "f1cfc03497fcac3b9b6899ff0fff3be85426a40d63e818b4a1e2bccaca513961"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Relatorio_de_Gerenciamento_de_Riscos__9375c2baa787.pdf",
+      "status": "passed",
+      "pages": 75,
+      "sha256": "9375c2baa78751ceb82c8237d567aee2713e73e9934c860d48717b98ea4a0330"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Demonstracoes_Financeiras_Consolidadas_-_IFRS_1S25__5e36bc80e588.pdf",
+      "status": "passed",
+      "pages": 110,
+      "sha256": "5e36bc80e5883310e96f03a0bb8f821e5f178eee9490c77f88351df81ea84610"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Series_Historicas__986468923c77.xlsx",
+      "status": "passed",
+      "sha256": "986468923c779f02045d282e1df18ea4810c570fa5aea86e2b7fc5605d16d591"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Press_Release__1d3254486898.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "1d32544868987a20d07f126a9a6ce470438b1eb5ef6baeb8c50404feab8d5a81"
+    },
+    {
+      "path": "documents/Bradesco/2025/2T25/Bradesco_2T25_-_Transcricao_Videoconferencia__0834d9e65399.pdf",
+      "status": "passed",
+      "pages": 29,
+      "sha256": "0834d9e6539952792c27cb430555f1b59cf049c41bd40c543f61d3aa95b6f46c"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Relatorio_de_Analise_Economica_e_Financeira__16f6f51fc22e.pdf",
+      "status": "passed",
+      "pages": 158,
+      "sha256": "16f6f51fc22eb0a089f17743804cf479a1eba4283cf104d25d223ecbf570514a"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Demonstracoes_Financeiras_Consolidadas_-_IFRS_3T25__b31438874bcd.pdf",
+      "status": "passed",
+      "pages": 103,
+      "sha256": "b31438874bcd06581d054d3d8a4232fee905ca311267e3f1a8383b24d783c04c"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Transcricao_Videoconferencia__fda471584234.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "fda47158423430f3f960106a604f0595a8a2a2b4738bd3728316b615921fa8f9"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Relatorio_de_Gerenciamento_de_Riscos__eaea34d55b1e.pdf",
+      "status": "passed",
+      "pages": 75,
+      "sha256": "eaea34d55b1e09dc9560d5fe2c3b3cedc7c1c750e0d4859ad9bc6b6a8ccc5673"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Anexos_Pilar_3__a53d5717b101.xlsx",
+      "status": "passed",
+      "sha256": "a53d5717b1011eb0084e574e0931b18ce0f84f7ffb38678c96421d8d7cbfe74c"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Series_Historicas__fb9663410bae.xlsx",
+      "status": "passed",
+      "sha256": "fb9663410baeb47c5ff65e88c5172af0ac35c14ad7e9851d90c5fc088f434801"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Apresentacao_de_Resultados__5e872e62af93.pdf",
+      "status": "passed",
+      "pages": 18,
+      "sha256": "5e872e62af939c7bae66d5c8762c349365603a480198c7f66472dde3b48baecd"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Informativo_Trimestral__7b45d2045881.pdf",
+      "status": "passed",
+      "pages": 11,
+      "sha256": "7b45d20458812563f90e2fbdbcfb9cbb8459754c545cc55593b3653748dc46f8"
+    },
+    {
+      "path": "documents/Bradesco/2025/3T25/Bradesco_3T25_-_Press_Release__0c0f50a09979.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "0c0f50a09979a39f805fb64ab2754f84e53ae05ee1c7df5c5b3506bfa54b7ebe"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Relatorio_de_Analise_Economica_e_Financeira__ad125a31ebe4.pdf",
+      "status": "passed",
+      "pages": 221,
+      "sha256": "ad125a31ebe469ccb1905e0bfd6894a8f802b6f63b67178f172642feebfef6dc"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Demonstracoes_Financeiras_Consolidadas_-_IFRS_4T24__d970bf6ac105.pdf",
+      "status": "passed",
+      "pages": 173,
+      "sha256": "d970bf6ac105740ed8d15df7b3da1d220b972eb0bb15756c43dc232e680e22b0"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Relatorio_de_Gerenciamento_de_Riscos__7f66afa300be.pdf",
+      "status": "passed",
+      "pages": 82,
+      "sha256": "7f66afa300bef005449e7d3cdd8dc3113d1d033729a8633125c955d095e370e7"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Apresentacao_de_Resultados__2333bbf1d6be.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "2333bbf1d6be2dcc0361a6ecdcf030b1c36542e2b5c813872db06f8228dea5fc"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Transcricao_Videoconferencia__05524a32ce6a.pdf",
+      "status": "passed",
+      "pages": 29,
+      "sha256": "05524a32ce6a2f722c1fe0ed4c0df941a2005723e87249ae9069fec9926244a8"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Informativo_Trimestral__6fc5ac644598.pdf",
+      "status": "passed",
+      "pages": 12,
+      "sha256": "6fc5ac6445987cc2a9ef9bc0f3bfb0ab247daa1116ad8aa7e239188b0f1de1ac"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Anexos_Pilar_3__be8cde098989.xlsx",
+      "status": "passed",
+      "sha256": "be8cde098989c6ddd81b683425f928da873825c47615a84bfdf832633a06c757"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Press_Release__b08d153fbe3e.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "b08d153fbe3e02fee19c80e3511915c0bb6c8a7a52b004399f45d130d4223c4d"
+    },
+    {
+      "path": "documents/Bradesco/2024/4T24/Bradesco_4T24_-_Series_Historicas__53ad23d13dda.xlsx",
+      "status": "passed",
+      "sha256": "53ad23d13dda903a55cfefd0e57c2cf67b061f2bb7e2777cc35f0ef2494e9d5e"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Apresentacao_de_Resultados__d5a15d0d98c0.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "d5a15d0d98c090aa3b50f555825cccc118de34d6de18922464b8d25fb3dd18c8"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Transcricao_Videoconferencia__46b41de0d361.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "46b41de0d361cc9aa551feddb6b77a753b69c8994b4a7ec4b31106b0b159fc64"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Anexos_Pilar_3__d1cd08378f88.xlsx",
+      "status": "passed",
+      "sha256": "d1cd08378f88aca10a94934c01651f05839cd7319f2f5910c6c50ceb681bddbc"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Demonstracoes_Financeiras_Consolidadas_-_IFRS_1T24__a24093bd823a.pdf",
+      "status": "passed",
+      "pages": 129,
+      "sha256": "a24093bd823acf2435a86d8f82522ce9b4505593dbb567973d151c7fad143591"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Relatorio_de_Analise_Economica_e_Financeira__749f41d9b4dd.pdf",
+      "status": "passed",
+      "pages": 150,
+      "sha256": "749f41d9b4ddacf05d72969ecacb19b8bafd353749f26f8ff706270323418498"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Press_Release__4f56909ff226.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "4f56909ff22627b2176d25e97e0904c3856655e2ac249636bb774d064176a9b7"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Relatorio_de_Gerenciamento_de_Riscos__8a8829f182f0.pdf",
+      "status": "passed",
+      "pages": 87,
+      "sha256": "8a8829f182f0750e511dd9a68e41f41bf5acb9cb96e1381d8d7ed3569bce2bbe"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Series_Historicas__8aef1492b2ec.xlsx",
+      "status": "passed",
+      "sha256": "8aef1492b2eccf1f87ac8f7ba86d7ee69208aadccb0c226327e4b7d66d1fab25"
+    },
+    {
+      "path": "documents/Bradesco/2024/1T24/Bradesco_1T24_-_Informativo_Trimestral__dfc158277c98.pdf",
+      "status": "passed",
+      "pages": 8,
+      "sha256": "dfc158277c9884f6833fca5135378e9be336222b9aa9b4d0ff2afe21fce406e4"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Demonstracoes_Financeiras_Consolidadas_-_IFRS_1S24__a967d962d204.pdf",
+      "status": "passed",
+      "pages": 139,
+      "sha256": "a967d962d204bf1e67f2c79a40ceb3d532c534a2a103772be9c3e9cfef74a9a6"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Anexos_Pilar_3__9fec0f9e2441.xlsx",
+      "status": "passed",
+      "sha256": "9fec0f9e2441d7bb6df90c505d1e580dfe38f76e1a027fcc89380740f15ff6bf"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Informativo_Trimestral__7862982da672.pdf",
+      "status": "passed",
+      "pages": 8,
+      "sha256": "7862982da6722841a61285bf600423ffb5fe10746e2bb47c4169535049fc9a7a"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Transcricao_Videoconferencia__40a4eb0082a3.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "40a4eb0082a361a4602a5dcfc45f22c94e3d49be4a12e77ae4a974d480b15c9f"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Series_Historicas__27f080668c54.xlsx",
+      "status": "passed",
+      "sha256": "27f080668c542c08a91bf63c3fd0d23351fc06569c00f06f129cc2cbbae500c3"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Relatorio_de_Analise_Economica_e_Financeira__4b5b7ee501d4.pdf",
+      "status": "passed",
+      "pages": 187,
+      "sha256": "4b5b7ee501d4bbbce7543ce19d488f08af6206eff21776c6efa442d1149ba412"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Press_Release__16c050d21596.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "16c050d2159653801162e3bd1691aab69f3e127607e7e349624854d2a7f0e39a"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Relatorio_de_Gerenciamento_de_Riscos__72be0564629f.pdf",
+      "status": "passed",
+      "pages": 75,
+      "sha256": "72be0564629f79aa987f564488c9e847611edce8cb0eb31c60de7065d0d38ba2"
+    },
+    {
+      "path": "documents/Bradesco/2024/2T24/Bradesco_2T24_-_Apresentacao_de_Resultados__18fdc50feb6c.pdf",
+      "status": "passed",
+      "pages": 19,
+      "sha256": "18fdc50feb6c33e80151bd54b07a8b95993ee6391d120c8f6ac4d3b36694fb1f"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Informativo_Trimestral__ea95f71be51d.pdf",
+      "status": "passed",
+      "pages": 10,
+      "sha256": "ea95f71be51d600fbefef9eb681afdf0f05193d8a5bb80d1979a0a7ed2536ead"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Relatorio_de_Analise_Economica_e_Financeira__8c0b5d56f20a.pdf",
+      "status": "passed",
+      "pages": 156,
+      "sha256": "8c0b5d56f20a2aa8fc269f7f8e5c0876ea7832aefb09c657a59c34d5c3532030"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Transcricao_Videoconferencia__3896d3cdeeaf.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "3896d3cdeeaffede85846b3b67b598559a398db0bc20a95620df542b5f84e653"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Relatorio_de_Gerenciamento_de_Riscos__d165a1254d20.pdf",
+      "status": "passed",
+      "pages": 75,
+      "sha256": "d165a1254d20fc237ffd205d08cbfeed5c130d9b3851187d07d68662fa1b2e2b"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Demonstracoes_Financeiras_Consolidadas_-_IFRS_3T24__01cccaadf448.pdf",
+      "status": "passed",
+      "pages": 131,
+      "sha256": "01cccaadf448f0a00c6dc0b5c8a599d73ae883ed84861c457a4f4fc0d94ba990"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Press_Release__b1443a12efd0.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "b1443a12efd0a7f26b4c8cba08362893ab4789652f9ceee4ebf825171a309855"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Apresentacao_de_Resultados__007de8cd6ace.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "007de8cd6ace76576852402c64e2374a1d5d468d2b886b66b45d85e7abb0caea"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Anexos_Pilar_3__1d8fddd6a8d9.xlsx",
+      "status": "passed",
+      "sha256": "1d8fddd6a8d9ea9587a6fd3916d3cc0508c78e6d20bac25c48d92b1f1eb191ce"
+    },
+    {
+      "path": "documents/Bradesco/2024/3T24/Bradesco_3T24_-_Series_Historicas__d0a41589f079.xlsx",
+      "status": "passed",
+      "sha256": "d0a41589f0793f4423b49450091e7482fd23f38afb1d19b3116e950d2254f254"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Informativo_Trimestral__8e0e3414ec24.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "8e0e3414ec24970698e03ca04ea755dcf6ef289990f686c69b62f436cf3b7620"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Anexos_Pilar_3__a48a39bee020.xlsx",
+      "status": "passed",
+      "sha256": "a48a39bee020303b3314800d87ff925feae8343f04483214ac118434930873cc"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Series_Historicas__0e6d77287103.xlsx",
+      "status": "passed",
+      "sha256": "0e6d77287103e4b7a7a7c9ac0c987de910637b4f7c5ff73a5bd69551ea8bcbb3"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Relatorio_de_Gerenciamento_de_Riscos__0047f3590141.pdf",
+      "status": "passed",
+      "pages": 80,
+      "sha256": "0047f3590141b980b2efee44e44a3553b004ed3d1d803c848051301beacff33b"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Demonstracoes_Financeiras_Consolidadas_-_IFRS_1S26__ded945abfd66.pdf",
+      "status": "passed",
+      "pages": 139,
+      "sha256": "ded945abfd66a41369d3b7d9e4927323390a53f15cb13a8c504e5406fda7bcea"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Press_Release__767b88c60a6a.pdf",
+      "status": "passed",
+      "pages": 2,
+      "sha256": "767b88c60a6a5e9864d4b5859c8b05db5df06dabdc5aeb354de1e66d2e5d66e1"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Apresentacao_de_Resultados__8fff38ed77c9.pdf",
+      "status": "passed",
+      "pages": 17,
+      "sha256": "8fff38ed77c9419826897f81c59e8bed78644739b847dd55b4da5cef5415e169"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Relatorio_de_Analise_Economica_e_Financeira__cde0b85c1bec.pdf",
+      "status": "passed",
+      "pages": 197,
+      "sha256": "cde0b85c1bec0615802e03a55cc36ce3be10b4560b18b678c45ed541c9d5d965"
+    },
+    {
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Transcricao_Videoconferencia__5530f86527c2.pdf",
+      "status": "passed",
+      "pages": 24,
+      "sha256": "5530f86527c2b792550199fd72f4e4887d903220a60d8c78cc4f18ecfff85641"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Informativo_Trimestral__04c1f24c2df7.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "04c1f24c2df720af055a42e3affba107390a85facf92b2f16365f5cc116a63a4"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Series_Historicas__e29d02c2966a.xlsx",
+      "status": "passed",
+      "sha256": "e29d02c2966a8979f9ee2f695bb67298e92e27e5c35945368c585245e749c875"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Relatorio_de_Analise_Economica_e_Financeira__a240046aa0c8.pdf",
+      "status": "passed",
+      "pages": 167,
+      "sha256": "a240046aa0c85525e71d85e180b6ed86999ad2cd5682c862248fa67a692caf03"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Anexos_Pilar_3__94f6c454238a.xlsx",
+      "status": "passed",
+      "sha256": "94f6c454238ac872924ffd61e6c139793bec21213b1afa2f91905fe1317511ae"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Apresentacao_de_Resultados__59520ef21b03.pdf",
+      "status": "passed",
+      "pages": 14,
+      "sha256": "59520ef21b0374d22f2e6b1aeb062949e4e82cd7ab22e4297816139a0bf91a0c"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Press_Release__705585e72b9e.pdf",
+      "status": "passed",
+      "pages": 2,
+      "sha256": "705585e72b9eb0dd4352c2fb7244d03fa04245fbb178d268a6ea6cb45267a6bb"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Relatorio_de_Gerenciamento_de_Riscos__59fe846e16cd.pdf",
+      "status": "passed",
+      "pages": 79,
+      "sha256": "59fe846e16cd850a54fec13619ec91e03652ee24032d0d5f9a28c3994811bda2"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Demonstracoes_Financeiras_Consolidadas_-_IFRS_1T26__eaa64698cf8e.pdf",
+      "status": "passed",
+      "pages": 130,
+      "sha256": "eaa64698cf8ebb449758af76dad9c581e27a1417864aab26ac7c786f208323cc"
+    },
+    {
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Transcricao_Videoconferencia__83376cb5474f.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "83376cb5474f291a34bc2c9625e8547e418ac2d716d4f1dab27783bc295beaef"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Teleconferencia_4T25__3999b1d1b857.pdf",
+      "status": "passed",
+      "pages": 28,
+      "sha256": "3999b1d1b8579e069dc4ec76be7cf014419dba971bd4d3ae5440467370d887db"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Demonstracoes_Contabeis_em_IFRS_4T25__89a146bf4bcb.pdf",
+      "status": "passed",
+      "pages": 181,
+      "sha256": "89a146bf4bcbd220b55d084486e802be1e22b66fac50b5a9f9c6e37a0a75bd59"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/BB_Noticias_4T25__70da1c73553a.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "70da1c73553a42c9acfcec62cda6dddb159fdf1ebc8a8a394150089d8a05ad2f"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Transcricao_Videoconferencia_4T25__5353ca524bd7.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "5353ca524bd77d17833da945d4b316d52c15c7091dfa5419ac7215cb0a2a4210"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Demonstracoes_Contabeis_PDF_4T25__57a549066615.pdf",
+      "status": "passed",
+      "pages": 162,
+      "sha256": "57a549066615bccda4fe4f4bc5f99a1037571735efd001dbe295c063034e9c57"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Analise_de_Desempenho_-_4T25__f25753c84371.pdf",
+      "status": "passed",
+      "pages": 312,
+      "sha256": "f25753c843712632a00c3973456dec1f997643b70ae122a197565e3ee7cb02df"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Demonstracoes_Contabeis_4T25__0183190ee286.docx",
+      "status": "passed",
+      "sha256": "0183190ee286df3c94f3009657e6571cfd769352bb54f6ea73c8913f2046a8e8"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Boletim_InformAcoes_4T25__ddc0aae6239c.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "ddc0aae6239c07efbd0f391b89ff05f8c7059bf54463083a97efcd6fa488e1da"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Sumario_do_Resultado_4T25__00b271b7f622.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "00b271b7f62277340d0fb6007c339a7a3dc04fb3cc0f80602a4f5a7e96e54605"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Institucional_4T25__597a8b2d1fa7.pdf",
+      "status": "passed",
+      "pages": 50,
+      "sha256": "597a8b2d1fa72fffc4a9dd049caaaa31faac769f65f8f3191b2d2993560cdae7"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Relatorio_da_Administracao_4T25__8d07510b0f3f.rtf",
+      "status": "passed",
+      "sha256": "8d07510b0f3fc72b502a6618798f1f52e21b2cac69e88222a75992916ca35ac5",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/4T25/Series_Historicas_4T25__f20e76dec3e3.xlsx",
+      "status": "passed",
+      "sha256": "f20e76dec3e39a11e520b6c7d26f8b8537858979e3ca5372ab3564349119a958"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/BB_Noticias_1T25__fefb20362111.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "fefb203621116e4e5144ca4a05058464ccd93141e384610cc42b7fef7d4ab5d3"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Analise_de_Desempenho_-_1T25__2494e47cc699.pdf",
+      "status": "passed",
+      "pages": 287,
+      "sha256": "2494e47cc6999982132f162fa41765da4c8bf58ed8825cd9fbd384d42f1da3e7"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Demonstracoes_Contabeis_em_IFRS_1T25__1f3e89212f0a.pdf",
+      "status": "passed",
+      "pages": 97,
+      "sha256": "1f3e89212f0ad62f8cc7a03ebab90ea06510193780f42186bb90e25c1b56c0da"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Demonstracoes_Contabeis_1T25__25c0a237d983.docx",
+      "status": "passed",
+      "sha256": "25c0a237d98395304cfd6c0015107fb9f0b635fa9807dcd8d1ca8915d2b49e3f"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Transcricao_Videoconferencia_1T25__63fb2909019c.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "63fb2909019cc31a9147e7f13c65443c350e63751b09681b58ac26aebf84c9f5"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Sumario_do_Resultado_1T25__84293eb56c83.pdf",
+      "status": "passed",
+      "pages": 4,
+      "sha256": "84293eb56c834638afd3b4ae937cb343490f7b40b6bdeb0a9e46a91c39cc5f34"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Teleconferencia_1T25__3104bc78fc59.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "3104bc78fc59c516eba7b51101ba44f29586a833d671ec8edbaa1a815b8246f8"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Institucional_1T25__a0be1af8a534.pdf",
+      "status": "passed",
+      "pages": 45,
+      "sha256": "a0be1af8a5343039af5891890a0c25ac98a7de6b2c41a5230d8326dbcae72e3b"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Demonstracoes_Contabeis_PDF_1T25__3db1227f2a7a.pdf",
+      "status": "passed",
+      "pages": 145,
+      "sha256": "3db1227f2a7a88823052270c4ee82f2e56eb327da326ee02e0d15bc0e9822a55"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Relatorio_da_Administracao_1T25__39fe90709b38.docx",
+      "status": "passed",
+      "sha256": "39fe90709b38f1f6f68d105b24531e1a5aabb1a5ab4aa1191822e68f7503869b"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Boletim_InformAcoes_BB_1T25__82b26ff01766.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "82b26ff01766105a281cffeb84cf0d01eb3d7e1795f2e7d97d97db6ff9e9a9c3"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/1T25/Series_Historicas_1T25__eb992de3e7c3.xlsx",
+      "status": "passed",
+      "sha256": "eb992de3e7c3622370203954f8f66549981cb441b766f4beb70047a6192b0554"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Sumario_do_Resultado_2T25__422fcecbf42c.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "422fcecbf42c0f66abaa16ef6e9ee46ab9712156132283a0a69d404469fc74de"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/BB_Noticias_2T25__9d02bd492f73.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "9d02bd492f736678900a56610568a6a47f98e2f737423105f459b327bd8962e2"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Institucional_2T25__d37de85f1ff6.pdf",
+      "status": "passed",
+      "pages": 49,
+      "sha256": "d37de85f1ff60015e89e82d3124619beeca06759e227b3080c3b5fd0c0260a85"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Analise_de_Desempenho_-_2T25__bd4486f9e759.pdf",
+      "status": "passed",
+      "pages": 291,
+      "sha256": "bd4486f9e759734bd9a1d8f92221cf5fcdf1d37b3e3f35fb3ab2c87733c50b3b"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Boletim_InformAcoes_BB_2T25__bcc83ed7c489.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "bcc83ed7c489e48d16d34e891d6f0bb0b40e01f3ec91ca4d2ec4cefdfd457e93"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Demonstracoes_Contabeis_2T25__2b38e4f91796.docx",
+      "status": "passed",
+      "sha256": "2b38e4f91796d6be3ca8bd57144267e31edb897e3340f3106f21b37cbcb03a90"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Transcricao_Videoconferencia_2T25__76400dc6cebd.pdf",
+      "status": "passed",
+      "pages": 42,
+      "sha256": "76400dc6cebd603d6032839aab7e63983503fe45610099ec1f1baea86140325d"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Demonstracoes_Contabeis_em_IFRS_2T25__086693858e49.pdf",
+      "status": "passed",
+      "pages": 100,
+      "sha256": "086693858e491b590f33d7d64c3c62881b78ac37b688fea491be5d716aad6f4e"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Teleconferencia_2T25__b2bbb5b37fbc.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "b2bbb5b37fbc1059de988f9c32647701ca4406599cb2ae49733488b2195a675c"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Series_Historicas_2T25__35c1e90a3625.xlsx",
+      "status": "passed",
+      "sha256": "35c1e90a36254c017c7caff72cba02fcddcc0541025391ac07d135a009e6a59d"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Relatorio_da_Administracao_2T25__cc6dd16432f0.docx",
+      "status": "passed",
+      "sha256": "cc6dd16432f006e72c2b43aacba544e0d05940467a4c8dade61d17fd876ad417"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/2T25/Demonstracoes_Contabeis_PDF_2T25__7178f969a05a.pdf",
+      "status": "passed",
+      "pages": 149,
+      "sha256": "7178f969a05a3d927381258cb2193b7c234c8ccfd8ef0cc36aef3ed0076c6bd4"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Transcricao_Videoconferencia_3T25__d06434e3b86f.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "d06434e3b86f0cd0e9c91f39246aa64fb73ec5433424e936481e9182f81a599a"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/BB_Noticias_3T25__d939ecaa05eb.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "d939ecaa05ebbab21746c5be2546c580d0b9db63821fbe715a9aa40f05f7b872"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Analise_de_Desempenho_-_3T25__917abf56fe8a.pdf",
+      "status": "passed",
+      "pages": 288,
+      "sha256": "917abf56fe8a34dafd94b322464bdba2499bc8eb82b69f7603611f0d3bde94e7"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Institucional_3T25__33413c30bfcc.pdf",
+      "status": "passed",
+      "pages": 40,
+      "sha256": "33413c30bfcc57db134d16147367d93e89971fdc87a8800cd78a2ab168b89975"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Demonstracoes_Contabeis_3T25__4d617200a920.docx",
+      "status": "passed",
+      "sha256": "4d617200a9200ea5b11a21dc1c7dfe6996e7f4be1afd50b7fd1194853aadbb05"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Demonstracoes_Contabeis_em_IFRS_3T25__ff7bd096fe28.pdf",
+      "status": "passed",
+      "pages": 99,
+      "sha256": "ff7bd096fe28834f658c4e16002ad6f98af268c4466c0a4cb6b6641167df8154"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Boletim_InformAcoes_3T25__df7e07f490a1.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "df7e07f490a1e631ce3008a577f8a0094a55881088415e641240d22f0ee96a63"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Teleconferencia_3T25__15b8ed5b1f60.pdf",
+      "status": "passed",
+      "pages": 19,
+      "sha256": "15b8ed5b1f607fdc1239bc5a64782ad99f666a6df79e01b4187cc5d0f2af4ca8"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Demonstracoes_Contabeis_PDF_3T25__9f31d85f4eeb.pdf",
+      "status": "passed",
+      "pages": 146,
+      "sha256": "9f31d85f4eeba3e6608ae8e1bdede7eec115bd775a5573d2d04117cc2774997d"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Series_Historicas_3T25__00638781e231.xlsx",
+      "status": "passed",
+      "sha256": "00638781e231bb73ae45f473c1b8f3f7c0079b441e65d2de58146c9f17898cc5"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Sumario_do_Resultado_3T25__def96b9ed754.pdf",
+      "status": "passed",
+      "pages": 4,
+      "sha256": "def96b9ed75486b1cc986662ec3d0a2ae003f88fd43e02b613b25245666baf58"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2025/3T25/Relatorio_da_Administracao_3T25__e0572a60a838.docx",
+      "status": "passed",
+      "sha256": "e0572a60a838a500e2cb87264e7beaea5bd6842c8c79a025fe059f55bd2fadf2"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Institucional_4T24__7c100913deb4.pdf",
+      "status": "passed",
+      "pages": 48,
+      "sha256": "7c100913deb4243749c255e37c75a135f8e6fcefef1c8f6385a39df3588dcace"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Teleconferencia_4T24__8b116263b052.pdf",
+      "status": "passed",
+      "pages": 21,
+      "sha256": "8b116263b05218ea4cd68f6caf5c2097021cc05f039193b68f8552c0bc686101"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Demonstracoes_Contabeis_em_IFRS_4T24__5a8109a2eac3.pdf",
+      "status": "passed",
+      "pages": 190,
+      "sha256": "5a8109a2eac30465f601fec8025694591f48a692c0a53e6e0902540246ede824"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Sumario_do_Resultado_4T24__f08e6f13e1e4.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "f08e6f13e1e422235d2bbc0f77b641d2f6c7c859255b1998f61b93d654c40798"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Series_Historicas_4T24__e9c44b9ac8b5.xlsx",
+      "status": "passed",
+      "sha256": "e9c44b9ac8b501d445f4398674371199a6dd931beecf46305455c1fa0c425036"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Transcricao_Videoconferencia_4T24__2bef43bd9c94.pdf",
+      "status": "passed",
+      "pages": 21,
+      "sha256": "2bef43bd9c94d7f171df07c3812c6d9bda73b867f12b8a045805ce6a0ee121cc"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Analise_de_Desempenho_-_4T24__6f178e38e77f.pdf",
+      "status": "passed",
+      "pages": 307,
+      "sha256": "6f178e38e77fa52bc9bbbec3c8a01c2560255d9a8eb72adef0e019db5574c8b4"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Demonstracoes_Contabeis_4T24__a13ff08b76b3.docx",
+      "status": "passed",
+      "sha256": "a13ff08b76b3c6a438955410bd5b6fe4f0677279d973cba22f72f677bc0f6e39"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Boletim_InformAcoes_BB_4T24__9b24d434a076.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "9b24d434a0765fc5800ec6ea69e23cab7b1a3e296565c927a22f29797e572c28"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Demonstracoes_Contabeis_PDF_4T24__b392839333aa.pdf",
+      "status": "passed",
+      "pages": 145,
+      "sha256": "b392839333aa8098b85e35e2a319206bc75f22c8c25f6a9848db28855380dea4"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/BB_Noticias_4T24__a713d92b9774.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "a713d92b97740eb7077974dc581130b5bb6ac61a4eeb44f96df74570b461be4c"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/4T24/Relatorio_da_Administracao_4T24__fea1dfc1613f.docx",
+      "status": "passed",
+      "sha256": "fea1dfc1613fcc44e0c97dfb9d5dfe0bdb0f72b215abf6a685f37d837722c046"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Teleconferencia_1T24__eb97fd3df2f1.pdf",
+      "status": "passed",
+      "pages": 21,
+      "sha256": "eb97fd3df2f118d28c3b7bb06cd417c706125e39c9aee7f40aaa440477c94c1b"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Demonstracoes_Contabeis_1T24__22890196f90d.docx",
+      "status": "passed",
+      "sha256": "22890196f90dfd5c7e11be7bb03d866eacf544064d9dfbd86be0ddc6cece5a57"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Series_Historicas_1T24__d4dbef4b0326.xlsx",
+      "status": "passed",
+      "sha256": "d4dbef4b0326f8bb76bc78272545f63f4021269401e919995cf40c8ab486afb8"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Relatorio_da_Administracao_1T24__3f40bac3e11d.docx",
+      "status": "passed",
+      "sha256": "3f40bac3e11d230a2c8b632d0e27947fcf7c52b17539c1feb3398d27ac134ae4"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Boletim_InformAcoes_1T24__9e7887d3b210.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "9e7887d3b210e38ea9763ff03fe120859ed55b4254e8ca5476d2db189a4611fc"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Demonstracoes_Contabeis_PDF_1T24__477afed394b7.pdf",
+      "status": "passed",
+      "pages": 132,
+      "sha256": "477afed394b75c1a1eac3cca73f81be21262af9ec0dd784fc67557fa6e03cf7c"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Sumario_do_Resultado_1T24__44ba2921442a.pdf",
+      "status": "passed",
+      "pages": 11,
+      "sha256": "44ba2921442ac7ed7b4a720c0e5bce867c1e696e6c469709ff7ba9ff83573275"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Institucional_1T24__490642f89200.pdf",
+      "status": "passed",
+      "pages": 47,
+      "sha256": "490642f89200889bb6b9a6a40610ecd27ba3b1adfb891a77aa5e9c88ebe8f5f7"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Analise_de_Desempenho_-_1T24__61cfeb18ed5d.pdf",
+      "status": "passed",
+      "pages": 313,
+      "sha256": "61cfeb18ed5da39d8e99476711f43a459bad9d35ea89a34b4a17e29ec49d742d"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Demonstracoes_Contabeis_em_IFRS_1T24__042854b9bb17.pdf",
+      "status": "passed",
+      "pages": 109,
+      "sha256": "042854b9bb17fa35c607aaa3e12e5f0a308053f137124dc181b6264438701044"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/Transcricao_Live_de_Resultados_-_1T24__d3ebe33024de.pdf",
+      "status": "passed",
+      "pages": 29,
+      "sha256": "d3ebe33024de181250b91bffc767ab6df2dabbd5d60aab8096948288dc4268b3"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/1T24/BB_Noticias_1T24__733233fd0a93.pdf",
+      "status": "passed",
+      "pages": 2,
+      "sha256": "733233fd0a9351ad6485ae28a469a4681645595638108651e0e0a311cf79cd29"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Series_Historicas_2T24__060a0e2267f6.xlsx",
+      "status": "passed",
+      "sha256": "060a0e2267f6fae0b793accfbd14435657c66a9f7a8f34d0d1d2bf2259673a57"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Sumario_do_Resultado_2T24__913ee718b4b5.pdf",
+      "status": "passed",
+      "pages": 13,
+      "sha256": "913ee718b4b55b415f593c8e79ff700ab91c201a444e708e03171fbc702e50c9"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Relatorio_da_Administracao_2T24__b2b9d92bd807.docx",
+      "status": "passed",
+      "sha256": "b2b9d92bd807bbf77043330cad84a4f094354d166868df6d5baedd056290566d"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Transcricao_Resultados_2T24__0a669d9b0098.pdf",
+      "status": "passed",
+      "pages": 38,
+      "sha256": "0a669d9b00988f2b0317908d1661d9b8328fb971239220a5bee393b4e53c628a"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/InformAcoes_2T24__f620cf401e7e.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "f620cf401e7e9e82f87fff55e4ea5075fa920e0f11f1a1cde5d4e3437c6379b8"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Demonstracoes_Contabeis_2T24__234bc0efc61e.docx",
+      "status": "passed",
+      "sha256": "234bc0efc61e24bdd721b7e78387c6ce53052d6c9e29f5f8e579b632c690ebef"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Analise_de_Desempenho_-_2T24__a3b81fb99ebd.pdf",
+      "status": "passed",
+      "pages": 324,
+      "sha256": "a3b81fb99ebdbe0ecb25f284d2ef22c4f5acecbcc31df0a4fae58dcb2e80f2ab"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/BB_Noticias_2T24__f83e962e71b5.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "f83e962e71b56f9def5f241e401924f2740a794000c370a05aa01bd72da66195"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Demonstracoes_Contabeis_PDF_2T24__ed12fe4d054f.pdf",
+      "status": "passed",
+      "pages": 142,
+      "sha256": "ed12fe4d054f8a187129217e1920b08c91b4fbc8e1e683cc93e15b2789850576"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Demonstracoes_Contabeis_em_IFRS_2T24__18bc9e241aff.pdf",
+      "status": "passed",
+      "pages": 116,
+      "sha256": "18bc9e241aff802d3fd81d1a009aceac13337cf36534705e5086400aedfa2b8a"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Institucional_2T24__bb4007b27d74.pdf",
+      "status": "passed",
+      "pages": 47,
+      "sha256": "bb4007b27d7454f42912624b193f7b2ce18c1ae9b8daea64e99216b08e941ac6"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/2T24/Teleconferencia_2T24__3e5e24a1b067.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "3e5e24a1b06750d607fd14897da7a007e84448311b21618ceb867f2ce3ef2385"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Demonstracoes_Contabeis_3T24__619691c5c5ee.docx",
+      "status": "passed",
+      "sha256": "619691c5c5ee90e1b47143a767d520b867b403f43a4dd140ee9c5c5df941d547"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Transcricao_Videoconferencia_3T24__18b8068da525.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "18b8068da525888143825fdecaea1fb6a69399d0d503b74a2f8b13b17689a9ad"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/BB_Noticias_3T24__baaf05e88653.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "baaf05e88653d263c8020ff8a353c43a46dfeb2fc06c027554213314956a90f9"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Series_Historicas_3T24__7e16c2fd9099.xlsx",
+      "status": "passed",
+      "sha256": "7e16c2fd90995056b5558f73c241c2c6b1a0622924d1ea56cfd950cb74065337"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Sumario_do_Resultado_3T24__9815f8b9cdcf.pdf",
+      "status": "passed",
+      "pages": 12,
+      "sha256": "9815f8b9cdcf5558f6fb501438380ea66023f4fa46f4e12f1e2199792de02cdd"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Demonstracoes_Contabeis_PDF_3T24__93712288eecd.pdf",
+      "status": "passed",
+      "pages": 135,
+      "sha256": "93712288eecd89b3eedcbb89e3c4047003c85a7c5a023a49ba05e59f68fdb7a0"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Analise_de_Desempenho_-_3T24__5a1de6551f3e.pdf",
+      "status": "passed",
+      "pages": 307,
+      "sha256": "5a1de6551f3ef659f1d51f62d4a4286c20c5b4ecec9a14c5cb0e410f35c4618d"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Teleconferencia_3T24__0fd7722dc822.pdf",
+      "status": "passed",
+      "pages": 19,
+      "sha256": "0fd7722dc8222c310d3672dded0daa7437816c4efaf45d9b21f20691161c7fd6"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Institucional_3T24__678aec8b95d5.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "678aec8b95d5337f3737debd865faf9f761fefe8bd9efa22b691b4a886b223c7"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Demonstracoes_Contabeis_em_IFRS_3T24__abfc2cf56789.pdf",
+      "status": "passed",
+      "pages": 114,
+      "sha256": "abfc2cf56789925e052c2b189a43b3d9ab82bf7e7c5fc527bad2b407207c6a47"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/InformAcoes_3T24__2ab4104be83f.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "2ab4104be83f8b970bc8107d3f7a7c8b98f6f8dc0b559ac3c802b8ee4f941508"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2024/3T24/Relatorio_da_Administracao_3T24__1b7181f56e6a.docx",
+      "status": "passed",
+      "sha256": "1b7181f56e6a86d890bfd5e5fcb84c3605e98819eb47411a9f98779f768b8cac"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Transcricao_Videoconferencia_2T26__d16f35290915.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "d16f35290915f38e51a3314658ecb9f1df6124d39102cf5c634de7c906ed10fb"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Sumario_do_Resultado_2T26__a716c84471fb.pdf",
+      "status": "passed",
+      "pages": 4,
+      "sha256": "a716c84471fbafd280f95eb4320d8896a5e27fd55879bff1ac2e7c76a5211fba"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/2T26_Apresentacao_de_Resultados__5b78c885c2ec.pdf",
+      "status": "passed",
+      "pages": 28,
+      "sha256": "5b78c885c2ecae092bfbb4fbfe9a023d2346d82e68af0dea27c027a79a381b0e"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/BB_Noticias_2T26__8bea498f0435.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "8bea498f043571e643b38278716c04d8dba65260331beb503bcae5ec05d00396"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Series_Historicas_2T26__5137c248b8ef.xlsx",
+      "status": "passed",
+      "sha256": "5137c248b8ef08c957644c4a9b9ffe2c87d52b7105c66b821f7e33644ac857f0"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/BB_Boletim_InformAcoes_2T26__dcaf6f2df4b1.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "dcaf6f2df4b110ca591453369b920f3e8fcd32df3dd8d46994aef6ad500e4a06"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Relatorio_da_Administracao_2T26__516806d4e897.docx",
+      "status": "passed",
+      "sha256": "516806d4e8975adc9faef2f4dcb308c3d68e467b6ac9c79d313121cb76c63d42"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Demonstracoes_Contabeis_2T26__3a4921830640.docx",
+      "status": "passed",
+      "sha256": "3a49218306400945371df2bc100ca60adb946170f08c152d4f35717bbd927732"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Demonstracoes_Contabeis_PDF_2T26__eca85b5ab6ae.pdf",
+      "status": "passed",
+      "pages": 168,
+      "sha256": "eca85b5ab6aeb16d97e1a6921802a8ef6dac392e36fd979c95bb3c87df7d69a4"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Demonstracoes_Contabeis_em_IFRS_2T26__a291f50da4f3.pdf",
+      "status": "passed",
+      "pages": 109,
+      "sha256": "a291f50da4f31642c5d8c5f1ab442bdeedd8dc17937df4eb3fcaee5aa4640800"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Analise_de_Desempenho_-_2T26__61b49780a902.pdf",
+      "status": "passed",
+      "pages": 309,
+      "sha256": "61b49780a9025c4f89ac7b4a97f1dcd7d499154c818b392118866b4a2f15a291"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/2T26/Institucional_2T26__c835c3067956.pdf",
+      "status": "passed",
+      "pages": 51,
+      "sha256": "c835c306795628b31b562d82d37b71ae75c2786f31144b90ee3e0885ba67553c"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/BB_Noticias_1T26__424ec9cca9ee.pdf",
+      "status": "passed",
+      "pages": 3,
+      "sha256": "424ec9cca9ee4d9af3b4f90d4b208cb3a12b744afdbd5f4212acb21dcb676cf6"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Demonstracoes_Contabeis_PDF_1T26__b06fa5f6b7f7.pdf",
+      "status": "passed",
+      "pages": 158,
+      "sha256": "b06fa5f6b7f7a0fe56d579af4e6c150b2544c0abc0613cfcb490bf23b7b6beda"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Analise_de_Desempenho_-_1T26__97e65672ca02.pdf",
+      "status": "passed",
+      "pages": 301,
+      "sha256": "97e65672ca0241ff89f53407ef9418be2ba0aa3652b71efee494d8de27f53e94"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Transcricao_Videoconferencia_1T26__d3f9be0ee5c4.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "d3f9be0ee5c407a4d4709797a6eb6271df311ed60db1e876990512f5ae229fec"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Sumario_do_Resultado_1T26__2c82d768b5df.pdf",
+      "status": "passed",
+      "pages": 4,
+      "sha256": "2c82d768b5df11469efdc895a5acdc6d2d283ea039675173fd4af88d33f5a1ab"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/1T26_Apresentacao_de_Resultados__56eeef55b0e8.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "56eeef55b0e8a7efc7dbdb89eeb0fc13e061bd6409019cc1b5feb370cf6f3353"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Series_Historicas_1T26__ec61bde1c536.xlsx",
+      "status": "passed",
+      "sha256": "ec61bde1c5366f8f80e61e6b59bfd3f1a18120bbe93079b6a000ecad6a2dafd4"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Demonstracoes_Contabeis_1T26__30d5d0180d68.docx",
+      "status": "passed",
+      "sha256": "30d5d0180d684b1ef2ca7f80002bd72f9ac5acfbfeab9d3da4894217a9f63e14"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/BB_Boletim_InformAcoes_1T26__01fb8971dec0.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "01fb8971dec0e628b6bc838f6beb373899137f2a9edc5b5586f1340398233b0e"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Relatorio_da_Administracao_1T26__1fee7e1fbb57.docx",
+      "status": "passed",
+      "sha256": "1fee7e1fbb57f76fb108e7096b49194b0b4312a0cf80205e81b28fe82d0b0365"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Institucional_1T26__5cff517c6e12.pdf",
+      "status": "passed",
+      "pages": 42,
+      "sha256": "5cff517c6e12d424c3f6d0d672d277eea003050ee6ac6412f5fb7d97040169cd"
+    },
+    {
+      "path": "documents/Banco_do_Brasil/2026/1T26/Demonstracoes_Contabeis_em_IFRS_1T26__10ee073b462a.pdf",
+      "status": "passed",
+      "pages": 106,
+      "sha256": "10ee073b462ae1cb481b62f778545adf03dbed70022268cf92cbe331723490b4"
+    },
+    {
+      "path": "documents/Itau/2025/4T25/Apresentacao_de_Resultados_-_4T25__4c9dfd062568.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "4c9dfd0625684ad04e63bccf23edb80b36d6cb6229a87065a321b2a6d11ae7d9"
+    },
+    {
+      "path": "documents/Itau/2025/4T25/Transcricao_do_audio_4T25__c3aa5dcbcb34.pdf",
+      "status": "passed",
+      "pages": 39,
+      "sha256": "c3aa5dcbcb34bd1a08e1c0cfa48d25d25b3e0f5fc475751cd5accfdad88ece9d"
+    },
+    {
+      "path": "documents/Itau/2025/4T25/Informativo_-_Acoes_Itau_em_Foco__7876e60ec941.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "7876e60ec941218013c709aa884979f9ccee7e5def00ee3ac94fdfef4fb5bfb7"
+    },
+    {
+      "path": "documents/Itau/2025/4T25/Apresentacao_Institucional__51b90f5667cd.pdf",
+      "status": "passed",
+      "pages": 21,
+      "sha256": "51b90f5667cddd8351170e1aefd43d9e6517c91a8e8aa0d30f5ce231744207ca"
+    },
+    {
+      "path": "documents/Itau/2025/4T25/Demonstracoes_contabeis_completas_em_IFRS__1af0e98cf9d0.pdf",
+      "status": "passed",
+      "pages": 136,
+      "sha256": "1af0e98cf9d006885ffe5452dc37493c0fa6b11fc88667b1f92677f2f2683e83"
+    },
+    {
+      "path": "documents/Itau/2025/4T25/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__d64990b4cbfc.pdf",
+      "status": "passed",
+      "pages": 169,
+      "sha256": "d64990b4cbfc16e93fe13c90ed1fe31c5acefbd0344cca2dad7481ff3c89ea31"
+    },
+    {
+      "path": "documents/Itau/2025/4T25/Gerenciamento_de_riscos_e_capital_-_Pilar_3_-_4T25__5c8ed672a606.pdf",
+      "status": "passed",
+      "pages": 91,
+      "sha256": "5c8ed672a6061a41a6bc4c3b39b243997c0c5ef63c369c3325f26b7899889f9e"
+    },
+    {
+      "path": "documents/Itau/2025/1T25/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_condensadas_em_BRGAAP__7e2844bbe4ec.pdf",
+      "status": "passed",
+      "pages": 153,
+      "sha256": "7e2844bbe4ec54b5551522a662c1e1e9af19edd883521493cf7fe3dd6949c4d8"
+    },
+    {
+      "path": "documents/Itau/2025/1T25/Apresentacao_Institucional__d1f335b335f6.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "d1f335b335f6a0b1683890aa0dbd95ea715550c3e187940d1fabf783451f5145"
+    },
+    {
+      "path": "documents/Itau/2025/1T25/Transcricao_do_audio_1T25__b71a6221376d.pdf",
+      "status": "passed",
+      "pages": 40,
+      "sha256": "b71a6221376d565031b09757185b3ec23aaa4142e8367aea2821a2a13b62c06e"
+    },
+    {
+      "path": "documents/Itau/2025/1T25/Demonstracoes_contabeis_completas_em_IFRS__d0c74f605939.pdf",
+      "status": "passed",
+      "pages": 123,
+      "sha256": "d0c74f605939066ed5799ac93cffaf43bbe2a7f647fcfa1d5864d17fa7eb5e60"
+    },
+    {
+      "path": "documents/Itau/2025/1T25/Apresentacao_de_Resultados_-_1T25__961304754535.pdf",
+      "status": "passed",
+      "pages": 18,
+      "sha256": "9613047545354e354c78537fa8393445c8b3753ea7a3a69770ded6357c1514b5"
+    },
+    {
+      "path": "documents/Itau/2025/1T25/Gerenciamento_de_riscos_e_capital_-_Pilar_3_-_1T25__db10a222dc1d.pdf",
+      "status": "passed",
+      "pages": 71,
+      "sha256": "db10a222dc1d7400794e6710b095df1e28252b18473f0ae07abe6221092858bb"
+    },
+    {
+      "path": "documents/Itau/2025/1T25/Informativo_-_Acoes_Itau_em_Foco__0bd2258cb023.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "0bd2258cb023de959e61dacf781417b57ac5977ae44f39ec2bfb655be8574a7d"
+    },
+    {
+      "path": "documents/Itau/2025/2T25/Apresentacao_Institucional__9794b61018fa.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "9794b61018fa3798be5d0f151786a09d0260f8d25583dafa2a5a18b0dd50cf2f"
+    },
+    {
+      "path": "documents/Itau/2025/2T25/Informativo_-_Acoes_Itau_em_Foco__bc8ec4f88106.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "bc8ec4f8810615dbb4a203099a30a97c8a6d01970cbb2df214af14d346cc7df3"
+    },
+    {
+      "path": "documents/Itau/2025/2T25/Apresentacao_de_Resultados_-_2T25__d3e2a152f9b6.pdf",
+      "status": "passed",
+      "pages": 19,
+      "sha256": "d3e2a152f9b68571ff702d386097075fea2d6369a6ed2fc3fea330297684c2ca"
+    },
+    {
+      "path": "documents/Itau/2025/2T25/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_condensadas_em_BRGAAP__2ab41f2b3ae3.pdf",
+      "status": "passed",
+      "pages": 163,
+      "sha256": "2ab41f2b3ae322586211b15673bfb86012d5902a281b5abae6f2603451df09ba"
+    },
+    {
+      "path": "documents/Itau/2025/2T25/Transcricao_do_audio_2T25__8e5978890738.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "8e5978890738b1e616700809c1cb648ef8ef4d1d78757c5b1abf68ce9722183d"
+    },
+    {
+      "path": "documents/Itau/2025/2T25/Demonstracoes_contabeis_condensadas_em_IFRS__a3b4f1477e86.pdf",
+      "status": "passed",
+      "pages": 136,
+      "sha256": "a3b4f1477e865309d2322339b1dfbd6d4508c682ef4043b15223e2d71fbc7381"
+    },
+    {
+      "path": "documents/Itau/2025/2T25/Gerenciamento_de_riscos_e_capital_-_Pilar_3_-_2T25__9cda63d0c843.pdf",
+      "status": "passed",
+      "pages": 77,
+      "sha256": "9cda63d0c8430b02e1078b64f2ab4072f7f5743e92da33c3f3c64d266d4c022c"
+    },
+    {
+      "path": "documents/Itau/2025/3T25/Apresentacao_Institucional__8f2f25520045.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "8f2f25520045a9f92ffbfd856c823dd29114bd35bcbfe4bc6fb340e65db23cd7"
+    },
+    {
+      "path": "documents/Itau/2025/3T25/Gerenciamento_de_riscos_e_capital_-_Pilar_3_-_3T25__624be7befbd4.pdf",
+      "status": "passed",
+      "pages": 76,
+      "sha256": "624be7befbd4fd7cddc6e1e643d37ee4f0a1d67b1cd17c04e6eba98980fd4e02"
+    },
+    {
+      "path": "documents/Itau/2025/3T25/Apresentacao_de_Resultados_-_3T25__fe60204a011e.pdf",
+      "status": "passed",
+      "pages": 17,
+      "sha256": "fe60204a011ef03fccfc0bdc3235657f072c4b33d79b757a2ac0969e672ccddc"
+    },
+    {
+      "path": "documents/Itau/2025/3T25/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_condensadas_em_BRGAAP__71d30ab99014.pdf",
+      "status": "passed",
+      "pages": 153,
+      "sha256": "71d30ab990145ebbc6be20e9039a5df0387b7dd46cdb9e8749733eb94d4fd987"
+    },
+    {
+      "path": "documents/Itau/2025/3T25/Informativo_-_Acoes_Itau_em_Foco__65a0088d8ffe.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "65a0088d8ffeb59ca051f6cf5a2d747c117a311b87963f1841ad673cef4b4569"
+    },
+    {
+      "path": "documents/Itau/2025/3T25/Transcricao_do_audio_3T25__dcf1064977d9.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "dcf1064977d913a26724287a22fa8c9ad3aad956e4e91d7954597afe6a50761f"
+    },
+    {
+      "path": "documents/Itau/2025/3T25/Demonstracoes_contabeis_condensadas_em_IFRS__ade021b770c2.pdf",
+      "status": "passed",
+      "pages": 127,
+      "sha256": "ade021b770c240c82d9eafda5947a0a98dfff63bf5a7e77e6fe5ec28a704095a"
+    },
+    {
+      "path": "documents/Itau/2024/4T24/Demonstracoes_contabeis_completas_em_IFRS__329c3be86a0b.pdf",
+      "status": "passed",
+      "pages": 138,
+      "sha256": "329c3be86a0b1781edda60b3c87cbd4602e445111d05f018caefa022469c914c"
+    },
+    {
+      "path": "documents/Itau/2024/4T24/Apresentacao_Institucional__651453c52e7f.pdf",
+      "status": "passed",
+      "pages": 19,
+      "sha256": "651453c52e7fb9208c4e5d5d40c96c748c88559805196d86f3d19d0edcf3a4c5"
+    },
+    {
+      "path": "documents/Itau/2024/4T24/Transcricao_do_audio_4T24__5d88c63726f1.pdf",
+      "status": "passed",
+      "pages": 35,
+      "sha256": "5d88c63726f1d82cc188f559bb75d29a34e188fa18f8b97ab020e29ee1f12d85"
+    },
+    {
+      "path": "documents/Itau/2024/4T24/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__6a574843da4e.pdf",
+      "status": "passed",
+      "pages": 164,
+      "sha256": "6a574843da4e02741ab11c730850fb5bb87b84bbc15c20ed01974d7db3ef55e3"
+    },
+    {
+      "path": "documents/Itau/2024/4T24/Gerenciamento_de_riscos_e_capital_-_Pilar_3_-_4T24__faa43efd33dc.pdf",
+      "status": "passed",
+      "pages": 88,
+      "sha256": "faa43efd33dc7095d009ede93bb143c053de7047e34bb6d6476e78097a5c2624"
+    },
+    {
+      "path": "documents/Itau/2024/4T24/Apresentacao_de_Resultados_-_4T24__832bec72d242.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "832bec72d242243c7847e78111bc49a7865a2c7384a14212e43dc6ae9f89037d"
+    },
+    {
+      "path": "documents/Itau/2024/4T24/Informativo_-_Acoes_Itau_em_Foco__315ea9600965.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "315ea96009655e75ee4bf928c61fabd6279605ef80f0c379f6033482d3dc1a74"
+    },
+    {
+      "path": "documents/Itau/2024/1T24/Apresentacao_de_Resultados_-_1T24__a176940bb7d4.pdf",
+      "status": "passed",
+      "pages": 19,
+      "sha256": "a176940bb7d4c8a4aca11634d082fb5e605046fddf8bdd9261f5c3a3e8d7da27"
+    },
+    {
+      "path": "documents/Itau/2024/1T24/informativo_-_acoes_Itau_em_foco__c86de37050cd.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "c86de37050cd0e697156540e6a3e80ac019a616cc5d0cc13c0d766e0c5f45bbc"
+    },
+    {
+      "path": "documents/Itau/2024/1T24/analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__73df7fa52c37.pdf",
+      "status": "passed",
+      "pages": 147,
+      "sha256": "73df7fa52c377df799c2aeff09649054334bae1374fb156eefd909de1d69b86e"
+    },
+    {
+      "path": "documents/Itau/2024/1T24/apresentacao_institucional__2b52c5080e82.pdf",
+      "status": "passed",
+      "pages": 18,
+      "sha256": "2b52c5080e827409774deadeb63cf8881f7b28e90519414c7e69d572772a6e0c"
+    },
+    {
+      "path": "documents/Itau/2024/1T24/demonstracoes_contabeis_completas_em_IFRS__91bb3e4521be.pdf",
+      "status": "passed",
+      "pages": 121,
+      "sha256": "91bb3e4521be4a35abb77caa555c94b08674280f7219d4bd89cfcd4a12d5c3c6"
+    },
+    {
+      "path": "documents/Itau/2024/1T24/Transcricao_do_audio_1T24__5f2863ec4b9c.pdf",
+      "status": "passed",
+      "pages": 35,
+      "sha256": "5f2863ec4b9cc8e85879b4ebcaed72fee4505a1547dcc4908d5f5e4e1a7625c1"
+    },
+    {
+      "path": "documents/Itau/2024/1T24/gerenciamento_de_riscos_e_capital_-_pilar_3_-_1T24__d458e69c910a.pdf",
+      "status": "passed",
+      "pages": 73,
+      "sha256": "d458e69c910a9e1432cda73a7bcafe24e1a9e93d4e8ae9b03493d70496cfd04e"
+    },
+    {
+      "path": "documents/Itau/2024/2T24/apresentacao_institucional__501b34a81d7d.pdf",
+      "status": "passed",
+      "pages": 18,
+      "sha256": "501b34a81d7d349fb42b7411bf61c8a5ff7489bcf464055c7244d1e37aae133b"
+    },
+    {
+      "path": "documents/Itau/2024/2T24/demonstracoes_contabeis_completas_em_IFRS__cd49f3ee71f4.pdf",
+      "status": "passed",
+      "pages": 130,
+      "sha256": "cd49f3ee71f4aa58c99080a1f3a66558f16c55013033183463d94b5e9796444d"
+    },
+    {
+      "path": "documents/Itau/2024/2T24/analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__78869d60108a.pdf",
+      "status": "passed",
+      "pages": 157,
+      "sha256": "78869d60108a10976d02a97a7278f1048a1563079d10f56e600d13bb76d732dc"
+    },
+    {
+      "path": "documents/Itau/2024/2T24/Transcricao_do_audio_2T24__7f28b9df2d28.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "7f28b9df2d28bf5a188ccb5234010b0e73e98c9aa75ff092556b6be003483bb1"
+    },
+    {
+      "path": "documents/Itau/2024/2T24/Apresentacao_de_Resultados_-_2T24__a988bb897f09.pdf",
+      "status": "passed",
+      "pages": 18,
+      "sha256": "a988bb897f09db1f3d2b8621944eb66fa1b0a792d3600dd3900eadb84a98c904"
+    },
+    {
+      "path": "documents/Itau/2024/2T24/informativo_-_acoes_Itau_em_foco__7febe2c2e7e6.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "7febe2c2e7e624615587c355a1c2e340b44b9feb275f376e4b0c01f6a07b27cc"
+    },
+    {
+      "path": "documents/Itau/2024/2T24/gerenciamento_de_riscos_e_capital_-_pilar_3_-_2T24__f3834fbc564a.pdf",
+      "status": "passed",
+      "pages": 75,
+      "sha256": "f3834fbc564af02d59c614ea03331dea35c806db81ec3e8bdff11398b37e90ca"
+    },
+    {
+      "path": "documents/Itau/2024/3T24/Transcricao_do_audio_3T24__6d25f96fef7a.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "6d25f96fef7ab407460e75c4264014b2ac6ce05177c1e6dd45c8cc1ce4697cef"
+    },
+    {
+      "path": "documents/Itau/2024/3T24/informativo_-_acoes_Itau_em_foco__887cf9a23385.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "887cf9a2338563228a25534da8233936de6f97a8e0c7df99e49d5da86a464d44"
+    },
+    {
+      "path": "documents/Itau/2024/3T24/Apresentacao_de_Resultados_-_3T24__735c474c72b5.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "735c474c72b5f8c0618a9023df279418dc1c1dfb2cb23dbced7ec53df1161689"
+    },
+    {
+      "path": "documents/Itau/2024/3T24/demonstracoes_contabeis_completas_em_IFRS__c87fc64c72dd.pdf",
+      "status": "passed",
+      "pages": 125,
+      "sha256": "c87fc64c72ddbbbf0c0d99331cd4bffae3b7e7d35745d6a156a50982ead80016"
+    },
+    {
+      "path": "documents/Itau/2024/3T24/gerenciamento_de_riscos_e_capital_-_pilar_3_-_3T24__d9c9d0842168.pdf",
+      "status": "passed",
+      "pages": 73,
+      "sha256": "d9c9d0842168269b8e6edc67c4f8d3e389003b297bcf454a7f0076c6a588cd01"
+    },
+    {
+      "path": "documents/Itau/2024/3T24/analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__42e58eb177b7.pdf",
+      "status": "passed",
+      "pages": 149,
+      "sha256": "42e58eb177b74a7c085383091c38fc9819c48308d799e0d643e850ba719fda2a"
+    },
+    {
+      "path": "documents/Itau/2024/3T24/apresentacao_institucional__eef6f57fd62d.pdf",
+      "status": "passed",
+      "pages": 18,
+      "sha256": "eef6f57fd62d85536b8e914253ddaed223a903732168474dd49ea03696116ecd"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Apresentacao_de_Resultados__79e8245d1f61.pdf",
+      "status": "passed",
+      "pages": 17,
+      "sha256": "79e8245d1f611590895e892557d3123c3f7368c8f60650a8d0e46c79c99e0831"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Factsheet_2T26__283c1cfc019c.pdf",
+      "status": "passed",
+      "pages": 2,
+      "sha256": "283c1cfc019c607fd35c7d7fd4dc90d2e784bb777298eb836b4aaaf8bb6896d0"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Planilha_de_Series_Descontinuadas_disponivel_em_2T26__aa17756c5ec1.xlsx",
+      "status": "passed",
+      "sha256": "aa17756c5ec10dca172100a75c76d51adda34bb1480e12bc2195e07a4a104707"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Apresentacao_Institucional__b4dd91c33889.pdf",
+      "status": "passed",
+      "pages": 21,
+      "sha256": "b4dd91c33889266dfc3bbf472ba5587952840c47194f85ac93ed35d685d1041b"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Informativo_-_Acoes_Itau_em_Foco__a00f93766482.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "a00f937664828ccea99ca5ef215ded7fd638937130f911969f01921ba3f17f26"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Transcricao_do_audio_2T26__f56b6e2f888f.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "f56b6e2f888fcb34cf8234f777ed5e09d4141ddea4c0a6839e568813782da587"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Kit_do_Investidor_2T26__bfdbaffde19f.zip",
+      "status": "passed",
+      "sha256": "bfdbaffde19f87e0263347fed842e1d393cf6a46511a3492d07caea4cf5d85c2"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Gerenciamento_de_riscos_e_capital_-_Pilar_3_-_2T26__b46ae3487c2e.pdf",
+      "status": "passed",
+      "pages": 77,
+      "sha256": "b46ae3487c2e875e86a0a98d9b7c9554b9e49e69830a584731bbdef0b26cf0b7"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Planilha_de_Series_Historicas_2T26__7747b90df4b5.xlsx",
+      "status": "passed",
+      "sha256": "7747b90df4b515679c7dfe0dd5215cb4bffcf696a3af55bcd7afdf863b487001"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Demonstracoes_contabeis_completas_em_IFRS__59241cf8b836.pdf",
+      "status": "passed",
+      "pages": 138,
+      "sha256": "59241cf8b8361b97e7e69ec38cf233ab01a2467142612ca9268d6178b9708cf0"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__fcfda4e6561d.pdf",
+      "status": "passed",
+      "pages": 162,
+      "sha256": "fcfda4e6561de3576dece3dcc766935f2c7836e416323d3dba76d110e5154782"
+    },
+    {
+      "path": "documents/Itau/2026/2T26/Planilha_com_Anexo_Pilar_3_2T26__6cbd47bb9a29.xlsx",
+      "status": "passed",
+      "sha256": "6cbd47bb9a29803730bc7ac1e34f4b25fe02c41dff200458e22d48606307ca80"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Apresentacao_Institucional__5cfe62748c37.pdf",
+      "status": "passed",
+      "pages": 21,
+      "sha256": "5cfe62748c373b9e562647a23d7011cee4d5968b5416847513d5d28d217cb8d7"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Demonstracoes_contabeis_completas_em_IFRS__8e4d843de04f.pdf",
+      "status": "passed",
+      "pages": 133,
+      "sha256": "8e4d843de04fe198ed31af58751b5516c459b587b09b3b51876e8c8ea610c85f"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Apresentacao_de_Resultados__551a3d0afb00.pdf",
+      "status": "passed",
+      "pages": 19,
+      "sha256": "551a3d0afb00d018f18e3de00b202cfbaf7e6b585d236de22864ff7c8594452a"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Factsheet_1T26__6f47c212e2ea.pdf",
+      "status": "passed",
+      "pages": 2,
+      "sha256": "6f47c212e2eadc9d421226b9366996b01d26a311cead3d649e27ffe829ef212c"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Gerenciamento_de_riscos_e_capital_-_Pilar_3_-_1T26__9bcc350327f4.pdf",
+      "status": "passed",
+      "pages": 75,
+      "sha256": "9bcc350327f498c346d56a46603bdc5768b506138baf1e9ffeefd68aa0b183bd"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Transcricao_do_audio_1T26__31ab80da3c57.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "31ab80da3c573387195ee65dd69c10760e6454f295be81b8abb405fe880994db"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__154f0fb251e0.pdf",
+      "status": "passed",
+      "pages": 153,
+      "sha256": "154f0fb251e077fd3b4ea84088201c6de7fcda143c0d7cc471028692faddf0fd"
+    },
+    {
+      "path": "documents/Itau/2026/1T26/Informativo_-_Acoes_Itau_em_Foco__31fc42d32b60.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "31fc42d32b6028ae084de391a179627865d7a8a16e58d52208020a0f79ca31e0"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/BrGaap_-_Demonstracoes_Contabeis_4T25__14b0fbadb1d5.pdf",
+      "status": "passed",
+      "pages": 147,
+      "sha256": "14b0fbadb1d5dda316e009c8aec977e8c398531e8afc1a318c9137e833bf4c9b"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/Apresentacao_Institucional_4T25__7f19a23ebbd5.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "7f19a23ebbd5334de89986f5524f15e377de1e5ae6f773aab8b5e0352873f730"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_4T25__8e92f4cae20e.docx",
+      "status": "passed",
+      "sha256": "8e92f4cae20e6c23b30b7d50481d28eadbee2727abb4807c1ae7cb814d91c5a8"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/BrGaap_-_Demonstracoes_Contabeis_Editavel_4T25__2576263f1f73.docx",
+      "status": "passed",
+      "sha256": "2576263f1f7305668936bdd400b651af46a35d237b69a922157065c5c14d3b9f"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/Apresentacao_de_Resultados_4T25__121b1fddb487.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "121b1fddb4874aa5de8437d4061097b45407a3a1f56e17f27cd2cf2a14cf678e"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/IFRS_-_Demonstracoes_contabeis_consolidadas_4T25__4610a57ac772.pdf",
+      "status": "passed",
+      "pages": 127,
+      "sha256": "4610a57ac7720948104aa15dc2d42f77b6aadeefc1240e245aacac5f18a51beb"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/Relatorio_de_Analise_de_Desempenho_4T25__e299068feb40.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "e299068feb404b82e0f7cfb5b826263767212449860b1178050a384f146537b3"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/IFRS_Relatorio_da_Administracao_4T25__caf1c11405c5.pdf",
+      "status": "passed",
+      "pages": 37,
+      "sha256": "caf1c11405c59d09fe69b3a59e9d0bdfcc241ad7bc9b5f39b9c16ac9cfafa8b8"
+    },
+    {
+      "path": "documents/Caixa/2025/4T25/Relatorio_da_Administracao_4T25__ae02101afd1c.pdf",
+      "status": "passed",
+      "pages": 39,
+      "sha256": "ae02101afd1c897e7d5e26f7bf723dc21eaf5393d1f5e8928c0125547e8da667"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/Apresentacao_de_Resultados_1T25__a68849bfeb84.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "a68849bfeb8453a33d68a648e9d6bb8a5797a917d36086eb782b71ac884020cb"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/BrGaap_-_Demonstracoes_Contabeis_Editavel_1T25__a687a14d422a.docx",
+      "status": "passed",
+      "sha256": "a687a14d422aeec87170571d3bf991e84882b5680d0e1accd090c1a92fc707e2"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/Relatorio_de_Analise_de_Desempenho_1T25__aec514a18d9a.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "aec514a18d9a69abe95b00c8c646a1a4f36b2dad381c8b074af314c5c9347636"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_1T25__b35e96ceba9c.docx",
+      "status": "passed",
+      "sha256": "b35e96ceba9c8b31cda74e14bbf10f6dfa32f0fa920985f451d27817a611888d"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/BrGaap_-_Demonstracoes_Contabeis_1T25__0867bd57b5b7.pdf",
+      "status": "passed",
+      "pages": 103,
+      "sha256": "0867bd57b5b7aee2f6115e5237913d5f8082ba4aea187a87989b62790cf28649"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/IFRS_Relatorio_da_Administracao_1T25__1a0f5eb6fe09.pdf",
+      "status": "passed",
+      "pages": 36,
+      "sha256": "1a0f5eb6fe09f23d85738edfb9b99f68070caab8e09aa722c7f25ae9ee5e69dd"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/IFRS_-_Demonstracoes_contabeis_consolidadas_1T25__4a74699a34e2.pdf",
+      "status": "passed",
+      "pages": 85,
+      "sha256": "4a74699a34e237769ce1a25ddf4e720d32c7e3a8e0e65cebab94fddd0bcd7e36"
+    },
+    {
+      "path": "documents/Caixa/2025/1T25/Relatorio_da_Administracao_1T25__8f326e2dc4d0.pdf",
+      "status": "passed",
+      "pages": 37,
+      "sha256": "8f326e2dc4d09b86a9500be67e9a32503eacc5380dd0eeb365a3f357281da09a"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/BrGaap_-_Demonstracoes_Contabeis_2T25__b745964cbe18.pdf",
+      "status": "passed",
+      "pages": 142,
+      "sha256": "b745964cbe184dbd2f07ff5f9d401d34ebde01f75174db8e12dd1bf86132ff78"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/IFRS_Relatorio_da_Administracao_2T25__5d911e146d21.pdf",
+      "status": "passed",
+      "pages": 37,
+      "sha256": "5d911e146d2189235fba1048950f4871cef0b21d8fade0f789abe5ef8cacea28"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/Relatorio_da_Administracao_2T25__c1916a18638d.pdf",
+      "status": "passed",
+      "pages": 38,
+      "sha256": "c1916a18638d4acf6efaacf5a6c313022c11a697cc34e0119b29c7ab6c58a2b7"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/IFRS_-_Demonstracoes_contabeis_consolidadas_2T25__540e2be76f63.pdf",
+      "status": "passed",
+      "pages": 149,
+      "sha256": "540e2be76f6387b21a257fd5aafd68d3667da457770b80c38e256de3eb0b4e55"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/BrGaap_-_Demonstracoes_Contabeis_Editavel_2T25__d6112fb2f5ed.docx",
+      "status": "passed",
+      "sha256": "d6112fb2f5ed6885784c5608a91766ce98ca729d98e4f54fb02e6dedcdfa0dca"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/Relatorio_de_Analise_de_Desempenho_2T25__c81299e56925.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "c81299e56925997c89f32dcf9e8fb3ccdc2a3e20b5f5a9c7f42e46a112d1ed6b"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_2T25__8723b6fa7cd3.docx",
+      "status": "passed",
+      "sha256": "8723b6fa7cd339685e26a7e795a579d7d0d05bdcb2876572b9f8179919300121"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/Relatorio_Integrado_CAIXA_2025__ff8fd3cb079c.pdf",
+      "status": "passed",
+      "pages": 199,
+      "sha256": "ff8fd3cb079c8f522442f6d911ec55b7469fa5ff2e4931ae29a4930923d28004"
+    },
+    {
+      "path": "documents/Caixa/2025/2T25/Apresentacao_de_Resultados_2T25__4ca78068e6cf.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "4ca78068e6cf0871b0b6d450dd96ebcaad12d0c4fa14a4c55288519ba7d52043"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/BrGaap_-_Demonstracoes_Contabeis_Editavel_3T25__0e33a7ce5d58.docx",
+      "status": "passed",
+      "sha256": "0e33a7ce5d58111188d50488c7860a4066f663684b187faf6de4ed20a6f31a32"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_3T25__b95d267b64ad.docx",
+      "status": "passed",
+      "sha256": "b95d267b64ad41aeccdfd21b6a270fe6072099fedf3a453e18a4bd0dcfd3608b"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/Apresentacao_Institucional_3T25__69d674ca523d.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "69d674ca523dbfd3f19cf7b7ee1fd09d60dfdae42e62097aaab1cbe877872b1f"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/Relatorio_da_Administracao_3T25__a74cdf42c295.pdf",
+      "status": "passed",
+      "pages": 36,
+      "sha256": "a74cdf42c295e2027f37ae39b0f61046b236d5e3ea6d8dd6a8faf41895c5318b"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/IFRS_-_Demonstracoes_contabeis_consolidadas_3T25__5c8c4d2a54c7.pdf",
+      "status": "passed",
+      "pages": 85,
+      "sha256": "5c8c4d2a54c71780cf56587f89b97e097d9728ccec7bfdc5e322f0adf79322a2"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/Apresentacao_de_Resultados_3T25__723d7b26153a.pdf",
+      "status": "passed",
+      "pages": 30,
+      "sha256": "723d7b26153a03dc5cb23e7c2f39b105a9132d57306d10570060093fd6f3eaa8"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/Relatorio_de_Analise_de_Desempenho_3T25__02a72dd0faaa.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "02a72dd0faaabb14df3219503188fb2c61659906a7ea5520436d94d0675825ce"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/BrGaap_-_Demonstracoes_Contabeis_3T25__069c9b263b1b.pdf",
+      "status": "passed",
+      "pages": 91,
+      "sha256": "069c9b263b1bfa20b62bfda1c871fb54d222487661de1e886b714ec55acd7b6a"
+    },
+    {
+      "path": "documents/Caixa/2025/3T25/IFRS_Relatorio_da_Administracao_3T25__c4d91447c6ae.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "c4d91447c6aee85487a0d82387070554a473792ae71ee446341d9e5f66beeb85"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/Relatorio_da_Administracao__a7e8806d59c1.pdf",
+      "status": "passed",
+      "pages": 40,
+      "sha256": "a7e8806d59c1e872afc9b76b99b0d909cde394416176c1655ac473f405a20f58"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_4T24__8c0d9521cc24.docx",
+      "status": "passed",
+      "sha256": "8c0d9521cc2401c9b230ace705f473c3b48d2499df01b22e7e09778dda9a4ce6"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/Apresentacao_de_Resultados_4T24__2463377e9d67.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "2463377e9d67e5ac340e999c54a5feb51acad7a3c39bc16a2403ebfb8385bc3e"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/Relatorio_Integrado_CAIXA_2024__41ff5baa69f8.pdf",
+      "status": "passed",
+      "pages": 182,
+      "sha256": "41ff5baa69f88c078a9736323372c5551e17d50df89dfb433f47e7c540c69d51"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/BrGaap_-_Demonstracoes_Contabeis__97b21336e2a6.pdf",
+      "status": "passed",
+      "pages": 136,
+      "sha256": "97b21336e2a6b37eb2c298097de580bc56099cb3bf0cd21b26f341ab18a6fd3d"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/BrGaap_-_Demonstracoes_Contabeis_Editavel__f275b26c8a68.docx",
+      "status": "passed",
+      "sha256": "f275b26c8a68b41f1188cc1fb1cb5e44f5698ba4bf3295883c0d5e9991a3863b"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/IFRS_-_Demonstracoes_contabeis_consolidadas_4T24__7428d569d550.pdf",
+      "status": "passed",
+      "pages": 149,
+      "sha256": "7428d569d5509a8eebbcd6a435bd168f5a6cd8c8e0aafd9271864dafbcd50b01"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/IFRS_Relatorio_da_Administracao_4T24__6d0aa59639f2.pdf",
+      "status": "passed",
+      "pages": 37,
+      "sha256": "6d0aa59639f28745a8649c9c0c0afe4cf44fd130c551c949b050aaa9a2d754d7"
+    },
+    {
+      "path": "documents/Caixa/2024/4T24/Relatorio_de_Analise_de_Desempenho_4T24__63c27aa819ea.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "63c27aa819eacb6b105e9634b64d938fc44c52b6b6eb60646691d22c6f68074b"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/Relatorio_de_Analise_de_Desempenho_1T24__277dc98b02da.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "277dc98b02da5392bc4db7e385d7e666e8f6205a45a6fe7b85814e0ba42c4516"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/BrGaap_-_Demonstracoes_Contabeis__50d81b99965a.pdf",
+      "status": "passed",
+      "pages": 73,
+      "sha256": "50d81b99965acde392c5500175c2d22bd530f4f92a5400d3bcae8a33954d2f26"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/IFRS_-_Demonstracoes_contabeis_consolidadas_1T24__226a4a934616.pdf",
+      "status": "passed",
+      "pages": 89,
+      "sha256": "226a4a934616035c92d89451a5b603560c1be78d35a050c064a3f9acc16d3e70"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/Relatorio_da_Administracao__18a78cade0d3.pdf",
+      "status": "passed",
+      "pages": 36,
+      "sha256": "18a78cade0d3368b6a07ffbe710b6f089b6dcfddbee175612a32e72889bd3553"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/IFRS_Relatorio_da_Administracao_1T24__c6ef06db2b16.pdf",
+      "status": "passed",
+      "pages": 35,
+      "sha256": "c6ef06db2b169279bde968580d1183e470db01e57c82be666e4775f4fa404b7a"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/Apresentacao_de_Resultados_1T24__97c44c07199f.pdf",
+      "status": "passed",
+      "pages": 39,
+      "sha256": "97c44c07199fb4bb058236deb217b961959dfca6bf21fca90894328da5feda2a"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_1T24__da450e636743.docx",
+      "status": "passed",
+      "sha256": "da450e6367432d896b08648780e2518a132638542943bb494f353fdaaf418398"
+    },
+    {
+      "path": "documents/Caixa/2024/1T24/BrGaap_-_Demonstracoes_Contabeis_Editavel__c36ec3feb58a.docx",
+      "status": "passed",
+      "sha256": "c36ec3feb58ae34f111f96f230867aa817bc45114c16f5b96c31c708a945784c"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/IFRS_-_Demonstracoes_contabeis_consolidadas_2T24__2107ee304d1d.pdf",
+      "status": "passed",
+      "pages": 148,
+      "sha256": "2107ee304d1d21f2fb29ded145baf0993512102eaaf2dc7997a4b7af4deba049"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/BrGaap_-_Demonstracoes_Contabeis__428f4000e07f.pdf",
+      "status": "passed",
+      "pages": 134,
+      "sha256": "428f4000e07fd015a8c7b821df17ed7ca6678c242f6f56a2b4e0b8e9b042d5ee"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/Relatorio_da_Administracao__4bf001c22584.pdf",
+      "status": "passed",
+      "pages": 39,
+      "sha256": "4bf001c22584c13454ddf633ccdcc775c2ea73b1da3aa5559ab686cf7ffab20d"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/Apresentacao_de_Resultados_2T24__d71b44bc41fa.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "d71b44bc41fa034cc30b3ec8979be53a912002576bc2c6a428045410ae840fc1"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_2T24__653708c552f5.docx",
+      "status": "passed",
+      "sha256": "653708c552f556c4b8e2b65315c6993b2f54fb8226f950e78582879e193fca3b"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/Relatorio_de_Analise_de_Desempenho_2T24__c9d839482ff7.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "c9d839482ff7ace06fc2571e723598474c3e996a7bdc0ab8acb01fd09fe4ab6d"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/IFRS_Relatorio_da_Administracao_2T24__1bad1fb18ad1.pdf",
+      "status": "passed",
+      "pages": 36,
+      "sha256": "1bad1fb18ad15568ec8564e015a853b7d61741ef1ff54455f7850eca3c4f4173"
+    },
+    {
+      "path": "documents/Caixa/2024/2T24/BrGaap_-_Demonstracoes_Contabeis_Editavel__c8cab6650dd0.docx",
+      "status": "passed",
+      "sha256": "c8cab6650dd05abe41ba0dec4379433e85a7f9ac440cbeb2ebc288c9451ff246"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/BrGaap_-_Demonstracoes_Contabeis_Editavel__827f1112319a.docx",
+      "status": "passed",
+      "sha256": "827f1112319ace8e322636b8aa406509025bc62a668d81307fee6cc78a2f6caa"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/Relatorio_da_Administracao__b23b06d5ec41.pdf",
+      "status": "passed",
+      "pages": 39,
+      "sha256": "b23b06d5ec41f4c06a8279aa042dc0d6922c4ef9e1e74ab602fe70a4b5735849"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/Apresentacao_de_Resultados_3T24__4061980e822f.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "4061980e822f074380bbbe668b43153158c52d68b876e92d817b015a61a6f86e"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/BrGaap_-_Demonstracoes_Contabeis__9f03a0e6913a.pdf",
+      "status": "passed",
+      "pages": 82,
+      "sha256": "9f03a0e6913a1d01c88b612e2b96b57285f5989c3d203559176f4d4d426741f8"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/IFRS_Relatorio_da_Administracao_3T24__fbf442fdb3fb.pdf",
+      "status": "passed",
+      "pages": 35,
+      "sha256": "fbf442fdb3fb5e148110802abdb62a59b7b8a024aa273833c30813e697702d7f"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_3T24__99d2cdb716d2.docx",
+      "status": "passed",
+      "sha256": "99d2cdb716d204f03e9617e7921541a1f7f66ba9870dab7bfb546b0eb54a8b6f"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/IFRS_-_Demonstracoes_contabeis_consolidadas_3T24__762ad36ca534.pdf",
+      "status": "passed",
+      "pages": 93,
+      "sha256": "762ad36ca534c92b389f011e21635dbdedcd8684dcac9c08b961c003e33e479f"
+    },
+    {
+      "path": "documents/Caixa/2024/3T24/Relatorio_de_Analise_de_Desempenho_3T24__58a4b47328a0.pdf",
+      "status": "passed",
+      "pages": 23,
+      "sha256": "58a4b47328a07173dd6ef3fb2a9855d08a05d4413d54162249cf16abcd54f38a"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/Relatorio_de_Analise_de_Desempenho_2T26__131132d0814d.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "131132d0814d60ca2f62f694cab4db5429a1caf93049f87095a7bf9648d0d610"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/Relatorio_da_Administracao_2T26__a251eca7fe5d.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "a251eca7fe5d0953f52579a2851771415426128a8d0c24cb929af3a871fc9232"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/BrGaap_-_Demonstracoes_Contabeis_Editavel_2T26__008657ff370d.docx",
+      "status": "passed",
+      "sha256": "008657ff370da058ef98d445532fa0616438fae10a4b42082684a4bb49b3df6f"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/BrGaap_-_Demonstracoes_Contabeis_2T26__d1162b90c2df.pdf",
+      "status": "passed",
+      "pages": 177,
+      "sha256": "d1162b90c2df2ea5e88b3fc1b1f7b00d76eddcfaea23d99af0152fa318c3f4c6"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/IFRS_-_Demonstracoes_contabeis_consolidadas_2T26__75f4daac10fc.pdf",
+      "status": "passed",
+      "pages": 139,
+      "sha256": "75f4daac10fca353554b4008da80166e61ce898c8a3b9e39cd790e5e6ccfeb1a"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/Apresentacao_de_Resultados_2T26_-_Forms__cd9d65367b61.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "cd9d65367b6137a133f5484aa146698a6187883c2231772b8ee3f0f616a7b6ce"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_2T26__04bb28640734.docx",
+      "status": "passed",
+      "sha256": "04bb286407344ec9c5769faaf08a0081a4ad1374791fe5c6ef72c0ce6ba60a0b"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/IFRS_Relatorio_da_Administracao_2T26__4afab46dd511.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "4afab46dd51172c520be4eec2f777992b66764c0cac602fb61425554b2965404"
+    },
+    {
+      "path": "documents/Caixa/2026/2T26/Press_Release_2T26__4be90c83cd7b.pdf",
+      "status": "passed",
+      "pages": 2,
+      "sha256": "4be90c83cd7b240e3a61fba57cc64642e535ffb93f256e350d1c7a7f7e62b5c3"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/Apresentacao_de_Resultados_1T26__c00bcba8c758.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "c00bcba8c758b03f8983ede2cdf02e4447dd83ae0cde24aa3388d329dfdd5b77"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/IFRS_Relatorio_da_Administracao_1T26__defcd2eef0db.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "defcd2eef0db27f47e10dea41f1f404d56b23538e5cab3ed5edb7812db7c12a5"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/Press_Release_1T26__02314466c8ca.pdf",
+      "status": "passed",
+      "pages": 2,
+      "sha256": "02314466c8cacbc85a8f16a7cfedea852e57ed0d7bf14eca28b7315db1b8d8fd"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/Apresentacao_Institucional_1T26__7472a71e59de.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "7472a71e59de3bebbd097e43822fea9d744c5030d3fa54f564af6f61ba726c70"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/IFRS_-_Demonstracoes_contabeis_consolidadas_1T26__cd718f8537ba.pdf",
+      "status": "passed",
+      "pages": 81,
+      "sha256": "cd718f8537bad337eaac1a2566a2d7e114271f3055eb7f3adf2b299caa6dce75"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/BrGaap_-_Demonstracoes_Contabeis_Editavel_1T26__bf7543d4cc7a.docx",
+      "status": "passed",
+      "sha256": "bf7543d4cc7a7d32ddc5730d9ee337e44ebf72d8751d9ce8d909768f9706fe1e"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/IFRS_-_Demonstracoes_contabeis_consolidadas_editaveis_1T26__307b52943637.docx",
+      "status": "passed",
+      "sha256": "307b529436373f82cd129d1036da5c070e27b0cdbdaa1cec8da6c2bae8ffef06"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/BrGaap_-_Demonstracoes_Contabeis_1T26__6bb1140876b2.pdf",
+      "status": "passed",
+      "pages": 113,
+      "sha256": "6bb1140876b27dbfd87bffb57692dbac23cc023a215644f096db2a28e536899f"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/Relatorio_da_Administracao_1T26__f79395386e1a.pdf",
+      "status": "passed",
+      "pages": 35,
+      "sha256": "f79395386e1a93edcff30a3be62ca51e5afef9ba9999f199b4331919809afcfd"
+    },
+    {
+      "path": "documents/Caixa/2026/1T26/Relatorio_de_Analise_de_Desempenho_1T26__360d4c3f04e5.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "360d4c3f04e5b58b9fcac4543e4c68826716c39c1a612d5cbd3f5a555a06937d"
+    },
+    {
+      "path": "documents/Santander/2025/4T25/Series_Historicas_4T25__62d7631be70c.xlsx",
+      "status": "passed",
+      "sha256": "62d7631be70cd256ed6a5adcfb1a732397afa3364224da712933b08b2bd193ea"
+    },
+    {
+      "path": "documents/Santander/2025/4T25/Transcricao_3T25__3603c2f9f115.pdf",
+      "status": "passed",
+      "pages": 28,
+      "sha256": "3603c2f9f1152e2ad5118d8d4beb2c6020d09055de72959ef150b4e3a61a92a6"
+    },
+    {
+      "path": "documents/Santander/2025/4T25/Demonstracoes_Financeiras_IFRS_4T25__69a6389864fb.pdf",
+      "status": "passed",
+      "pages": 143,
+      "sha256": "69a6389864fbc0548656c6257cc9a660f6bc1b95fdc70281a69f949c14e4b4e9"
+    },
+    {
+      "path": "documents/Santander/2025/4T25/Apresentacao_de_Resultados_4T25__88b2a0f11449.pdf",
+      "status": "passed",
+      "pages": 15,
+      "sha256": "88b2a0f114490c758f3b68e4400ee5bec5b82d6559d2a93b678f084f719d6cbf"
+    },
+    {
+      "path": "documents/Santander/2025/4T25/Demonstracoes_Financeiras_BRGAAP_4T25__6f9eb29ba6ad.pdf",
+      "status": "passed",
+      "pages": 117,
+      "sha256": "6f9eb29ba6ad1cd755afd438ef0aaf78d2732ef8addabee07d28e0bafa1d8280"
+    },
+    {
+      "path": "documents/Santander/2025/4T25/Informe_de_Resultados_4T25__368f2d2c0bda.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "368f2d2c0bda25ebc5baae698493e8d8c718fe89552f425d3cae82ea79d1845a"
+    },
+    {
+      "path": "documents/Santander/2025/4T25/Informativo_ao_investidor_PF_4T25__0810057369db.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "0810057369dbeaa03ea92509ba7da80b96606bb723e8760fb4beb295fba3321d"
+    },
+    {
+      "path": "documents/Santander/2025/1T25/Informativo_ao_investidor_PF_1T25__6e9335081c61.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "6e9335081c6149050fd76228d8c346a9b81a66cba1256c6eb9de0ff197521097"
+    },
+    {
+      "path": "documents/Santander/2025/1T25/Transcricao_Videoconferencia_de_Resultados_1T25__001100a8c7f0.pdf",
+      "status": "passed",
+      "pages": 26,
+      "sha256": "001100a8c7f0b21ff57571a5ed6bb72b7e057583954d9bc1c4b8672e00379d5d"
+    },
+    {
+      "path": "documents/Santander/2025/1T25/Demonstracoes_Financeiras_IFRS_1T25__1bdcfffacc5a.pdf",
+      "status": "passed",
+      "pages": 67,
+      "sha256": "1bdcfffacc5a276d921e5461f2e27c572c5c47e04ccdab79f7940a8f86533f5f"
+    },
+    {
+      "path": "documents/Santander/2025/1T25/Informe_de_Resultados_1T25__6c3249cfc6cc.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "6c3249cfc6cc67c16c6170d7cfefcf6674a938c0f23b6ab033f2875498baef4b"
+    },
+    {
+      "path": "documents/Santander/2025/1T25/Series_Historicas_1T25__33261e31c8b2.xlsx",
+      "status": "passed",
+      "sha256": "33261e31c8b2482b0b1ee6b3eac8551af5889dcc67ae33eb5f99db5473a5fdef"
+    },
+    {
+      "path": "documents/Santander/2025/1T25/Demonstracoes_Financeiras_BRGAAP_1T25__d38af8b923b7.pdf",
+      "status": "passed",
+      "pages": 88,
+      "sha256": "d38af8b923b70985fc506d83f006d8efd582970d17570ebbada148d1250ee347"
+    },
+    {
+      "path": "documents/Santander/2025/1T25/Apresentacao_de_Resultados_1T25__2c418e1dc5b5.pdf",
+      "status": "passed",
+      "pages": 15,
+      "sha256": "2c418e1dc5b50ec0e5c2dc70d75518f0f0e68ecda3668505a989fddb567f8f81"
+    },
+    {
+      "path": "documents/Santander/2025/2T25/Informe_de_Resultados_2T25__e38fa22a6db7.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "e38fa22a6db7ed634404567dcc46cc3af76bef6e8a4fb8776f58a27c896598f6"
+    },
+    {
+      "path": "documents/Santander/2025/2T25/Demonstracoes_Financeiras_IFRS_2T25__1c42ac36c7a2.pdf",
+      "status": "passed",
+      "pages": 72,
+      "sha256": "1c42ac36c7a27a9c31e9355ec8a48b09287f81084b6add82cfdf1fe9e5906c2e"
+    },
+    {
+      "path": "documents/Santander/2025/2T25/Series_Historicas_2T25__635df6add323.xlsx",
+      "status": "passed",
+      "sha256": "635df6add32345bb1a7bdab468db2ba216b1de3390f34d18da0fdd04bca4ae29"
+    },
+    {
+      "path": "documents/Santander/2025/2T25/Demonstracoes_Financeiras_BRGAAP_2T25__dadc29becbe7.pdf",
+      "status": "passed",
+      "pages": 111,
+      "sha256": "dadc29becbe7045afd175ae57b9a372918088838809e1c7b21d5d69d877f4e98"
+    },
+    {
+      "path": "documents/Santander/2025/2T25/Informativo_ao_investidor_PF_2T25__3280169a642b.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "3280169a642be8aa2736180f3d88f500665bafde4b5c41bf9cd442e1f15c0c11"
+    },
+    {
+      "path": "documents/Santander/2025/2T25/Transcricao_Videoconferencia_de_Resultados_2T25__39cbda5cc375.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "39cbda5cc375607575abb9180fcd23189ea6cbd1cc550f16dfca210db3586835"
+    },
+    {
+      "path": "documents/Santander/2025/2T25/Apresentacao_de_Resultados__ae7a3b127b35.pdf",
+      "status": "passed",
+      "pages": 15,
+      "sha256": "ae7a3b127b35734f90eb829d47bb57a2906770d8962d4d4204374702213c75c5"
+    },
+    {
+      "path": "documents/Santander/2025/3T25/Series_Historicas_3T25__5fe9049df6bb.xlsx",
+      "status": "passed",
+      "sha256": "5fe9049df6bbb61a577a219fc0617ac431c10d279d6d76df3846162df0724e76"
+    },
+    {
+      "path": "documents/Santander/2025/3T25/Transcricao_3T25__7924c26056f9.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "7924c26056f9bf3efd62e70aef6eb9adcb7c7c9c3e28412758549e0d1006775c"
+    },
+    {
+      "path": "documents/Santander/2025/3T25/Demonstracoes_Financeiras_IFRS_3T25__2cf4945f19ec.pdf",
+      "status": "passed",
+      "pages": 69,
+      "sha256": "2cf4945f19ec68825f6d831b685f47723df6a9ed10f1e0ea64a7e7c20168aefb"
+    },
+    {
+      "path": "documents/Santander/2025/3T25/Informativo_ao_investidor_PF_3T25__5a565a1f38fe.pdf",
+      "status": "passed",
+      "pages": 7,
+      "sha256": "5a565a1f38fe0f6affbc9598ea5d451a5a977fb780895a5a14b0bc86a34afb07"
+    },
+    {
+      "path": "documents/Santander/2025/3T25/Informe_de_Resultados_3T25__2c1a084e396c.pdf",
+      "status": "passed",
+      "pages": 25,
+      "sha256": "2c1a084e396c9962f8e2656b3824c26186ba07eb34d38ccd0eed2d3c426d56ad"
+    },
+    {
+      "path": "documents/Santander/2025/3T25/Apresentacao_de_Resultados__b8713e534be4.pdf",
+      "status": "passed",
+      "pages": 16,
+      "sha256": "b8713e534be406ffc6e4d3ab7b2fa0436bd6235b0b1c8f7fdcd6fc4342ea16e5"
+    },
+    {
+      "path": "documents/Santander/2025/3T25/Demonstracoes_Financeiras_BRGAAP_3T25__2021eaf7318c.pdf",
+      "status": "passed",
+      "pages": 91,
+      "sha256": "2021eaf7318c558bb9d8b834ee9b18a294b205898e4e54efef59f08d482d8f6f"
+    },
+    {
+      "path": "documents/Santander/2024/4T24/Informe_de_Resultados_4T24__9db36386611e.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "9db36386611eca948a6ddf4697031de0735a8cb148ddc32f4c7542ca8230d477"
+    },
+    {
+      "path": "documents/Santander/2024/4T24/Apresentacao_de_Resultados_4T24__f90c3aee37c1.pdf",
+      "status": "passed",
+      "pages": 15,
+      "sha256": "f90c3aee37c194f7ee1f26e12b11a69b1f7cc698cead1f3d0771c40328618272"
+    },
+    {
+      "path": "documents/Santander/2024/4T24/Demonstracoes_Financeiras_IFRS_4T24__3da1e1da6bf4.pdf",
+      "status": "passed",
+      "pages": 136,
+      "sha256": "3da1e1da6bf463ab2c57aa22404c628ab350d5b6a1e0ff86cb4b57cc789f0438"
+    },
+    {
+      "path": "documents/Santander/2024/4T24/Informativo_ao_investidor_PF_4T24__232180276869.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "232180276869821a9a796c294af0194bc82b6356f565166aacdea0743960a7af"
+    },
+    {
+      "path": "documents/Santander/2024/4T24/Demonstracoes_Financeiras_BRGAAP_4T24__3e380a644a1c.pdf",
+      "status": "passed",
+      "pages": 119,
+      "sha256": "3e380a644a1c5da3b3db0e46bbc5af524e387b15f0c12999b33a47cab6f99ceb"
+    },
+    {
+      "path": "documents/Santander/2024/4T24/Serie_Historica_BRGAAP_4T24__21c8603175da.xls",
+      "status": "passed",
+      "sha256": "21c8603175da51232c73f6b23ce2273bcb132374e339582eeb24a53d822e860c",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/Santander/2024/4T24/Transcricao_Videoconferencia_de_Resultados_4T24__c81774871453.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "c81774871453275e7394ceda04454b597ef8eff02937a9a7de9b533453555ce8"
+    },
+    {
+      "path": "documents/Santander/2024/1T24/Demonstracoes_Financeiras_BRGAAP_1T24__c7f87ddd3a3c.pdf",
+      "status": "passed",
+      "pages": 92,
+      "sha256": "c7f87ddd3a3c7732cdae0bede2f952f8d330cdf91a55f76b28b36d5833e664b2"
+    },
+    {
+      "path": "documents/Santander/2024/1T24/Informativo_ao_investidor_PF_1T24__4cdaced1ba5e.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "4cdaced1ba5eaaef3b90f9cfa8b2ea0c7060504e30e4772f53eee37362e0f5a9"
+    },
+    {
+      "path": "documents/Santander/2024/1T24/Demonstracoes_Financeiras_IFRS_1T24__956328581f78.pdf",
+      "status": "passed",
+      "pages": 67,
+      "sha256": "956328581f78778e291a6409e4dceec35f93a62edb3bcfb78285641b184cb6ab"
+    },
+    {
+      "path": "documents/Santander/2024/1T24/Apresentacao_de_Resultados_1T24__7cace8d2bbd5.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "7cace8d2bbd557463f7e2c06bc11561c6253a89fb85733f83dbd61ecd6d4301f"
+    },
+    {
+      "path": "documents/Santander/2024/1T24/Informe_de_Resultados_1T24__6e9e9ef6f82c.pdf",
+      "status": "passed",
+      "pages": 33,
+      "sha256": "6e9e9ef6f82c1b94768a70afb0dcacf579f14e3585f9589c88236ee85c2d7d08"
+    },
+    {
+      "path": "documents/Santander/2024/1T24/Serie_Historica_BRGAAP_1T24__a1c20aeb5472.xls",
+      "status": "passed",
+      "sha256": "a1c20aeb5472c92b2091f46ade93941fd8172ef37a93292e1ce728772af114cb",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/Santander/2024/1T24/Transcricao_Videoconferencia_de_Resultados_1T24__363f700eeda1.pdf",
+      "status": "passed",
+      "pages": 31,
+      "sha256": "363f700eeda129520eb0996bdc0a3ebeab80f39f439039976322d213ead9feea"
+    },
+    {
+      "path": "documents/Santander/2024/2T24/Demonstracoes_Financeiras_BRGAAP_2T24__310a976682ef.pdf",
+      "status": "passed",
+      "pages": 112,
+      "sha256": "310a976682efdd54db0d2b11e8533e442fc6f6d348a97ff9c1bd586b9ef9e0f8"
+    },
+    {
+      "path": "documents/Santander/2024/2T24/Demonstracoes_Financeiras_IFRS_2T24__48e7499e02af.pdf",
+      "status": "passed",
+      "pages": 72,
+      "sha256": "48e7499e02af1f172d1138b49c807bc165820c77e7b0bedca664e2fe91341b7d"
+    },
+    {
+      "path": "documents/Santander/2024/2T24/Transcricao_Videoconferencia_de_Resultados_2T24__d5267352b65a.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "d5267352b65a84c26b3d04a65a02aff9c3d345138f7c1e0a7ab4c2a3fc27b645"
+    },
+    {
+      "path": "documents/Santander/2024/2T24/Serie_Historica_BRGAAP_2T24__96374e7b5cef.xls",
+      "status": "passed",
+      "sha256": "96374e7b5cef0d02200b93b5a2e46cbc31a37c4898902902c1623056b72339d0",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/Santander/2024/2T24/Informe_de_Resultados_2T24__6c770268185f.pdf",
+      "status": "passed",
+      "pages": 34,
+      "sha256": "6c770268185fd26a575617d586d693ceeb4ea1e387832903d7f1c2aea8e27668"
+    },
+    {
+      "path": "documents/Santander/2024/2T24/Informativo_ao_investidor_PF_2T24__2398261312a5.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "2398261312a52236516b6f54d49e6ad322a03aa596e19486067a7caee7347ad6"
+    },
+    {
+      "path": "documents/Santander/2024/2T24/Apresentacao_de_Resultados_2T24__4cf8b8d1f506.pdf",
+      "status": "passed",
+      "pages": 22,
+      "sha256": "4cf8b8d1f50667d7bd6866e61c4c3ab27b6e6fbc43919bad2e1a105b4cae5c00"
+    },
+    {
+      "path": "documents/Santander/2024/3T24/Informativo_ao_investidor_PF_3T24__0ed9914bc238.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "0ed9914bc238d40e220862cfb6baa9188dce6b93719e63c0dd40df1f92c29951"
+    },
+    {
+      "path": "documents/Santander/2024/3T24/Apresentacao_de_Resultados_3T24__deca9c84b2c7.pdf",
+      "status": "passed",
+      "pages": 21,
+      "sha256": "deca9c84b2c73f946503a3d827fa5dc49e3e449f11394add19077c5988456c68"
+    },
+    {
+      "path": "documents/Santander/2024/3T24/Transcricao_Videoconferencia_de_Resultados_3T24__1c4f0310528a.pdf",
+      "status": "passed",
+      "pages": 28,
+      "sha256": "1c4f0310528aec452680da6c74a7fa6f5ae7e7854e4ac0c6be8ada784f6e52f0"
+    },
+    {
+      "path": "documents/Santander/2024/3T24/Demonstracoes_Financeiras_BRGAAP_3T24__fcb2d3c19ab3.pdf",
+      "status": "passed",
+      "pages": 92,
+      "sha256": "fcb2d3c19ab38fd31c37c01ea30968d30d68b57c0e3c05480559c2f008973133"
+    },
+    {
+      "path": "documents/Santander/2024/3T24/Informe_de_Resultados_3T24__459f8faefbe3.pdf",
+      "status": "passed",
+      "pages": 27,
+      "sha256": "459f8faefbe3dc406db63ccd1b86649002a30694da193a7499d85c6c59220adf"
+    },
+    {
+      "path": "documents/Santander/2024/3T24/Demonstracoes_Financeiras_IFRS_3T24__b2a3a4a5f9fc.pdf",
+      "status": "passed",
+      "pages": 70,
+      "sha256": "b2a3a4a5f9fc7a9eb37e658276326574bfb4454458abcd7404e7ed62b858c920"
+    },
+    {
+      "path": "documents/Santander/2024/3T24/Serie_Historica_BRGAAP_3T24__3add12518362.xls",
+      "status": "passed",
+      "sha256": "3add125183621ef97b0df6eb1d6305f23abdb6f6f40a57d2c30053674ce33ab5",
+      "validation": "SHA-256 and binary signature"
+    },
+    {
+      "path": "documents/Santander/2026/2T26/Demonstracoes_Financeiras_BRGAAP_2T26__c9899905adbf.pdf",
+      "status": "passed",
+      "pages": 121,
+      "sha256": "c9899905adbfa8364733c5f250143e7ee2017519f7e7cf05e4c5df2f5659afa4"
+    },
+    {
+      "path": "documents/Santander/2026/2T26/Informe_de_Resultados_2T26__b89f1153b19e.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "b89f1153b19e3fc865ee6f3aaaf2c748e0791aa9de3b3490d013041c990305a8"
+    },
+    {
+      "path": "documents/Santander/2026/2T26/Apresentacao_de_Resultados_2T26__2579cfdf5e0a.pdf",
+      "status": "passed",
+      "pages": 11,
+      "sha256": "2579cfdf5e0acb877f55b82e5975b9c29df78fbca739d28e628e004867c2a8bc"
+    },
+    {
+      "path": "documents/Santander/2026/2T26/Series_Historicas_2T26__0b04dac5a2f3.xlsx",
+      "status": "passed",
+      "sha256": "0b04dac5a2f30e47e7bb52d7d92f1e3c713c054e0f8afafb2ab916442baa774c"
+    },
+    {
+      "path": "documents/Santander/2026/2T26/Transcricao_2T26__8873e70a9380.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "8873e70a9380259f80c08f54acaea15dafd62b7bfafcfbad0cdc43612935870c"
+    },
+    {
+      "path": "documents/Santander/2026/2T26/Demonstracoes_Financeiras_IFRS_2T26__8beb88c932d4.pdf",
+      "status": "passed",
+      "pages": 66,
+      "sha256": "8beb88c932d434c2d1a78ff40ddbc550a2379a6563b9aceba4cbf2902151751f"
+    },
+    {
+      "path": "documents/Santander/2026/2T26/Informativo_ao_investidor_PF_2T26__6b142280440e.pdf",
+      "status": "passed",
+      "pages": 5,
+      "sha256": "6b142280440e1a34912112b896e66dff640a9f1e9d4f8777b50d7ed72cc6d389"
+    },
+    {
+      "path": "documents/Santander/2026/1T26/Demonstracoes_Financeiras_IFRS_1T26__35f306cd7096.pdf",
+      "status": "passed",
+      "pages": 63,
+      "sha256": "35f306cd70962e981e619fa0f67388301ae4375c4d977fb920c9e0b389cb5ce2"
+    },
+    {
+      "path": "documents/Santander/2026/1T26/Series_Historicas_1T26__4c7ff218716b.xlsx",
+      "status": "passed",
+      "sha256": "4c7ff218716b35325327853486f38ee5db3e756a3afda0b3e62422b4d2ab2e54"
+    },
+    {
+      "path": "documents/Santander/2026/1T26/Apresentacao_de_Resultados_1T26__64006250e8f3.pdf",
+      "status": "passed",
+      "pages": 11,
+      "sha256": "64006250e8f326eab63a440583506856f1eb0e7c573c4574bc13d4afd08642c1"
+    },
+    {
+      "path": "documents/Santander/2026/1T26/Informativo_ao_investidor_PF_1T26__bfbdd0d0d9c6.pdf",
+      "status": "passed",
+      "pages": 6,
+      "sha256": "bfbdd0d0d9c63a57246a1ed85a118ce0c28d0491a2d4ee23a7cfced4c94137ef"
+    },
+    {
+      "path": "documents/Santander/2026/1T26/Transcricao_1T26__69baa653e170.pdf",
+      "status": "passed",
+      "pages": 32,
+      "sha256": "69baa653e170b8fc24451a7fb1130da37f2e6eb5754e5ee543d7ccce69ea6d62"
+    },
+    {
+      "path": "documents/Santander/2026/1T26/Informe_de_Resultados_1T26__b7484fee9120.pdf",
+      "status": "passed",
+      "pages": 20,
+      "sha256": "b7484fee9120ae49f7fcac898b563015867dbbe60593b05db6093be2a667e37e"
+    },
+    {
+      "path": "documents/Santander/2026/1T26/Demonstracoes_Financeiras_BRGAAP_1T26__f9542500138f.pdf",
+      "status": "passed",
+      "pages": 94,
+      "sha256": "f9542500138fa1d98b99416c4b11b00ef8b4a5a236964253f5b04e0a7d428961"
+    }
+  ],
+  "data_checks": [
+    {
+      "bank": "Banco_do_Brasil",
+      "metric": "net_income_adjusted",
+      "expected": 3908,
+      "actual": 3907.75452,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "metric": "net_income_accounting",
+      "expected": 3175,
+      "actual": 3174.659,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "metric": "net_interest_income",
+      "expected": 27483,
+      "actual": 27482.959983,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "metric": "credit_cost",
+      "expected": 18477,
+      "actual": 18476.512151,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "metric": "fees",
+      "expected": 9125,
+      "actual": 9125.218132,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "metric": "npl90",
+      "expected": 5.61,
+      "actual": 5.606054,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Bradesco",
+      "metric": "net_income_adjusted",
+      "expected": 7050,
+      "actual": 7050,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Bradesco",
+      "metric": "net_income_accounting",
+      "expected": 7050,
+      "actual": 7050,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Bradesco",
+      "metric": "net_interest_income",
+      "expected": 20872,
+      "actual": 20872,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Bradesco",
+      "metric": "credit_cost",
+      "expected": 9985,
+      "actual": 9985,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Bradesco",
+      "metric": "fees",
+      "expected": 10486,
+      "actual": 10486,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Bradesco",
+      "metric": "npl90",
+      "expected": 4.3,
+      "actual": 4.3,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "BTG_Pactual",
+      "metric": "net_income_adjusted",
+      "expected": 5142,
+      "actual": 5142.440932,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "BTG_Pactual",
+      "metric": "net_income_accounting",
+      "expected": 4901,
+      "actual": 4901.144628,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "BTG_Pactual",
+      "metric": "revenue",
+      "expected": 10371,
+      "actual": 10371.184178,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "BTG_Pactual",
+      "metric": "assets",
+      "expected": 925219,
+      "actual": 925218.566,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "BTG_Pactual",
+      "metric": "roe_adjusted",
+      "expected": 26.7,
+      "actual": 26.702907,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Caixa",
+      "metric": "net_income_adjusted",
+      "expected": 3899,
+      "actual": 3899.0,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Caixa",
+      "metric": "net_income_accounting",
+      "expected": 3899,
+      "actual": 3899.0,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Caixa",
+      "metric": "fees",
+      "expected": 7573,
+      "actual": 7573.0,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Caixa",
+      "metric": "credit_cost",
+      "expected": 6966,
+      "actual": 6966.0,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Caixa",
+      "metric": "loans",
+      "expected": 1448200,
+      "actual": 1448200.0,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Caixa",
+      "metric": "roe_adjusted",
+      "expected": 9.16,
+      "actual": 9.16,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Caixa",
+      "metric": "npl90",
+      "expected": 3.64,
+      "actual": 3.64,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Santander",
+      "metric": "net_income_adjusted",
+      "expected": 3014,
+      "actual": 3013.93864,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Santander",
+      "metric": "net_income_accounting",
+      "expected": 2667,
+      "actual": 2667.48,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Santander",
+      "metric": "fees",
+      "expected": 5334,
+      "actual": 5334.0503,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Santander",
+      "metric": "credit_cost",
+      "expected": 7654,
+      "actual": 7653.80186,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Santander",
+      "metric": "roe_adjusted",
+      "expected": 12.5,
+      "actual": 12.543403,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Itau",
+      "metric": "cet1",
+      "expected": 12.3,
+      "actual": 12.3,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Itau",
+      "metric": "net_income_adjusted",
+      "expected": 12407,
+      "actual": 12406.686278,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Itau",
+      "metric": "net_income_accounting",
+      "expected": 12181,
+      "actual": 12181,
+      "status": "passed",
+      "type": "release_anchor"
+    },
+    {
+      "bank": "Itau",
+      "metric": "npl90",
+      "expected": 1.9,
+      "actual": 1.948798,
+      "status": "passed",
+      "type": "release_anchor"
+    }
+  ],
+  "failed_files": 0,
+  "failed_data_checks": 0
+}

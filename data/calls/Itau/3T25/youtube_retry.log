@@ -1,0 +1,15 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=XufmH-VmG2U
+[youtube] XufmH-VmG2U: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] XufmH-VmG2U: Downloading visionos player API JSON
+[youtube] XufmH-VmG2U: Downloading m3u8 information
+[info] XufmH-VmG2U: Downloading subtitles: pt-orig, pt
+[info] XufmH-VmG2U: Downloading 1 format(s): 399+251-2
+Deleting existing file data/calls/Itau/3T25/youtube.pt-orig.vtt
+[info] Writing video subtitles to: data/calls/Itau/3T25/youtube.pt-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: data/calls/Itau/3T25/youtube.pt-orig.vtt
+[download]    1.00KiB at  972.93KiB/s (00:00:00)[download]    3.00KiB at    1.97MiB/s (00:00:00)[download]    7.00KiB at    3.86MiB/s (00:00:00)[download]   15.00KiB at    7.19MiB/s (00:00:00)[download]   31.00KiB at   12.91MiB/s (00:00:00)[download]   63.00KiB at   21.83MiB/s (00:00:00)[download]  127.00KiB at    2.81MiB/s (00:00:00)[download]  255.00KiB at    2.39MiB/s (00:00:00)[download]  511.00KiB at    2.67MiB/s (00:00:00)[download]  758.07KiB at    3.50MiB/s (00:00:00)[download] 100% of  758.07KiB in 00:00:00 at 1.59MiB/s
+[info] Writing video subtitles to: data/calls/Itau/3T25/youtube.pt.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: Unable to download video subtitles for 'pt': HTTP Error 429: Too Many Requests

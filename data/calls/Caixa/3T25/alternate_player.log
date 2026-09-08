@@ -1,0 +1,2 @@
+WARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: [vimeo] 1141148782: Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)

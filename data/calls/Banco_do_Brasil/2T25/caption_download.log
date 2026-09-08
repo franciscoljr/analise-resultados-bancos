@@ -1,0 +1,38 @@
+[youtube] Extracting URL: https://www.youtube.com/live/ezUCFOb8uAs
+[youtube] ezUCFOb8uAs: Downloading webpage
+[youtube] ezUCFOb8uAs: Downloading visionos player API JSON
+[youtube] ezUCFOb8uAs: Downloading m3u8 information
+[info] ezUCFOb8uAs: Downloading subtitles: pt-orig, pt
+[info] ezUCFOb8uAs: Downloading 1 format(s): 248+251
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Banco_do_Brasil/2T25/youtube.pt-orig.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Banco_do_Brasil/2T25/youtube.pt-orig.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Banco_do_Brasil/2T25/youtube.pt-orig.vtt
+
+[download]    1.00KiB at   29.35KiB/s (00:00:00)
+[download]    3.00KiB at   87.46KiB/s (00:00:00)
+[download]    7.00KiB at  202.95KiB/s (00:00:00)
+[download]   15.00KiB at  433.29KiB/s (00:00:00)
+[download]   31.00KiB at  854.51KiB/s (00:00:00)
+[download]   63.00KiB at    1.67MiB/s (00:00:00)
+[download]  127.00KiB at    2.82MiB/s (00:00:00)
+[download]  255.00KiB at    4.25MiB/s (00:00:00)
+[download]  511.00KiB at    5.95MiB/s (00:00:00)
+[download] 1013.14KiB at    7.57MiB/s (00:00:00)
+[download] 100% of 1013.14KiB in 00:00:00 at 2.63MiB/s
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Banco_do_Brasil/2T25/youtube.pt.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Banco_do_Brasil/2T25/youtube.pt.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Banco_do_Brasil/2T25/youtube.pt.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at  Unknown B/s (00:00:00)
+[download]   63.00KiB at   31.47MiB/s (00:00:00)
+[download]  127.00KiB at    7.45MiB/s (00:00:00)
+[download]  255.00KiB at    3.12MiB/s (00:00:00)
+[download]  511.00KiB at    2.41MiB/s (00:00:00)
+[download] 1013.14KiB at    4.46MiB/s (00:00:00)
+[download] 100% of 1013.14KiB in 00:00:00 at 2.22MiB/s
+[info] Writing video metadata as JSON to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Banco_do_Brasil/2T25/youtube.info.json
+

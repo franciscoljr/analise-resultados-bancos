@@ -1,0 +1,47 @@
+{
+  "basis": "Receita por linha de negócio; R$ milhões",
+  "names": [
+    "Investment Banking",
+    "Corporate Lending & Business Banking",
+    "Sales & Trading",
+    "Asset Management",
+    "Wealth Management & Personal Banking",
+    "Consumer Finance & Banking",
+    "Interest & Others"
+  ],
+  "values": [
+    421.4,
+    2500,
+    1858.4,
+    793.5,
+    1447.5,
+    1545.7,
+    1804.7
+  ],
+  "method": "Valores de 2T26 publicados; sem alocação de lucro líquido por divisão",
+  "sources": [
+    {
+      "bank": "BTG_Pactual",
+      "period": "2T26",
+      "title": "Earnings Release 2T26",
+      "path": "documents/BTG_Pactual/2026/2T26/Earnings_Release_2T26__60db3a76d472.pdf",
+      "url": "https://d169uzu5o4xu1k.cloudfront.net/78a5a309-f13a-41ed-a7d1-814e37b63259/2026/3b140a94-9099-43e5-ad8d-bfc1724b8ddb.pdf",
+      "pages": [
+        6,
+        7,
+        19
+      ]
+    }
+  ],
+  "period": "2T26",
+  "total": 10371.2,
+  "shares": [
+    4.063174946004319,
+    24.10521443998766,
+    17.918852206109225,
+    7.650995063252082,
+    13.956919160752854,
+    14.903771983955568,
+    17.401072199938287
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-07",
+  "sources": [
+    {
+      "bank": "BTG_Pactual",
+      "period": "1T25",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "BTG_Pactual",
+      "period": "1T26",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "BTG_Pactual",
+      "period": "2T25",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "BTG_Pactual",
+      "period": "2T26",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "BTG_Pactual",
+      "period": "3T25",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "BTG_Pactual",
+      "period": "4T25",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "1T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "1T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "1T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "1T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "2T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "2T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "2T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "2T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "3T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "3T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "4T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "4T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "1T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "1T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "1T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "1T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "2T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "2T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "2T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "2T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "3T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "3T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "4T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Bradesco",
+      "period": "4T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Caixa",
+      "period": "2T26",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Caixa",
+      "period": "2T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "1T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "1T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "1T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "1T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "2T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "2T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "2T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "2T26",
+      "version": "asr",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "3T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "3T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "4T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Itau",
+      "period": "4T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "1T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "1T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "1T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "1T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "2T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "2T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "2T26",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "2T26",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "3T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "3T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "4T25",
+      "version": "official",
+      "verified_path_hash": true
+    },
+    {
+      "bank": "Santander",
+      "period": "4T25",
+      "version": "youtube",
+      "verified_path_hash": true
+    }
+  ],
+  "scope": "File identity, integrity and bank/period coverage; not semantic validation of every transcript"
+}

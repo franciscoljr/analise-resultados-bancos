@@ -1,0 +1,19 @@
+[
+  {
+    "bank": "Itau",
+    "id": "supplement-dd4bec5c",
+    "year": 2026,
+    "period": "2T26",
+    "title": "Planilha de Séries Históricas 2T26",
+    "type": "historical_series",
+    "category": "supplement",
+    "url": "https://api.mziq.com/mzfilemanager/v2/d/42787847-4cf6-4461-94a5-40ed237dca33/dd4bec5c-fb49-759c-fabc-b5db791b0aae?origin=2",
+    "portal": "https://www.itau.com.br/relacoes-com-investidores/resultados-e-relatorios/central-de-resultados/",
+    "status": "downloaded",
+    "path": "documents/Itau/2026/2T26/Planilha_de_Series_Historicas_2T26__7747b90df4b5.xlsx",
+    "sha256": "7747b90df4b515679c7dfe0dd5215cb4bffcf696a3af55bcd7afdf863b487001",
+    "bytes": 555150,
+    "format": "xlsx",
+    "validated": "ZIP CRC verified"
+  }
+]

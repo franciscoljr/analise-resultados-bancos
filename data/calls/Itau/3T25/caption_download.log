@@ -1,0 +1,23 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?si=8o6QLeJ17NDuk1gc&v=XufmH-VmG2U&feature=youtu.be
+[youtube] XufmH-VmG2U: Downloading webpage
+[youtube] XufmH-VmG2U: Downloading visionos player API JSON
+[youtube] XufmH-VmG2U: Downloading m3u8 information
+[info] XufmH-VmG2U: Downloading subtitles: pt-orig, pt
+[info] XufmH-VmG2U: Downloading 1 format(s): 399+251-2
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/3T25/youtube.pt-orig.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/3T25/youtube.pt-orig.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at  Unknown B/s (00:00:00)
+[download]   63.00KiB at   53.91MiB/s (00:00:00)
+[download]  127.00KiB at   11.24MiB/s (00:00:00)
+[download]  255.00KiB at   10.14MiB/s (00:00:00)
+[download]  511.00KiB at    7.10MiB/s (00:00:00)
+[download]  758.07KiB at    5.78MiB/s (00:00:00)
+[download] 100% of  758.07KiB in 00:00:00 at 1.77MiB/s
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/3T25/youtube.pt.vtt
+
+ERROR: Unable to download video subtitles for 'pt': HTTP Error 429: Too Many Requests

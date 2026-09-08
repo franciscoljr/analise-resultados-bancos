@@ -1,0 +1,32 @@
+[
+  {
+    "bank": "Caixa",
+    "period": "2T26",
+    "version": "asr",
+    "title": "Gravação do call 2T26",
+    "url": "https://vimeo.com/event/6039702/embed",
+    "source_path": "data/calls/Caixa/2T26/video.mp4",
+    "path": "data/calls/Caixa/2T26/asr.txt",
+    "sha256": "1adf0b052d2a505ddfc72deafebab18e1890cbcd7f213d74152ae03e5277833f",
+    "characters": 67058,
+    "status": "downloaded",
+    "format": "txt",
+    "category": "call_transcript",
+    "quality": "Automatic transcription; validate numbers and names against primary disclosures"
+  },
+  {
+    "bank": "Caixa",
+    "period": "2T26",
+    "version": "youtube",
+    "title": "Resultados CAIXA 2T26",
+    "url": "https://www.youtube.com/watch?v=K0BjeF0KkTs",
+    "source_path": "data/calls/Caixa/2T26/youtube.pt-orig.vtt",
+    "path": "data/calls/Caixa/2T26/youtube.txt",
+    "sha256": "c2ea334a637238975ceb59b3456b2dfbbb297dd825c3ad5341f8a0c2cb109e44",
+    "characters": 69607,
+    "status": "downloaded",
+    "format": "txt",
+    "category": "call_transcript",
+    "quality": "Automatic transcription; validate numbers and names against primary disclosures"
+  }
+]

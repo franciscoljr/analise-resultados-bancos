@@ -1,0 +1,6 @@
+interface:
+  display_name: "Santander Brasil specialist"
+  short_description: "CEO/CFO strategy, financials, calls and risk"
+  default_prompt: "Use $santander-specialist to create the complete CEO/CFO guide to Santander Brasil from 2024 through the latest verified quarter, integrating financial statements and earnings calls."
+policy:
+  allow_implicit_invocation: true

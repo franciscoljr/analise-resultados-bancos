@@ -1,0 +1,64 @@
+{
+  "basis": "Resultado operacional antes da tributação ajustado — IFRS; R$ milhões",
+  "names": [
+    "Banco Comercial",
+    "Banco de Atacado Global"
+  ],
+  "h1": [
+    4193.745,
+    3725.976
+  ],
+  "q1": [
+    2611.434,
+    2098.651
+  ],
+  "revenue_h1": [
+    32197.29,
+    5681.632
+  ],
+  "revenue_q1": [
+    16392.803,
+    2889.093
+  ],
+  "sources": [
+    {
+      "bank": "Santander",
+      "period": "2T26",
+      "title": "Demonstrações Financeiras IFRS 2T26",
+      "path": "documents/Santander/2026/2T26/Demonstracoes_Financeiras_IFRS_2T26__8beb88c932d4.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/a2595886-9fbb-4339-8a38-71d6ce7c7d36/d6e27231-e7bd-fc87-3b05-3276363a55dd?origin=2",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "bank": "Santander",
+      "period": "1T26",
+      "title": "Demonstrações Financeiras IFRS 1T26",
+      "path": "documents/Santander/2026/1T26/Demonstracoes_Financeiras_IFRS_1T26__35f306cd7096.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/a2595886-9fbb-4339-8a38-71d6ce7c7d36/461d837c-9ccc-ef6c-7c1c-b8650027bb38?origin=2",
+      "pages": [
+        41
+      ]
+    }
+  ],
+  "values": [
+    1582.311,
+    1627.325
+  ],
+  "method": "2T26 = 1S26 - 1T26, nas notas por segmento",
+  "period": "2T26",
+  "total": 3209.636,
+  "shares": [
+    49.29876783535578,
+    50.70123216464422
+  ],
+  "revenues": [
+    15804.487,
+    2792.539
+  ],
+  "revenue_shares": [
+    84.98394850875619,
+    15.016051491243818
+  ]
+}

@@ -1,0 +1,4 @@
+[vimeo] Extracting URL: https://player.vimeo.com/video/1125971034
+[vimeo] 1125971034: Downloading webpage
+WARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: [vimeo] 1125971034: Unable to download webpage: HTTP Error 401: Unauthorized (caused by <HTTPError 401: Unauthorized>)

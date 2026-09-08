@@ -1,0 +1,55 @@
+{
+  "basis": "Lucro líquido da nota por segmentos, reconciliado ao contábil; R$ milhões",
+  "names": [
+    "Financeiras",
+    "Grupo Segurador",
+    "Outras Atividades"
+  ],
+  "h1": [
+    6322.674,
+    5704.283,
+    53.107
+  ],
+  "q1": [
+    2227.06,
+    2760.138,
+    42.953
+  ],
+  "sources": [
+    {
+      "bank": "Bradesco",
+      "period": "2T26",
+      "title": "Bradesco 2T26 - Relatório de Análise Econômica e Financeira",
+      "path": "documents/Bradesco/2026/2T26/Bradesco_2T26_-_Relatorio_de_Analise_Economica_e_Financeira__cde0b85c1bec.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/80f2e993-0a30-421a-9470-a4d5c8ad5e9f/b7c34f8d-92f6-7ba4-f408-d518a7211a7a?origin=2",
+      "pages": [
+        133,
+        134
+      ]
+    },
+    {
+      "bank": "Bradesco",
+      "period": "1T26",
+      "title": "Bradesco 1T26 - Relatório de Análise Econômica e Financeira",
+      "path": "documents/Bradesco/2026/1T26/Bradesco_1T26_-_Relatorio_de_Analise_Economica_e_Financeira__a240046aa0c8.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/80f2e993-0a30-421a-9470-a4d5c8ad5e9f/7cb24c7c-e2f1-eb15-8222-620ba0d80519?origin=2",
+      "pages": [
+        133,
+        134
+      ]
+    }
+  ],
+  "values": [
+    4095.614,
+    2944.145,
+    10.154
+  ],
+  "method": "2T26 = 1S26 - 1T26, nas notas por segmento",
+  "period": "2T26",
+  "total": 7049.913,
+  "shares": [
+    58.09453251408918,
+    41.7614373397232,
+    0.14403014618761964
+  ]
+}

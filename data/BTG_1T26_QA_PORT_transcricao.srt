@@ -1,0 +1,5832 @@
+1
+00:00:00,000 --> 00:00:08,140
+Bom dia e bem-vindos à teleconferência de resultados do primeiro trimestre de 2026 do Banco BTG Pactual.
+
+2
+00:00:08,400 --> 00:00:15,120
+Conosco hoje estão Roberto Saluti, Renato Kohn e Júlia Rocha.
+
+3
+00:00:15,580 --> 00:00:22,720
+Gostaríamos de informar que este evento está sendo gravado e todos os participantes estão apenas ouvindo.
+
+4
+00:00:22,720 --> 00:00:35,220
+Durante a apresentação do banco, após as considerações do Banco BTG, haverá uma sessão de perguntas e respostas para investidores e analistas quando mais instruções serão fornecidas.
+
+5
+00:00:35,520 --> 00:00:51,560
+Hoje temos um webcast simultâneo que pode ser acessado pelo site www.btgpactual.com.br e pela plataforma haverá um recurso de replay desta teleconferência.
+
+6
+00:00:51,560 --> 00:01:02,400
+Antes de prosseguir, gostaria de mencionar que esta teleconferência pode conter declarações prospectivas relacionadas às perspectivas de negócios,
+
+7
+00:01:02,540 --> 00:01:10,820
+estimativas de resultados operacionais e financeiros relacionadas às perspectivas de crescimento do Banco BTG.
+
+8
+00:01:11,020 --> 00:01:20,280
+São meras projeções baseadas exclusivamente nas expectativas da administração do banco em relação ao futuro dos negócios.
+
+9
+00:01:20,280 --> 00:01:32,620
+Tais declarações dependem de mudanças nas condições de mercado, regulamentações governamentais, pressões competitivas, o desempenho da economia brasileira e do setor,
+
+10
+00:01:32,760 --> 00:01:44,340
+entre outros fatores e riscos divulgados nos documentos de divulgação do banco e, portanto, sujeitas a alterações sem aviso prévio.
+
+11
+00:01:44,340 --> 00:01:49,940
+E agora passo a palavra ao senhor Roberto Saluti, que iniciará a apresentação.
+
+12
+00:01:50,080 --> 00:01:52,660
+Senhor Saluti, por favor, prossiga.
+
+13
+00:01:54,920 --> 00:02:00,620
+Bom dia, muito obrigado por se juntarem novamente à nossa conferência.
+
+14
+00:02:00,620 --> 00:02:06,540
+Então, se passarmos à página 3, temos aí os destaques do primeiro trimestre.
+
+15
+00:02:06,920 --> 00:02:20,260
+Novamente, estamos muito felizes com os recordes de receitas e lucro líquido, com retorno de 26,6%, apesar do cenário macro muito desafiador.
+
+16
+00:02:20,260 --> 00:02:32,940
+Nós temos outro mercado desde o primeiro de março e eu acho que isso realmente reflete a resiliência dos nossos modelos de negócios.
+
+17
+00:02:34,580 --> 00:02:48,140
+Nós somos capazes de nos beneficiar com estes diferentes cenários e as unidades de negócios se beneficiam desse cenário.
+
+18
+00:02:48,140 --> 00:02:55,520
+Em Investment Banking, tivemos mais uma vez um trimestre muito positivo,
+
+19
+00:02:56,120 --> 00:03:02,520
+em Corporate Lending, também com um forte ritmo de crescimento, entregando receitas recordes
+
+20
+00:03:02,520 --> 00:03:10,340
+e também crescendo 22% na carteira com um underwriting bem disciplinado.
+
+21
+00:03:10,340 --> 00:03:20,140
+Nosso Investment Banking sofreu com um DCM reduzido, mas nós tivemos um benefício aí com Corporate Lending,
+
+22
+00:03:20,400 --> 00:03:29,280
+em Sales and Trending, outro trimestre muito sólido, com uma atividade boa, positiva do pipeline,
+
+23
+00:03:29,280 --> 00:03:37,440
+com um gerenciamento dinâmico do nosso risco e um trimestre muito forte novamente.
+
+24
+00:03:38,040 --> 00:03:45,060
+E em Asset e Wealth Management, a gente continua a ter uma captação alta,
+
+25
+00:03:45,060 --> 00:03:55,620
+atingindo aí 2,6 trilhões, 83 bilhões, juntando as duas, atingindo 2,6 trilhões.
+
+26
+00:03:55,880 --> 00:04:04,300
+Agora na página 4, a gente mostra os números do primeiro trimestre, então receitas totais de 10 bilhões,
+
+27
+00:04:04,620 --> 00:04:13,360
+um crescimento de 34% ano a ano, lucro líquido 4,8%, 42% de crescimento.
+
+28
+00:04:13,360 --> 00:04:23,060
+Isso reflete a eficiência aí da nossa operação, da eficiência do nosso modelo de negócios
+
+29
+00:04:23,060 --> 00:04:29,180
+e mais uma vez tivemos 26,6% de ROAE no trimestre.
+
+30
+00:04:29,300 --> 00:04:37,240
+Na página 5, 83 bilhões de Net New Money, muito orgânico, totalmente orgânico,
+
+31
+00:04:37,240 --> 00:04:43,180
+que é o segundo melhor orgânico aí comparado com o quarto trimestre de 25.
+
+32
+00:04:43,620 --> 00:04:49,440
+E comparado com o primeiro trimestre de 25, nós tivemos 105,
+
+33
+00:04:49,760 --> 00:04:53,620
+mas vieram ali uma parte da aquisição do Julius Baer.
+
+34
+00:04:54,280 --> 00:05:01,460
+Em Wealth Under Management e Asset Under Management, ambos cresceram via 28% ano a ano.
+
+35
+00:05:05,580 --> 00:05:14,620
+Agora na página 6, nós temos a nossa base de funding que continua a crescer significativamente,
+
+36
+00:05:15,440 --> 00:05:21,460
+atingindo aí 379 bilhões, uma capitalização muito boa,
+
+37
+00:05:21,460 --> 00:05:29,660
+e um patrimônio aí de 75 bilhões no último trimestre.
+
+38
+00:05:29,940 --> 00:05:35,760
+E no nosso portfólio de crédito crescemos 24%,
+
+39
+00:05:37,400 --> 00:05:48,300
+atingindo aí 355 bilhões de reais, 281 bilhões no corporate e pequenas empresas,
+
+40
+00:05:48,300 --> 00:05:51,940
+e 74 bilhões no segmento de consumidores.
+
+41
+00:05:52,540 --> 00:05:57,720
+E aqui nós mostramos na página 7 o nosso relatório tradicional.
+
+42
+00:05:57,980 --> 00:06:03,680
+Novamente receitas de 10 bilhões, lucro líquido de 4,8.
+
+43
+00:06:06,600 --> 00:06:14,080
+Nós temos aqui também o índice de eficiência,
+
+44
+00:06:14,080 --> 00:06:21,220
+juntando o BTG e o Banco Pan, juntando aí os dois em torno de 38%,
+
+45
+00:06:21,220 --> 00:06:30,260
+e nos próximos três anos nós vamos trazer esse índice de eficiência aos níveis que tínhamos antes.
+
+46
+00:06:30,700 --> 00:06:35,620
+Temos no patrimônio líquido aí 74 milhões,
+
+47
+00:06:37,480 --> 00:06:39,280
+captura de 15%.
+
+48
+00:06:41,800 --> 00:06:45,540
+Se vocês passarem para a página 8, mostramos aqui
+
+49
+00:06:47,340 --> 00:06:57,320
+as receitas do primeiro trimestre comparada com a receita do primeiro trimestre de 2025.
+
+50
+00:06:58,980 --> 00:07:02,520
+Nós estamos mostrando, então, os primeiros três meses,
+
+51
+00:07:02,680 --> 00:07:05,120
+depois seis meses, depois nove meses,
+
+52
+00:07:05,280 --> 00:07:08,640
+depois ano a ano, e aí começamos a mostrar
+
+53
+00:07:08,640 --> 00:07:11,780
+os últimos 12 meses.
+
+54
+00:07:12,260 --> 00:07:16,720
+E aqui eu acho que a gente vê um crescimento forte,
+
+55
+00:07:18,640 --> 00:07:22,020
+um crescimento sólido em corporate lending,
+
+56
+00:07:22,560 --> 00:07:25,920
+crescimento muito forte em sales e trending.
+
+57
+00:07:25,920 --> 00:07:31,340
+O primeiro trimestre do ano passado, novamente, foi muito fraco, repetindo.
+
+58
+00:07:31,340 --> 00:07:37,960
+Bom, crescimento em asset management, considerando que no primeiro trimestre do ano passado,
+
+59
+00:07:37,960 --> 00:07:42,720
+tivemos dividendos de plataformas independentes,
+
+60
+00:07:42,720 --> 00:07:45,800
+um crescimento muito forte em wealth management,
+
+61
+00:07:46,220 --> 00:07:51,320
+45% também no consumer finance.
+
+62
+00:07:51,320 --> 00:07:58,600
+e o que nós vemos é uma receita muito equilibrada,
+
+63
+00:07:59,040 --> 00:08:02,760
+principalmente a corporate lending, 21%,
+
+64
+00:08:04,160 --> 00:08:08,420
+nós temos sales and trading, 19%,
+
+65
+00:08:08,420 --> 00:08:11,160
+25% em wealth management.
+
+66
+00:08:11,160 --> 00:08:14,480
+Então, eu acho que isso tudo está ligado aos mercados,
+
+67
+00:08:16,540 --> 00:08:20,040
+11% em consumer finance, que vai crescer com o tempo,
+
+68
+00:08:20,260 --> 00:08:23,040
+e os juros estáveis,
+
+69
+00:08:23,750 --> 00:08:27,220
+e que vão se reduzir conforme o tempo passar.
+
+70
+00:08:27,380 --> 00:08:28,340
+Estamos esperando por isso.
+
+71
+00:08:28,340 --> 00:08:30,160
+E agora eu passo para o Renato Kohn,
+
+72
+00:08:30,320 --> 00:08:33,020
+que vai falar da performance dos outros,
+
+73
+00:08:33,260 --> 00:08:35,440
+de cada uma das unidades de negócio.
+
+74
+00:08:35,640 --> 00:08:37,120
+Muito obrigado, bom dia a todos.
+
+75
+00:08:37,960 --> 00:08:42,240
+Então, agora passando para a linha de negócio das unidades específicas,
+
+76
+00:08:42,340 --> 00:08:43,900
+começando com o investment banking,
+
+77
+00:08:44,140 --> 00:08:46,700
+nós tivemos uma performance forte,
+
+78
+00:08:47,380 --> 00:08:50,400
+apoiada pela franchise líder,
+
+79
+00:08:50,660 --> 00:08:53,140
+nos diferentes produtos e setores.
+
+80
+00:08:54,080 --> 00:08:58,820
+chegamos a 628 milhões no trimestre de receitas,
+
+81
+00:08:58,920 --> 00:09:01,700
+e um aumento de 65%,
+
+82
+00:09:01,700 --> 00:09:06,060
+se compararmos com o primeiro trimestre de 25%.
+
+83
+00:09:06,060 --> 00:09:09,640
+A atividade de mercado no começo do trimestre foi forte,
+
+84
+00:09:09,880 --> 00:09:11,700
+com uma atividade de DCM,
+
+85
+00:09:11,800 --> 00:09:14,340
+tanto nos mercados internacionais e locais,
+
+86
+00:09:15,300 --> 00:09:19,120
+bons, também temos perspectivas boas aí,
+
+87
+00:09:19,120 --> 00:09:24,920
+com a Ibovespa atingindo novos recordes,
+
+88
+00:09:25,260 --> 00:09:29,660
+e no final do trimestre nós vimos um cenário diferente,
+
+89
+00:09:29,660 --> 00:09:35,580
+por conta da volatilidade da situação geopolítica,
+
+90
+00:09:35,780 --> 00:09:38,040
+causada por essa situação geopolítica,
+
+91
+00:09:38,080 --> 00:09:40,780
+que afetou tanto o DCM como o ECM.
+
+92
+00:09:41,060 --> 00:09:45,560
+O DCM permaneceu o principal componente da receita,
+
+93
+00:09:45,560 --> 00:09:49,760
+com transações concentradas em janeiro e fevereiro,
+
+94
+00:09:50,120 --> 00:09:51,680
+diminuímos um pouco em março,
+
+95
+00:09:51,860 --> 00:09:57,000
+por conta da volatilidade aumentada nos mercados secundários,
+
+96
+00:09:57,240 --> 00:10:00,760
+e temos uma contribuição sólida aí,
+
+97
+00:10:02,120 --> 00:10:05,380
+executando uma pipeline diversificada,
+
+98
+00:10:05,540 --> 00:10:09,780
+no ESM ele se beneficiou de uma melhora
+
+99
+00:10:09,780 --> 00:10:12,320
+na atividade do mercado no início do trimestre,
+
+100
+00:10:14,220 --> 00:10:19,340
+e durante este trimestre nós fomos ranqueados
+
+101
+00:10:19,340 --> 00:10:24,160
+como o primeiro do mercado em número de transações e volume,
+
+102
+00:10:24,420 --> 00:10:28,140
+e número um também em transações na Latam.
+
+103
+00:10:28,340 --> 00:10:35,120
+Na última quinta, nós colocamos a primeira IPO desde 2021,
+
+104
+00:10:35,120 --> 00:10:41,720
+então fomos os coordenadores dessa IPO da Compass,
+
+105
+00:10:42,140 --> 00:10:44,900
+em 3.2 bilhões de reais,
+
+106
+00:10:45,260 --> 00:10:49,420
+uma transação de 3.2 que foi 100% secundária.
+
+107
+00:10:49,920 --> 00:10:52,340
+Então agora passando para a página 11,
+
+108
+00:10:53,000 --> 00:10:57,100
+nós vemos nossa corporate lending em business banking,
+
+109
+00:10:57,360 --> 00:11:01,220
+com resultados consistentes impulsionados por receitas,
+
+110
+00:11:01,220 --> 00:11:03,920
+recordes e expansão do portfólio.
+
+111
+00:11:04,080 --> 00:11:09,840
+As receitas chegaram a 2.332.000.000,
+
+112
+00:11:10,000 --> 00:11:12,320
+um aumento de 4.2 no trimestre,
+
+113
+00:11:13,280 --> 00:11:17,820
+e 20% comparado com o ano passado,
+
+114
+00:11:17,980 --> 00:11:19,820
+o primeiro trimestre do ano passado.
+
+115
+00:11:20,740 --> 00:11:28,000
+22% com o portfólio de crédito alcançou 281 bilhões.
+
+116
+00:11:28,280 --> 00:11:33,440
+Nós reduzimos a atividade de cliente no mercado de capital,
+
+117
+00:11:33,740 --> 00:11:39,420
+e houve uma ampliação dos spreads de crédito,
+
+118
+00:11:39,500 --> 00:11:42,880
+mas especificamente em direção ao final do trimestre.
+
+119
+00:11:42,880 --> 00:11:46,420
+Então nós nos expandimos com alta qualidade aí,
+
+120
+00:11:46,620 --> 00:11:48,180
+e com spreads atrativos,
+
+121
+00:11:48,440 --> 00:11:53,260
+e continuamos a nos expandir e diversificar nosso portfólio,
+
+122
+00:11:53,520 --> 00:11:55,360
+diferentes geografias,
+
+123
+00:11:55,620 --> 00:11:57,720
+com muita atração aí,
+
+124
+00:11:58,020 --> 00:12:01,040
+e também com os bancos americanos,
+
+125
+00:12:01,620 --> 00:12:04,160
+que começaram a operar neste trimestre.
+
+126
+00:12:04,220 --> 00:12:06,420
+Agora passando para sales and trading,
+
+127
+00:12:06,580 --> 00:12:07,520
+na página 12,
+
+128
+00:12:09,420 --> 00:12:11,960
+vemos resultados sólidos aí,
+
+129
+00:12:12,280 --> 00:12:14,480
+sustentados pela atividade de clientes,
+
+130
+00:12:14,660 --> 00:12:16,240
+com redução do VAR,
+
+131
+00:12:16,780 --> 00:12:20,660
+como resultado da nossa gestão de riscos aí,
+
+132
+00:12:21,720 --> 00:12:24,320
+com uma abordagem muito dinâmica,
+
+133
+00:12:24,640 --> 00:12:27,080
+atingimos aí 1.877.000.000,
+
+134
+00:12:27,340 --> 00:12:32,220
+uma queda de 6.6 nos resultados aí,
+
+135
+00:12:32,700 --> 00:12:34,600
+comparados com o trimestre anterior,
+
+136
+00:12:34,720 --> 00:12:35,580
+que foi o nosso melhor,
+
+137
+00:12:35,580 --> 00:12:40,160
+mas é um crescimento de 43% na comparação anual.
+
+138
+00:12:40,380 --> 00:12:43,140
+A performance foi impulsionada aí,
+
+139
+00:12:43,280 --> 00:12:46,520
+pela forte atividade de produtos e serviços
+
+140
+00:12:46,520 --> 00:12:48,560
+que oferecemos ao nosso cliente,
+
+141
+00:12:48,640 --> 00:12:53,600
+e o nosso VAR se reduziu para 0.32,
+
+142
+00:12:54,780 --> 00:12:57,660
+com uma abordagem mais conservadora,
+
+143
+00:12:57,680 --> 00:13:00,680
+e por conta dos riscos geopolíticos,
+
+144
+00:13:00,900 --> 00:13:04,060
+que aumentaram a volatilidade do mercado.
+
+145
+00:13:04,060 --> 00:13:07,480
+E o nosso componente de risco,
+
+146
+00:13:07,700 --> 00:13:10,280
+o VAR, caiu para 22%,
+
+147
+00:13:10,280 --> 00:13:14,760
+é uma abordagem mais conservadora aí no final do trimestre,
+
+148
+00:13:15,020 --> 00:13:18,040
+mas continuamos a aumentar o nosso portfólio,
+
+149
+00:13:18,180 --> 00:13:19,800
+diversificando o nosso risco.
+
+150
+00:13:20,860 --> 00:13:23,480
+Agora passamos para asset management,
+
+151
+00:13:23,480 --> 00:13:24,820
+na página 13,
+
+152
+00:13:25,140 --> 00:13:30,600
+onde nós vimos uma expansão contínua,
+
+153
+00:13:30,600 --> 00:13:34,320
+beneficiada pela forte captação líquida
+
+154
+00:13:34,320 --> 00:13:36,620
+em diferentes segmentos,
+
+155
+00:13:36,740 --> 00:13:38,380
+nas nossas linhas de negócios.
+
+156
+00:13:38,580 --> 00:13:42,060
+Tivemos receitas de R$ 783 milhões,
+
+157
+00:13:42,060 --> 00:13:45,240
+uma queda de 8,9%,
+
+158
+00:13:45,240 --> 00:13:49,780
+em comparação com o trimestre anterior,
+
+159
+00:13:49,780 --> 00:13:51,380
+muito forte,
+
+160
+00:13:52,340 --> 00:13:54,120
+que foi muito forte,
+
+161
+00:13:54,180 --> 00:13:59,780
+mas comparado com o primeiro trimestre do ano passado,
+
+162
+00:14:00,040 --> 00:14:02,060
+tivemos um aumento de 6,5%,
+
+163
+00:14:03,020 --> 00:14:05,500
+com receitas recorrentes,
+
+164
+00:14:05,500 --> 00:14:07,700
+decorrentes da expansão de ativos,
+
+165
+00:14:07,700 --> 00:14:12,940
+e uma menor contribuição dos dividendos recebidos,
+
+166
+00:14:13,180 --> 00:14:16,920
+que foram um pouquinho menor
+
+167
+00:14:16,920 --> 00:14:20,440
+do que o que a gente registrou em 2025.
+
+168
+00:14:20,960 --> 00:14:24,100
+O asset under management aumentou,
+
+169
+00:14:24,300 --> 00:14:26,380
+ultrapassou 1,3 trilhões,
+
+170
+00:14:27,200 --> 00:14:30,700
+um aumento de 5,3%
+
+171
+00:14:31,220 --> 00:14:33,540
+de crescimento de aumento no trimestre.
+
+172
+00:14:33,540 --> 00:14:34,760
+Durante o trimestre,
+
+173
+00:14:34,920 --> 00:14:40,620
+tivemos R$ 48 bilhões no trimestre,
+
+174
+00:14:40,620 --> 00:14:42,560
+com uma captação orgânica,
+
+175
+00:14:43,350 --> 00:14:47,560
+que reflete essa captação relevante
+
+176
+00:14:47,560 --> 00:14:49,420
+na plataforma de asset service,
+
+177
+00:14:49,780 --> 00:14:52,160
+tanto como nos fundos sob gestão.
+
+178
+00:14:52,340 --> 00:14:56,840
+Agora, sobre wealth management e personal banking,
+
+179
+00:14:57,060 --> 00:14:58,860
+novamente receitas recordes,
+
+180
+00:14:59,000 --> 00:15:01,440
+com forte crescimento orgânico,
+
+181
+00:15:01,440 --> 00:15:03,180
+a maior atividade dos clientes,
+
+182
+00:15:03,220 --> 00:15:06,000
+a receita atingiu R$ 1,5 bilhões,
+
+183
+00:15:07,000 --> 00:15:11,100
+10% de aumento em relação ao trimestre anterior
+
+184
+00:15:11,100 --> 00:15:15,040
+e 44% de aumento na comparação anual.
+
+185
+00:15:15,360 --> 00:15:19,440
+Isso reflete uma forte expansão no segmento
+
+186
+00:15:20,140 --> 00:15:23,280
+por conta do aumento da atividade de clientes
+
+187
+00:15:23,280 --> 00:15:26,580
+e a expansão do private banking
+
+188
+00:15:26,580 --> 00:15:28,940
+e no varejo de alta renda.
+
+189
+00:15:29,100 --> 00:15:30,440
+O wealth under management
+
+190
+00:15:31,480 --> 00:15:32,980
+cresceu bastante,
+
+191
+00:15:33,460 --> 00:15:36,200
+atingindo R$ 88 bilhões,
+
+192
+00:15:37,000 --> 00:15:39,360
+um aumento realmente significativo
+
+193
+00:15:39,360 --> 00:15:41,820
+comparado com o primeiro trimestre do ano passado.
+
+194
+00:15:42,500 --> 00:15:46,120
+New money, R$ 34,9 bilhões,
+
+195
+00:15:46,880 --> 00:15:48,740
+com captações orgânicas.
+
+196
+00:15:48,740 --> 00:15:51,320
+Durante o trimestre,
+
+197
+00:15:51,820 --> 00:15:55,300
+o wealth management do BTG foi reconhecido
+
+198
+00:15:55,300 --> 00:15:58,880
+em 11 categorias no Euro Money Private Banking Awards,
+
+199
+00:15:58,900 --> 00:16:01,360
+incluindo os prêmios de melhor private banking
+
+200
+00:16:01,360 --> 00:16:02,700
+da América Latina e do Brasil
+
+201
+00:16:02,700 --> 00:16:05,280
+pelo terceiro ano consecutivo
+
+202
+00:16:05,280 --> 00:16:07,540
+e melhor private banking
+
+203
+00:16:07,540 --> 00:16:10,460
+para family of services da América Latina.
+
+204
+00:16:12,000 --> 00:16:14,480
+E agora passando para a página 15,
+
+205
+00:16:14,760 --> 00:16:18,000
+nós vemos as nossas novas linhas de negócios,
+
+206
+00:16:18,160 --> 00:16:19,940
+Consumer Finance and Banking,
+
+207
+00:16:20,780 --> 00:16:23,960
+com crescimento consistente da carteira,
+
+208
+00:16:24,320 --> 00:16:27,780
+com forte originação de crédito consignado,
+
+209
+00:16:29,280 --> 00:16:33,700
+completamos a aquisição dos acionistas minoritários do Banco PAN
+
+210
+00:16:33,700 --> 00:16:37,280
+e agora reconhecemos 100% das receitas e custos
+
+211
+00:16:37,280 --> 00:16:38,660
+a partir deste trimestre.
+
+212
+00:16:38,660 --> 00:16:41,800
+As receitas de crédito chegaram,
+
+213
+00:16:42,400 --> 00:16:43,840
+aumentaram aí,
+
+214
+00:16:44,560 --> 00:16:50,520
+isso por conta da expansão do portfólio,
+
+215
+00:16:50,600 --> 00:16:53,700
+então foram compensadas por essas maiores provisões
+
+216
+00:16:53,700 --> 00:16:55,380
+em veículos também.
+
+217
+00:16:55,760 --> 00:17:01,480
+O portfólio de crédito cresceu e atingiu R$ 73 bilhões,
+
+218
+00:17:01,620 --> 00:17:04,840
+um crescimento de 14% no trimestre,
+
+219
+00:17:04,840 --> 00:17:07,740
+com a contribuição maior,
+
+220
+00:17:07,900 --> 00:17:11,960
+principalmente por conta do consignado,
+
+221
+00:17:12,200 --> 00:17:14,420
+da originação de consignado.
+
+222
+00:17:16,400 --> 00:17:18,020
+E a Tuseguros,
+
+223
+00:17:18,040 --> 00:17:22,840
+as receitas da Tuseguros cresceram 44,2% no trimestre,
+
+224
+00:17:23,420 --> 00:17:26,940
+por conta da mudança regulatória
+
+225
+00:17:26,940 --> 00:17:28,840
+relativa às comissões,
+
+226
+00:17:28,960 --> 00:17:29,860
+e as receitas,
+
+227
+00:17:30,300 --> 00:17:31,900
+e as receitas,
+
+228
+00:17:31,920 --> 00:17:32,200
+então,
+
+229
+00:17:32,340 --> 00:17:37,040
+atingiram um total de R$ 171 milhões.
+
+230
+00:17:37,960 --> 00:17:38,880
+Em abril,
+
+231
+00:17:39,340 --> 00:17:41,980
+concluímos com sucesso
+
+232
+00:17:41,980 --> 00:17:44,840
+a transação do meu tudo.
+
+233
+00:17:46,220 --> 00:17:46,900
+E agora,
+
+234
+00:17:47,060 --> 00:17:49,980
+se passarmos para as nossas despesas
+
+235
+00:17:49,980 --> 00:17:51,900
+e principais indicadores,
+
+236
+00:17:52,600 --> 00:17:53,540
+na página 17,
+
+237
+00:17:54,300 --> 00:17:55,660
+vemos uma...
+
+238
+00:17:56,940 --> 00:17:59,900
+ganho aí de despesas operacionais,
+
+239
+00:18:00,120 --> 00:18:03,680
+com uma alavancagem operacional consistente,
+
+240
+00:18:04,420 --> 00:18:09,020
+com as despesas operacionais totais,
+
+241
+00:18:09,140 --> 00:18:13,820
+que cresceram 1,8% no primeiro trimestre,
+
+242
+00:18:13,860 --> 00:18:16,120
+em função do aumento de salários,
+
+243
+00:18:16,940 --> 00:18:20,240
+e benefícios decorrentes do ciclo anual,
+
+244
+00:18:20,400 --> 00:18:23,120
+e das promoções e reajustes salariais.
+
+245
+00:18:23,120 --> 00:18:27,960
+Os salários e benefícios cresceram 6% no trimestre,
+
+246
+00:18:28,220 --> 00:18:33,480
+refletindo os ajustes de acordo com a inflação e as promoções,
+
+247
+00:18:34,380 --> 00:18:37,640
+por conta da aquisição do Banco Cupã.
+
+248
+00:18:37,640 --> 00:18:42,160
+As despesas administrativas cresceram 4%.
+
+249
+00:18:44,120 --> 00:18:46,620
+Temos aí o impacto
+
+250
+00:18:46,620 --> 00:18:51,320
+da adição da participação do Banco Cupã.
+
+251
+00:18:51,840 --> 00:18:54,260
+A amortização de ágio,
+
+252
+00:18:54,320 --> 00:18:55,260
+8%,
+
+253
+00:18:55,260 --> 00:18:57,620
+por conta da aquisição do Banco Cupã.
+
+254
+00:18:57,780 --> 00:18:58,720
+Em geral,
+
+255
+00:18:59,740 --> 00:19:00,760
+as despesas,
+
+256
+00:19:00,760 --> 00:19:05,820
+o índice de eficiência permaneceu no mesmo patamar.
+
+257
+00:19:09,240 --> 00:19:10,540
+E agora,
+
+258
+00:19:10,540 --> 00:19:14,180
+olhando para o nosso balanço patrimonial na página 19,
+
+259
+00:19:14,180 --> 00:19:18,000
+vemos que o total de ativos cresceu 5%,
+
+260
+00:19:19,800 --> 00:19:23,300
+atingindo 845 bilhões de reais.
+
+261
+00:19:23,300 --> 00:19:28,400
+nossos níveis de liquidez sólidos,
+
+262
+00:19:28,420 --> 00:19:32,620
+com 84 bilhões em caixa e equivalentes de caixa.
+
+263
+00:19:34,800 --> 00:19:37,320
+Nós temos agora também
+
+264
+00:19:37,320 --> 00:19:42,180
+o índice de cobertura que permaneceu em 186%.
+
+265
+00:19:42,180 --> 00:19:46,120
+A nossa carteira de crédito total,
+
+266
+00:19:46,880 --> 00:19:49,300
+incluindo as pequenas e médias empresas
+
+267
+00:19:49,300 --> 00:19:53,080
+e o portfólio de Consumer Finance,
+
+268
+00:19:53,400 --> 00:19:56,420
+representando 4,8 vezes o patrimônio líquido.
+
+269
+00:19:56,520 --> 00:19:57,040
+E agora,
+
+270
+00:19:57,680 --> 00:20:01,060
+nós olhamos para a nossa base de Insecured Funding.
+
+271
+00:20:01,360 --> 00:20:03,380
+Nós vemos que a base de funding
+
+272
+00:20:05,500 --> 00:20:08,400
+atingiu 207 milhões de reais,
+
+273
+00:20:08,400 --> 00:20:12,220
+uma expansão forte no trimestre.
+
+274
+00:20:13,160 --> 00:20:15,460
+O crescimento veio,
+
+275
+00:20:15,760 --> 00:20:18,060
+principalmente do mercado doméstico,
+
+276
+00:20:18,340 --> 00:20:19,840
+com emissões e aí,
+
+277
+00:20:20,140 --> 00:20:22,200
+depósitos a prazo,
+
+278
+00:20:24,780 --> 00:20:26,620
+que atingiram...
+
+279
+00:20:29,120 --> 00:20:33,760
+Nós emitimos 3,1 bilhões em notas subordinadas,
+
+280
+00:20:33,880 --> 00:20:35,840
+reforçando a base de capital,
+
+281
+00:20:36,720 --> 00:20:39,540
+com notas subordinadas de 10 anos.
+
+282
+00:20:39,700 --> 00:20:42,580
+Isso fortaleceu a nossa base de capital.
+
+283
+00:20:42,820 --> 00:20:45,520
+E nosso componente de varejo
+
+284
+00:20:45,520 --> 00:20:50,920
+permaneceu estável em 29% da base total.
+
+285
+00:20:51,720 --> 00:20:56,140
+Os depósitos a prazo cresceram também em linha
+
+286
+00:20:56,140 --> 00:21:01,800
+e agora representam 6,5% da base de funding.
+
+287
+00:21:01,800 --> 00:21:04,640
+E agora, olhando para o índice de Basileia,
+
+288
+00:21:04,640 --> 00:21:05,720
+na página 21,
+
+289
+00:21:06,640 --> 00:21:08,010
+vemos aí o nosso...
+
+290
+00:21:10,880 --> 00:21:12,200
+O capital...
+
+291
+00:21:12,200 --> 00:21:16,280
+O índice de Basileia atingiu 15,9% no trimestre,
+
+292
+00:21:16,520 --> 00:21:19,800
+impulsionado pela emissão das notas subordinadas
+
+293
+00:21:20,340 --> 00:21:21,720
+e do capital...
+
+294
+00:21:21,720 --> 00:21:24,440
+Que contribuíram para o aumento do capital nível 2,
+
+295
+00:21:24,580 --> 00:21:25,620
+como eu já mencionei.
+
+296
+00:21:25,620 --> 00:21:31,260
+E também o capital de nível 1 aumentou em 10%.
+
+297
+00:21:31,260 --> 00:21:37,360
+O nosso VAR se reduziu para 0,32%,
+
+298
+00:21:37,360 --> 00:21:40,680
+com nossa abordagem mais conservadora,
+
+299
+00:21:40,680 --> 00:21:44,860
+por conta do mercado mais volátil ao final do trimestre.
+
+300
+00:21:45,020 --> 00:21:46,280
+Então, como o Roberto mencionou,
+
+301
+00:21:46,740 --> 00:21:49,920
+resultados muito fortes e sólidos mesmo
+
+302
+00:21:49,920 --> 00:21:54,340
+em um mercado volátil que mostra a nossa resiliência
+
+303
+00:21:54,340 --> 00:21:57,980
+e nossa habilidade de navegar de forma lucrativa
+
+304
+00:21:57,980 --> 00:22:00,660
+em cenários desafiadores.
+
+305
+00:22:00,800 --> 00:22:02,760
+Eu acho que com isso nós podemos abrir
+
+306
+00:22:02,760 --> 00:22:05,040
+para a sessão de perguntas e respostas.
+
+307
+00:22:07,340 --> 00:22:11,780
+Agora abrimos a palavra para perguntas de investidores e analistas.
+
+308
+00:22:11,980 --> 00:22:14,820
+Se você tiver alguma pergunta, clique em levantar a mão.
+
+309
+00:22:14,820 --> 00:22:19,100
+A primeira pergunta vem de Renato Meloni,
+
+310
+00:22:20,510 --> 00:22:22,300
+como pesquisador autônomo.
+
+311
+00:22:22,620 --> 00:22:23,680
+Por favor, prossiga.
+
+312
+00:22:25,640 --> 00:22:27,140
+Olá a todos.
+
+313
+00:22:27,420 --> 00:22:28,660
+Renato aqui.
+
+314
+00:22:29,320 --> 00:22:30,820
+Muito obrigado pela...
+
+315
+00:22:31,420 --> 00:22:32,960
+Admitindo a minha pergunta
+
+316
+00:22:32,960 --> 00:22:34,140
+e parabéns pelos resultados.
+
+317
+00:22:34,720 --> 00:22:37,040
+Salute, você falou que o ECM
+
+318
+00:22:37,040 --> 00:22:40,580
+em março teve essa volatilidade.
+
+319
+00:22:40,580 --> 00:22:44,160
+Eu queria ver se você tem uma perspectiva
+
+320
+00:22:44,160 --> 00:22:46,100
+de uma retomada no segundo trimestre
+
+321
+00:22:46,100 --> 00:22:48,540
+e as perspectivas para o resto do ano.
+
+322
+00:22:49,200 --> 00:22:51,240
+Se você puder também fazer comentários
+
+323
+00:22:51,240 --> 00:22:53,000
+sobre ECM em geral,
+
+324
+00:22:53,940 --> 00:22:55,620
+porque a gente vê algumas transações,
+
+325
+00:22:56,940 --> 00:22:58,540
+algumas empresas aí.
+
+326
+00:22:58,880 --> 00:23:02,060
+Como que a gente espera que as coisas aconteçam?
+
+327
+00:23:02,160 --> 00:23:02,760
+Então, muito obrigado.
+
+328
+00:23:03,540 --> 00:23:04,740
+Obrigado, Renato.
+
+329
+00:23:05,220 --> 00:23:08,380
+Olha, sempre é muito difícil fazer previsões.
+
+330
+00:23:08,380 --> 00:23:12,580
+Então, eu acho que veremos o DCM
+
+331
+00:23:12,580 --> 00:23:16,280
+que teve um março muito fraco.
+
+332
+00:23:16,540 --> 00:23:19,980
+Talvez uma retomada aconteça no trimestre 3.
+
+333
+00:23:20,400 --> 00:23:22,140
+E a gente está motivado
+
+334
+00:23:22,140 --> 00:23:24,420
+pelo que a gente está vendo no mercado patrimonial.
+
+335
+00:23:24,620 --> 00:23:26,380
+Tivemos captações significativas.
+
+336
+00:23:27,180 --> 00:23:28,620
+Aí na Latam.
+
+337
+00:23:29,540 --> 00:23:31,620
+E os mercados regionais em geral.
+
+338
+00:23:32,240 --> 00:23:34,300
+Isso diminuiu um pouquinho recentemente,
+
+339
+00:23:34,440 --> 00:23:35,820
+mas como eu mencionei,
+
+340
+00:23:35,820 --> 00:23:38,560
+a gente fez o nosso primeiro IPO em cinco anos.
+
+341
+00:23:38,780 --> 00:23:40,780
+Então, nós estamos motivados
+
+342
+00:23:40,780 --> 00:23:43,240
+pela tendência aí no ECM.
+
+343
+00:23:43,700 --> 00:23:47,060
+Eu acho que nós ainda teremos um trimestre fraco,
+
+344
+00:23:47,100 --> 00:23:48,080
+no segundo trimestre,
+
+345
+00:23:48,180 --> 00:23:49,020
+mas depois retoma.
+
+346
+00:23:49,320 --> 00:23:50,460
+E um follow-up.
+
+347
+00:23:50,580 --> 00:23:52,220
+Por favor, você pode nos dar
+
+348
+00:23:56,940 --> 00:24:00,040
+uma ideia sobre os impactos das receitas?
+
+349
+00:24:00,040 --> 00:24:01,560
+Como que isso vai acontecer?
+
+350
+00:24:01,700 --> 00:24:03,930
+Vai decair agora no trimestre 2?
+
+351
+00:24:05,010 --> 00:24:06,930
+Não, a gente não espera
+
+352
+00:24:07,650 --> 00:24:10,930
+que os nossos índices sejam únicos.
+
+353
+00:24:11,770 --> 00:24:14,030
+Eu acho que a gente volta à média
+
+354
+00:24:14,030 --> 00:24:15,310
+que nós temos visto
+
+355
+00:24:17,750 --> 00:24:20,210
+com o desenvolvimento de negócios,
+
+356
+00:24:20,390 --> 00:24:25,170
+mas não esperamos assim
+
+357
+00:24:25,170 --> 00:24:27,970
+que repita-se essa quantidade de receitas.
+
+358
+00:24:28,250 --> 00:24:30,110
+Ok, muito obrigado pelas respostas.
+
+359
+00:24:31,370 --> 00:24:35,290
+A próxima pergunta vem de Daniel Vaz,
+
+360
+00:24:35,550 --> 00:24:36,850
+do Safra.
+
+361
+00:24:37,030 --> 00:24:38,030
+Por favor, prossiga.
+
+362
+00:24:39,650 --> 00:24:42,050
+Olá, olá, salute com.
+
+363
+00:24:42,530 --> 00:24:43,290
+Olá a todos.
+
+364
+00:24:43,490 --> 00:24:44,690
+Parabéns pelos resultados.
+
+365
+00:24:45,090 --> 00:24:46,490
+Eu tenho duas perguntas
+
+366
+00:24:46,490 --> 00:24:48,830
+sobre consumer finance.
+
+367
+00:24:48,990 --> 00:24:52,090
+Essa vertical teve um trimestre muito positivo.
+
+368
+00:24:54,450 --> 00:24:57,090
+eu tenho visto aí essas oportunidades
+
+369
+00:24:57,790 --> 00:25:00,650
+no varejo, em todas as minhas interações,
+
+370
+00:25:00,770 --> 00:25:02,270
+então é bom ver os resultados.
+
+371
+00:25:02,910 --> 00:25:06,310
+E sobre o consignado,
+
+372
+00:25:06,850 --> 00:25:08,370
+a gente vê alguns relatórios
+
+373
+00:25:08,370 --> 00:25:11,270
+sobre o custo do risco do produto
+
+374
+00:25:11,270 --> 00:25:14,110
+no primeiro trimestre.
+
+375
+00:25:14,110 --> 00:25:15,390
+Eu queria saber
+
+376
+00:25:15,390 --> 00:25:19,810
+como as safras de vocês estão performando
+
+377
+00:25:19,810 --> 00:25:22,270
+e se vocês acham tudo bem
+
+378
+00:25:22,270 --> 00:25:24,890
+trabalhar com estes níveis de risco aí.
+
+379
+00:25:25,310 --> 00:25:27,830
+Essas safras estão dando confiança
+
+380
+00:25:27,830 --> 00:25:29,290
+para vocês acelerarem?
+
+381
+00:25:29,450 --> 00:25:31,830
+Ou é importante refletir um pouquinho mais
+
+382
+00:25:31,830 --> 00:25:33,370
+e revisar as coisas?
+
+383
+00:25:33,570 --> 00:25:35,030
+E a segunda pergunta é
+
+384
+00:25:35,030 --> 00:25:36,510
+sobre o meu tudo.
+
+385
+00:25:36,810 --> 00:25:39,210
+A aquisição foi concluída em abril
+
+386
+00:25:39,210 --> 00:25:42,030
+e eu acho que este trimestre
+
+387
+00:25:42,030 --> 00:25:43,630
+realmente não reflete
+
+388
+00:25:43,630 --> 00:25:45,370
+a consolidação econômica
+
+389
+00:25:45,370 --> 00:25:46,790
+para este negócio.
+
+390
+00:25:47,030 --> 00:25:48,770
+Alguma dica aí
+
+391
+00:25:48,770 --> 00:25:50,390
+sobre a contribuição
+
+392
+00:25:50,390 --> 00:25:52,470
+que o meu tudo dará
+
+393
+00:25:52,470 --> 00:25:53,450
+para esta vertical
+
+394
+00:25:53,450 --> 00:25:55,170
+de consumer finance?
+
+395
+00:25:56,560 --> 00:25:58,910
+Bom, começando com a segunda pergunta.
+
+396
+00:25:59,390 --> 00:26:01,010
+Os números incluem
+
+397
+00:26:01,010 --> 00:26:02,950
+nossa participação
+
+398
+00:26:02,950 --> 00:26:06,210
+no portfólio originado pelo meu tudo,
+
+399
+00:26:06,310 --> 00:26:07,750
+mas não temos receitas
+
+400
+00:26:07,750 --> 00:26:08,810
+atribuídas ainda
+
+401
+00:26:08,810 --> 00:26:10,190
+isso vai começar aí
+
+402
+00:26:10,190 --> 00:26:11,630
+no segundo trimestre.
+
+403
+00:26:12,890 --> 00:26:15,410
+E a gente está bem feliz
+
+404
+00:26:15,410 --> 00:26:16,470
+com a transação.
+
+405
+00:26:18,580 --> 00:26:20,510
+A gente acha que é
+
+406
+00:26:21,630 --> 00:26:23,490
+um cenário aí fantástico.
+
+407
+00:26:23,590 --> 00:26:25,410
+E sobre os consignados,
+
+408
+00:26:25,990 --> 00:26:28,770
+até agora estamos satisfeitos.
+
+409
+00:26:29,130 --> 00:26:32,790
+Tudo tem sido bem aderente
+
+410
+00:26:32,790 --> 00:26:34,750
+ao nosso underwriting,
+
+411
+00:26:35,030 --> 00:26:35,870
+a performance,
+
+412
+00:26:35,870 --> 00:26:37,850
+se os custos,
+
+413
+00:26:37,970 --> 00:26:39,510
+tudo reflete o que a gente
+
+414
+00:26:40,630 --> 00:26:41,210
+esperava.
+
+415
+00:26:41,710 --> 00:26:43,370
+Então, eu acho que isso é devido
+
+416
+00:26:43,370 --> 00:26:44,750
+provavelmente à diferença
+
+417
+00:26:44,750 --> 00:26:46,210
+quando a gente analisa
+
+418
+00:26:46,210 --> 00:26:47,210
+o que está acontecendo
+
+419
+00:26:47,210 --> 00:26:47,800
+no mercado.
+
+420
+00:26:49,260 --> 00:26:50,700
+algumas perguntas,
+
+421
+00:26:50,720 --> 00:26:52,380
+algumas perguntas não diferenciam
+
+422
+00:26:52,380 --> 00:26:54,380
+muito bem sobre
+
+423
+00:26:54,380 --> 00:26:56,500
+como alguns clusters
+
+424
+00:26:56,500 --> 00:26:58,740
+estão classificados
+
+425
+00:26:58,740 --> 00:27:00,260
+tão fracamente,
+
+426
+00:27:00,640 --> 00:27:01,780
+mas a gente até agora
+
+427
+00:27:01,780 --> 00:27:03,240
+está bem satisfeito
+
+428
+00:27:03,240 --> 00:27:04,260
+com os resultados.
+
+429
+00:27:05,780 --> 00:27:10,460
+claro que tivemos desafios operacionais
+
+430
+00:27:10,460 --> 00:27:11,600
+aí no começo,
+
+431
+00:27:11,800 --> 00:27:13,240
+mas conforme o tempo passa
+
+432
+00:27:13,240 --> 00:27:15,720
+estamos fortalecendo aí nessa área.
+
+433
+00:27:15,940 --> 00:27:17,420
+E se você puder também
+
+434
+00:27:17,420 --> 00:27:19,480
+dar um pouco de ideia
+
+435
+00:27:19,480 --> 00:27:21,460
+sobre o risco de...
+
+436
+00:27:22,100 --> 00:27:23,700
+o custo do risco,
+
+437
+00:27:24,440 --> 00:27:26,160
+eu acho que as receitas
+
+438
+00:27:26,160 --> 00:27:27,140
+já estão livres aí
+
+439
+00:27:27,140 --> 00:27:27,980
+do risco de custo.
+
+440
+00:27:27,980 --> 00:27:28,780
+sim, sim,
+
+441
+00:27:28,800 --> 00:27:30,080
+já estão livres.
+
+442
+00:27:30,580 --> 00:27:32,020
+E também das
+
+443
+00:27:32,020 --> 00:27:33,000
+operações...
+
+444
+00:27:33,000 --> 00:27:33,760
+das despesas
+
+445
+00:27:33,760 --> 00:27:35,500
+operacionais.
+
+446
+00:27:37,140 --> 00:27:38,820
+Ok, muito obrigado.
+
+447
+00:27:39,160 --> 00:27:39,680
+Muito obrigado.
+
+448
+00:27:42,200 --> 00:27:44,160
+A próxima pergunta
+
+449
+00:27:44,160 --> 00:27:46,500
+vem de Arno Schrasse
+
+450
+00:27:46,500 --> 00:27:47,420
+do Citi.
+
+451
+00:27:47,900 --> 00:27:49,080
+Por favor, prossiga.
+
+452
+00:27:50,720 --> 00:27:52,420
+Olá, bom dia a todos.
+
+453
+00:27:52,760 --> 00:27:54,660
+Parabéns pelos resultados.
+
+454
+00:27:55,400 --> 00:27:56,620
+Minha pergunta é sobre
+
+455
+00:27:56,620 --> 00:27:58,060
+o asset quality
+
+456
+00:27:59,040 --> 00:28:00,760
+ligado aí ao estágio 2
+
+457
+00:28:00,760 --> 00:28:02,220
+incluído neste trimestre.
+
+458
+00:28:02,500 --> 00:28:04,380
+Eu imagino o que está por trás disso.
+
+459
+00:28:04,480 --> 00:28:05,480
+Tem alguma coisa aí
+
+460
+00:28:05,480 --> 00:28:07,560
+ligada a alguma aquisição
+
+461
+00:28:07,560 --> 00:28:09,020
+ou tem...
+
+462
+00:28:09,020 --> 00:28:11,500
+ou é um impacto único?
+
+463
+00:28:14,680 --> 00:28:15,280
+Desculpa,
+
+464
+00:28:15,360 --> 00:28:16,400
+eu não sei se eu entendi.
+
+465
+00:28:16,400 --> 00:28:18,400
+Você falou sobre o estágio 2
+
+466
+00:28:18,400 --> 00:28:19,240
+e estágio 3?
+
+467
+00:28:19,380 --> 00:28:20,660
+Você pode repetir a pergunta?
+
+468
+00:28:21,100 --> 00:28:21,660
+Sim, claro.
+
+469
+00:28:21,900 --> 00:28:22,660
+Estágio 2
+
+470
+00:28:22,660 --> 00:28:23,840
+e estágio 3.
+
+471
+00:28:25,240 --> 00:28:26,620
+Como parte do
+
+472
+00:28:26,620 --> 00:28:27,860
+portfólio total,
+
+473
+00:28:28,460 --> 00:28:28,880
+então,
+
+474
+00:28:30,100 --> 00:28:32,020
+diz que aumentou 7%
+
+475
+00:28:32,020 --> 00:28:33,540
+neste primeiro trimestre.
+
+476
+00:28:33,820 --> 00:28:34,420
+Então, eu quero saber
+
+477
+00:28:34,420 --> 00:28:35,360
+o que está por trás
+
+478
+00:28:35,360 --> 00:28:36,200
+deste aumento.
+
+479
+00:28:37,600 --> 00:28:39,040
+Eu acho
+
+480
+00:28:39,040 --> 00:28:39,660
+que
+
+481
+00:28:39,660 --> 00:28:41,520
+não aumentou.
+
+482
+00:28:42,500 --> 00:28:43,220
+Assim,
+
+483
+00:28:43,560 --> 00:28:43,760
+bom,
+
+484
+00:28:43,840 --> 00:28:45,240
+aumento é que o portfólio
+
+485
+00:28:45,240 --> 00:28:45,940
+cresceu
+
+486
+00:28:45,940 --> 00:28:47,700
+em linha com isso.
+
+487
+00:28:47,700 --> 00:28:48,300
+então,
+
+488
+00:28:48,500 --> 00:28:50,200
+nós temos o crescimento
+
+489
+00:28:50,200 --> 00:28:50,900
+do portfólio
+
+490
+00:28:50,900 --> 00:28:51,540
+do Banco Pan
+
+491
+00:28:51,540 --> 00:28:52,560
+que
+
+492
+00:28:54,180 --> 00:28:54,940
+tem aí
+
+493
+00:28:54,940 --> 00:28:56,300
+um componente maior
+
+494
+00:28:56,300 --> 00:28:57,780
+aí no estágio 2 e 3.
+
+495
+00:28:58,800 --> 00:28:59,380
+Então,
+
+496
+00:28:59,500 --> 00:29:00,180
+é um mix,
+
+497
+00:29:00,560 --> 00:29:00,680
+né?
+
+498
+00:29:00,780 --> 00:29:01,480
+Se a gente
+
+499
+00:29:02,760 --> 00:29:03,340
+tiver
+
+500
+00:29:05,780 --> 00:29:06,360
+uma...
+
+501
+00:29:06,360 --> 00:29:07,900
+um share maior
+
+502
+00:29:12,460 --> 00:29:13,340
+dentro do
+
+503
+00:29:14,260 --> 00:29:15,200
+portfólio total
+
+504
+00:29:15,200 --> 00:29:16,060
+aí da parte do
+
+505
+00:29:16,060 --> 00:29:17,140
+Consumer Finance
+
+506
+00:29:17,140 --> 00:29:18,960
+que chegou
+
+507
+00:29:18,960 --> 00:29:19,900
+de 82%
+
+508
+00:29:19,900 --> 00:29:20,920
+a 100%.
+
+509
+00:29:20,920 --> 00:29:21,160
+Então,
+
+510
+00:29:21,300 --> 00:29:21,720
+a gente tem
+
+511
+00:29:21,720 --> 00:29:22,560
+esse impacto.
+
+512
+00:29:22,720 --> 00:29:22,800
+Mas,
+
+513
+00:29:22,900 --> 00:29:23,840
+quando você olha
+
+514
+00:29:23,840 --> 00:29:27,560
+para as partes
+
+515
+00:29:27,560 --> 00:29:28,800
+em separado,
+
+516
+00:29:29,020 --> 00:29:30,540
+você não verá
+
+517
+00:29:30,540 --> 00:29:31,600
+um aumento.
+
+518
+00:29:31,940 --> 00:29:32,080
+Então,
+
+519
+00:29:32,160 --> 00:29:32,840
+a gente apenas
+
+520
+00:29:32,840 --> 00:29:33,980
+adicionou
+
+521
+00:29:34,840 --> 00:29:36,380
+20% adicional
+
+522
+00:29:36,380 --> 00:29:36,760
+aí do
+
+523
+00:29:36,760 --> 00:29:37,720
+Consumer Finance
+
+524
+00:29:37,720 --> 00:29:38,360
+para os números
+
+525
+00:29:38,360 --> 00:29:38,960
+totais.
+
+526
+00:29:39,160 --> 00:29:40,160
+E a razão
+
+527
+00:29:40,160 --> 00:29:41,820
+pela qual você vê
+
+528
+00:29:41,820 --> 00:29:42,660
+este aumento
+
+529
+00:29:42,660 --> 00:29:43,200
+é essa.
+
+530
+00:29:44,540 --> 00:29:45,540
+Ah,
+
+531
+00:29:45,760 --> 00:29:46,340
+entendi,
+
+532
+00:29:46,580 --> 00:29:47,100
+entendi.
+
+533
+00:29:47,720 --> 00:29:48,320
+Eu pensei
+
+534
+00:29:48,320 --> 00:29:49,100
+que era em termos
+
+535
+00:29:49,100 --> 00:29:50,100
+de provisões
+
+536
+00:29:50,100 --> 00:29:51,200
+o aumento
+
+537
+00:29:51,200 --> 00:29:53,460
+para este
+
+538
+00:29:53,460 --> 00:29:54,300
+portfólio.
+
+539
+00:29:56,540 --> 00:29:57,540
+É,
+
+540
+00:29:57,800 --> 00:29:58,360
+eu acho
+
+541
+00:29:58,360 --> 00:29:58,860
+que
+
+542
+00:29:58,860 --> 00:30:01,080
+as provisões
+
+543
+00:30:01,080 --> 00:30:02,500
+estão alinhadas
+
+544
+00:30:02,500 --> 00:30:04,400
+também
+
+545
+00:30:04,400 --> 00:30:05,200
+com os tipos
+
+546
+00:30:05,200 --> 00:30:06,240
+de crédito
+
+547
+00:30:07,820 --> 00:30:09,520
+que você tem.
+
+548
+00:30:13,140 --> 00:30:13,800
+então,
+
+549
+00:30:14,100 --> 00:30:15,080
+quando você
+
+550
+00:30:15,080 --> 00:30:17,060
+pega o Banco Pan,
+
+551
+00:30:17,280 --> 00:30:17,740
+o portfólio
+
+552
+00:30:17,740 --> 00:30:18,380
+do Banco Pan,
+
+553
+00:30:19,240 --> 00:30:20,320
+ele tem
+
+554
+00:30:20,320 --> 00:30:20,700
+um,
+
+555
+00:30:22,460 --> 00:30:23,120
+um,
+
+556
+00:30:24,840 --> 00:30:25,980
+uma jornada
+
+557
+00:30:25,980 --> 00:30:26,340
+inicial
+
+558
+00:30:28,080 --> 00:30:29,280
+mais sólida,
+
+559
+00:30:29,280 --> 00:30:29,520
+assim,
+
+560
+00:30:29,580 --> 00:30:30,000
+do que o
+
+561
+00:30:30,000 --> 00:30:30,480
+Corporate
+
+562
+00:30:30,480 --> 00:30:30,780
+Landing.
+
+563
+00:30:31,020 --> 00:30:31,140
+Então,
+
+564
+00:30:31,520 --> 00:30:32,300
+quando a gente
+
+565
+00:30:32,300 --> 00:30:34,420
+aumenta em 20%
+
+566
+00:30:34,420 --> 00:30:35,480
+da nossa participação
+
+567
+00:30:35,480 --> 00:30:36,980
+no Banco Pan,
+
+568
+00:30:36,980 --> 00:30:38,220
+este impacto
+
+569
+00:30:38,220 --> 00:30:39,020
+acontece,
+
+570
+00:30:39,200 --> 00:30:39,300
+né?
+
+571
+00:30:39,740 --> 00:30:39,960
+Sim,
+
+572
+00:30:40,180 --> 00:30:40,360
+sim,
+
+573
+00:30:40,500 --> 00:30:40,780
+tá bom,
+
+574
+00:30:40,920 --> 00:30:41,180
+obrigado.
+
+575
+00:30:45,900 --> 00:30:47,220
+E a próxima
+
+576
+00:30:47,220 --> 00:30:47,860
+pergunta
+
+577
+00:30:47,860 --> 00:30:48,440
+vem
+
+578
+00:30:48,440 --> 00:30:50,920
+de Guilherme
+
+579
+00:30:50,920 --> 00:30:51,800
+Grispen,
+
+580
+00:30:51,980 --> 00:30:53,420
+do JP Morgan.
+
+581
+00:30:53,880 --> 00:30:54,340
+Por favor,
+
+582
+00:30:54,440 --> 00:30:54,900
+prossiga.
+
+583
+00:30:57,320 --> 00:30:57,940
+Bom dia,
+
+584
+00:30:58,200 --> 00:30:58,620
+salute,
+
+585
+00:30:59,020 --> 00:30:59,440
+Renato,
+
+586
+00:30:59,540 --> 00:31:00,220
+obrigado pela
+
+587
+00:31:00,220 --> 00:31:01,100
+apresentação,
+
+588
+00:31:01,240 --> 00:31:02,180
+parabéns.
+
+589
+00:31:02,180 --> 00:31:03,900
+e um follow-up
+
+590
+00:31:03,900 --> 00:31:04,440
+sobre o
+
+591
+00:31:04,440 --> 00:31:06,240
+Consumer Banking,
+
+592
+00:31:06,380 --> 00:31:07,260
+essa opcionalidade,
+
+593
+00:31:07,380 --> 00:31:07,960
+eu queria só
+
+594
+00:31:07,960 --> 00:31:09,220
+um follow-up
+
+595
+00:31:09,220 --> 00:31:10,380
+sobre as mudanças
+
+596
+00:31:10,380 --> 00:31:11,040
+regulatórias
+
+597
+00:31:11,040 --> 00:31:11,620
+que tivemos
+
+598
+00:31:11,620 --> 00:31:12,320
+recentemente,
+
+599
+00:31:12,380 --> 00:31:13,860
+a primeira foi
+
+600
+00:31:13,860 --> 00:31:15,280
+sobre o consignado
+
+601
+00:31:15,980 --> 00:31:17,160
+e eu não sei
+
+602
+00:31:17,160 --> 00:31:18,100
+se você pode,
+
+603
+00:31:20,260 --> 00:31:20,540
+né?
+
+604
+00:31:20,740 --> 00:31:21,280
+Agora nós
+
+605
+00:31:21,280 --> 00:31:21,920
+temos uma
+
+606
+00:31:21,920 --> 00:31:22,460
+fórmula
+
+607
+00:31:22,460 --> 00:31:24,180
+que limita
+
+608
+00:31:24,180 --> 00:31:24,440
+aí
+
+609
+00:31:24,440 --> 00:31:25,300
+as taxas
+
+610
+00:31:25,300 --> 00:31:25,880
+de juros,
+
+611
+00:31:26,040 --> 00:31:26,160
+então,
+
+612
+00:31:26,320 --> 00:31:27,080
+qual que é o apetite
+
+613
+00:31:27,080 --> 00:31:28,440
+para esse
+
+614
+00:31:28,440 --> 00:31:29,160
+segmento?
+
+615
+00:31:29,320 --> 00:31:30,220
+E também
+
+616
+00:31:30,220 --> 00:31:31,740
+a mudança
+
+617
+00:31:31,740 --> 00:31:32,440
+que veio
+
+618
+00:31:32,440 --> 00:31:33,460
+no consignado
+
+619
+00:31:33,460 --> 00:31:33,880
+que veio
+
+620
+00:31:33,880 --> 00:31:35,720
+com o desenrola,
+
+621
+00:31:36,440 --> 00:31:36,560
+né?
+
+622
+00:31:36,720 --> 00:31:37,220
+Para cá,
+
+623
+00:31:37,340 --> 00:31:38,420
+reduzir um pouco,
+
+624
+00:31:38,660 --> 00:31:39,380
+então você pode
+
+625
+00:31:39,380 --> 00:31:40,520
+talvez compensar
+
+626
+00:31:40,520 --> 00:31:41,100
+isso com
+
+627
+00:31:41,100 --> 00:31:42,740
+margens mais altas
+
+628
+00:31:42,740 --> 00:31:43,620
+para o consignado
+
+629
+00:31:43,620 --> 00:31:44,080
+tradicional,
+
+630
+00:31:44,240 --> 00:31:45,200
+mas do ponto de vista
+
+631
+00:31:45,200 --> 00:31:45,880
+do Banco Pan,
+
+632
+00:31:46,000 --> 00:31:46,480
+como que esses
+
+633
+00:31:46,480 --> 00:31:48,000
+movimentos impactam
+
+634
+00:31:48,000 --> 00:31:49,440
+o apetite
+
+635
+00:31:49,440 --> 00:31:50,520
+e o portfólio
+
+636
+00:31:50,520 --> 00:31:51,680
+de empréstimos?
+
+637
+00:31:51,940 --> 00:31:52,480
+Obrigado.
+
+638
+00:31:53,240 --> 00:31:53,520
+Bom,
+
+639
+00:31:53,640 --> 00:31:54,200
+primeiro
+
+640
+00:31:54,200 --> 00:31:54,860
+sobre
+
+641
+00:31:56,520 --> 00:31:57,640
+o cap,
+
+642
+00:31:57,820 --> 00:31:58,500
+o teto
+
+643
+00:31:58,500 --> 00:31:59,280
+aí do
+
+644
+00:32:00,600 --> 00:32:01,200
+consignado,
+
+645
+00:32:01,220 --> 00:32:02,300
+ele é
+
+646
+00:32:02,300 --> 00:32:03,440
+15%
+
+647
+00:32:03,440 --> 00:32:04,000
+da nossa
+
+648
+00:32:04,000 --> 00:32:04,720
+produção
+
+649
+00:32:04,720 --> 00:32:05,420
+nos
+
+650
+00:32:05,420 --> 00:32:06,520
+clusters
+
+651
+00:32:06,520 --> 00:32:07,120
+de risco
+
+652
+00:32:07,120 --> 00:32:08,140
+mais elevado,
+
+653
+00:32:08,440 --> 00:32:09,020
+então,
+
+654
+00:32:09,040 --> 00:32:09,680
+talvez a gente
+
+655
+00:32:09,680 --> 00:32:10,240
+realmente não
+
+656
+00:32:10,240 --> 00:32:10,840
+vai fazer
+
+657
+00:32:10,840 --> 00:32:12,300
+essas operações,
+
+658
+00:32:12,320 --> 00:32:12,580
+mas,
+
+659
+00:32:12,700 --> 00:32:13,280
+por enquanto,
+
+660
+00:32:13,500 --> 00:32:14,180
+não nos
+
+661
+00:32:14,180 --> 00:32:15,100
+afetou,
+
+662
+00:32:16,180 --> 00:32:16,780
+então,
+
+663
+00:32:17,000 --> 00:32:17,580
+dentro dos
+
+664
+00:32:17,580 --> 00:32:18,080
+diferentes
+
+665
+00:32:18,080 --> 00:32:18,900
+clusters
+
+666
+00:32:18,900 --> 00:32:19,700
+de risco
+
+667
+00:32:19,700 --> 00:32:19,940
+aí,
+
+668
+00:32:20,080 --> 00:32:20,860
+o segundo,
+
+669
+00:32:22,520 --> 00:32:23,720
+houve mudanças
+
+670
+00:32:23,720 --> 00:32:24,300
+aí com o
+
+671
+00:32:24,300 --> 00:32:25,100
+desenrola,
+
+672
+00:32:25,280 --> 00:32:26,100
+a primeira foi
+
+673
+00:32:26,100 --> 00:32:26,940
+a unificação
+
+674
+00:32:26,940 --> 00:32:27,520
+do limite,
+
+675
+00:32:27,520 --> 00:32:28,080
+o que eu
+
+676
+00:32:28,080 --> 00:32:28,760
+acho bem
+
+677
+00:32:28,760 --> 00:32:29,540
+saudável,
+
+678
+00:32:29,780 --> 00:32:30,860
+eu diria
+
+679
+00:32:30,860 --> 00:32:31,460
+que é
+
+680
+00:32:31,460 --> 00:32:32,240
+neutro,
+
+681
+00:32:34,360 --> 00:32:34,880
+levemente
+
+682
+00:32:34,880 --> 00:32:35,660
+positivo
+
+683
+00:32:35,660 --> 00:32:36,280
+aí para o Pan,
+
+684
+00:32:36,420 --> 00:32:36,860
+se você me
+
+685
+00:32:36,860 --> 00:32:37,440
+perguntar,
+
+686
+00:32:37,560 --> 00:32:37,620
+né,
+
+687
+00:32:37,680 --> 00:32:38,200
+e o segundo
+
+688
+00:32:38,200 --> 00:32:38,840
+é que com o
+
+689
+00:32:38,840 --> 00:32:39,200
+tempo,
+
+690
+00:32:41,260 --> 00:32:42,300
+o total
+
+691
+00:32:42,300 --> 00:32:43,040
+aí com o qual
+
+692
+00:32:43,040 --> 00:32:44,080
+nos comprometemos
+
+693
+00:32:44,080 --> 00:32:45,080
+vai se reduzir,
+
+694
+00:32:45,240 --> 00:32:46,160
+isso é o resultado
+
+695
+00:32:46,160 --> 00:32:46,780
+da produção
+
+696
+00:32:46,780 --> 00:32:47,620
+do mercado aí,
+
+697
+00:32:47,760 --> 00:32:47,820
+né,
+
+698
+00:32:47,900 --> 00:32:48,540
+neste tempo,
+
+699
+00:32:48,800 --> 00:32:49,860
+e esta
+
+700
+00:32:49,860 --> 00:32:50,500
+linha
+
+701
+00:32:50,500 --> 00:32:51,040
+não
+
+702
+00:32:51,580 --> 00:32:52,380
+é muito
+
+703
+00:32:52,940 --> 00:32:53,460
+significativa
+
+704
+00:32:53,460 --> 00:32:54,060
+para nós
+
+705
+00:32:54,060 --> 00:32:54,440
+nos
+
+706
+00:32:55,520 --> 00:32:55,920
+trimestres
+
+707
+00:32:56,820 --> 00:32:57,220
+passados,
+
+708
+00:32:57,360 --> 00:32:57,760
+mas a gente
+
+709
+00:32:57,760 --> 00:32:58,520
+espera crescer,
+
+710
+00:32:58,660 --> 00:32:59,020
+mas a gente
+
+711
+00:32:59,020 --> 00:32:59,760
+foi afetado
+
+712
+00:32:59,760 --> 00:33:00,600
+como o resto
+
+713
+00:33:00,600 --> 00:33:01,080
+do mercado,
+
+714
+00:33:01,240 --> 00:33:02,040
+mas pessoalmente
+
+715
+00:33:02,040 --> 00:33:02,540
+eu acho que
+
+716
+00:33:02,540 --> 00:33:02,920
+é algo bem
+
+717
+00:33:02,920 --> 00:33:03,720
+saudável
+
+718
+00:33:03,720 --> 00:33:04,980
+para a sociedade
+
+719
+00:33:04,980 --> 00:33:05,980
+como um
+
+720
+00:33:05,980 --> 00:33:06,680
+todo e para
+
+721
+00:33:06,680 --> 00:33:08,200
+o ambiente
+
+722
+00:33:08,200 --> 00:33:08,920
+macro,
+
+723
+00:33:09,080 --> 00:33:09,580
+eu acho
+
+724
+00:33:09,580 --> 00:33:10,060
+que,
+
+725
+00:33:11,820 --> 00:33:12,220
+bom,
+
+726
+00:33:12,380 --> 00:33:12,900
+pessoalmente
+
+727
+00:33:12,900 --> 00:33:13,520
+eu não gosto
+
+728
+00:33:13,520 --> 00:33:14,340
+de tetos,
+
+729
+00:33:14,480 --> 00:33:14,840
+eu acho que
+
+730
+00:33:14,840 --> 00:33:15,240
+o mercado
+
+731
+00:33:15,240 --> 00:33:16,480
+se regula,
+
+732
+00:33:17,920 --> 00:33:18,320
+então,
+
+733
+00:33:18,640 --> 00:33:18,820
+sabe,
+
+734
+00:33:18,940 --> 00:33:19,540
+com o mercado
+
+735
+00:33:19,540 --> 00:33:20,340
+de alto risco,
+
+736
+00:33:20,460 --> 00:33:21,060
+você às vezes
+
+737
+00:33:21,640 --> 00:33:22,040
+paga,
+
+738
+00:33:22,520 --> 00:33:23,320
+vai acabar
+
+739
+00:33:23,320 --> 00:33:25,240
+pagando taxas
+
+740
+00:33:25,240 --> 00:33:25,560
+de juros
+
+741
+00:33:25,560 --> 00:33:25,940
+maiores
+
+742
+00:33:25,940 --> 00:33:26,600
+em outro lugar
+
+743
+00:33:26,600 --> 00:33:27,680
+e as mudanças
+
+744
+00:33:27,680 --> 00:33:28,920
+no INSS
+
+745
+00:33:28,920 --> 00:33:30,500
+foram positivas,
+
+746
+00:33:30,780 --> 00:33:31,340
+ok,
+
+747
+00:33:31,840 --> 00:33:32,240
+e para
+
+748
+00:33:32,240 --> 00:33:33,080
+ficar claro,
+
+749
+00:33:33,480 --> 00:33:34,080
+eu imaginei
+
+750
+00:33:34,080 --> 00:33:34,680
+que os novos
+
+751
+00:33:34,680 --> 00:33:35,180
+tetos
+
+752
+00:33:35,180 --> 00:33:36,120
+são relacionados
+
+753
+00:33:36,120 --> 00:33:36,540
+a como
+
+754
+00:33:36,540 --> 00:33:36,960
+que você
+
+755
+00:33:36,960 --> 00:33:37,480
+liga
+
+756
+00:33:37,480 --> 00:33:38,100
+o seguro
+
+757
+00:33:38,100 --> 00:33:38,900
+ao produto,
+
+758
+00:33:39,420 --> 00:33:39,700
+acho que
+
+759
+00:33:39,700 --> 00:33:40,000
+isso não
+
+760
+00:33:40,000 --> 00:33:40,500
+afeta
+
+761
+00:33:40,500 --> 00:33:40,980
+o banco
+
+762
+00:33:40,980 --> 00:33:41,740
+PAM
+
+763
+00:33:41,740 --> 00:33:42,660
+ou consignado
+
+764
+00:33:42,660 --> 00:33:42,980
+que você
+
+765
+00:33:42,980 --> 00:33:43,360
+origina,
+
+766
+00:33:43,540 --> 00:33:43,700
+certo?
+
+767
+00:33:44,520 --> 00:33:44,980
+Não,
+
+768
+00:33:45,100 --> 00:33:45,160
+não,
+
+769
+00:33:45,460 --> 00:33:46,860
+nada significativo,
+
+770
+00:33:47,020 --> 00:33:47,460
+tudo dentro
+
+771
+00:33:47,460 --> 00:33:48,580
+dos parâmetros,
+
+772
+00:33:49,880 --> 00:33:50,240
+né,
+
+773
+00:33:50,840 --> 00:33:51,580
+nós temos
+
+774
+00:33:51,580 --> 00:33:52,940
+um produto,
+
+775
+00:33:52,940 --> 00:33:53,880
+aí que vai
+
+776
+00:33:53,880 --> 00:33:55,380
+ir ao vivo,
+
+777
+00:33:55,560 --> 00:33:56,020
+mas isso
+
+778
+00:33:56,020 --> 00:33:56,460
+nós vamos
+
+779
+00:33:56,460 --> 00:33:57,120
+adaptar
+
+780
+00:33:58,380 --> 00:33:59,460
+em breve.
+
+781
+00:34:00,160 --> 00:34:00,860
+A próxima
+
+782
+00:34:00,860 --> 00:34:01,820
+pergunta vem
+
+783
+00:34:01,820 --> 00:34:03,040
+de Marcelo
+
+784
+00:34:03,040 --> 00:34:03,940
+Mizrahi
+
+785
+00:34:04,940 --> 00:34:06,300
+do Bradesco,
+
+786
+00:34:06,360 --> 00:34:06,760
+PPI,
+
+787
+00:34:07,120 --> 00:34:07,900
+por favor,
+
+788
+00:34:08,020 --> 00:34:08,460
+prossiga.
+
+789
+00:34:10,660 --> 00:34:11,420
+Olá,
+
+790
+00:34:11,780 --> 00:34:12,440
+parabéns
+
+791
+00:34:12,440 --> 00:34:13,300
+pelos resultados,
+
+792
+00:34:13,700 --> 00:34:14,540
+muito fortes,
+
+793
+00:34:14,620 --> 00:34:15,080
+novamente,
+
+794
+00:34:15,520 --> 00:34:16,360
+minha pergunta
+
+795
+00:34:16,360 --> 00:34:17,340
+também é sobre
+
+796
+00:34:17,340 --> 00:34:18,560
+o Consumer Banking,
+
+797
+00:34:19,380 --> 00:34:19,900
+o Salute
+
+798
+00:34:19,900 --> 00:34:21,100
+falou sobre
+
+799
+00:34:22,440 --> 00:34:23,160
+a
+
+800
+00:34:24,160 --> 00:34:24,880
+consolidação
+
+801
+00:34:24,880 --> 00:34:25,660
+do portfólio
+
+802
+00:34:25,660 --> 00:34:26,320
+do meu
+
+803
+00:34:26,320 --> 00:34:26,540
+tudo,
+
+804
+00:34:26,720 --> 00:34:27,140
+mas não as
+
+805
+00:34:27,140 --> 00:34:27,720
+receitas,
+
+806
+00:34:27,820 --> 00:34:28,080
+então,
+
+807
+00:34:28,240 --> 00:34:28,580
+para mim,
+
+808
+00:34:28,800 --> 00:34:30,200
+o ritmo
+
+809
+00:34:30,200 --> 00:34:31,180
+desta
+
+810
+00:34:31,940 --> 00:34:32,660
+lucratividade
+
+811
+00:34:32,660 --> 00:34:33,420
+do
+
+812
+00:34:35,300 --> 00:34:36,740
+Consumer Banking
+
+813
+00:34:36,740 --> 00:34:37,760
+vai melhorar
+
+814
+00:34:37,760 --> 00:34:38,720
+muito no próximo
+
+815
+00:34:38,720 --> 00:34:39,300
+trimestre,
+
+816
+00:34:39,380 --> 00:34:39,480
+então,
+
+817
+00:34:39,540 --> 00:34:40,020
+minha pergunta
+
+818
+00:34:40,020 --> 00:34:41,300
+é se faz sentido
+
+819
+00:34:41,300 --> 00:34:43,080
+ver o NIMS
+
+820
+00:34:45,100 --> 00:34:46,540
+nesse trimestre
+
+821
+00:34:46,540 --> 00:34:47,120
+vai ser
+
+822
+00:34:47,120 --> 00:34:48,480
+mais alto
+
+823
+00:34:49,540 --> 00:34:50,500
+e também
+
+824
+00:34:50,500 --> 00:34:51,100
+nos próximos
+
+825
+00:34:51,100 --> 00:34:51,980
+trimestres também,
+
+826
+00:34:51,980 --> 00:34:52,760
+e sobre os
+
+827
+00:34:52,760 --> 00:34:53,680
+ajustes
+
+828
+00:34:53,680 --> 00:34:55,500
+na contabilidade
+
+829
+00:34:55,500 --> 00:34:56,480
+dos veículos,
+
+830
+00:34:56,740 --> 00:34:57,180
+minha pergunta
+
+831
+00:34:57,180 --> 00:34:58,120
+é quanto
+
+832
+00:34:58,120 --> 00:34:59,620
+foi o
+
+833
+00:34:59,620 --> 00:35:00,260
+impacto
+
+834
+00:35:00,260 --> 00:35:01,140
+na receita
+
+835
+00:35:01,140 --> 00:35:01,680
+devido a
+
+836
+00:35:01,680 --> 00:35:02,380
+esse ajuste,
+
+837
+00:35:02,440 --> 00:35:02,760
+obrigado.
+
+838
+00:35:05,460 --> 00:35:06,260
+Oi,
+
+839
+00:35:06,400 --> 00:35:07,100
+Marcelo,
+
+840
+00:35:08,780 --> 00:35:09,460
+você está
+
+841
+00:35:09,460 --> 00:35:10,140
+certo,
+
+842
+00:35:12,340 --> 00:35:13,140
+nós
+
+843
+00:35:13,140 --> 00:35:13,700
+não
+
+844
+00:35:13,700 --> 00:35:14,900
+registramos
+
+845
+00:35:14,900 --> 00:35:15,820
+as receitas
+
+846
+00:35:15,820 --> 00:35:17,400
+de acordo
+
+847
+00:35:17,400 --> 00:35:18,120
+do meu
+
+848
+00:35:18,120 --> 00:35:18,460
+tudo
+
+849
+00:35:18,460 --> 00:35:19,000
+no primeiro
+
+850
+00:35:19,000 --> 00:35:19,760
+trimestre,
+
+851
+00:35:20,140 --> 00:35:21,320
+porque a
+
+852
+00:35:21,320 --> 00:35:21,820
+transação
+
+853
+00:35:21,820 --> 00:35:22,860
+foi concluída
+
+854
+00:35:22,860 --> 00:35:23,580
+em abril,
+
+855
+00:35:23,760 --> 00:35:23,920
+então,
+
+856
+00:35:24,060 --> 00:35:24,400
+no segundo
+
+857
+00:35:24,400 --> 00:35:25,260
+trimestre
+
+858
+00:35:25,260 --> 00:35:26,060
+nós vamos
+
+859
+00:35:29,100 --> 00:35:29,900
+contabilizar
+
+860
+00:35:29,900 --> 00:35:30,260
+essas
+
+861
+00:35:30,260 --> 00:35:31,180
+transações,
+
+862
+00:35:31,400 --> 00:35:32,400
+essas receitas,
+
+863
+00:35:32,400 --> 00:35:33,060
+desculpe,
+
+864
+00:35:34,740 --> 00:35:35,500
+é difícil
+
+865
+00:35:35,500 --> 00:35:36,240
+dizer
+
+866
+00:35:37,580 --> 00:35:38,660
+a alíquota
+
+867
+00:35:38,660 --> 00:35:39,020
+do banco,
+
+868
+00:35:39,120 --> 00:35:39,420
+a taxa
+
+869
+00:35:39,420 --> 00:35:39,920
+do banco
+
+870
+00:35:39,920 --> 00:35:40,580
+provavelmente
+
+871
+00:35:40,580 --> 00:35:40,980
+vai ser
+
+872
+00:35:40,980 --> 00:35:41,800
+mais alta,
+
+873
+00:35:42,540 --> 00:35:43,220
+depende
+
+874
+00:35:43,220 --> 00:35:43,540
+do
+
+875
+00:35:43,540 --> 00:35:44,180
+como o
+
+876
+00:35:44,180 --> 00:35:45,000
+portfólio
+
+877
+00:35:45,000 --> 00:35:45,440
+vai se
+
+878
+00:35:45,440 --> 00:35:46,280
+desenvolver
+
+879
+00:35:46,280 --> 00:35:46,620
+durante
+
+880
+00:35:46,620 --> 00:35:47,460
+o segundo
+
+881
+00:35:47,460 --> 00:35:48,580
+trimestre,
+
+882
+00:35:48,740 --> 00:35:48,880
+a gente
+
+883
+00:35:48,880 --> 00:35:49,480
+espera
+
+884
+00:35:49,480 --> 00:35:50,240
+receitas
+
+885
+00:35:50,240 --> 00:35:51,280
+mais altas
+
+886
+00:35:51,280 --> 00:35:51,620
+durante
+
+887
+00:35:51,620 --> 00:35:52,000
+esse
+
+888
+00:35:52,000 --> 00:35:52,440
+segundo
+
+889
+00:35:52,440 --> 00:35:53,540
+trimestre,
+
+890
+00:35:53,700 --> 00:35:54,080
+e a segunda
+
+891
+00:35:54,080 --> 00:35:54,840
+pergunta,
+
+892
+00:35:55,180 --> 00:35:55,920
+eu não sei
+
+893
+00:35:55,920 --> 00:35:56,480
+se eu
+
+894
+00:35:56,480 --> 00:35:56,960
+entendi
+
+895
+00:35:56,960 --> 00:35:57,340
+direito,
+
+896
+00:35:57,500 --> 00:35:57,900
+você pode
+
+897
+00:35:57,900 --> 00:35:58,340
+repetir
+
+898
+00:35:58,340 --> 00:35:58,880
+por favor?
+
+899
+00:36:13,660 --> 00:36:14,340
+Marcelo,
+
+900
+00:36:14,560 --> 00:36:14,980
+a segunda
+
+901
+00:36:14,980 --> 00:36:15,560
+pergunta,
+
+902
+00:36:15,640 --> 00:36:16,140
+acho que se
+
+903
+00:36:16,140 --> 00:36:17,440
+relaciona
+
+904
+00:36:17,440 --> 00:36:18,120
+às provisões
+
+905
+00:36:18,120 --> 00:36:18,840
+para empréstimos
+
+906
+00:36:18,840 --> 00:36:20,020
+de veículos,
+
+907
+00:36:20,020 --> 00:36:22,020
+nós
+
+908
+00:36:23,960 --> 00:36:25,020
+geralmente
+
+909
+00:36:25,020 --> 00:36:25,500
+nós
+
+910
+00:36:25,500 --> 00:36:26,340
+revisamos
+
+911
+00:36:26,340 --> 00:36:27,840
+nossos
+
+912
+00:36:27,840 --> 00:36:28,700
+modelos
+
+913
+00:36:28,700 --> 00:36:29,020
+para
+
+914
+00:36:29,020 --> 00:36:30,280
+provisionamento
+
+915
+00:36:30,280 --> 00:36:32,240
+e aumentamos
+
+916
+00:36:32,240 --> 00:36:33,100
+um pouco
+
+917
+00:36:33,100 --> 00:36:33,640
+os níveis
+
+918
+00:36:33,640 --> 00:36:34,860
+de provisão
+
+919
+00:36:34,860 --> 00:36:35,400
+para o
+
+920
+00:36:35,400 --> 00:36:36,220
+portfólio
+
+921
+00:36:36,220 --> 00:36:37,360
+agora
+
+922
+00:36:37,360 --> 00:36:38,400
+no começo
+
+923
+00:36:38,400 --> 00:36:39,000
+do primeiro
+
+924
+00:36:39,000 --> 00:36:39,700
+trimestre,
+
+925
+00:36:39,760 --> 00:36:40,300
+então teve
+
+926
+00:36:40,300 --> 00:36:40,700
+um pequeno
+
+927
+00:36:40,700 --> 00:36:41,240
+efeito
+
+928
+00:36:41,240 --> 00:36:42,460
+por isso.
+
+929
+00:36:52,380 --> 00:36:53,500
+O impacto
+
+930
+00:36:53,500 --> 00:36:54,120
+foi mais
+
+931
+00:36:54,120 --> 00:36:54,600
+alto
+
+932
+00:36:54,600 --> 00:36:55,060
+do que
+
+933
+00:36:55,060 --> 00:36:56,360
+o impacto
+
+934
+00:36:56,360 --> 00:36:56,760
+único
+
+935
+00:36:56,760 --> 00:36:57,900
+dos seguros?
+
+936
+00:37:06,700 --> 00:37:07,900
+Eu acho
+
+937
+00:37:07,900 --> 00:37:08,240
+que
+
+938
+00:37:08,240 --> 00:37:09,500
+foi
+
+939
+00:37:09,500 --> 00:37:10,200
+um valor
+
+940
+00:37:10,200 --> 00:37:11,620
+semelhante,
+
+941
+00:37:11,820 --> 00:37:12,300
+Marcelo.
+
+942
+00:37:12,460 --> 00:37:12,800
+Ok,
+
+943
+00:37:13,000 --> 00:37:13,280
+obrigado,
+
+944
+00:37:13,540 --> 00:37:13,940
+obrigado.
+
+945
+00:37:18,200 --> 00:37:19,000
+Obrigado,
+
+946
+00:37:19,440 --> 00:37:20,100
+a próxima
+
+947
+00:37:20,100 --> 00:37:20,740
+pergunta
+
+948
+00:37:20,740 --> 00:37:21,480
+vem de
+
+949
+00:37:21,480 --> 00:37:22,360
+Antônio
+
+950
+00:37:22,360 --> 00:37:23,020
+Gureti
+
+951
+00:37:23,020 --> 00:37:23,400
+do
+
+952
+00:37:23,400 --> 00:37:24,960
+Bank of
+
+953
+00:37:24,960 --> 00:37:25,440
+America,
+
+954
+00:37:25,840 --> 00:37:26,420
+por favor
+
+955
+00:37:26,420 --> 00:37:27,060
+prossiga.
+
+956
+00:37:29,960 --> 00:37:30,760
+Olá,
+
+957
+00:37:31,180 --> 00:37:31,660
+obrigado,
+
+958
+00:37:32,520 --> 00:37:33,020
+a minha
+
+959
+00:37:33,020 --> 00:37:33,820
+pergunta
+
+960
+00:37:33,820 --> 00:37:34,620
+é sobre
+
+961
+00:37:34,620 --> 00:37:35,020
+a
+
+962
+00:37:35,020 --> 00:37:35,680
+qualidade
+
+963
+00:37:35,680 --> 00:37:37,020
+dos ativos,
+
+964
+00:37:37,160 --> 00:37:37,800
+você falou
+
+965
+00:37:37,800 --> 00:37:38,560
+já um pouco
+
+966
+00:37:38,560 --> 00:37:39,000
+sobre isso,
+
+967
+00:37:39,080 --> 00:37:39,360
+mas minha
+
+968
+00:37:39,360 --> 00:37:39,920
+pergunta
+
+969
+00:37:39,920 --> 00:37:41,020
+é,
+
+970
+00:37:41,220 --> 00:37:41,480
+bom,
+
+971
+00:37:41,480 --> 00:37:42,580
+nós tivemos
+
+972
+00:37:42,580 --> 00:37:43,140
+um,
+
+973
+00:37:44,920 --> 00:37:45,860
+os nossos
+
+974
+00:37:45,860 --> 00:37:46,560
+cinco primeiros
+
+975
+00:37:46,560 --> 00:37:47,160
+meses aqui
+
+976
+00:37:47,160 --> 00:37:49,040
+do ano,
+
+977
+00:37:49,160 --> 00:37:49,960
+nós tivemos
+
+978
+00:37:49,960 --> 00:37:50,760
+a guerra,
+
+979
+00:37:50,920 --> 00:37:51,620
+tivemos juros
+
+980
+00:37:51,620 --> 00:37:52,340
+altos,
+
+981
+00:37:52,420 --> 00:37:52,900
+minha pergunta
+
+982
+00:37:52,900 --> 00:37:53,480
+é como que
+
+983
+00:37:53,480 --> 00:37:54,140
+a qualidade
+
+984
+00:37:54,140 --> 00:37:55,000
+dos ativos
+
+985
+00:37:55,000 --> 00:37:55,540
+está se
+
+986
+00:37:55,540 --> 00:37:56,420
+comportando
+
+987
+00:37:56,420 --> 00:37:57,540
+comparado
+
+988
+00:37:57,540 --> 00:37:57,980
+às suas
+
+989
+00:37:57,980 --> 00:37:58,860
+expectativas
+
+990
+00:37:58,860 --> 00:37:59,220
+e o que
+
+991
+00:37:59,220 --> 00:38:00,260
+você espera
+
+992
+00:38:00,260 --> 00:38:01,320
+para os meses
+
+993
+00:38:01,320 --> 00:38:02,080
+que virão
+
+994
+00:38:02,080 --> 00:38:02,800
+e como que
+
+995
+00:38:02,800 --> 00:38:04,080
+vocês avaliam
+
+996
+00:38:04,080 --> 00:38:05,420
+as linhas
+
+997
+00:38:05,420 --> 00:38:06,080
+para as
+
+998
+00:38:06,080 --> 00:38:06,640
+pequenas e
+
+999
+00:38:06,640 --> 00:38:06,840
+médias
+
+1000
+00:38:06,840 --> 00:38:07,480
+empresas,
+
+1001
+00:38:08,820 --> 00:38:10,260
+as garantias
+
+1002
+00:38:10,260 --> 00:38:11,500
+dadas pelo
+
+1003
+00:38:11,500 --> 00:38:12,000
+governo
+
+1004
+00:38:12,000 --> 00:38:13,840
+e também
+
+1005
+00:38:14,660 --> 00:38:15,720
+se temos
+
+1006
+00:38:15,720 --> 00:38:16,700
+preocupações
+
+1007
+00:38:16,700 --> 00:38:17,340
+em relação
+
+1008
+00:38:17,340 --> 00:38:18,600
+aos débitos
+
+1009
+00:38:18,600 --> 00:38:19,200
+das
+
+1010
+00:38:19,200 --> 00:38:20,460
+pequenas e
+
+1011
+00:38:20,460 --> 00:38:20,640
+médias
+
+1012
+00:38:20,640 --> 00:38:21,260
+empresas,
+
+1013
+00:38:21,580 --> 00:38:22,280
+como que isso
+
+1014
+00:38:22,280 --> 00:38:23,100
+impacta
+
+1015
+00:38:23,100 --> 00:38:25,040
+e a taxa
+
+1016
+00:38:25,040 --> 00:38:25,780
+de juros,
+
+1017
+00:38:25,880 --> 00:38:26,280
+como que isso
+
+1018
+00:38:26,280 --> 00:38:26,940
+impacta
+
+1019
+00:38:26,940 --> 00:38:27,340
+essas
+
+1020
+00:38:27,340 --> 00:38:28,740
+empresas
+
+1021
+00:38:28,740 --> 00:38:29,120
+que têm
+
+1022
+00:38:29,120 --> 00:38:29,520
+garantias
+
+1023
+00:38:29,520 --> 00:38:29,940
+do governo.
+
+1024
+00:38:30,180 --> 00:38:30,760
+Obrigado.
+
+1025
+00:38:31,600 --> 00:38:32,420
+Obrigado.
+
+1026
+00:38:32,620 --> 00:38:32,720
+Bom,
+
+1027
+00:38:33,140 --> 00:38:34,100
+na verdade,
+
+1028
+00:38:34,780 --> 00:38:35,600
+nós
+
+1029
+00:38:35,600 --> 00:38:38,500
+já estivemos
+
+1030
+00:38:39,740 --> 00:38:40,560
+fazendo
+
+1031
+00:38:40,560 --> 00:38:41,200
+aí
+
+1032
+00:38:41,200 --> 00:38:42,200
+essa
+
+1033
+00:38:43,720 --> 00:38:44,540
+underwriting,
+
+1034
+00:38:44,860 --> 00:38:45,740
+essa originação
+
+1035
+00:38:45,740 --> 00:38:46,180
+aí,
+
+1036
+00:38:46,420 --> 00:38:47,260
+já com esse cenário
+
+1037
+00:38:47,260 --> 00:38:47,980
+em mente,
+
+1038
+00:38:48,480 --> 00:38:49,040
+a gente vê
+
+1039
+00:38:49,040 --> 00:38:49,740
+a performance
+
+1040
+00:38:49,740 --> 00:38:51,020
+do portfólio
+
+1041
+00:38:51,020 --> 00:38:52,400
+melhor
+
+1042
+00:38:52,400 --> 00:38:53,520
+do que a gente
+
+1043
+00:38:53,520 --> 00:38:54,580
+modelou
+
+1044
+00:38:54,580 --> 00:38:55,460
+tanto para
+
+1045
+00:38:55,460 --> 00:38:56,640
+o trimestre
+
+1046
+00:38:56,640 --> 00:38:58,380
+e do lado
+
+1047
+00:38:58,380 --> 00:38:59,580
+do consumer finance.
+
+1048
+00:38:59,580 --> 00:39:00,820
+e como você
+
+1049
+00:39:00,820 --> 00:39:01,860
+mencionou,
+
+1050
+00:39:02,000 --> 00:39:03,040
+neste primeiro
+
+1051
+00:39:03,040 --> 00:39:04,120
+trimestre,
+
+1052
+00:39:04,300 --> 00:39:04,700
+nos últimos
+
+1053
+00:39:04,700 --> 00:39:05,340
+meses,
+
+1054
+00:39:05,720 --> 00:39:06,060
+especialmente
+
+1055
+00:39:06,060 --> 00:39:06,500
+do lado
+
+1056
+00:39:06,500 --> 00:39:07,600
+corporativo,
+
+1057
+00:39:08,160 --> 00:39:08,400
+a gente
+
+1058
+00:39:08,400 --> 00:39:09,400
+teve alguns
+
+1059
+00:39:09,400 --> 00:39:10,480
+eventos aí,
+
+1060
+00:39:11,480 --> 00:39:12,440
+não tivemos
+
+1061
+00:39:12,440 --> 00:39:13,380
+uma exposição
+
+1062
+00:39:14,100 --> 00:39:14,820
+significativa
+
+1063
+00:39:14,820 --> 00:39:16,440
+a essas
+
+1064
+00:39:16,440 --> 00:39:17,080
+situações
+
+1065
+00:39:17,080 --> 00:39:17,620
+aí de
+
+1066
+00:39:17,620 --> 00:39:18,860
+high profile,
+
+1067
+00:39:19,040 --> 00:39:19,820
+de alto risco,
+
+1068
+00:39:19,920 --> 00:39:20,000
+né,
+
+1069
+00:39:20,360 --> 00:39:20,860
+relatadas,
+
+1070
+00:39:21,060 --> 00:39:21,700
+e do lado
+
+1071
+00:39:21,700 --> 00:39:22,840
+das PMEs,
+
+1072
+00:39:22,960 --> 00:39:23,800
+a gente ainda
+
+1073
+00:39:23,800 --> 00:39:24,320
+está
+
+1074
+00:39:26,200 --> 00:39:26,920
+nos
+
+1075
+00:39:28,320 --> 00:39:29,040
+recebíveis
+
+1076
+00:39:29,040 --> 00:39:29,560
+aí do
+
+1077
+00:39:29,560 --> 00:39:30,780
+credit card,
+
+1078
+00:39:30,960 --> 00:39:31,600
+do cartão
+
+1079
+00:39:31,600 --> 00:39:32,440
+de crédito,
+
+1080
+00:39:33,160 --> 00:39:34,340
+e no
+
+1081
+00:39:34,340 --> 00:39:36,100
+corporate finance,
+
+1082
+00:39:36,300 --> 00:39:36,440
+então,
+
+1083
+00:39:36,600 --> 00:39:36,860
+são
+
+1084
+00:39:37,620 --> 00:39:38,340
+garantidos
+
+1085
+00:39:38,340 --> 00:39:39,020
+pelo governo,
+
+1086
+00:39:39,280 --> 00:39:39,720
+não estamos
+
+1087
+00:39:39,720 --> 00:39:40,440
+aí nesses
+
+1088
+00:39:40,440 --> 00:39:41,320
+produtos,
+
+1089
+00:39:41,520 --> 00:39:41,860
+mas
+
+1090
+00:39:43,220 --> 00:39:44,660
+em pouco
+
+1091
+00:39:44,660 --> 00:39:45,120
+não vemos
+
+1092
+00:39:45,120 --> 00:39:45,840
+problemas
+
+1093
+00:39:45,840 --> 00:39:46,900
+nesse lado,
+
+1094
+00:39:47,160 --> 00:39:47,880
+e do lado
+
+1095
+00:39:47,880 --> 00:39:49,120
+do consumer finance,
+
+1096
+00:39:49,460 --> 00:39:50,080
+em algum
+
+1097
+00:39:50,080 --> 00:39:50,680
+momento,
+
+1098
+00:39:50,680 --> 00:39:51,520
+nós veremos
+
+1099
+00:39:51,520 --> 00:39:52,820
+uma retomada
+
+1100
+00:39:52,820 --> 00:39:54,880
+nas provisões,
+
+1101
+00:39:54,900 --> 00:39:55,560
+aí do lado
+
+1102
+00:39:55,560 --> 00:39:56,560
+do consumer finance,
+
+1103
+00:39:56,700 --> 00:39:57,280
+é similar
+
+1104
+00:39:57,280 --> 00:39:58,020
+ao que você
+
+1105
+00:39:58,020 --> 00:39:58,900
+está falando aí,
+
+1106
+00:39:59,200 --> 00:39:59,760
+com esses
+
+1107
+00:39:59,760 --> 00:40:01,180
+eventos corporativos
+
+1108
+00:40:01,180 --> 00:40:01,680
+aí que nós
+
+1109
+00:40:01,680 --> 00:40:03,100
+temos visto,
+
+1110
+00:40:03,220 --> 00:40:03,340
+né,
+
+1111
+00:40:04,040 --> 00:40:04,680
+recentemente,
+
+1112
+00:40:04,900 --> 00:40:05,540
+mas
+
+1113
+00:40:05,540 --> 00:40:06,320
+digamos que
+
+1114
+00:40:06,320 --> 00:40:07,300
+ainda estão
+
+1115
+00:40:07,300 --> 00:40:08,120
+dois,
+
+1116
+00:40:08,300 --> 00:40:09,580
+três trimestres
+
+1117
+00:40:09,580 --> 00:40:10,600
+devido
+
+1118
+00:40:10,600 --> 00:40:10,980
+ao
+
+1119
+00:40:10,980 --> 00:40:12,740
+as interações
+
+1120
+00:40:12,740 --> 00:40:13,680
+do governo
+
+1121
+00:40:13,680 --> 00:40:14,360
+aí que
+
+1122
+00:40:15,180 --> 00:40:15,820
+continuam
+
+1123
+00:40:15,820 --> 00:40:16,520
+a beneficiar
+
+1124
+00:40:16,520 --> 00:40:17,220
+o consumidor,
+
+1125
+00:40:17,460 --> 00:40:17,820
+mas
+
+1126
+00:40:17,820 --> 00:40:18,780
+estamos
+
+1127
+00:40:18,780 --> 00:40:20,240
+originando aí
+
+1128
+00:40:20,240 --> 00:40:21,120
+com um cenário
+
+1129
+00:40:21,120 --> 00:40:22,320
+mais conservador
+
+1130
+00:40:22,320 --> 00:40:23,860
+e o portfólio
+
+1131
+00:40:23,860 --> 00:40:25,100
+está performando
+
+1132
+00:40:25,100 --> 00:40:26,360
+melhor do que
+
+1133
+00:40:26,360 --> 00:40:27,020
+o que a gente
+
+1134
+00:40:27,020 --> 00:40:27,420
+tinha
+
+1135
+00:40:27,420 --> 00:40:28,940
+esperando.
+
+1136
+00:40:29,720 --> 00:40:30,100
+Ok,
+
+1137
+00:40:30,280 --> 00:40:30,660
+está claro,
+
+1138
+00:40:30,760 --> 00:40:31,240
+muito obrigado.
+
+1139
+00:40:34,180 --> 00:40:35,320
+A próxima
+
+1140
+00:40:35,320 --> 00:40:36,000
+pergunta
+
+1141
+00:40:36,000 --> 00:40:36,800
+vem de
+
+1142
+00:40:36,800 --> 00:40:38,140
+Thiago
+
+1143
+00:40:38,140 --> 00:40:38,820
+Bensfield
+
+1144
+00:40:38,820 --> 00:40:40,420
+do Goldman Sachs,
+
+1145
+00:40:40,600 --> 00:40:41,100
+por favor
+
+1146
+00:40:41,100 --> 00:40:41,700
+prossiga.
+
+1147
+00:40:44,200 --> 00:40:44,960
+Olá,
+
+1148
+00:40:45,220 --> 00:40:45,640
+salute,
+
+1149
+00:40:45,880 --> 00:40:46,360
+com minha
+
+1150
+00:40:46,360 --> 00:40:46,800
+pergunta
+
+1151
+00:40:46,800 --> 00:40:47,300
+é sobre
+
+1152
+00:40:47,300 --> 00:40:48,240
+eficiência,
+
+1153
+00:40:48,240 --> 00:40:48,940
+nós vemos
+
+1154
+00:40:48,940 --> 00:40:49,720
+que vocês
+
+1155
+00:40:49,720 --> 00:40:50,180
+têm
+
+1156
+00:40:50,920 --> 00:40:51,940
+11 mil
+
+1157
+00:40:51,940 --> 00:40:52,980
+funcionários
+
+1158
+00:40:52,980 --> 00:40:53,480
+aí com a
+
+1159
+00:40:53,480 --> 00:40:54,340
+consolidação
+
+1160
+00:40:54,340 --> 00:40:54,820
+do PAN,
+
+1161
+00:40:55,280 --> 00:40:55,740
+qual que é o
+
+1162
+00:40:55,740 --> 00:40:56,100
+tamanho
+
+1163
+00:40:56,100 --> 00:40:57,200
+correto
+
+1164
+00:40:57,200 --> 00:40:57,640
+para
+
+1165
+00:40:57,640 --> 00:40:58,380
+gerir,
+
+1166
+00:40:58,540 --> 00:40:59,520
+gerenciar
+
+1167
+00:40:59,520 --> 00:41:00,220
+um banco?
+
+1168
+00:41:01,080 --> 00:41:01,940
+A Lute
+
+1169
+00:41:01,940 --> 00:41:02,160
+acho que
+
+1170
+00:41:02,160 --> 00:41:02,840
+falou que
+
+1171
+00:41:02,840 --> 00:41:04,220
+os índices
+
+1172
+00:41:04,220 --> 00:41:04,940
+de eficiência
+
+1173
+00:41:04,940 --> 00:41:05,660
+devem voltar
+
+1174
+00:41:05,660 --> 00:41:06,420
+a ser os
+
+1175
+00:41:06,420 --> 00:41:07,260
+anteriores,
+
+1176
+00:41:07,360 --> 00:41:07,940
+então se vocês
+
+1177
+00:41:07,940 --> 00:41:08,500
+pudessem
+
+1178
+00:41:08,500 --> 00:41:09,360
+elaborar
+
+1179
+00:41:09,360 --> 00:41:10,020
+quando que
+
+1180
+00:41:10,020 --> 00:41:10,500
+vocês
+
+1181
+00:41:11,900 --> 00:41:12,680
+esperam aí
+
+1182
+00:41:12,680 --> 00:41:13,040
+que essa
+
+1183
+00:41:13,040 --> 00:41:13,800
+alavancagem,
+
+1184
+00:41:13,940 --> 00:41:14,620
+essa sinergia
+
+1185
+00:41:14,620 --> 00:41:15,260
+aconteça?
+
+1186
+00:41:15,260 --> 00:41:15,760
+bom,
+
+1187
+00:41:15,920 --> 00:41:16,180
+a gente
+
+1188
+00:41:16,180 --> 00:41:16,800
+espera
+
+1189
+00:41:16,800 --> 00:41:17,400
+que
+
+1190
+00:41:17,400 --> 00:41:18,180
+comece
+
+1191
+00:41:18,180 --> 00:41:19,300
+a mostrar
+
+1192
+00:41:20,460 --> 00:41:21,180
+comecemos
+
+1193
+00:41:21,180 --> 00:41:21,740
+isso
+
+1194
+00:41:21,740 --> 00:41:22,140
+comece
+
+1195
+00:41:22,140 --> 00:41:22,500
+a acontecer
+
+1196
+00:41:22,500 --> 00:41:23,080
+no próximo
+
+1197
+00:41:23,080 --> 00:41:23,440
+ano,
+
+1198
+00:41:23,540 --> 00:41:24,200
+este ano
+
+1199
+00:41:24,200 --> 00:41:25,000
+nós ainda
+
+1200
+00:41:25,000 --> 00:41:25,380
+estamos
+
+1201
+00:41:25,380 --> 00:41:26,420
+operando
+
+1202
+00:41:26,420 --> 00:41:27,720
+com dois
+
+1203
+00:41:27,720 --> 00:41:28,500
+sistemas
+
+1204
+00:41:30,140 --> 00:41:30,860
+bancários,
+
+1205
+00:41:30,940 --> 00:41:31,180
+né,
+
+1206
+00:41:31,520 --> 00:41:32,660
+então nós
+
+1207
+00:41:32,660 --> 00:41:32,880
+vamos
+
+1208
+00:41:32,880 --> 00:41:33,680
+operar em
+
+1209
+00:41:33,680 --> 00:41:34,260
+apenas um
+
+1210
+00:41:34,260 --> 00:41:35,220
+core banking
+
+1211
+00:41:35,220 --> 00:41:36,640
+no começo
+
+1212
+00:41:36,640 --> 00:41:36,900
+do ano
+
+1213
+00:41:36,900 --> 00:41:37,240
+que vem
+
+1214
+00:41:37,240 --> 00:41:38,040
+e ao mesmo
+
+1215
+00:41:38,040 --> 00:41:38,340
+tempo
+
+1216
+00:41:38,340 --> 00:41:38,920
+temos que
+
+1217
+00:41:38,920 --> 00:41:39,800
+nos lembrar
+
+1218
+00:41:39,800 --> 00:41:40,500
+que estamos
+
+1219
+00:41:40,500 --> 00:41:41,380
+adicionando
+
+1220
+00:41:41,380 --> 00:41:41,740
+novas
+
+1221
+00:41:41,740 --> 00:41:42,360
+geografias,
+
+1222
+00:41:42,620 --> 00:41:43,300
+novas
+
+1223
+00:41:43,300 --> 00:41:44,340
+unidades
+
+1224
+00:41:44,340 --> 00:41:45,560
+de negócios
+
+1225
+00:41:45,560 --> 00:41:45,840
+e,
+
+1226
+00:41:46,840 --> 00:41:47,220
+bom,
+
+1227
+00:41:47,340 --> 00:41:47,900
+temos visto
+
+1228
+00:41:47,900 --> 00:41:48,480
+o mercado
+
+1229
+00:41:48,480 --> 00:41:49,040
+mais
+
+1230
+00:41:49,040 --> 00:41:50,060
+estável
+
+1231
+00:41:50,060 --> 00:41:50,440
+desde
+
+1232
+00:41:50,440 --> 00:41:51,140
+o final
+
+1233
+00:41:51,140 --> 00:41:51,820
+de 24
+
+1234
+00:41:51,820 --> 00:41:52,380
+e com
+
+1235
+00:41:52,380 --> 00:41:52,640
+isso
+
+1236
+00:41:52,640 --> 00:41:53,560
+ganhamos
+
+1237
+00:41:53,560 --> 00:41:54,620
+eficiência
+
+1238
+00:41:54,620 --> 00:41:55,660
+unificando
+
+1239
+00:41:55,660 --> 00:41:56,260
+os controles
+
+1240
+00:41:56,260 --> 00:41:57,360
+de back-office
+
+1241
+00:41:57,360 --> 00:41:58,580
+entre o PAN
+
+1242
+00:41:58,580 --> 00:41:59,200
+e o BTG
+
+1243
+00:41:59,200 --> 00:41:59,640
+ao mesmo
+
+1244
+00:41:59,640 --> 00:42:00,080
+tempo
+
+1245
+00:42:00,080 --> 00:42:01,220
+expandindo
+
+1246
+00:42:01,220 --> 00:42:01,720
+novas
+
+1247
+00:42:01,720 --> 00:42:02,640
+contas,
+
+1248
+00:42:02,840 --> 00:42:03,100
+novas
+
+1249
+00:42:03,100 --> 00:42:04,100
+geografias
+
+1250
+00:42:04,100 --> 00:42:04,460
+no middle
+
+1251
+00:42:04,460 --> 00:42:04,920
+market
+
+1252
+00:42:04,920 --> 00:42:05,560
+no Brasil
+
+1253
+00:42:05,560 --> 00:42:06,840
+no banco
+
+1254
+00:42:06,840 --> 00:42:07,760
+nos Estados
+
+1255
+00:42:07,760 --> 00:42:08,100
+Unidos,
+
+1256
+00:42:08,320 --> 00:42:09,300
+em Luxemburgo,
+
+1257
+00:42:09,580 --> 00:42:10,480
+então nós
+
+1258
+00:42:10,480 --> 00:42:11,380
+esperamos
+
+1259
+00:42:11,380 --> 00:42:12,300
+que o
+
+1260
+00:42:12,300 --> 00:42:12,780
+índice
+
+1261
+00:42:12,780 --> 00:42:14,780
+de eficiência
+
+1262
+00:42:16,040 --> 00:42:16,660
+comece
+
+1263
+00:42:16,660 --> 00:42:18,020
+a melhorar
+
+1264
+00:42:18,020 --> 00:42:18,520
+realmente
+
+1265
+00:42:18,520 --> 00:42:19,400
+no segundo
+
+1266
+00:42:19,400 --> 00:42:20,340
+semestre
+
+1267
+00:42:20,340 --> 00:42:21,380
+deste ano
+
+1268
+00:42:21,380 --> 00:42:22,360
+e que
+
+1269
+00:42:22,360 --> 00:42:22,980
+eu tenho
+
+1270
+00:42:22,980 --> 00:42:23,400
+um ritmo
+
+1271
+00:42:23,400 --> 00:42:23,680
+bom
+
+1272
+00:42:23,680 --> 00:42:23,960
+no ano
+
+1273
+00:42:23,960 --> 00:42:24,220
+que vem,
+
+1274
+00:42:24,340 --> 00:42:24,600
+mas não
+
+1275
+00:42:24,600 --> 00:42:25,120
+temos uma
+
+1276
+00:42:25,120 --> 00:42:25,580
+guidance
+
+1277
+00:42:25,580 --> 00:42:27,040
+para dar
+
+1278
+00:42:27,040 --> 00:42:27,440
+para vocês,
+
+1279
+00:42:27,520 --> 00:42:27,980
+é mais uma
+
+1280
+00:42:27,980 --> 00:42:28,880
+soft guidance
+
+1281
+00:42:29,560 --> 00:42:30,180
+baseada
+
+1282
+00:42:30,180 --> 00:42:31,080
+em expectativas
+
+1283
+00:42:31,080 --> 00:42:31,580
+e não em
+
+1284
+00:42:31,580 --> 00:42:32,200
+exercícios
+
+1285
+00:42:32,200 --> 00:42:33,140
+matemáticos.
+
+1286
+00:42:34,280 --> 00:42:34,900
+Ok,
+
+1287
+00:42:35,060 --> 00:42:35,580
+muito útil,
+
+1288
+00:42:35,760 --> 00:42:36,060
+obrigado.
+
+1289
+00:42:39,200 --> 00:42:40,180
+A próxima
+
+1290
+00:42:40,180 --> 00:42:40,740
+pergunta
+
+1291
+00:42:40,740 --> 00:42:41,200
+vem
+
+1292
+00:42:41,200 --> 00:42:42,660
+de Henrique
+
+1293
+00:42:42,660 --> 00:42:43,560
+Navarro
+
+1294
+00:42:43,560 --> 00:42:44,500
+por favor,
+
+1295
+00:42:44,820 --> 00:42:45,760
+do Santander
+
+1296
+00:42:45,760 --> 00:42:46,400
+desculpem,
+
+1297
+00:42:46,520 --> 00:42:46,880
+por favor
+
+1298
+00:42:46,880 --> 00:42:47,480
+prossiga.
+
+1299
+00:42:50,680 --> 00:42:51,360
+Olá,
+
+1300
+00:42:51,500 --> 00:42:52,240
+bom dia,
+
+1301
+00:42:52,700 --> 00:42:53,560
+parabéns
+
+1302
+00:42:53,560 --> 00:42:54,500
+pelos resultados,
+
+1303
+00:42:55,000 --> 00:42:55,440
+primeira
+
+1304
+00:42:55,440 --> 00:42:55,840
+pergunta
+
+1305
+00:42:55,840 --> 00:42:56,280
+sobre o
+
+1306
+00:42:56,280 --> 00:42:57,020
+NetNewMoney,
+
+1307
+00:42:57,820 --> 00:42:58,720
+teve uma
+
+1308
+00:42:58,720 --> 00:42:59,560
+queda menor
+
+1309
+00:42:59,560 --> 00:43:00,400
+comparada
+
+1310
+00:43:00,400 --> 00:43:01,040
+com os últimos
+
+1311
+00:43:01,040 --> 00:43:01,840
+trimestres,
+
+1312
+00:43:01,980 --> 00:43:02,580
+como vocês
+
+1313
+00:43:02,580 --> 00:43:02,920
+veem
+
+1314
+00:43:02,920 --> 00:43:03,700
+os níveis
+
+1315
+00:43:03,700 --> 00:43:05,580
+de sustentabilidade
+
+1316
+00:43:05,580 --> 00:43:06,740
+do NetNewMoney?
+
+1317
+00:43:06,900 --> 00:43:07,160
+Essa é a
+
+1318
+00:43:07,160 --> 00:43:07,400
+primeira
+
+1319
+00:43:07,400 --> 00:43:08,000
+pergunta,
+
+1320
+00:43:08,500 --> 00:43:09,160
+a segunda,
+
+1321
+00:43:09,160 --> 00:43:09,880
+se eu não me
+
+1322
+00:43:09,880 --> 00:43:10,200
+engano,
+
+1323
+00:43:10,540 --> 00:43:10,980
+no quarto
+
+1324
+00:43:10,980 --> 00:43:11,780
+trimestre,
+
+1325
+00:43:11,980 --> 00:43:12,640
+vocês falaram
+
+1326
+00:43:12,640 --> 00:43:14,380
+que acreditavam
+
+1327
+00:43:14,380 --> 00:43:15,400
+que no futuro
+
+1328
+00:43:15,400 --> 00:43:16,180
+o Banco Pan
+
+1329
+00:43:16,180 --> 00:43:17,940
+tem o potencial
+
+1330
+00:43:17,940 --> 00:43:18,680
+de ter o mesmo
+
+1331
+00:43:18,680 --> 00:43:19,980
+ROE do
+
+1332
+00:43:21,240 --> 00:43:21,920
+BTG,
+
+1333
+00:43:21,960 --> 00:43:22,800
+minha pergunta
+
+1334
+00:43:22,800 --> 00:43:23,320
+é,
+
+1335
+00:43:23,540 --> 00:43:24,580
+isso ainda é
+
+1336
+00:43:24,580 --> 00:43:25,280
+válido?
+
+1337
+00:43:25,580 --> 00:43:26,400
+E quando
+
+1338
+00:43:26,400 --> 00:43:27,460
+vocês veem
+
+1339
+00:43:27,460 --> 00:43:28,340
+que este número
+
+1340
+00:43:28,340 --> 00:43:28,820
+será
+
+1341
+00:43:28,820 --> 00:43:30,180
+alcançado?
+
+1342
+00:43:30,340 --> 00:43:30,940
+Obrigada.
+
+1343
+00:43:31,920 --> 00:43:32,360
+Oi,
+
+1344
+00:43:32,400 --> 00:43:32,880
+Navarro,
+
+1345
+00:43:33,020 --> 00:43:33,120
+olha,
+
+1346
+00:43:35,020 --> 00:43:36,380
+não sei
+
+1347
+00:43:36,380 --> 00:43:37,040
+se eu concordo
+
+1348
+00:43:37,040 --> 00:43:37,260
+com,
+
+1349
+00:43:37,480 --> 00:43:38,100
+eu acho
+
+1350
+00:43:38,100 --> 00:43:39,160
+que o NetNewMoney
+
+1351
+00:43:39,160 --> 00:43:40,000
+foi bem
+
+1352
+00:43:40,000 --> 00:43:40,780
+forte,
+
+1353
+00:43:40,860 --> 00:43:41,680
+mais uma vez,
+
+1354
+00:43:41,880 --> 00:43:42,300
+porque foi
+
+1355
+00:43:42,300 --> 00:43:43,560
+puramente orgânico,
+
+1356
+00:43:43,820 --> 00:43:45,360
+o nosso quarto
+
+1357
+00:43:45,360 --> 00:43:45,940
+trimestre
+
+1358
+00:43:45,940 --> 00:43:46,920
+foi mais alto,
+
+1359
+00:43:47,260 --> 00:43:48,940
+108 bilhões,
+
+1360
+00:43:49,640 --> 00:43:51,320
+mas o terceiro
+
+1361
+00:43:51,320 --> 00:43:52,620
+trimestre
+
+1362
+00:43:52,620 --> 00:43:54,220
+de NetNewMoney
+
+1363
+00:43:54,220 --> 00:43:55,040
+foi 82,
+
+1364
+00:43:55,880 --> 00:43:56,560
+e se eu não
+
+1365
+00:43:56,560 --> 00:43:57,440
+me engano,
+
+1366
+00:43:57,660 --> 00:43:58,940
+nós adicionamos
+
+1367
+00:43:58,940 --> 00:44:00,260
+18
+
+1368
+00:44:00,260 --> 00:44:01,820
+com a
+
+1369
+00:44:01,820 --> 00:44:02,380
+aquisição
+
+1370
+00:44:02,380 --> 00:44:03,460
+do JJP,
+
+1371
+00:44:03,740 --> 00:44:04,700
+daquele negócio,
+
+1372
+00:44:04,700 --> 00:44:06,540
+e no
+
+1373
+00:44:06,540 --> 00:44:07,180
+segundo
+
+1374
+00:44:08,540 --> 00:44:09,580
+trimestre
+
+1375
+00:44:09,580 --> 00:44:10,820
+o NetNewMoney
+
+1376
+00:44:10,820 --> 00:44:12,260
+foi 58,6,
+
+1377
+00:44:12,300 --> 00:44:13,080
+no primeiro
+
+1378
+00:44:13,080 --> 00:44:14,040
+trimestre
+
+1379
+00:44:14,040 --> 00:44:14,400
+era
+
+1380
+00:44:14,400 --> 00:44:16,120
+107,
+
+1381
+00:44:16,120 --> 00:44:17,060
+mas tivemos
+
+1382
+00:44:17,060 --> 00:44:17,800
+a aquisição
+
+1383
+00:44:17,800 --> 00:44:18,900
+do Julius Baer
+
+1384
+00:44:18,900 --> 00:44:19,820
+com 62
+
+1385
+00:44:19,820 --> 00:44:21,540
+milhões,
+
+1386
+00:44:21,780 --> 00:44:22,420
+então isso
+
+1387
+00:44:22,420 --> 00:44:23,000
+é
+
+1388
+00:44:23,000 --> 00:44:24,440
+um número
+
+1389
+00:44:24,440 --> 00:44:25,320
+muito
+
+1390
+00:44:25,320 --> 00:44:26,040
+forte
+
+1391
+00:44:26,040 --> 00:44:27,260
+de NetNewMoney
+
+1392
+00:44:27,260 --> 00:44:28,020
+puramente
+
+1393
+00:44:28,020 --> 00:44:28,880
+orgânico,
+
+1394
+00:44:28,900 --> 00:44:29,580
+que só é
+
+1395
+00:44:29,580 --> 00:44:30,080
+menor
+
+1396
+00:44:30,080 --> 00:44:30,440
+do que
+
+1397
+00:44:30,440 --> 00:44:30,900
+o quarto
+
+1398
+00:44:30,900 --> 00:44:31,740
+trimestre.
+
+1399
+00:44:33,500 --> 00:44:34,020
+Então,
+
+1400
+00:44:34,760 --> 00:44:35,440
+e,
+
+1401
+00:44:35,600 --> 00:44:36,140
+bom,
+
+1402
+00:44:36,300 --> 00:44:37,140
+e com relação
+
+1403
+00:44:37,140 --> 00:44:37,600
+à pergunta
+
+1404
+00:44:37,600 --> 00:44:38,580
+sobre o Banco Pan,
+
+1405
+00:44:38,760 --> 00:44:39,380
+eu acho que a gente
+
+1406
+00:44:39,380 --> 00:44:40,740
+espera o ROE
+
+1407
+00:44:42,160 --> 00:44:42,840
+aumentar
+
+1408
+00:44:42,840 --> 00:44:44,000
+trimestre
+
+1409
+00:44:44,000 --> 00:44:45,080
+a trimestre
+
+1410
+00:44:45,080 --> 00:44:46,020
+e
+
+1411
+00:44:46,880 --> 00:44:47,560
+atingiremos
+
+1412
+00:44:47,560 --> 00:44:48,360
+o mesmo
+
+1413
+00:44:48,360 --> 00:44:49,340
+ROI
+
+1414
+00:44:49,340 --> 00:44:50,160
+no BTG
+
+1415
+00:44:50,160 --> 00:44:51,100
+como um todo
+
+1416
+00:44:51,100 --> 00:44:52,100
+em
+
+1417
+00:44:52,100 --> 00:44:53,400
+2028,
+
+1418
+00:44:54,480 --> 00:44:55,160
+meados
+
+1419
+00:44:55,160 --> 00:44:56,160
+de 2028.
+
+1420
+00:44:56,560 --> 00:44:56,940
+Ok,
+
+1421
+00:44:57,080 --> 00:44:57,360
+obrigado.
+
+1422
+00:45:01,460 --> 00:45:02,140
+Obrigado.
+
+1423
+00:45:02,140 --> 00:45:02,360
+Obrigado.
+
+1424
+00:45:03,840 --> 00:45:05,000
+e isso
+
+1425
+00:45:05,000 --> 00:45:05,680
+nos traz
+
+1426
+00:45:05,680 --> 00:45:06,340
+ao final
+
+1427
+00:45:06,340 --> 00:45:06,980
+da sessão
+
+1428
+00:45:06,980 --> 00:45:07,740
+de perguntas
+
+1429
+00:45:07,740 --> 00:45:08,660
+e respostas.
+
+1430
+00:45:08,900 --> 00:45:09,580
+Agora eu voltarei
+
+1431
+00:45:09,580 --> 00:45:10,060
+a palavra
+
+1432
+00:45:10,060 --> 00:45:10,560
+ao senhor
+
+1433
+00:45:10,560 --> 00:45:12,200
+Roberto Salute
+
+1434
+00:45:12,200 --> 00:45:13,160
+para os comentários
+
+1435
+00:45:13,160 --> 00:45:13,920
+finais.
+
+1436
+00:45:15,980 --> 00:45:16,860
+Muito obrigado,
+
+1437
+00:45:16,960 --> 00:45:17,300
+então,
+
+1438
+00:45:17,520 --> 00:45:18,940
+mais uma vez
+
+1439
+00:45:18,940 --> 00:45:20,900
+por participarem
+
+1440
+00:45:20,900 --> 00:45:21,500
+da nossa
+
+1441
+00:45:21,500 --> 00:45:22,680
+Códio de Resultados
+
+1442
+00:45:22,680 --> 00:45:23,740
+e nos vemos,
+
+1443
+00:45:23,800 --> 00:45:24,120
+então,
+
+1444
+00:45:25,080 --> 00:45:26,020
+daqui a três meses.
+
+1445
+00:45:26,160 --> 00:45:26,680
+Muito obrigado,
+
+1446
+00:45:26,800 --> 00:45:27,960
+tenha uma excelente semana.
+
+1447
+00:45:28,800 --> 00:45:29,520
+Obrigado.
+
+1448
+00:45:30,100 --> 00:45:30,640
+E isto
+
+1449
+00:45:30,640 --> 00:45:31,400
+leva
+
+1450
+00:45:31,400 --> 00:45:32,160
+ao fim
+
+1451
+00:45:32,160 --> 00:45:32,800
+da sessão
+
+1452
+00:45:32,800 --> 00:45:33,520
+de perguntas
+
+1453
+00:45:33,520 --> 00:45:34,240
+e respostas.
+
+1454
+00:45:34,460 --> 00:45:35,180
+Vocês podem
+
+1455
+00:45:35,180 --> 00:45:36,060
+se desconectar
+
+1456
+00:45:36,060 --> 00:45:36,600
+e tenham um
+
+1457
+00:45:36,600 --> 00:45:37,340
+excelente dia.
+
+1458
+00:45:39,260 --> 00:45:39,960
+para
+

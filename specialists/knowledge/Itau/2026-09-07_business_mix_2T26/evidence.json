@@ -1,0 +1,34 @@
+{
+  "basis": "Lucro recorrente gerencial; R$ milhões",
+  "names": [
+    "Varejo",
+    "Atacado",
+    "Atividades com Mercado + Corporação"
+  ],
+  "values": [
+    5491,
+    5614,
+    1302
+  ],
+  "method": "Valores de 2T26 publicados; total arredondado",
+  "sources": [
+    {
+      "bank": "Itau",
+      "period": "2T26",
+      "title": "Análise gerencial da operação e demonstrações contábeis completas em BRGAAP",
+      "path": "documents/Itau/2026/2T26/Analise_gerencial_da_operacao_e_demonstracoes_contabeis_completas_em_BRGAAP__fcfda4e6561d.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/42787847-4cf6-4461-94a5-40ed237dca33/e950fa46-4ba0-6db4-e324-23883f242e73?origin=2",
+      "pages": [
+        25,
+        26
+      ]
+    }
+  ],
+  "period": "2T26",
+  "total": 12407,
+  "shares": [
+    44.257274119448695,
+    45.24864995567018,
+    10.494075924881116
+  ]
+}

@@ -1,0 +1,1564 @@
+[0.00–29.98s] E aí
+[30.00–43.64s] Olá, bom dia a todos. Eu sou o Gustavo e é um prazer contar com a participação de vocês na
+[43.64–49.60s] videoconferência de resultados do segundo trimestre de 2026. Como sempre, o Milton explicará a nossa
+[49.60–53.76s] performance e, em seguida, teremos a nossa tradicional sessão de perguntas e respostas,
+[53.76–59.50s] em que analistas e investidores poderão interagir diretamente conosco. Antes de passar a palavra
+[59.50–64.10s] gostaria de passar algumas instruções para o melhor aproveitamento desse nosso encontro de hoje.
+[64.74–68.70s] Para quem está acessando pelo nosso site, existem três opções de áudio.
+[69.22–72.82s] Todo o conteúdo em português, todo o conteúdo em inglês ou no áudio original.
+[73.60–76.60s] Nas duas primeiras alternativas, contaremos com tradução simultânea.
+[77.48–81.98s] Para escolher essa opção, basta clicar na bandeira que está no canto superior esquerdo da sua tela.
+[83.08–87.22s] As perguntas também podem ser enviadas por WhatsApp para o número que está aparecendo na tela.
+[87.22–93.06s] A apresentação que faremos hoje está disponível para download no nosso hot site e, como sempre,
+[93.06–95.26s] na página de Relações com Investidores.
+[95.26–99.64s] Agora passa a palavra para o Milton e mais tarde teremos a sessão de perguntas e respostas.
+[99.64–100.78s] Milton, é com você!
+[117.22–129.84s] Bom dia, bem-vindos a mais uma divulgação de resultados, divulgação do segundo trimestre de 2026.
+[130.42–135.12s] Vocês vão ver um deck bastante executivo, bem focado nas principais linhas do resultado
+[135.12–139.24s] e a ideia é a gente deixar tempo de qualidade para o nosso tradicional Q&A.
+[139.24–146.64s] Então, trimestre forte, resultados consistentes, rentabilidade alta, indicadores de crédito de altíssima qualidade,
+[147.22–151.98s] enfim, muito em linha com a consistência que a gente vem entregando nos trimestres anteriores.
+[152.30–153.64s] Vamos direto para os números.
+[154.36–160.86s] Então, a gente entrega nesse trimestre um resultado recorrente de R$ 12,4 bilhões,
+[161.86–166.26s] isso é um crescimento de 7,8 em relação ao segundo tri do ano passado
+[166.26–169.36s] e um crescimento de 1% em relação ao tri anterior.
+[169.94–171.40s] Então, é um resultado bastante sólido.
+[171.80–174.72s] Como é que esse resultado se traduz em rentabilidade, em ROE?
+[174.72–181.18s] no consolidado 24,3% e no Brasil 25,7%.
+[181.18–184.26s] Lembrando que a gente sempre faz a conta ajustada ao capital,
+[184.90–188.54s] set one de 11,5%, que é mais ou menos onde a gente enxerga o mercado,
+[188.66–190.14s] é o nosso apetite mínimo.
+[191.00–197.50s] O resultado no consolidado teria sido de 25,1% e no Brasil de 26,7%.
+[197.50–200.68s] Esse talvez seja o número mais comparável com as divulgações,
+[200.68–205.78s] que mostra que a gente consegue rentabilizar muito bem a nossa operação,
+[206.14–208.26s] não só no Brasil, como no consolidado também.
+[208.44–209.72s] Resultados muito sólidos.
+[211.30–214.04s] Falando de carteira de crédito, um bom crescimento,
+[215.16–219.60s] um TRI 522, crescendo 2,7 em relação ao TRI anterior
+[219.60–224.80s] e crescendo quase 10% em relação ao mesmo período do ano passado.
+[224.80–227.88s] Então mostra uma capacidade de crescer com qualidade,
+[227.88–231.52s] com uma boa dinâmica e disciplina de alocação de capital.
+[231.92–235.24s] Margem financeira com clientes também um resultado bastante sólido,
+[235.42–241.66s] 32,6 bilhões de reais, crescendo 3,3 em relação ao primeiro tri de 26
+[241.66–245.46s] e crescendo 5% em relação ao segundo tri de 25.
+[245.94–249.24s] Então é importante ver essa aceleração aqui, foi um resultado bastante sólido.
+[249.74–251.50s] Eu vou entrar em mais detalhes daqui a pouco.
+[252.64–255.58s] Depois a gente fala das despesas não decorrentes de juros,
+[256.38–260.50s] um crescimento bastante comportado, 3,1% na visão ano contra ano.
+[260.98–266.02s] Lembrando que a gente vem passando por um ciclo de investimento contínuo há muitos anos,
+[266.60–267.98s] sempre olhando o longo prazo.
+[268.84–272.88s] Isso mostra que a gente tem conseguido não só investir na operação com muita qualidade,
+[273.58–277.44s] mas também buscar a eficiência onde ela tem que ser buscada e encontrada todos os dias.
+[277.44–280.88s] Então, uma disciplina de custos muito forte na gestão.
+[281.52–284.04s] E tudo isso resulta no capital.
+[284.04–290.70s] 12,3% de capital Core Equity Tier 1, o que mostra de novo uma base de capital muito sólida,
+[290.70–297.18s] de muita qualidade, com um crescimento de 0,3 pontos percentuais em relação a março.
+[297.62–301.74s] Lembrando que no ano passado a gente fez a antecipação dos dividendos no final do ano.
+[302.40–308.80s] Então a gente entrou esse ano com capital bastante otimizado, tivemos os efeitos regulatórios,
+[308.88–314.00s] o phase-in, em que a gente teve efeitos ainda no primeiro trimestre, e a gente continua
+[314.00–317.56s] crescendo o capital com muita qualidade, eu vou dar mais destaque daqui a pouco também.
+[318.64–323.76s] Falando sobre a carteira de crédito, eu vou começar de baixo para cima para ficar mais fácil.
+[324.24–332.04s] Então, no Brasil, a gente cresce num ritmo de 9,6% ano contra ano, crescendo 2,6% no período,
+[332.50–340.12s] crescimento bastante bom, 10% em grandes empresas, 4,4% no trimestre, de novo, com muita disciplina
+[340.12–342.72s] na alocação de capital e nos retornos esperados.
+[343.26–345.26s] São operações muito longas, de balanço,
+[346.04–348.94s] então aqui a gente precisa ter uma disciplina realmente muito importante.
+[349.92–353.84s] E depois eu vou dar mais detalhes aqui de micro, pequenas e médias.
+[354.76–355.86s] E aí como é que eu vou fazer isso?
+[355.90–357.84s] Eu começo por micro, pequenas e médias.
+[358.14–363.58s] Crescimento muito bom no trimestre, 1,5%, crescendo 11,6% no ano,
+[364.14–368.64s] mas o mais importante é a qualidade e o nível de risco dessa carteira.
+[368.64–375.84s] Então, a carteira de programas governamentais crescendo 7,2% no trimestre e 47,3% no ano.
+[376.38–380.06s] De novo, uma disciplina importante de entregar o melhor produto na melhor condição,
+[380.60–384.64s] melhor gestão de risco e de alocação de capital por parte do banco também.
+[385.60–389.86s] Crédito consignado tem sido uma alavanca muito importante de crescimento para a gente,
+[390.02–392.54s] especialmente o CLT, o produto novo.
+[393.10–397.50s] Então, queria chamar a atenção que a carteira cresce 3,5% no trimestre,
+[397.50–402.36s] 11,7% no ano, mas quando a gente dá um zoom no consignado privado,
+[403.54–407.76s] a gente vê um crescimento de 14,3% e 90%,
+[407.76–411.96s] um produto em que a gente, desde o início, soube aproveitar muito bem a oportunidade,
+[412.20–415.26s] entregar valor para os nossos clientes acima de tudo,
+[415.86–419.00s] com um resultado muito sólido e consistente de crescimento,
+[419.14–421.38s] com uma inadimplência absolutamente controlada.
+[422.10–425.90s] Então, isso naturalmente também gera efeito na conta de crédito pessoal,
+[425.90–430.66s] porque a gente tem priorizado, especialmente para aqueles clientes que têm acesso ao produto,
+[430.78–436.38s] consignado privado, os clientes seletistas, a gente tem priorizado o produto em detrimento do crediário,
+[436.84–441.74s] seja pela razão de preço, seja pela razão de senioridade do produto no pagamento também.
+[442.64–448.36s] E por fim, o crédito imobiliário, é importante lembrar a nossa estrutura de funding,
+[448.36–454.40s] acho que ela é diferenciada em relação ao mercado, o que nos permite ser muito competitivo no crédito imobiliário,
+[454.40–459.88s] atendendo bem os nossos clientes e alocando recursos da maneira mais adequada.
+[460.50–467.86s] Crescimento de 3,9 no TRI, 13,3 ano contra ano, a gente atingiu a marca de 152 bi na carteira,
+[468.30–473.76s] passamos inclusive a carteira de cartão de crédito, que era uma carteira que sempre foi muito relevante, de 150 bi.
+[474.46–480.66s] Então, esse é um produto de longo prazo que gera muita reciprocidade e lealdade dos clientes.
+[480.66–487.08s] Então, muito importante a estratégia, o maior banco privado, com 36 bi de originação nos últimos 12 meses,
+[487.62–490.60s] e com market share de 55% entre os privados.
+[491.04–496.78s] De novo, isso mostra como a nossa estrutura de funding, visão de investimento dos nossos clientes,
+[496.88–501.50s] captação, permite com que a gente tenha uma carteira nesses níveis.
+[503.72–507.40s] Agora vou falar da margem financeira com clientes, vou dar dois uns.
+[507.40–514.80s] O primeiro é que a gente cresceu 1,1 bi à margem, 3,3% no trimestre, considerando o capital de giro.
+[515.54–521.38s] A gente teve um crescimento do capital de giro, além dos efeitos das taxas, dos redes, dos investimentos,
+[521.88–529.18s] e a gente conseguiu, então, remunerar muito bem o nosso capital, 3,7 bi no tripassado, 3,9 bi nesse trimestre corrente.
+[529.88–534.92s] Quando a gente olha para a margem core, a gente vê um crescimento de R$ 800 milhões,
+[534.92–544.20s] de reais, 2,9%, bem distribuído em todas as linhas, volume médio trazendo mais resultado,
+[545.30–551.82s] o mix de produtos neutro para margem, margem de passivos e spread de ativos ligeiramente
+[551.82–556.44s] positivo, tem um efeito calendário, um dia corrido a mais nesse trimestre, que afeta
+[556.44–561.56s] os passivos, tem aqui um efeito positivo, e América Latina e outros também um efeito
+[561.56–567.36s] positivo. Então, como eu disse, bem distribuído, mas mostrando a nossa capacidade de geração
+[567.36–572.66s] de margem core, além de uma boa estratégia de rentabilização do capital de giro e a
+[572.66–577.44s] geração de capital do banco. Quando a gente vai agora para a margem financeira traduzida
+[577.44–582.88s] em percentuais, acho que a notícia boa, especialmente na margem ajustada a risco, que é como a
+[582.88–588.36s] gente faz a gestão do balanço, como eu sempre falo, entrar com uma margem muito alta e
+[588.36–591.36s] devolver na PDD não faz sentido, como a alocação de capital.
+[591.96–597.74s] Então, o que a gente tem mostrado aqui, a capacidade, uma consistência de gestão da margem.
+[597.90–602.86s] 6,2, um ligeiro aumento de 10 BIPs no consolidado, não é diferente na visão Brasil,
+[603.46–610.04s] vocês vão observar, sai de 6,6 para 6,7, que mostra a nossa disciplina de gestão de carteira,
+[610.04–612.90s] de portfólio, trazendo resultados bastante sólidos.
+[613.02–615.70s] Então, acho que é uma boa notícia também para a margem.
+[616.70–619.70s] Quando a gente vai para a margem financeira com o mercado,
+[620.34–624.30s] apesar dos números parecerem muito constantes em períodos anteriores,
+[625.00–629.16s] eu acho que todos nós sabemos os desafios que a gente tem enfrentado nos mercados
+[629.16–632.30s] e o nível de volatilidade que a gente tem visto,
+[632.62–634.80s] seja nos mercados locais como mercados globais.
+[635.40–639.08s] E a gente conseguiu ter mais um trimestre sólido e consistente gestão de risco,
+[639.50–643.90s] super importante essa disciplina de gestão e qualidade dos resultados entregues.
+[643.90–649.66s] Então, a gente entrega 0,9, a gente vê também um custo do hedge do índice de capital,
+[650.30–656.56s] mas dentro da nossa estratégia de proteger o índice de capital e ter uma previsibilidade,
+[656.76–659.96s] a gente continua entendendo que essa é uma boa estratégia para o balanço do banco.
+[660.46–664.22s] Ainda assim, a gente entrega um resultado bastante sólido na margem financeira com o mercado.
+[666.28–669.54s] Quando a gente vai para a receita de serviços e resultado de seguros,
+[669.68–671.24s] eu vou vir de baixo para cima também.
+[671.24–676.82s] Vocês vão observar que a gente teve aqui na parte de seguros, previdência e capitalização,
+[676.98–679.84s] resultado de 8,7%, crescimento no TRI.
+[680.08–682.30s] A gente vem crescendo a 12,8%.
+[682.30–686.24s] Nossa operação do Seguros Cor continua crescendo de forma muito consistente,
+[686.36–688.68s] seja no trimestre, seja na visão ano contra ano.
+[689.16–694.78s] São muitos trimestres de crescimento, resultado num patamar muito diferente nos últimos cinco anos.
+[695.24–696.70s] Então, muito sólidos os avanços.
+[696.70–705.08s] Quando a gente vai para assessoria financeira e econômica, a gente vê um crescimento no trimestre de 32, 25, ano contra ano,
+[705.66–709.00s] e aqui entram as operações substancialmente de renda fixa.
+[709.50–714.72s] E aqui a dinâmica para a gente tem sido muita disciplina de alocação de capital e risco.
+[715.08–720.68s] Então, muitas dessas operações acabam sendo encarteradas e o que a gente olha é o nível de retorno,
+[720.92–724.14s] para que a gente tenha retornos consistentes em linha com custo de capital,
+[724.14–727.92s] e, além de tudo, que tipo de risco a gente está encarteirando no longo prazo,
+[728.00–732.22s] dada a dinâmica de preço do mercado de renda fixa, além do risco de crédito.
+[732.32–738.80s] Então, a gente continua muito confortável com a qualidade dos ativos que foram bucados no nosso balanço.
+[739.28–743.76s] A administração de recursos, a gente vê um delta importante aqui de 7%,
+[743.76–748.46s] quando a gente olha tri contra tri, mas o mais importante é olhar que,
+[748.46–752.28s] apesar de não ter sido um tri excepcional em perfil,
+[752.28–756.74s] a gente ainda assim consegue crescer 11% na visão ano contra ano.
+[757.12–761.12s] Tem algumas linhas que a gente faz questão de abrir, especialmente conta corrente pessoa física,
+[761.20–763.56s] que tem uma queda tanto no TRI como na visão ano,
+[764.02–768.52s] para mostrar para vocês que direcionalmente é isso que a gente espera mesmo.
+[768.76–771.72s] A gente vem ressignificando os pacotes de conta corrente,
+[772.10–774.28s] tentando atender os nossos clientes da melhor forma,
+[774.88–778.82s] mas aumentando o lifetime value, tirando fricção na relação com o cliente.
+[778.82–781.92s] Por isso que a gente deixou aberto conta corrente pessoa física
+[781.92–788.00s] para a gente dar visibilidade de que a gente tem feito uma transição importante das nossas receitas,
+[788.12–794.38s] garantindo receitas de muito mais qualidade, perenidade e aumentando o lifetime value dos nossos clientes.
+[794.82–800.14s] E a parte de cartão emissor guarda uma relação com o perfil da carteira que a gente vem originando.
+[800.70–803.44s] Fizemos um deal-wisking muito importante ao longo dos últimos anos
+[803.44–809.02s] e a gente hoje tem uma carteira que vem operando com nível de inadimplência muito substancialmente abaixo,
+[809.02–814.60s] metade dos indicadores no mercado, com qualidade, crescendo dois dígitos nos públicos targets,
+[814.70–816.00s] onde a gente definiu crescer.
+[816.52–819.56s] Então, a gente está bastante satisfeito com a qualidade dos resultados.
+[820.30–824.32s] Apesar disso, essa é uma linha que eu já tinha falado para vocês, que a gente vinha
+[824.32–828.40s] em função da atividade, percebendo um arrefecimento ao longo do ano.
+[828.74–833.70s] Eu vou falar no final do Guidance, mas é aqui que a gente vai fazer um ajuste, explicando
+[833.70–836.96s] para vocês, está em linha com o que eu já tinha comentado nos tris anteriores, que a
+[836.96–840.62s] a gente viu um certo risco de rodar mais próximo do piso.
+[841.04–845.64s] A gente achou que fosse prudente, então, nesse trimestre, fazer um ajuste no guidance
+[845.64–849.66s] da nossa expectativa de crescimento para o ano, mas eu já vou detalhar daqui a pouco.
+[851.94–853.26s] Qualidade do crédito.
+[853.68–856.34s] Mais um trimestre de muita consistência e qualidade.
+[857.06–861.62s] Se vocês olharem na visão Brasil, o atraso no consolidado 15 a 90,
+[861.62–865.44s] absolutamente tranquilo, em linha, estável.
+[865.44–872.78s] Quando a gente olha essa visão Brasil aberta, a gente vê na pessoa física uma superestabilidade,
+[873.38–875.12s] num patamar de 3%.
+[875.12–881.60s] Quando a gente vê as micro, pequenas e médias, esse leve crescimento, totalmente em linha
+[881.60–885.40s] com o que eu venho falando para vocês nos trimestres anteriores, que a gente espera
+[885.40–889.80s] uma normalização desse indicador na medida que as carências dos programas governamentais,
+[889.86–893.70s] que como eu mostrei, são muito relevantes no nosso portfólio, se estabilizarem.
+[893.70–904.10s] Então agora a gente começa a chegar no final das carências, a gente deve ter mais um trimestre ainda de aumento, especialmente no over 90, que eu já vou detalhar para vocês.
+[904.56–912.28s] Quando a gente entra no over 90, essa quebra aqui no total, indicador absolutamente estável.
+[912.64–915.56s] Quando a gente olha o Brasil, também muito estável.
+[915.56–920.82s] Então, notícias super positivas no custo do crédito, num cenário extremamente desafiador,
+[920.90–929.20s] comprometimento de renda subindo, alavancagem das famílias subindo e principalmente num cenário de juros restritivos.
+[929.66–935.08s] Então, ainda assim, a gente tem conseguido navegar de forma muito, muito cuidadosa e consistente.
+[935.62–942.30s] Quando a gente olha no Brasil esses indicadores, a gente vê que na pessoa física tem um leve aumento de 10 bases no over 90,
+[942.64–944.46s] Nenhuma preocupação nesse portfólio.
+[945.10–947.86s] Fiz questão de abrir para vocês o impacto do desenrola.
+[948.18–955.26s] A gente teve 371 mil clientes impactados, 1.1 bi de carteira renegociada,
+[955.86–958.62s] mas com efeito imaterial nos nossos indicadores.
+[958.62–963.32s] Para vocês terem uma ideia, se impactou em 60 milhões o custo do crédito no trimestre
+[963.32–965.90s] e no indicador 0.02.
+[966.56–968.26s] Por que eu faço questão de trazer?
+[968.48–971.12s] A gente teve 12% de market share nesse programa.
+[971.80–976.32s] Nossa expectativa quando o programa foi lançado era trabalhar com algo próximo a 10% de share,
+[976.40–977.26s] vemos um pouco melhor.
+[977.92–984.66s] Perfil de clientes, até 5 salários mínimos, não é necessariamente o grande foco das nossas carteiras,
+[985.46–988.98s] mas a mensagem principal é que toda gestão de risco,
+[988.98–994.32s] ela vem acontecendo com muita qualidade, independentemente de qualquer programa específico,
+[994.44–997.28s] que nesse caso foi imaterial para os nossos indicadores.
+[997.94–1001.08s] E esse aqui é o indicador que eu mencionei para vocês agora há pouco,
+[1001.12–1005.26s] SMI crescendo pequenas e médias de 1.9 para 2.
+[1005.80–1011.56s] A gente está rodando em patamares muito abaixo do que a gente rodava lá atrás, 2.5, 2.3.
+[1011.62–1015.48s] É natural que seja assim, mas tem um efeito mecânico das carências.
+[1016.20–1019.56s] Então, na medida em que você tem os programas vencendo aqui para trás,
+[1019.56–1024.86s] você teve o benefício das carências, que é o denominador crescendo de forma importante,
+[1025.08–1026.98s] sem nenhum efeito no numerador.
+[1026.98–1031.60s] No momento que as carências começam a vencer, mecanicamente a gente vê esse efeito.
+[1032.12–1038.62s] Nossa melhor projeção é que no próximo TRI a gente deve subir mais 10 basis points para 2.1,
+[1038.68–1044.22s] se vocês olharem muito abaixo dos patamares não tão distantes, setembro 24 para trás.
+[1044.68–1052.36s] E de novo, o mercado é dinâmico, mas a nossa melhor expectativa é uma estabilização desse indicador em 2.1 para os trimestres seguintes.
+[1052.36–1058.92s] que mostra de novo que é um efeito mecânico, nenhuma preocupação, apesar de todos os desafios que a gente tem visto no mercado.
+[1059.42–1063.00s] Então, qualidade de crédito pelos indicadores de atraso, excelentes.
+[1065.80–1071.72s] Vamos falar de cobertura? Não tem grandes destaques aqui, as carteiras nos estágios 2 e 3.
+[1072.18–1079.06s] Queria chamar a atenção para um indicador aqui, que é a cobertura do estágio 2, especialmente essa redução que a gente vê aqui no estágio 2.
+[1079.06–1082.74s] Quando a gente olha, a gente está falando de pessoa jurídica.
+[1083.26–1087.58s] Aqui é importante dizer que a gente não faz gestão por estágio.
+[1087.88–1089.86s] A gente faz uma gestão de perda esperada.
+[1090.32–1094.10s] Então, se vocês olharem o atraso curto, 15 a 90, o over 90 e somar,
+[1094.56–1097.46s] e tentar comparar com os percentuais de carteira nos estágios,
+[1097.56–1100.14s] vocês vão ver que os percentuais são muito mais altos.
+[1100.52–1104.38s] Então, aqui, na verdade, quando a gente tem casos de crédito, especialmente no atacado,
+[1104.38–1109.92s] em que há rolagens entre o estágio 2 para o estágio 3 ou do estágio 1 para o estágio 2,
+[1110.02–1111.08s] a gente vê esses efeitos.
+[1111.64–1119.12s] E o que acontece é que nesse trimestre houve sim migração de clientes do estágio 2 para o estágio 3
+[1119.12–1124.92s] e ele tipicamente sai com nível de cobertura já mais alto quando ele está pronto para migrar do estágio.
+[1125.38–1127.90s] E ele afeta, portanto, a cobertura do que ficou.
+[1127.90–1133.10s] É basicamente, de novo, um efeito mecânico, tudo contido dentro das nossas projeções,
+[1133.10–1137.06s] tudo contido dentro do nosso custo do crédito, que eu já vou detalhar daqui a pouco,
+[1137.52–1142.80s] nenhum tema específico, no MD&A vocês vão ter abertura por segmento, varejo atacado,
+[1143.10–1149.60s] mas é um efeito mecânico, nenhuma preocupação, é simplesmente uma migração natural dos nossos clientes estágio,
+[1149.66–1151.82s] mas clientes que já tinham as provisões adequadas.
+[1152.30–1154.74s] Então, vale a pena fazer esse zoom.
+[1155.24–1158.80s] Quando a gente olha, então, para a qualidade e custo do crédito,
+[1158.80–1163.78s] Vocês vão ver uma estabilidade, já nessa série, desde o primeiro TRI de 25 até hoje,
+[1164.26–1169.92s] nosso custo de crédito rodando a 2.7 sobre carteira, uma estabilidade impressionante, se vocês olharem.
+[1170.48–1173.32s] E naturalmente os nominais crescem porque a carteira cresce.
+[1173.80–1178.24s] Então a gente tem que olhar o crescimento dos nominais em relação ao crescimento da carteira
+[1178.24–1183.64s] e é isso que a gente tem visto acontecer, portanto uma pequena variação aqui de 10.1.
+[1183.64–1191.90s] Como eu falava para vocês, o efeito do desenrola imaterial no todo, imaterial também nesse trimestre principalmente.
+[1192.38–1197.26s] Quando a gente olha a carteira renegociada, também rodando em patamares super confortáveis,
+[1197.88–1202.62s] então num patamar bastante adequado e a gente vê aqui efeitos pontuais.
+[1203.14–1207.10s] Eu havia dito para vocês que em algum momento os nominais tenderiam a crescer, natural,
+[1207.32–1211.54s] a gente fez um processo importante de derisking da carteira ao longo dos anos,
+[1212.02–1214.80s] Mas aqui a gente sempre vai ver efeitos pontuais específicos.
+[1214.88–1218.42s] O desenrola, a carteira, por exemplo, do desenrola, ela entra aqui.
+[1219.44–1226.00s] Recuperações extrajudiciais, planos antigos que foram homologados agora, entram aqui e assim por diante.
+[1226.12–1233.32s] Então, é um efeito pontual aqui nesse aumento, mas a gente tem que olhar no relativo e o relativo continua muito comportado.
+[1233.80–1236.68s] Mais uma vez mostrando a solidez das nossas carteiras.
+[1237.24–1238.92s] Despesas, a notícia é muito boa.
+[1239.20–1245.24s] Se a gente olhar aqui no trimestre, comercial e administrativa caindo 0,5% no TRI, subindo
+[1245.24–1249.98s] 3,2%, abaixo da inflação e da correção dos acordos coletivos.
+[1250.82–1258.08s] Quando a gente olha, total do Brasil crescendo 3,1% aqui nessa visão trimestral, 4,1% na
+[1258.08–1259.04s] visão ano contra ano.
+[1259.60–1265.46s] E quando a gente olha, essa é semestre contra semestre, está crescendo aqui 4,1% e 3,1%
+[1265.46–1269.46s] na visão em relação ao segundo TRI do ano passado, na visão ano contra ano.
+[1269.96–1273.90s] Então, mostra de novo a nossa disciplina de gestão de custos no banco,
+[1274.06–1277.40s] trabalhando de forma relevante, especialmente naqueles segmentos
+[1277.40–1281.60s] em que a gente precisa avançar no índice de eficiência para ser cada vez mais competitivo.
+[1282.12–1286.12s] Então, dentro da nossa estratégia de gestão, a gente pode falar um pouco mais sobre isso no Q&A,
+[1286.70–1290.04s] muito satisfeito com os avanços que a gente tem conseguido nessa agenda.
+[1290.04–1302.16s] Muito bem, o índice de eficiência resultante dessa estratégia, 35,5% no segundo TRI, na visão Brasil, 37,4% no consolidado.
+[1302.16–1312.52s] E quando a gente olha semestre contra semestre, a gente continua avançando, 35,7% para 35,2%, 37,5% e 37,3% no consolidado.
+[1312.94–1319.68s] Então, bastante satisfeito com o índice de eficiência da instituição como um todo e aqui todas as despesas consideradas.
+[1320.04–1324.44s] Não há qualquer efeito em outras despesas fora do número que está aqui,
+[1324.82–1327.10s] que mostra de fato resultados muito sólidos.
+[1329.00–1333.04s] Bom, tudo isso mostrando a nossa capacidade de geração de capital.
+[1333.86–1336.48s] A gente cresce 0,8% pelo lucro no período.
+[1337.02–1342.26s] Quando a gente provisiona dividendos e juros sobre capital próprio, 0,3% de consumo.
+[1342.26–1345.26s] E os ativos ponderados por risco, 0,1%.
+[1345.86–1348.32s] Então a gente fecha em 12,3% de seto ano.
+[1348.32–1353.98s] capital bastante forte, bastante sólido, com perspectiva de crescimento ainda até o final do ano,
+[1354.52–1359.46s] para que a gente possa ter a discussão dos dividendos adicionais,
+[1359.58–1362.56s] que a gente faz sempre no início do ano subsequente.
+[1362.78–1366.00s] Então, bastante sólida a nossa capacidade de geração de capital.
+[1366.56–1371.78s] E aqui, o AT1 em 1,5, a gente tem aqui uma observação, porque o número preciso é 1,7,
+[1371.78–1377.94s] mas, regulatoriamente, a gente pode ter um limite do quanto você pode utilizar,
+[1378.32–1381.54s] Esse limite é de 1,5, por isso que a gente coloca apenas 1,5 aqui.
+[1382.10–1383.66s] Esse é o nosso capital nível 1.
+[1383.88–1388.26s] 13,8 também é uma base de capital muito sólida, com geração própria.
+[1389.22–1391.94s] E aqui, por fim, o comentário que eu fiz do guidance,
+[1392.02–1394.30s] eu tenho duas observações para fazer nesse quadro.
+[1394.82–1398.18s] A gente vem mantendo todos os guidances que foram dados,
+[1398.26–1403.08s] de carteira de crédito, margem com clientes, margem com mercado, custo do crédito.
+[1403.34–1407.56s] Aqui a gente faz uma mudança na margem de serviços e de seguros.
+[1407.56–1411.94s] tem muito a ver com a atividade, um pouco do quadro que eu contava para vocês agora há pouco.
+[1412.32–1414.06s] Então, crescimento entre 2 e 5.
+[1414.70–1418.10s] A gente esperava um crescimento entre 5 e 9 no início do ano.
+[1418.38–1420.10s] Então, a gente está fazendo essa revisão.
+[1420.24–1422.98s] Acho que fica mais em linha com os números que a gente tem observado.
+[1423.46–1426.94s] Se a atividade surpreender para cima ou tiver janelas de mercado,
+[1427.06–1428.98s] a gente vai aproveitar da melhor forma possível,
+[1429.14–1431.74s] mas acho que é mais prudente fazer o ajuste agora.
+[1432.52–1434.26s] E o segundo comentário que eu queria fazer,
+[1434.26–1436.44s] que ele não é uma mudança de guidance,
+[1436.44–1438.58s] mas é uma geografia do guidance.
+[1438.92–1442.26s] Então, se vocês recalcularem os resultados implícitos,
+[1442.72–1446.34s] considerem a linha de imposto no piso da banda,
+[1446.54–1449.60s] que é onde a gente hoje olha na nossa melhor projeção.
+[1450.08–1454.54s] Então, se vocês fizerem a matemática aqui dos resultados implícitos,
+[1454.66–1458.04s] vão ver que o bottom line não mudou, seja por essa alteração,
+[1458.18–1462.72s] imaginando que a linha de imposto vai ficar mais próxima do piso,
+[1462.72–1470.68s] que mostra de novo que, enfim, por geografias diferentes, a nossa capacidade e previsibilidade de entregar um lucro consistente.
+[1471.26–1475.54s] No final do ano ainda temos dois semestres pela frente com desafios importantes.
+[1476.04–1484.32s] O ano não está, enfim, ganho, mas acho que a gente está muito bem posicionado para entregar o que a gente está buscando aí nos próximos dois trimestres.
+[1484.46–1489.26s] Qualquer novidade eu naturalmente avisarei vocês de forma muito tempestiva.
+[1490.26–1493.94s] Pessoal, bom, como eu disse, esse é um resultado muito sólido,
+[1494.28–1496.58s] passei por todas as linhas com muita qualidade,
+[1496.80–1499.62s] acho que é muito importante olhar as contas patrimoniais do banco,
+[1500.20–1503.18s] muito importante olhar a geografia, por onde o resultado vem,
+[1503.78–1507.66s] mais importante é disciplina, consistência, alocação de capital,
+[1508.20–1513.50s] retorno sobre o capital alocado, aumento de principalidade na relação com os nossos clientes,
+[1513.50–1518.64s] mais engajamento, mais proximidade e toda a transformação acontecendo em uma velocidade,
+[1518.64–1522.98s] como a gente nunca observou, seja a transformação cultural, transformação digital.
+[1523.54–1528.98s] Então a gente tem conseguido fazer e coordenar todas essas mudanças, mudanças estruturais nos modelos de negócio
+[1528.98–1531.32s] com muita disciplina e foco na execução.
+[1531.82–1536.86s] E acima de tudo com os pés no chão, sabendo que os desafios são todos, o macro requer atenção,
+[1537.42–1542.40s] o micro requer atenção, o nível de endividamento das empresas e das famílias
+[1542.40–1548.28s] num cenário de juros restritivo requer atenção, mas a gente tem conseguido pilotar com muita qualidade
+[1548.28–1550.68s] sempre com esse foco no longuíssimo prazo.
+[1551.14–1554.10s] Tá bom? Obrigado mais uma vez pelo tempo de vocês.
+[1554.66–1556.98s] Vou me juntar agora ao Gabriel e ao Gustavo
+[1556.98–1559.20s] para a gente fazer o nosso tradicional Q&A.
+[1559.44–1560.10s] Até daqui a pouco.
+[1578.28–1597.80s] Olá, estamos de volta agora direto do nosso estúdio com Milton e Gabriel para a sessão
+[1597.80–1602.86s] de perguntas e respostas. Antes de começar, gostaria de lembrá-los que a sessão é bilingüe,
+[1602.86–1607.96s] ou seja, responderemos as perguntas no idioma em que elas forem feitas. Para quem precisar
+[1607.96–1612.08s] de algum tipo de apoio na tradução, nossa plataforma conta com as opções de áudio
+[1612.08–1615.30s] em português, em inglês ou no áudio original.
+[1615.30–1618.84s] Além disso, vocês podem mandar as perguntas pelo WhatsApp.
+[1618.84–1623.80s] Com isso, vamos para a primeira pergunta, que vem do Bernardo Gutmann, da XP Investimentos.
+[1623.80–1625.72s] Bernardo, é com você.
+[1625.72–1629.92s] Olá, bom dia, Gustavo, Milton, Gabriel.
+[1629.92–1633.84s] Obrigado pelo espaço aqui para perguntar e parabéns pelos resultados.
+[1633.84–1636.52s] A minha pergunta é sobre margem com clientes.
+[1636.52–1640.12s] O trimestre veio bem, sem os ofensores do primeiro tri,
+[1640.68–1645.58s] mas no acumulado do semestre a linha está rodando um pouco abaixo de 5%,
+[1645.58–1650.10s] contra um guidance que começa em 5% e vai até 9%,
+[1650.10–1651.60s] esse guidance foi mantido.
+[1652.24–1655.72s] Eu queria entender de onde vem a aceleração no segundo semestre,
+[1655.72–1659.94s] se é mais volume, se é mix, se é margem de passivos,
+[1660.24–1664.64s] ou se tem alguma contribuição relevante de capital de giro próprio nessa conta.
+[1664.64–1670.16s] e dentro disso, com a Seleic onde está e o ciclo eventualmente virando,
+[1670.78–1675.04s] como vocês enxergam o comportamento da margem de passivos daqui para frente?
+[1675.26–1675.76s] Obrigado.
+[1677.74–1679.78s] Obrigado, Bernardo, bom vê-lo aqui.
+[1680.42–1682.58s] Enfim, obrigado pelas palavras iniciais.
+[1683.40–1687.02s] Bom, já é um bom tópico para a gente esquentar aqui a discussão.
+[1687.64–1689.44s] Primeiro, deixa eu dar um passo.
+[1689.80–1692.02s] A tua pergunta é mais específica sobre o guidance,
+[1692.02–1696.04s] mas deixa eu falar um pouco sobre o crescimento específico da margem também.
+[1696.96–1701.10s] A gente vê a carteira crescendo próximo de 10%, um pouco abaixo.
+[1702.24–1707.18s] Ela deve, ao longo dos próximos trimestres, ter uma leve redução,
+[1707.48–1710.24s] mas deve ficar ainda acima do ponto médio do guidance.
+[1710.96–1715.72s] E a redução, além da própria dinâmica de crescimento, vai ficar em um patamar alto,
+[1716.28–1721.14s] tem o efeito da operação da Colômbia também, que ela sai agora em julho.
+[1721.14–1726.14s] São 10 bi de reais de crédito, o que faz com que a carteira também caia,
+[1726.22–1729.88s] sendo que ela estava na base do ano anterior e a gente está falando de delta crescimento.
+[1730.42–1734.52s] Tem um segundo efeito que a margem, da forma como a gente está vendo agora,
+[1734.60–1736.30s] ela está crescendo abaixo da carteira.
+[1737.02–1740.14s] Então, alguns perguntam, mas por que a margem está crescendo abaixo?
+[1740.22–1743.94s] A explicação passa pela explicação dos trimestres que vêm também.
+[1744.74–1747.24s] Primeiro, quando a gente olha saldo médio de carteira,
+[1747.24–1753.44s] a margem está crescendo de ativos, de crédito, absolutamente em linha com a carteira.
+[1753.88–1757.22s] Então, quando a gente abre a margem, a gente tem os ativos de crédito,
+[1757.66–1762.26s] a gente tem passivos, a gente tem capital de giro e a gente tem operações estruturadas.
+[1763.20–1768.06s] Então, a primeira informação relevante para vocês é que a margem de ativos
+[1768.06–1771.96s] está crescendo absolutamente em linha com o saldo médio.
+[1771.96–1773.66s] Então, essa é uma primeira informação.
+[1773.66–1780.04s] A segunda é que na margem de passivos a gente teve nos anos anteriores uma aceleração importante
+[1780.04–1783.90s] com aumento de taxa de juros, mas também com grande aumento no saldo.
+[1784.52–1788.86s] A gente viu uma atividade mais forte, então os saldos também vieram mais fortes.
+[1789.26–1794.40s] Então a gente teve um crescimento relevante, especialmente no ano passado, na margem de passivos.
+[1794.54–1796.96s] Seja componente saldo, seja o componente preço.
+[1797.32–1798.38s] É o que ajudou a puxar.
+[1798.38–1805.84s] No capital de giro, neste semestre, tem o efeito de base, porque quando a gente compara
+[1805.84–1810.18s] com o primeiro semestre do ano passado, o primeiro tri do ano passado tinha um capital
+[1810.18–1815.34s] cheio, lembrando que no ano passado a gente fez uma antecipação do dividendo, então
+[1815.34–1819.52s] a gente entrou esse primeiro semestre com capital num patamar um pouco mais baixo.
+[1819.96–1821.68s] Então esse é o efeito no capital de giro.
+[1821.68–1827.26s] E o quarto efeito, que ajuda a explicar um pouco da volatilidade da margem, são as operações
+[1827.26–1832.42s] estruturadas. Latam não vem trazendo grande volatilidade, sempre tem um efeito
+[1832.42–1837.06s] câmbio ou próprio resultado, mas as operações estruturadas do atacado
+[1837.06–1843.04s] trazem sim efeitos de volatilidade. Então, quando a gente olha para os próximos
+[1843.04–1847.74s] dois trimestres, a nossa expectativa é que o range que está aqui ainda comporta
+[1847.74–1853.10s] a nossa melhor visão e projeção. É claro que vai depender de atividade, vai
+[1853.10–1860.60s] vai depender de uma série de fatores, mas a gente pode ver alguma volatilidade na margem entre o terceiro e o quarto tri,
+[1861.08–1870.56s] mas em função dessa sazonalidade das operações estruturadas do atacado que tendem a vir mais forte no quarto tri.
+[1871.16–1878.06s] Então, quando a gente faz a projeção da margem, tudo mais constante, a gente acredita que o range atual comporta,
+[1878.06–1880.14s] ele é um range, ele não é um ponto, ele comporta.
+[1880.88–1886.34s] Quando a gente olha para o efeito da taxa de juros, ele teve um efeito de taxa,
+[1886.38–1891.00s] quando a gente olha a taxa implícita do capital de giro em relação ao TRI anterior,
+[1891.54–1895.94s] mas quando a gente normaliza os efeitos de HAP, nesse TRI também no capital de giro,
+[1896.28–1899.44s] teve um efeito menor de venda de imóveis que fica no capital de giro,
+[1899.92–1903.28s] quando a gente normaliza esses efeitos, a gente vê que a taxa,
+[1903.28–1908.56s] que a gente chama taxa do capital de giro, ela ficou praticamente em linha com o trimestre anterior.
+[1908.68–1915.06s] E lembrando que a gente faz o hedge de longo prazo dessas operações, seja do capital de giro, seja do passivo.
+[1915.68–1920.74s] Então, mesmo num ciclo de queda de juros, o pass-through para margem não é automático.
+[1920.94–1926.62s] Ele tem um gap temporal na medida em que os hedges estão feitos para vértices mais longos.
+[1927.20–1930.38s] Isso também vale quando o juro sobe, ele é mais lento o repasso.
+[1930.38–1935.30s] Então, a gente vai depender muito da atividade, porque atividade e passivo andam juntos.
+[1935.78–1940.56s] A gente está vendo uma pressão de caixa maior em geral nas companhias e nas pessoas físicas,
+[1940.64–1944.04s] com juros mais altos também, um nível de eficiência de gestão de caixa maior,
+[1944.42–1947.52s] que pressiona o passivo, embora a gente tenha conseguido crescer saldo.
+[1948.44–1953.98s] E agora a margem vai depender muito da dinâmica de juros, o que também depende de N fatores externos e internos.
+[1954.56–1958.32s] A gente tem aí dois cortes para frente, 2 de 25 na nossa projeção,
+[1958.32–1964.50s] mas vai depender muito do cenário, inflação, juros nos Estados Unidos, para a gente ter uma visão mais clara.
+[1967.20–1971.08s] Bom, agora vamos para a nossa pergunta com Gustavo Schroden, do CIT.
+[1971.70–1972.78s] Gustavo, pode seguir.
+[1974.26–1976.54s] Bom dia, Gustavo. Obrigado. Bom dia, Milton.
+[1976.98–1981.18s] Gabriel, parabéns pelos resultados, mais uma vez, bem sólidos.
+[1981.92–1987.36s] Eu vou pedir desculpa em insistir nessa questão da pergunta do Bernardo.
+[1988.32–1992.46s] mas tentar trazer um pouco mais para a ótica do crescimento de carteira.
+[1993.60–1997.60s] Se a gente analisar, o banco tem evitado algumas linhas
+[1997.60–2002.90s] e focado mais em, como você colocou, PME, consignado privado e imobiliário.
+[2004.36–2006.78s] Eu queria entender, Milton, na sua visão,
+[2006.78–2009.60s] qual é a sustentabilidade desse nível de crescimento
+[2009.60–2013.70s] nesses três principais vetores de crescimento da carteira.
+[2013.70–2019.56s] A PME sempre é mais exposto a um juro mais alto,
+[2019.90–2023.24s] como você colocou, a gente deve ter, apesar dos dois cortes que vocês estão esperando,
+[2023.34–2028.04s] uma Selic mais alta, é um cenário macro mais desafiador.
+[2028.84–2036.04s] O consignado privado é um produto que tem tido uma pressão de inadimplência,
+[2036.16–2041.82s] sempre uma questão de cap na taxa de juros e também entender o tamanho desse mercado,
+[2041.82–2046.14s] se é possível manter esse nível de crescimento para os próximos 12 meses,
+[2047.00–2053.34s] e o imobiliário também com seus desafios quando você tem um cenário de taxa de juros mais alta.
+[2053.44–2057.88s] Então eu queria entender qual é a dinâmica de carteira daqui para frente
+[2057.88–2065.50s] para sustentar o crescimento de NII, vamos dizer assim, mais puro de crédito.
+[2066.12–2069.98s] E só um follow-up também na questão das operações estruturadas,
+[2069.98–2074.92s] Você falou que a gente deve esperar talvez uma contribuição mais para o segundo semestre,
+[2075.02–2076.02s] talvez mais para o final do ano.
+[2076.36–2078.30s] Se você puder só até esclarecer para a gente,
+[2079.70–2085.38s] como é que é a dinâmica desses dividendos que vêm dessas operações quase equity que vocês têm?
+[2086.30–2091.30s] Eles são lineares? Existe uma sazonalidade?
+[2091.60–2094.62s] Por que esse ano está mais concentrado no final do ano?
+[2094.98–2097.74s] Acho que ajuda a gente a entender também essas nuances. Obrigado.
+[2097.74–2106.22s] Perfeito, Gustavo, obrigado aí pela pergunta, bom te ver, obrigado aí pelos comentários iniciais.
+[2107.10–2110.50s] Deixa eu tentar trazer alguns elementos relevantes.
+[2110.62–2113.90s] Vou começar por SME, que foi a sua pergunta inicial.
+[2114.86–2118.00s] A gente tem conseguido crescer, crescer com qualidade,
+[2118.00–2121.12s] numa dinâmica muito saudável de gestão de risco
+[2121.12–2127.32s] e com uma estratégia muito clara já há muitos trimestres de crescer nos programas governamentais.
+[2127.32–2133.26s] Então, hoje é uma carteira muito garantida, em que a gente tem crescido não só nos programas governamentais,
+[2133.62–2136.16s] mas nos clientes com melhores ratings.
+[2136.34–2140.64s] Então, quando a gente olha uma série longa, foi assim que a gente construiu o portfólio ao longo dos anos.
+[2141.16–2144.74s] Então, é uma carteira que vem performando, apesar de um cenário mais desafiador,
+[2145.34–2148.66s] mas a gente tem conseguido entregar um custo de crédito e resultados
+[2148.66–2152.18s] e um nível de rentabilidade muito sólido no segmento.
+[2152.18–2159.20s] Então, a carteira de governamentais continua ajudando a segurar a inadimplência num patamar mais baixo,
+[2159.68–2165.16s] mas ainda assim, naqueles clientes que não estão nos produtos governamentais, a gente vem crescendo com muita qualidade.
+[2165.94–2171.68s] Eu até expliquei na apresentação agora há pouco sobre o atraso e queria reforçar,
+[2172.04–2180.86s] a gente tem visto uma estabilidade nos atrasos, na pequena e média, especialmente por essa questão mecânica das carências.
+[2181.40–2186.60s] Então, como elas estão tendendo a zero, é natural que a gente veja ainda um crescimento mecânico do NPL.
+[2187.12–2191.90s] Lembra que as garantias, elas são exercidas, dependendo do programa, em até 90 dias ou em até 180.
+[2192.46–2196.00s] Então, elas passam pelo atraso antes de você executar a garantia.
+[2196.42–2200.20s] Então, a gente deve ver mais uns 10 BIPs de crescimento, como eu disse,
+[2200.20–2204.88s] e depois uma certa estabilidade, sete risparipos, com as informações que a gente tem hoje.
+[2204.88–2211.30s] Evidente que o cenário é dinâmico, se o cenário se deteriorar, a gente vai trazer naturalmente mais informações.
+[2212.06–2220.72s] Consignado privado, acho que vale reforçar, no produto antigo, que era um produto em que você fazia convênios específicos,
+[2221.24–2229.98s] esse era um mercado de 40 bilhões de reais e a gente tinha aproximadamente 30% de mercado, 12 bilhões de reais de carteira.
+[2229.98–2235.94s] Então é um produto que a gente veio aprendendo a trabalhar ao longo dos anos, seja pelo know-how de dar crédito para a pessoa jurídica,
+[2236.02–2238.20s] seja pelo know-how de dar crédito para a pessoa física.
+[2238.80–2243.96s] O consignado CLT, o consignado privado é justamente a combinação dessas duas gestões.
+[2244.84–2252.64s] Então desde o início a gente focou muito claro, claramente num público em que a gente entendia que era o público-alvo para esse produto
+[2252.64–2257.60s] e que é um público na sua maioria, majoritariamente correntista do banco.
+[2257.60–2262.40s] A gente não tem operado de forma relevante no mar aberto, pelas razões que você falou,
+[2262.48–2268.38s] a gente tem visto um nível de inadimplência alto, um nível ainda de não repasse de estabilidade operacional relevante,
+[2268.76–2271.70s] tem alguns processos ainda que precisam evoluir.
+[2272.24–2276.36s] A mensagem que eu queria passar é, a gente vem conseguindo crescer com qualidade,
+[2277.02–2282.60s] a gente deve estabilizar os índices de atraso em patamares parecidos com o que era o produto anterior,
+[2282.60–2288.12s] e a gente vai ver os nominais ainda crescendo, por uma razão óbvia, a carteira cresce muito.
+[2288.20–2293.56s] Eu não acho que ela vai continuar crescendo ad eternum nesse nível, ela vai estabilizar em algum momento,
+[2293.56–2298.02s] mas a gente continua vendo boa oportunidade ainda de produzir com riscos muito bons,
+[2298.12–2301.42s] numa dinâmica de inadimplência muito adequada.
+[2302.14–2306.14s] E mais importante, a gente está rodando, eu já tinha apresentado isso no TRI passado,
+[2306.58–2312.18s] a gente está rodando a metade, aproximadamente, quase metade do que é o indicador de atraso do sistema,
+[2312.18–2318.68s] Os dados têm sido divulgados recentemente e a gente está rodando com o indicador de atraso quase na metade.
+[2318.94–2324.50s] O que mostra que é uma operação que cria valor, que gera rentabilidade e, mais importante,
+[2324.60–2328.38s] que a gente atende os nossos clientes nos produtos mais adequados.
+[2328.64–2333.28s] Então, esse é o foco. Se eu quero ser uma operação centrada no cliente, um banco centrado no cliente,
+[2333.32–2335.96s] eu preciso oferecer o produto, porque ele é o produto mais barato.
+[2336.58–2341.86s] Ele ajuda a explicar, inclusive, por que a carteira de crédito pessoal não cresce no trimestre.
+[2341.86–2348.74s] porque nos seletistas, naqueles que são elegíveis, no crediário a gente cai 7% a produção nesses clientes,
+[2348.82–2350.14s] enquanto a gente cresce no CLT.
+[2350.24–2354.90s] Então tem uma troca para a gente evitar o sobreendividamento dos nossos clientes.
+[2355.66–2359.96s] E eu trouxe o dado também que na nossa carteira os nossos clientes têm performado
+[2359.96–2362.58s] e o nível de atraso tem se comportado muito bem.
+[2363.12–2367.02s] Crédito imobiliário, esse ano vamos lembrar que teve a volta do compulsório,
+[2367.14–2369.96s] teve a mudança da mecânica do crédito imobiliário.
+[2369.96–2375.68s] Então, lembrando, é 65 direcionado, 20 de compulsório e 15 de recurso livre.
+[2376.12–2379.72s] Dos 20 do compulsório, 5 voltaram esse ano.
+[2380.22–2386.32s] Então, isso gerou recurso adicional e a gente olha o crédito imobiliário na visão cliente.
+[2386.60–2391.38s] Como é que eu atendo o meu cliente na completude das suas necessidades da melhor forma possível
+[2391.38–2395.76s] e a gente, dado o mix de funding que a gente tem entre poupança e tesouraria,
+[2395.76–2400.00s] com todos os heads que a gente faz, permite com que a gente cresça com qualidade,
+[2400.50–2403.62s] olhando porque essa carteira também, ela vence no tempo.
+[2403.74–2406.38s] Então você precisa ir olhando na medida que o funding vai voltando.
+[2406.96–2409.74s] E vamos lembrar que o modelo muda, a partir do ano que vem,
+[2410.16–2412.64s] você começa a ter liberações graduais do compulsório,
+[2412.72–2418.58s] é 1,5 ao ano pelos próximos 10 anos, o que no limite, no tempo, você tem duas forças.
+[2418.68–2424.08s] Uma é a poupança mais pressionada, no nosso caso ela só caiu 0,6 nesse período,
+[2424.08–2427.14s] então ela vem tendo um comportamento relativamente estável,
+[2427.58–2431.08s] mas você tem a outra força, que é o aumento do direcionamento,
+[2431.76–2435.50s] que ele vai aumentando ao longo do tempo, que vai liberando o funding para o mercado.
+[2435.64–2439.86s] Então, a gente ainda vê capacidade de continuar crescendo e precificando corretamente.
+[2440.52–2443.92s] Eu acho que se você comparar com qualquer banco, eu estou falando dos privados,
+[2444.52–2448.56s] o nosso retorno em cada real marginal feito no crédito imobiliário é o melhor,
+[2449.14–2452.78s] dado a nossa relação de funding de tesouraria e crédito imobiliário.
+[2452.78–2455.28s] Então, a gente está muito confortável com esse crescimento.
+[2455.70–2458.06s] Em empresas, vai depender muito de mercado de capitais.
+[2458.14–2461.92s] A gente tem visto mercado de capitais mais errático nos últimos meses,
+[2462.12–2465.42s] dois meses mais fracos, um mês mais ativo, que foi em um mês de junho.
+[2465.86–2471.14s] Para frente, vai depender muito de atividade, o que vai drivar a nossa capacidade de crescer.
+[2471.64–2477.64s] E, mais importante, a gente tem sido muito disciplinado na questão de alocação de capital e retorno.
+[2477.92–2481.84s] Então, é muito fácil crescer carteira com retorno errado.
+[2482.44–2488.04s] Então, quando a gente olha e olha para todas as carteiras que a gente tem, veículos, olha para grandes empresas e outros,
+[2488.10–2491.42s] a gente tem visto um nível de apetite no mercado maior do que o nosso.
+[2492.08–2497.02s] E quando a gente olha e a gente opera com um modelo de retorno sobre capital alocado há muitos e muitos anos,
+[2497.14–2498.84s] então a gente tem um nível de acurácia grande.
+[2499.62–2504.66s] Nesses modelos, a gente vê que essas operações, em geral, estão destruindo o valor para o acionista,
+[2504.76–2506.58s] estão sendo feitas abaixo de custo capital.
+[2506.70–2509.54s] Essa não é a nossa dinâmica, visão cliente sempre.
+[2509.54–2515.24s] mas ainda assim a gente vê oportunidade aqui de ser cuidadoso na alocação.
+[2515.38–2519.34s] Então, de novo, a carteira vai continuar crescendo, com qualidade a gente tem crescido,
+[2519.54–2525.38s] tanto na PF como na PJ, nos melhores clientes, nos melhores ratings, em públicos resilientes
+[2525.38–2530.32s] e a gente tem conseguido crescer carteira e margem de ativos no mesmo ritmo.
+[2530.46–2534.70s] O que tem desacelerado de fato é a margem de passivo e as operações estruturadas,
+[2534.70–2540.78s] que é a sua última pergunta, dividendos, ela não tem necessariamente uma dinâmica muito clara,
+[2540.90–2544.92s] porque cada companhia delibera o seu dividendo no momento que entende.
+[2545.08–2551.38s] Então, primeiro, pressupõe que você tem que ter base fiscal para poder operar com essas operações.
+[2551.88–2555.30s] Então, esse é um cuidado que a gente toma para evitar travar prejuízo fiscal,
+[2555.56–2557.60s] a questão dos DTAs, que é super relevante.
+[2558.16–2562.98s] Segundo, tipicamente as empresas deliberam dividendos no final de cada semestre,
+[2562.98–2568.50s] final do primeiro e especialmente no último mês do ano, mas eventualmente tem uma reestruturação
+[2568.50–2573.44s] no meio do caminho, o cliente precisa resgatar aquela PN por alguma razão, ele paga um dividendo
+[2573.44–2577.16s] extraordinário, então é uma carteira que ela tem sido errática para a gente.
+[2577.58–2582.60s] Então é difícil afirmar como é que vai ser o comportamento preciso da margem no terceiro e quarto,
+[2583.22–2587.58s] porque como a gente já está num patamar de rentabilidade muito alto, qualquer operação marginal
+[2587.58–2589.50s] gera volatilidade.
+[2589.74–2593.56s] Então é por isso que a gente tem sido cauteloso em dar guidances mais curtas
+[2593.56–2595.00s] e a gente tem procurado olhar o ano.
+[2595.34–2597.76s] No ano, como o dividendo vai ser pago de qualquer forma,
+[2598.24–2600.80s] a gente tem mais segurança nas nossas informações.
+[2603.34–2604.24s] Obrigado, Gustavo.
+[2604.48–2607.26s] E agora a gente vai para a próxima pergunta com a Beatriz, do UBS.
+[2607.64–2608.36s] Beatriz, bom dia.
+[2609.80–2612.50s] Olá, pessoal. Bom dia, Milton, Gabriel, Gustavo.
+[2612.50–2613.74s] Obrigado pelo espaço.
+[2614.02–2616.10s] A nossa pergunta aqui é sobre eficiência.
+[2616.74–2621.62s] No TRI ele deu uma leve subida, mas por conta da sazonalidade, pelo que a gente entendeu,
+[2622.16–2623.72s] mas a gente vê uma trend muito boa.
+[2624.20–2627.06s] Vocês ainda enxergam espaço para uma melhora nesse índice?
+[2627.32–2631.08s] E se sim, quais seriam os principais drivers para a melhora continuar? Obrigada.
+[2631.74–2634.06s] Legal. Obrigado, Beatriz. Bom te ver aqui.
+[2634.72–2635.28s] Vai lá, Gabriel.
+[2636.20–2637.34s] Oi, Beatriz.
+[2637.76–2639.02s] Sim, a gente vê...
+[2639.02–2644.48s] Você se lembra que no trimestre passado a gente trouxe um pouco uma visão do índice de eficiência no tempo
+[2644.48–2647.14s] e principalmente olhando alguns segmentos de negócios da gente.
+[2647.24–2653.04s] O que a gente já estava em índices de eficiência, que eram absolutamente benchmarks mundiais,
+[2653.40–2659.24s] e é onde a gente via segmentos que ainda são escaláveis do ponto de vista de índice de eficiência.
+[2659.74–2663.76s] Obviamente, como você sabe, o índice de eficiência é uma razão, ele depende da receita,
+[2663.76–2666.54s] então muito o foco da gente está no custo.
+[2666.96–2671.26s] A gente vê que esse é o melhor segundo trimestre que a gente teve,
+[2671.26–2675.24s] o melhor primeiro semestre que a gente teve no índice de eficiência.
+[2675.78–2679.92s] Tem um pouco da sazonalidade que você falou, o primeiro trimestre normalmente é onde a gente vê menos gasto.
+[2680.32–2685.06s] E as alavancas são o que a gente tem visto, ou seja, modelos de negócio, aplicação de tecnologia.
+[2685.54–2690.04s] Muito dos frutos dos investimentos que o banco fez ao longo dos últimos anos,
+[2690.44–2697.50s] eles começam a render fruto agora do que a gente plantou e a gente consegue chegar em um nível de eficiência bastante melhor.
+[2697.50–2703.24s] Então, é uma tendência virtuosa, ela não é desse período, se você pegar períodos mais longos do banco, você vai ver isso.
+[2703.58–2711.38s] A gente acha que isso tem potencial para continuar, os planos que a gente vê, o nível de detalhe e disciplina que o banco tem na escalabilidade é muito grande.
+[2711.70–2714.54s] Então, sim, é o que a gente espera para o futuro.
+[2715.90–2721.26s] Eu posso só dizer que eu reforço as palavras do Gabriel com muita ênfase e entusiasmo.
+[2721.72–2723.72s] Até porque você cobra bastante do pessoal aqui dentro.
+[2724.10–2725.44s] Então, ficou implícito.
+[2727.50–2731.64s] Obrigado, Beatriz. E para a próxima pergunta, nós temos o Marcelo Misrai do BBI.
+[2732.10–2733.50s] Marcelo, pode seguir, por favor.
+[2735.10–2738.82s] Obrigado, pessoal, pela oportunidade. Parabéns pelos resultados.
+[2739.54–2743.36s] Eu queria perguntar especificamente sobre a linha de serviços, serviços mais seguros.
+[2743.36–2751.06s] Teve uma revisão aqui do Guidance, mas queria entender um pouco mais as dinâmicas que provocam a revisão
+[2751.06–2755.46s] e o quanto que a estratégia do banco está incorporada nelas.
+[2755.46–2759.64s] quando a gente vê as linhas de emissão de cartão crescendo menos que volumes,
+[2759.86–2766.62s] as linhas de pagamento, onde entram os pacotes de PJ e adquirência crescendo menos que volumes,
+[2766.74–2768.88s] até caem, e até a linha de seguros.
+[2769.02–2774.18s] Queria pensar um pouco como a gente deveria pensar as linhas de serviços para frente.
+[2774.34–2775.60s] Acho que para o ano está claro.
+[2777.04–2782.38s] Minha dúvida é, olhando isso, mais a dinâmica da atividade mais altelosa,
+[2782.38–2785.06s] ao próprio mix de carteira do banco,
+[2785.16–2787.36s] é razoável pensar que serviços,
+[2787.42–2789.50s] a linha difícil também deveria ter um comportamento
+[2789.50–2793.14s] talvez um pouco mais cauteloso
+[2793.14–2794.18s] ou crescimento um pouco menor,
+[2794.32–2796.84s] inclusive para os próximos tempos.
+[2797.08–2799.62s] A gente acredita que para o ano que vem,
+[2800.04–2802.16s] dado o crescimento de crédito potencialmente menor,
+[2802.40–2805.06s] essas linhas podem ser afetadas.
+[2805.06–2809.90s] O que está dentro dessa mudança de estratégia?
+[2809.90–2812.52s] Na verdade, é a manutenção da estratégia,
+[2812.96–2815.14s] que é ver se vocês concordam com essa visão,
+[2815.32–2818.96s] que pensando o mix de carteira, pensando a estratégia do banco,
+[2819.76–2821.76s] faz sentido pensar nessa linha mais fraca também
+[2821.76–2823.96s] nos próximos trimestres e ano que vem. Obrigado.
+[2825.18–2826.40s] Obrigado, obrigado, Marcelo.
+[2826.44–2829.96s] Obrigado pela participação e pelas considerações iniciais.
+[2830.68–2833.42s] Eu acho ótimo a gente poder falar sobre essa linha,
+[2833.52–2834.86s] porque teve, de fato, uma alteração.
+[2834.86–2841.14s] e eu acho que para cada componente aqui do quadro de serviços e seguros,
+[2841.74–2844.50s] cabe uma pequena explicação.
+[2845.00–2847.50s] Então, primeiro, começando por cartões.
+[2847.74–2852.70s] Cartões, aqui, especialmente pessoa física, tem um duplo efeito,
+[2852.80–2854.50s] se eu pudesse resumir a nossa estratégia.
+[2854.58–2859.62s] A primeira é que ao longo dos últimos anos a gente fez um de-risking importante no portfólio,
+[2859.62–2864.70s] especialmente nas rendas ou naqueles públicos menos resilientes,
+[2864.86–2870.78s] e a gente fez um de-risking que foi muito relevante, que olhando de hoje pelo retrovisor,
+[2870.96–2878.30s] a gente perdeu marginalmente receita, mas economizou volumes importantes de perdas de crédito.
+[2878.54–2881.74s] Então, quando eu olho hoje, acho que a estratégia foi muito acertada.
+[2882.30–2887.42s] Segundo, a gente tem sido cada vez mais focado nos públicos de média e alta renda,
+[2887.48–2892.04s] onde a gente tem crescido o nosso portfólio, e a gente, quando cresce nesses públicos,
+[2892.04–2894.04s] ele é um produto naturalmente mais caro.
+[2894.04–2899.28s] A gente depende menos de anuidade, na medida em que a gente vem fazendo a redução de anuidade no tempo,
+[2899.46–2901.90s] para que a gente tire a fricção da relação com o cliente.
+[2902.26–2906.06s] Então a gente se permite fazer isso com o nível de resultado que a gente vem gerando ao longo dos anos
+[2906.06–2912.70s] e a gente montando uma operação totalmente dedicada a essa visão de centralidade,
+[2912.84–2914.88s] lifetime value, engajamento com o cliente.
+[2914.96–2916.66s] Então você reduz fricção na anuidade.
+[2917.20–2920.84s] Por outro lado, os rewards tendem a custar mais caro.
+[2920.84–2926.08s] a gente vê muitos players usando o cartão de crédito como custo de aquisição de cliente,
+[2926.18–2932.02s] encarecendo, inevitavelmente isso acaba puxando, mas na nossa visão esse público merece
+[2932.02–2937.16s] o melhor atendimento nas melhores condições e a gente vê isso na visão cliente,
+[2937.20–2940.26s] do ponto de vista de principalidade, não na visão produto.
+[2941.02–2946.48s] Então isso ajuda a explicar rewards crescendo, anuidade caindo, intercâmbio vindo no ritmo adequado.
+[2946.48–2952.12s] Agora, tem um componente importante da nossa estratégia que não aparece nesse quadro de serviços e seguros,
+[2952.70–2958.70s] que é boa parte do crescimento e desse custo está sendo financiado através da carteira com juros,
+[2959.08–2965.56s] em que a gente começa a usar o produto cartão como financiamento ao consumo e não como um produto
+[2965.56–2971.84s] para o cliente que já está numa situação mais deteriorada, que ele corre para o overdraft ou para um parcelamento de fatura.
+[2971.84–2979.08s] Então, a gente vem trazendo uma série de features no produto para aumentar a elasticidade e a propensão dos clientes de média alta renda.
+[2979.12–2981.62s] E a gente tem conseguido fazer isso de forma muito material.
+[2982.28–2988.02s] Então, esse componente tem que ser colocado junto com a estratégia de cartões, só que ele fica na margem financeira de clientes,
+[2988.46–2991.94s] não fica na receita de serviços, no componente cartão de crédito.
+[2992.58–2994.36s] Depois, a administração de recurso.
+[2994.70–2997.02s] É importante a questão do perfil.
+[2997.02–3003.02s] apesar de um mercado mais difícil para todos, a gente foi a segunda asset que mais gerou perfil no mercado
+[3003.02–3008.50s] então tivemos uma performance relativa muito boa, mas não foi muito boa para ninguém, no fundo é isso
+[3008.50–3013.44s] o que significa dizer que como a perfil vem no segundo tri e no quarto tri
+[3013.44–3017.86s] a gente teve uma perfil menor inclusive do que a gente teve no segundo tri do ano passado
+[3017.86–3024.00s] então isso aqui é uma dinâmica de gestão de risco, então a gente espera poder estar na ponta certa
+[3024.00–3028.44s] apesar dessa volatilidade, está muito difícil, mas gerar resultado de perfil.
+[3028.58–3031.84s] Então isso é importante. Por outro lado, a gente cresceu de forma importante os saldos
+[3031.84–3037.90s] e as taxas mantidas, então isso acaba gerando um recurso de taxa de administração também
+[3037.90–3041.96s] que ajuda a compensar e o consórcio vindo bastante bem, bastante forte.
+[3042.34–3043.56s] Então isso tem ajudado aqui.
+[3044.12–3050.00s] Quando a gente vai para banco de investimento, enfim, DCM é quem tem dado tom nessa linha.
+[3050.00–3058.16s] Então, quando a gente olha ICM praticamente parado, M&A muito errático, tem meses melhores,
+[3058.32–3062.38s] meses piores, mas num patamar ainda muito, muito baixo e renda fixa tem sido relevante.
+[3062.50–3066.30s] Abril e maio foram dois meses mais difíceis, junho já foi um mês melhor.
+[3066.74–3071.68s] Mas aqui acho que vale um parênteses, para dizer assim, a gente gosta de olhar as operações
+[3071.68–3078.18s] de títulos e valores imobiliários, especialmente nos rankings, juntando o que é originação
+[3078.18–3079.60s] e distribuição.
+[3080.00–3085.84s] Então, como vocês podem observar, a gente continua liderando com uma larga vantagem o ranking de distribuição,
+[3086.38–3091.36s] o que mostra que boa parte da originação que a gente faz em TVM a gente distribui no mercado
+[3091.36–3096.48s] e não faz essas operações exclusivamente para balanço.
+[3096.56–3101.74s] A gente faz, pela boa dinâmica de mercado de capitais que cresceu bastante, operações para distribuir a mercado.
+[3102.82–3105.82s] E aí, esse é um componente importante de olhar. Por quê?
+[3106.36–3111.12s] Porque essas operações, quando você encartera, você tem que olhar o resultado all-in,
+[3111.28–3115.28s] que é o spread de crédito, mais o FII que você recebe na cabeça.
+[3116.08–3120.08s] E a gente tem visto operações no mercado bem abaixo do custo de capital.
+[3120.54–3124.24s] Então, boa parte das operações que a gente perdeu, a gente perdeu por preço,
+[3124.88–3127.58s] porque de fato a operação não retorna custo de capital.
+[3127.58–3130.62s] E vamos combinar que a gente está há anos operando.
+[3130.72–3133.84s] Não é difícil fazer o cálculo de alocação de capital e retorno.
+[3133.84–3139.60s] operações estão vindo com retorno entre 11% e 12%, que destrói valor, ainda na visão cliente.
+[3139.98–3142.76s] Mas tem um segundo componente que eu acho importante de reforçar aqui,
+[3142.86–3147.20s] que isso vai depender muito da dinâmica de mercado, que você pode ter um risco ainda pior.
+[3147.78–3153.68s] Esses retornos que eu estou te falando são retornos considerando o FII, que é reconhecido na cabeça.
+[3154.44–3158.44s] Então, o risco que você corre é reconhecer FIIs grandes e mostrar uma linha crescendo
+[3158.44–3162.28s] e ficar com um ativo de baixa rentabilidade no longo prazo.
+[3162.28–3166.84s] O duration dessas operações encarteiradas é de, enfim, pode ser até de 7 anos.
+[3167.52–3170.78s] Então você acaba carregando um ativo de baixíssima rentabilidade,
+[3171.30–3175.46s] porque ela dá 12 de retorno considerando, 12 na média,
+[3175.60–3178.86s] a gente tem visto operações bem abaixo disso considerando o FII.
+[3179.38–3183.26s] Então essa dinâmica é perversa, você reconhece o FII, faz um resultado muito grande
+[3183.26–3187.28s] e eventualmente, não estou dizendo que sempre, você pode reconhecer
+[3187.28–3191.52s] uma operação com baixa rentabilidade no longo prazo, o que ela é dilutive para a rentabilidade.
+[3191.52–3197.46s] Esse é um ponto. E o outro, a gente tem procurado ser bastante cuidadoso com o crédito também,
+[3197.46–3201.66s] olhando em uma parte das operações a gente perde por apetite mesmo.
+[3201.66–3206.26s] E o apetite passa por N razões, mas a gente decide não fazer algumas operações,
+[3206.26–3208.26s] porque acaba, enfim, que o mercado todo vê.
+[3208.26–3213.32s] Depois, quando a gente vai para seguros, a gente tem tido um componente muito importante
+[3213.32–3219.38s] de crescimento da operação de seguros core, o bank assurance está vindo muito, muito bem.
+[3219.38–3226.26s] O que não significa dizer que essa linha comporta exclusivamente a nossa operação de bank assurance.
+[3226.38–3229.02s] Ela também traz RAPs, traz outros efeitos.
+[3229.68–3234.76s] Então, você pode ter alguma volatilidade na visão trimestral e ano contra ano de equivalência patrimonial.
+[3234.90–3237.68s] Acho que tem dados sendo divulgados, dados públicos.
+[3238.30–3239.36s] Isso vai ficar mais claro.
+[3239.48–3242.88s] Então, a gente consegue sim crescer com muita qualidade.
+[3243.18–3245.28s] A gente tem crescido no ano contra ano.
+[3245.28–3251.08s] prêmios emitidos crescendo de forma relevante, mais importante com a semestralidade muito comportada.
+[3252.08–3257.24s] Previdência tem esse efeito também de resultado, mas tem um componente de perfil importante,
+[3257.72–3258.64s] então essa é a dinâmica.
+[3258.74–3263.74s] Então olhando para frente, claro que depende de atividade, mas cada linha tem uma estratégia diferente.
+[3263.96–3266.28s] O mais importante é a gente ter essa visão cliente.
+[3266.44–3269.96s] Em IPJ, que eu acabei não falando de fluxos e recebimentos,
+[3270.54–3273.24s] que vale lembrar que a gente trouxe a rede aqui para dentro,
+[3273.24–3276.42s] no resultado da rede tem um duplo efeito.
+[3276.58–3279.62s] O primeiro mix, a gente cresceu mais no atacado do que no varejo,
+[3279.70–3281.46s] que afeta naturalmente o resultado.
+[3282.00–3284.58s] Segundo, a integração do negócio no banco,
+[3284.68–3287.26s] então a gente não olha a visão produto, a gente olha a visão cliente.
+[3287.70–3291.84s] Terceiro, o floating gerado no negócio, o rede não fica nessa linha,
+[3291.94–3293.26s] ele fica na margem com o cliente,
+[3293.32–3296.38s] é um ajuste que eu acho que a gente deverá fazer olhando para frente
+[3296.38–3299.46s] para ter uma visão mais clara do todo.
+[3299.98–3302.86s] E o grande ofensor, de fato, são os pacotes de PJ,
+[3303.24–3307.26s] especialmente tarifas que a gente vem reduzindo direcionalmente.
+[3307.26–3310.86s] E o objetivo de fazer essa redução é de novo tirar a fricção,
+[3310.86–3314.48s] aumentar o lifetime value com os clientes e criar valor no longo prazo.
+[3314.48–3318.76s] Então a gente vê as taxas de engajamento, tanto na pessoa física como na pessoa jurídica,
+[3318.76–3321.64s] os pacotes de conta corrente na pessoa física também caindo.
+[3321.64–3325.84s] A gente está hoje gerando resultado que é um terço do que a gente gerou no passado,
+[3325.84–3329.56s] para mostrar o quanto a gente conseguiu fazer a transição que era necessária,
+[3329.56–3333.82s] sendo um banco mais digital, mais eficiente, mais focado no cliente.
+[3333.90–3337.80s] Eu acho que isso, por longo prazo, o VPR dessas decisões é super relevante.
+[3337.88–3339.38s] E o para frente vai depender de atividade.
+[3340.10–3344.96s] Enfim, vamos ver como é que a gente consegue crescer nessas N linhas.
+[3345.24–3347.90s] Em breve a gente está orçando 2027.
+[3348.04–3350.62s] Talvez ano que vem, pós-eleição, o cenário mais benigno,
+[3350.62–3355.72s] o espaço dos juros cair, possa facilitar a abertura de alguma dessas linhas.
+[3355.72–3358.94s] Obrigado Marcelo
+[3358.94–3361.36s] E para a próxima pergunta nós temos o Yuri Fernandes
+[3361.36–3362.08s] Do JP Morgan
+[3362.08–3363.28s] Bom dia Yuri
+[3363.28–3366.42s] Bom dia Gustavo, obrigado, bom dia Milton
+[3366.42–3368.02s] A Gabriel, parabéns também
+[3368.02–3370.48s] Geração de capital, RWA crescendo
+[3370.48–3371.90s] Menos do que a carteira
+[3371.90–3374.44s] Então acho que é uma qualidade
+[3374.44–3375.56s] Na geração de resultados
+[3375.56–3378.22s] Eu queria voltar só para a asset quality Milton
+[3378.22–3380.34s] Se eu puder, eu acho que assim na apresentação
+[3380.34–3382.46s] Você já comentou bastante, eu senti até você
+[3382.46–3383.68s] Não tão preocupado
+[3383.68–3388.94s] Eu só fiquei numa dúvida no 1590 de vocês para pessoa física e para SMI.
+[3389.94–3393.88s] Historicamente a gente vê uma melhora, assim, sazonal no 2Q contra 1Q.
+[3394.48–3399.46s] Eu acho que uma parte do SMI você já explicou, né, que tem a ver com os programas de governo, fim de carência.
+[3400.02–3404.40s] Mas até o PF, que não deveria ter tanto efeito disso, ele ficou flat.
+[3404.68–3410.16s] Geralmente ele cai, não é uma queda significativa, ele cai algo como 10, 20 bips e ele ficou flat.
+[3410.16–3412.12s] então assim, tentar entender
+[3412.12–3414.46s] se o seu conforto
+[3414.46–3416.44s] do asset quality é mais assim, talvez as coisas
+[3416.44–3418.18s] não vão melhorar muito, é uma piora
+[3418.18–3420.30s] eu sei que o Itaú tem um balanço melhor, então
+[3420.30–3422.32s] vocês estão mais preparados, mas
+[3422.32–3424.08s] é assim, a gente está um pouquinho
+[3424.08–3426.48s] preocupado e vai ver algum nívelzinho de piora
+[3426.48–3428.46s] ou não? Na cabeça de vocês
+[3428.46–3430.74s] é um cenário de conforto, de estabilidade
+[3430.74–3432.40s] só para entender aqui um pouquinho e
+[3432.40–3433.86s] se vocês puderem também explicar
+[3433.86–3435.86s] o que aconteceu aqui com
+[3435.86–3437.76s] o 1590, obrigado
+[3438.76–3443.00s] Tudo bem, Yuri, obrigado pelas palavras iniciais, bom te ver aqui no call.
+[3443.88–3450.24s] Bom, primeiro, eu acho que o que se sentiu, ou pelo menos que eu procurei transmitir durante a apresentação,
+[3450.32–3452.10s] eu acho que você capturou corretamente.
+[3453.04–3455.36s] Evidente que o cenário deteriorou.
+[3455.80–3460.96s] Se a gente olhar o TRI passado e esse TRI, basta ver os atrasos que estão sendo divulgados em todos os produtos,
+[3461.54–3465.26s] a gente vê um aumento relevante nos atrasos over 90 do mercado.
+[3466.08–3470.64s] Primeira informação, aqui do nosso lado, a gente não alterou em nenhum momento
+[3470.64–3473.96s] as nossas políticas de write-off para nenhum produto.
+[3474.34–3479.02s] E a 4966 da grau de liberdade a gente manteve exatamente,
+[3479.44–3483.36s] porque a nossa expectativa de levar o cliente para a write-off não mudou,
+[3483.56–3485.04s] apesar dos graus de liberdade.
+[3485.16–3489.28s] Então a gente não faz gestão de indicador de atraso e muito menos de provisão
+[3489.28–3490.96s] utilizando esses graus de liberdade.
+[3490.96–3491.60s] Isso é o número um.
+[3491.60–3495.72s] Número dois, o de-risking do portfólio relevante já foi feito.
+[3495.72–3503.14s] Então hoje a gente na margem vem conseguindo crescer de forma relevante naqueles públicos mais resilientes.
+[3503.32–3508.74s] Estão de portfólio na pessoa física, na pessoa jurídica também, seja no varejo ou do atacado.
+[3508.84–3511.20s] Isso vem trazendo resultados muito importantes.
+[3511.88–3515.70s] Qual que é o twist aqui para o atraso curto que eu acho que vale a pena explicar?
+[3515.70–3525.94s] Se você voltar e olhar quanto cresceu o nosso primeiro TRI em relação ao quarto TRI do ano passado, no atraso curto,
+[3526.84–3533.38s] você vai ver que a gente cresce muito menos do que a gente costumava crescer originalmente.
+[3533.90–3540.42s] Então, você olha lá, a gente cresceu 23 BIPs, foi bem abaixo do que a gente costumava crescer.
+[3541.08–3547.28s] Então, a gente costuma, sazonalmente, ver uma recuperação maior no atraso curto,
+[3547.64–3552.30s] porque este primeiro tri, sazonalmente, historicamente, é mais alto, em função disso.
+[3552.40–3553.66s] Então, a gente não costuma ver.
+[3554.10–3557.06s] Como ele foi muito baixo, foram só 23 basis points,
+[3557.46–3561.42s] que tirando 23 e 24, foi o nosso melhor indicador da série,
+[3561.42–3565.16s] a gente rodou a 50 bips, 60 bips em tri's anteriores,
+[3565.70–3568.72s] ele também volta a menos no 15 a 90 no tri subsequente.
+[3568.72–3580.38s] Então é um efeito puramente mecânico, não tem nenhum sinal, está mais difícil, a gente tem atuado bastante na cobrança, olhado os indicadores, mas nenhum sinal de preocupação na nossa carteira.
+[3580.74–3595.58s] Claro, enfim, é sete risparibus com as informações que a gente tem hoje, comprometimento de renda elevado, taxa de juros elevada, claramente houve uma sobre oferta de crédito no mercado ao longo dos últimos anos e a gente foi muito disciplinado para crescer do jeito certo,
+[3595.58–3601.02s] mas a gente está muito tranquilo com os indicadores, então vocês podem esperar estabilidade,
+[3601.44–3606.86s] são volatilidades, variações minúsculas, olhando para frente de novo com as informações que a gente tem hoje,
+[3607.40–3608.98s] então nenhum tipo de preocupação.
+[3609.26–3612.58s] Então se você olhar o custo de crédito sobre carteira super comportado,
+[3613.04–3617.72s] se você olhar a carteira renegociada, que ela sobe ligeiramente nesse tri,
+[3618.14–3623.08s] tem basicamente duas explicações super importantes, a primeira delas é o próprio desenrola,
+[3623.08–3631.98s] ele explica uma parte importante desse aumento, e o segundo, que na carteira renegociada tem recuperações judiciais do primeiro semestre do ano passado,
+[3632.30–3637.84s] que só foram homologadas agora e você só pode considerar renegociado uma vez que o plano foi homologado.
+[3637.94–3639.88s] Então, é basicamente isso que explica o movimento.
+[3640.40–3646.98s] Então, por onde você olhar, saldo de provisão, o próprio creation, ele é mais forte agora no segundo tribo,
+[3647.00–3652.28s] porque ele é sazonal, se você voltar nos trimestres anteriores, o comportamento dele é muito parecido.
+[3652.28–3657.96s] O segundo tri, dado a rolagem do curto para o longo, ele tende a subir no creation.
+[3658.08–3661.62s] Teve um pequeno efeito mecânico também na cobertura do creation.
+[3661.74–3665.96s] A gente não faz provisão em cima do creation, a gente faz por perda esperada.
+[3666.48–3670.32s] Então, quando o atraso curto vem, a gente antecipa no primeiro tri, quando puxou.
+[3670.40–3674.00s] No segundo tri, a gente já não vê esse mesmo efeito.
+[3674.46–3677.48s] A cobertura sobre creation divulgada é varejo como um todo.
+[3677.48–3682.20s] Como tem produtos mais garantidos, eles também demandam menos provisão.
+[3682.28–3687.58s] naturalmente. Então, por onde você olhar, a gente está muito confortável com os indicadores de crédito.
+[3687.80–3693.96s] Então, não veja nisso algum tipo de mensagem. A nossa melhor estimativa hoje é estabilidade.
+[3694.46–3700.44s] Não temos nem a nossa melhor estimativa é essa para a pessoa física e na pessoa jurídica SME.
+[3700.80–3705.96s] Aí, aquele efeito mecânico que você capturou bem dos programas, a gente deve piorar mais 10 vezes,
+[3706.20–3710.46s] possivelmente no próximo TRI, e depois estável em diante.
+[3710.46–3716.60s] De novo, com as informações que a gente tem hoje, o mercado é dinâmico, ele pode piorar mais rápido, mas não é o que a gente está vendo.
+[3717.82–3724.24s] Enfim, em geral, com todos os atrasos que foram divulgados, e a gente deve trazer então, num próximo trio,
+[3724.30–3727.94s] que eu acho que ajuda, trazer os indicadores de mercado e os nossos indicadores,
+[3728.30–3732.64s] a gente vai ficar bem claro como a gente tem conseguido se distanciar dos atrasos de mercado.
+[3732.80–3739.32s] Realmente a boca do jacaré está abrindo muito forte e a gente está conseguindo entregar atrasos muito, muito comportados e consistentes,
+[3739.32–3744.46s] com crescimento de carteira super adequada e de qualidade e visão de longo prazo.
+[3744.58–3746.72s] Então, acho que essa é a mensagem que tem que ficar.
+[3748.42–3752.76s] Obrigado, Yuri. E agora para a próxima pergunta, nós temos o Renato Meloni, da Autonomous.
+[3753.34–3754.54s] Renato, pode prosseguir.
+[3756.90–3761.86s] Bom dia, pessoal. Bom revê-los aqui. Obrigado pelo espaço e pela pergunta e parabéns pela execução aqui até agora.
+[3762.52–3765.36s] Eu queria começar perguntas de uma forma mais abrangente.
+[3765.36–3769.32s] se você pudesse falar, Milton, um pouco sobre a sua visão
+[3769.32–3771.00s] sobre o ciclo de crédito para a indústria
+[3771.00–3775.48s] ao longo do segundo semestre aqui, entrando em 2027.
+[3775.86–3778.86s] Quer dizer, você tem um push fiscal grande esse ano,
+[3778.98–3780.26s] o quanto que isso pode estar ajudando
+[3780.26–3784.70s] e se você ver mais riscos para 2027, caso isso diminua.
+[3785.46–3788.08s] E depois, se você puder conectar isso com o seu comentário anterior,
+[3788.18–3791.66s] onde você espera alguma desaceleração do seu crescimento
+[3791.66–3793.78s] e a convergência para o guidance,
+[3793.78–3795.78s] Então, onde viria esse crescimento?
+[3795.92–3799.02s] Quer dizer, talvez num cenário de mais estabilidade, você que é na de plenitude controlada,
+[3799.36–3803.44s] não tem espaço para você acelerar esse crescimento e talvez terminar acima do guidance?
+[3803.92–3804.32s] Obrigado.
+[3805.06–3806.24s] Obrigado você, Renato.
+[3806.36–3810.84s] Olha, primeiro, o ciclo de crédito, a gente acompanha ele há muitos anos
+[3810.84–3816.88s] e naturalmente ele vai se manifestando de forma diferente nos diversos segmentos
+[3816.88–3819.68s] e nos diversos produtos em cada segmento.
+[3819.68–3824.62s] Então, a escolha que a gente tem feito de como conceder crédito numa visão de longo prazo
+[3824.62–3829.50s] e a gestão de portfólio foi vital para a gente entregar o que a gente está entregando.
+[3830.06–3833.42s] Porque quando você faz gestão de portfólio, você olha todas as dimensões.
+[3833.56–3839.24s] Você olha o forward guidance, a gente olha o macro, você olha, enfim, as condições atuais,
+[3839.36–3842.74s] a gente olha o cliente na sua individualidade com todos os dados,
+[3842.90–3846.68s] todos os modelos que a gente tem desenvolvido têm tido resultados muito fortes,
+[3846.68–3851.10s] fortes, a gente tem conseguido avançar inclusive em inteligência artificial de
+[3851.10–3855.68s] forma importante, com resultados importantes na gestão de crédito.
+[3855.68–3860.12s] Então, o ciclo de crédito, o que a gente vê? A gente vê um comprometimento de renda
+[3860.12–3865.86s] alta, um volume de transferências também elevado, programas governamentais de
+[3865.86–3870.84s] várias naturezas, o Desenrola, por exemplo, ele teve um impacto importante. Na nossa
+[3870.84–3875.96s] carteira foi imaterial, mas são 371 mil clientes, tem um bi-100 de carteira
+[3875.96–3882.32s] renegociada, a gente já apresentou agora há pouco 0,02 no indicador de atraso e material no custo do crédito,
+[3882.74–3889.60s] mas para outros players, provavelmente o impacto pode até ser maior, dado o share que eles tiveram no programa
+[3889.60–3895.96s] e dado a necessidade, dado o público de até 5 salários mínimos, que é menos o nosso perfil de carteira.
+[3895.96–3898.86s] É evidente que a gente também atua nesse público.
+[3899.70–3905.84s] Enfim, então eu acho que o ciclo do crédito vai ser desafiador porque Estados Unidos, possíveis duas altas de juros,
+[3905.84–3911.48s] até o final do ano, as curvas longas nos Estados Unidos abrindo, vai colocar pressão na curva,
+[3911.62–3916.30s] prêmio de risco na curva do Brasil importante, curtíssimo prazo, está bem precificado,
+[3916.36–3920.62s] um corte de 25 hoje, possivelmente mais um corte de 25 na próxima reunião,
+[3920.74–3924.12s] que é hoje o nosso cenário base, mas vai depender muito dos Estados Unidos,
+[3924.24–3927.38s] porque se os juros lá fora subir e ficar em um patamar mais alto,
+[3927.98–3934.46s] naturalmente isso vai acabar puxando o câmbio e isso vai gerar uma pressão inflacionária adicional,
+[3934.46–3938.62s] o que vai dificultar ou pode dificultar o trabalho do Banco Central.
+[3938.80–3943.64s] Então, isso ainda, to be seen, quer dizer, a gente precisa acompanhar de perto.
+[3944.48–3950.44s] E aí eu acho que esses programas ajudaram, mas eles são one-off, eles não são para sempre.
+[3951.06–3954.26s] Então, eu acho que nada substitui a disciplina de gestão de risco.
+[3954.68–3959.08s] Então, o que eu acho que a gente está vivendo hoje foi um excesso de crédito dado pelo mercado,
+[3959.08–3964.60s] Foi um excesso claro de regulação que abriu o mercado de uma forma relevante.
+[3965.28–3969.92s] Então muitos players operando, a gente vê que a maior parte do crédito e do sistema financeiro
+[3969.92–3973.12s] e do crescimento do crédito está nos novos entrantes.
+[3974.06–3976.36s] E os clientes acabaram com isso ficando sobreendividados.
+[3976.88–3982.94s] A gente tinha 1.4 cartões por CPF, hoje a gente tem de 5 a 6 cartões por CPF.
+[3983.40–3986.40s] Então o cuidado que a gente tomou foi de crescer nos clientes resilientes,
+[3986.40–3990.70s] ajudar os nossos clientes a fazer essa transição da melhor forma possível,
+[3991.08–3992.72s] mas é um cenário que inspira cautela.
+[3993.16–3997.60s] Então a gente deve olhar aí para 2027 ainda, nos próximos meses,
+[3997.70–3999.50s] para entender qual é a real capacidade.
+[4000.08–4001.88s] Agora, a tua pergunta final foi,
+[4002.00–4005.14s] por que vocês não aproveitam que vocês estão numa condição até melhor,
+[4005.28–4007.72s] de atraso, o balanço está forte, para crescer?
+[4008.16–4010.98s] Porque aí eu acho que é aí que a gente vai cometer os erros de longo prazo.
+[4010.98–4015.80s] Então a gente tem tido essa disciplina e é essa disciplina que nos trouxe até aqui.
+[4016.40–4020.50s] Então, o dia que você perde essa disciplina porque você acha que você tem que crescer,
+[4020.66–4025.32s] ou para entregar resultado, ou para crescer top line, você devolve tudo na PDD depois.
+[4025.72–4030.08s] E isso afeta a capital e piora a sua capacidade de dar crédito de novo,
+[4030.08–4034.72s] porque aí você fica na defensiva, cobrando, e diminui o apetite,
+[4035.38–4039.32s] e aí você abre e fecha no crédito que a gente evita.
+[4039.42–4044.00s] Então, a gente quer estar always on, dando crédito com qualidade, crescendo com vigor,
+[4044.00–4048.54s] mas nos clientes que são mais resilientes e sempre olhando o longo prazo.
+[4048.64–4051.28s] Então a gente não vai abrir mão dessa disciplina.
+[4051.78–4055.94s] E o que eu sempre falo, quando a gente vê o mercado crescendo de forma irracional em alguma linha,
+[4056.42–4057.92s] a gente sempre tem que tomar uma decisão.
+[4058.12–4063.02s] Ou a gente perde market share, ou a gente perde dinheiro, a gente sempre opta por perder market share.
+[4063.32–4067.00s] E é isso que a gente tem feito no processo de ajuste de portfólio.
+[4068.94–4069.80s] Obrigado, Renato.
+[4070.32–4072.40s] E agora nós temos o Daniel Vaz, do Safra.
+[4072.40–4074.22s] Bom dia, Daniel. Pode prosseguir.
+[4075.48–4077.52s] Bom dia, Gustavo. Bom dia, Milton. Bom dia, Gabriel.
+[4077.82–4082.48s] Parabéns pelos resultados e pela estabilidade do banco, do cost of risk.
+[4082.84–4087.16s] Enfim, é um banco sempre muito previsível e estável.
+[4087.64–4091.92s] Eu queria voltar um pouco, na minha pergunta, no tema de índice de eficiência.
+[4092.32–4094.46s] A gente já ouviu um pouquinho das palavras do Milton.
+[4094.66–4099.92s] Eu queria tentar entender o manejo que vocês têm hoje do custo do banco.
+[4099.92–4102.98s] Se porventura, espero que esteja muito longe disso,
+[4103.08–4105.60s] mas tem um cenário onde a sua receita cresce,
+[4105.64–4106.82s] um low single digit,
+[4107.36–4109.30s] o quanto de manejo você conseguiria ter,
+[4109.48–4111.10s] eventualmente, uma contingência de custo
+[4111.10–4112.30s] para manter o ROI.
+[4112.78–4114.86s] Tentando pensar aqui o que limita hoje
+[4114.86–4116.36s] esse corte de custo,
+[4116.42–4118.26s] ou se crescimento abaixo de custo,
+[4118.34–4119.50s] se é uma questão mais institucional,
+[4119.74–4120.98s] trabalhista, regulatória,
+[4121.64–4123.68s] ou simplesmente é uma escolha deliberada
+[4123.68–4126.12s] de velocidade de investimento,
+[4126.54–4127.64s] cruzando com a sua receita
+[4127.64–4130.30s] e olhando para o que já foi feito até aqui,
+[4130.40–4131.66s] você tem muita revisão de footprint,
+[4131.96–4134.96s] muito quadro de colaboradores, etc.
+[4135.20–4140.14s] Mas o quanto daqui para frente isso vem com IA aplicada nos seus negócios,
+[4141.38–4144.28s] pensando no que já foi feito até agora
+[4144.28–4147.22s] e o que daqui para frente isso tem 100% de apoio IA
+[4147.22–4148.78s] ou ainda IA, vocês ainda estão,
+[4149.36–4151.84s] teve o lançamento agora da IA para os clientes
+[4151.84–4154.46s] e vocês ainda estão debatendo isso
+[4154.46–4156.50s] ou isso já está 100% apoiado em IA para frente
+[4156.50–4159.58s] e é a partir daqui que o banco vai ser pilotado. Obrigado.
+[4159.86–4164.48s] Tá bom, obrigado, obrigado, Daniel, bom te ver aqui, obrigado aí pelos comentários iniciais.
+[4165.52–4167.74s] Vou olhar o copo meio cheio, tá?
+[4169.18–4173.36s] O comentário que eu queria fazer é o seguinte, o primeiro custo é o que está na nossa mão, né?
+[4173.44–4178.16s] Então, evidente que a receita, a gente tem projeção, tem uma receita mecânica, né?
+[4178.16–4180.22s] Que é a própria carteira e o crescimento.
+[4181.36–4184.96s] E quando eu olho para frente, quer dizer, a receita é incerta,
+[4184.96–4189.78s] porque depende de atividade, depende de macro, depende de desemprego, inadimplência e por aí vai,
+[4190.30–4191.90s] mas o custo está sob gestão.
+[4192.16–4196.76s] Então, a gente já desacelerou de forma importante o crescimento de custo,
+[4196.94–4201.00s] sem abrir mão jamais de fazer investimento no longo prazo.
+[4201.38–4204.42s] Então, esse é um mantra aqui, a gente jamais vai hipotecar o futuro.
+[4204.90–4208.06s] Estamos sempre trabalhando para gerar valor para os clientes, investir em tecnologia,
+[4208.20–4210.58s] investir em plataformas, investir em experiência digital,
+[4210.58–4214.98s] e entregar um banco cada vez melhor para os nossos clientes.
+[4215.08–4218.36s] Então, isso a gente não abre mão, desenvolver novos negócios, abrir novas frentes,
+[4218.94–4222.12s] tudo isso a gente continua fazendo, mas dá para fazer as duas coisas.
+[4222.48–4225.64s] Dá para investir e abrir espaço para fazer esse investimento.
+[4226.18–4228.56s] Então, não é, não tem uma bala de prata,
+[4228.94–4232.34s] são uma série de iniciativas que o Gabriel vem liderando aqui,
+[4232.80–4235.06s] junto com todo o comitê executivo, com todo o banco.
+[4235.06–4239.06s] É um trabalho muito profundo, então, com todas as alavancas,
+[4239.06–4243.12s] alavancas, iniciativa, iniciativa mapeada, acompanhamento, disciplina de execução.
+[4243.78–4246.38s] Então é para lá que a gente vai, não tenha dúvida disso.
+[4246.38–4253.92s] E obviamente, se tiver tecnologia, IA ou qualquer outra forma de acelerar o processo, faremos uso.
+[4254.38–4259.86s] Temos cuidado aqui com toda a disciplina dos tokens, a gente tem olhado, sem jamais inibir a inovação,
+[4260.24–4265.72s] como é que a gente faz uma gestão inteligente, como é que a gente acompanha a geração de valor e por aí vai.
+[4265.72–4271.18s] mas eficiência para a gente é um mantra e nunca foi tão importante quanto agora.
+[4271.70–4276.44s] E a gente tem conseguido, no segmento onde a gente precisa ganhar competitividade principalmente
+[4276.44–4282.20s] e avançar contra o mercado, a gente está tendo avanços de 5 pontos percentuais no índice de eficiência
+[4282.20–4283.84s] com consistência.
+[4284.16–4290.00s] E a gente vai continuar reduzindo, especialmente no varejo, ajustando o custo de servir
+[4290.00–4293.62s] para que a gente seja mais competitivo, especialmente no Itaú Digital,
+[4293.62–4299.26s] dado todo o investimento de modernização de tecnologia que a gente fez, de transformação de jornadas
+[4299.26–4304.06s] o que nos permite atender muito bem os nossos clientes com a melhor experiência digital
+[4304.06–4312.12s] aliás, só fazer um parênteses aqui, nesse último mês a gente fechou 18 pontos do NPS competitivo
+[4312.12–4319.64s] produzido pela Prisma, que mostra o NPS competitivo do mercado para o vencedor das experiências digitais
+[4319.64–4325.94s] Então a gente fechou todo o gap que era um de 18 pontos ao longo desses anos com todo o investimento de transformação digital.
+[4326.14–4331.90s] Então a gente está preparado para capturar os benefícios do digital, mas a gente precisa ajustar o custo de servir.
+[4332.08–4337.58s] Acho que o Gabriel aqui tem liderado muito bem esse processo que tem do banco e pode dar mais insumos para você.
+[4338.68–4346.04s] Eu gosto da resposta, começando com a sua pergunta e que você falou do resultado do banco, da estabilidade, da previsibilidade.
+[4346.40–4348.48s] Acho que isso explica muito como a gente faz as coisas.
+[4348.48–4354.86s] Se você pensar no final do dia, não é difícil cortar custo, do mesmo jeito que não é difícil você crescer a carteira de crédito.
+[4355.34–4360.16s] As consequências do que vem depois, que são importantes, é parte do processo de decisão.
+[4360.28–4364.56s] Ou seja, cortar custo de uma maneira que seja sustentável para a relação com o cliente,
+[4364.66–4368.62s] para a principalidade que a gente tem com os clientes, passa por uma série de investimentos.
+[4368.98–4371.94s] O que a gente tem que fazer hoje para garantir a criação de valor no futuro.
+[4372.30–4377.60s] Ou seja, o índice de eficiência é super importante, é um motor de competitividade do banco,
+[4377.98–4380.74s] mas o que a gente busca no final do dia é maximizar a criação de valor.
+[4380.88–4384.90s] Esse é o grande norte do banco, que a gente consegue fazer melhor para os nossos acionistas
+[4384.90–4386.98s] e passa por fazer o melhor para os nossos clientes.
+[4387.44–4389.94s] Então, como o Milton falou, não tem uma iniciativa em só.
+[4390.46–4393.92s] AI é uma alavanca importante.
+[4394.34–4397.02s] A gente está implementando, vocês viram todo o lançamento do IAI,
+[4397.02–4401.36s] todos os frutos a gente ainda não capturou e tem outras iniciativas que a gente ainda está fazendo.
+[4401.90–4405.04s] Ao mesmo tempo, para você fazer isso, passa por gastos,
+[4405.04–4408.90s] ou seja, o gasto de AI especificamente no banco vai aumentar no tempo,
+[4409.14–4413.22s] mas ele gera eficiências, ele gera engajamento de cliente, ele também gera receitas.
+[4413.72–4417.66s] Então, na verdade, não é diferente de toda a transformação que a gente fez em cloud, por exemplo, antes.
+[4417.98–4422.14s] E os gastos que aumentam, mas também você gera externalidades importantes
+[4422.14–4426.74s] para o desenvolvimento do produto, para a eficiência do processo dentro do banco como um todo.
+[4427.18–4429.38s] Então, eu acho que a resposta do Milton é bastante completa,
+[4429.80–4434.10s] mas a gente está fazendo o máximo que a gente consegue nos tempos que a gente acha adequado
+[4434.10–4437.86s] para ser sustentável e continuar gerando valor para os acionistas no tempo.
+[4439.94–4440.74s] Obrigado, Daniel.
+[4441.18–4443.02s] E agora, vamos adicionar a inglês,
+[4443.14–4445.92s] como temos Tito Labarta conosco, de Goldman Sachs.
+[4446.06–4446.88s] Tito, a sua palavra.
+[4448.64–4449.84s] Muito obrigado, Gustavo.
+[4450.64–4454.10s] Milton, Gabriel, obrigado pela chamada e por ter minhas perguntas.
+[4454.30–4457.38s] E parabéns também pelos resultados fortes, como é o usual.
+[4458.00–4461.48s] Eu também quero perguntar um pouco sobre a indústria,
+[4461.48–4461.86s] aalcadr o o aq.
+[4461.76–4461.62s] aq.
+[4461.62–4461.54s] aq.
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4461.52–4461.52s] 
+[4491.48–4493.28s] Relative to yours
+[4493.28–4496.52s] And we saw maybe some pressure on fees
+[4496.52–4497.94s] Maybe that's related to competition
+[4497.94–4500.44s] But how do you think about the competitive dynamics
+[4500.44–4502.80s] We also recently saw there was an index
+[4502.80–4504.54s] That ranked you as one of the top two banks
+[4504.54–4506.44s] In Latin America in terms of AI
+[4506.44–4508.30s] On the one hand
+[4508.30–4509.90s] I think the leaders globally
+[4509.90–4511.94s] Typically increase the gap
+[4511.94–4513.48s] Relative to the laggards
+[4513.48–4515.48s] Is that a scenario that we're seeing
+[4515.48–4518.28s] Or could competitive dynamics change
+[4518.28–4520.98s] And could they close the gap
+[4520.98–4522.98s] a um ponto de vista, como você vê,
+[4522.98–4524.98s] given que estamos no ciclo,
+[4524.98–4526.98s] given que sua posição e
+[4526.98–4528.98s] onde seus competidores estão hoje,
+[4528.98–4530.98s] sua capacidade de sustentabilidade
+[4530.98–4533.98s] e talvez alguns dos riscos para isso?
+[4533.98–4534.98s] Obrigado.
+[4534.98–4535.98s] Obrigado, Cito.
+[4535.98–4536.98s] Bom ver você.
+[4536.98–4540.98s] Obrigado por seus primeiros comentários.
+[4540.98–4542.98s] Então, é importante
+[4542.98–4544.98s] dizer no começo
+[4544.98–4547.98s] que temos muitos competidores
+[4547.98–4550.88s] em todas as segmentações que nós operamos.
+[4550.88–4554.58s] Então se você vai para o Reservo Businesses, você tem o Retail BBA,
+[4554.58–4557.14s] você tem os competidores de Incumbent Competitor,
+[4557.14–4560.64s] outros competidores para todos os rankings e competidores
+[4560.64–4563.64s] para créditos, para cash management, para derivativos,
+[4563.64–4565.98s] para effects, para tudo.
+[4565.98–4567.76s] Você vai para o Wealth Management.
+[4567.76–4569.98s] Você tem outros competidores para Investimentos,
+[4569.98–4572.24s] para Asset Management e então e então.
+[4572.24–4576.44s] Então isso é o mesmo caminho que aplica para todos os outros segmentos.
+[4576.44–4579.94s] Então, quando falamos com os competidores,
+[4579.94–4581.94s] eu acho que o primeiro comentário que eu gostaria de dizer
+[4581.94–4584.44s] é que temos um respeito para todos eles.
+[4584.44–4586.94s] E eu acho que todos eles estão fazendo o seu trabalho,
+[4586.94–4590.20s] todos estão tentando competir para ser mais competitivo
+[4590.20–4592.24s] em longo prazo, fazendo seus investimentos,
+[4592.24–4593.44s] tentando crescer.
+[4593.44–4596.74s] Todos têm um budget, todos têm um board,
+[4596.74–4599.74s] todos têm incentivos.
+[4599.74–4604.14s] Então, isso é o que é o que sempre foi.
+[4604.14–4607.44s] Mas então, nós temos que segmentar um pouco
+[4607.48–4611.14s] para entender como se comportam, como se comportam.
+[4611.18–4613.94s] Primeiro, você está certo,
+[4613.98–4616.98s] nós conseguimos, fortemente,
+[4617.02–4618.88s] ter sido capaz de ter dois-digits
+[4618.92–4622.30s] e um 20% mais de retorno de equipe
+[4622.32–4624.22s] nos últimos anos.
+[4624.26–4626.70s] E nós estamos sempre tentando
+[4626.72–4630.20s] ter o melhor valor para os seus carregadores.
+[4630.24–4632.30s] E depende muito do custo de equipe
+[4632.30–4636.54s] que hoje, nós estamos sete a 14.75.
+[4636.54–4639.84s] Esse é onde nós acredito que o custo de equipe é set.
+[4639.84–4640.84s] Ok?
+[4640.84–4644.54s] Então, quando nós estamos gerando 14.75+,
+[4644.54–4646.54s] nós estamos criando valor para os carregadores.
+[4646.54–4649.18s] Se nós operamos lá,
+[4649.18–4650.62s] e menos do que,
+[4650.62–4654.28s] nós estamos deplando capital no errado.
+[4654.28–4657.50s] Então, essa é a disciplina que nós temos.
+[4657.50–4661.66s] É verdade que, quando você precisa de um resultado,
+[4661.66–4669.30s] e você tenta crescer rápido e crescer em portfólios e para dar crédito em uma maneira irratada,
+[4669.30–4673.66s] nós não estaríamos fazendo isso porque eu acredito que isso não é sustentável.
+[4673.66–4678.66s] E quando nós vemos uma irracionalidade e isso acontece em alguns segmentos,
+[4678.66–4682.66s] nós vamos dar um passo atrás e dizer que é ok porque isso não é sustentável.
+[4682.66–4687.26s] E você sabe que por alguns meses você vai ver isso mais claro,
+[4687.26–4692.16s] e depois disso você vai ver a mercado de disciplina novamente.
+[4692.46–4697.46s] Por isso? Porque você vai ver que o seu profits, ou seu rendimento vai crescer,
+[4697.46–4701.36s] mas o seu rendimento vai crescer, mas o seu rendimento vai ser baixo.
+[4701.76–4706.26s] E então o stock vai, no final do dia,
+[4706.46–4710.56s] vai ser o capacidade que você tem para criar valor para os seus carregadores.
+[4710.96–4715.46s] Então isso é muito importante para a sua preceboca e também para a sua preceboca.
+[4715.46–4722.38s] E outra coisa que o mercado vai estar olhando é a equidade de todos os institutos.
+[4722.38–4728.90s] Porque o nível de leverage que você tem quando você tem uma equidade de equidade, é uma grande leverage.
+[4728.90–4733.14s] Não é feito para fazer a mistura, porque se você fizer a mistura em crédito,
+[4733.14–4738.42s] você tem apenas uma pequena parte do equipe capaz de absorver os losses.
+[4738.42–4740.78s] Então, é por isso que nós não acredito que isso não é sustentável.
+[4740.78–4745.16s] Otherwise, you have to raise capital in the market more and more.
+[4745.16–4749.66s] So, what we are seeing is that there is a rationality in some segments.
+[4749.66–4756.02s] This is not enabling us or preventing us to grow.
+[4756.02–4758.70s] We are growing and growing with discipline.
+[4758.70–4761.66s] But when we see that, we give a step behind
+[4761.66–4764.70s] and keep doing the way we believe for the long term.
+[4764.70–4768.20s] So, this discipline is key for the long term.
+[4768.20–4775.28s] Então, quando as pessoas me perguntam, o que é a vantagem que você vê quando você olha o seu mercado?
+[4775.28–4777.90s] É a disciplina em alocating capital.
+[4777.90–4783.32s] Eu acho que isso, por muitos anos, e vai ser, para os próximos anos, é o que é.
+[4783.32–4787.94s] Mas nós vemos a forma de crescer, nós vemos a forma de crescer a portfólio.
+[4787.94–4791.90s] Então, a estratégia, a experiência, não é só uma questão de preço.
+[4791.90–4793.90s] Clientes estão procurando para uma experiência melhor,
+[4793.90–4798.40s] A cliente está procurando uma banca que oferece todos os produtos.
+[4798.40–4802.74s] O que é competitivo, claro, mas tem uma jornada, uma jornada digital,
+[4802.74–4804.40s] que é excelente.
+[4804.40–4807.60s] Então, essa é a forma que estamos oferecendo a banca para nossos clientes.
+[4807.60–4809.90s] E a disciplina sempre será aqui.
+[4809.90–4812.90s] Então, vamos ver no próximo quarta.
+[4812.90–4819.40s] E o tempo é hora, então vamos ver e ver como esses projetos são sustentáveis.
+[4819.40–4829.06s] Obrigado, Tito. E agora, vamos voltar para o português, porque nós temos o Eduardo
+[4829.06–4832.80s] Rosman conosco do ETG Pactual. Rosman, bom dia, pode prosseguir.
+[4834.08–4841.88s] Opa, bom dia, obrigado aqui pela oportunidade. Queria voltar aqui no tema do ciclo de crédito
+[4841.88–4848.12s] e ver a visão do Milton, como é que ele vê o sistema hoje preparado para alguma potencial
+[4848.12–4852.52s] crise econômica, de crédito, porque o mercado mudou muito.
+[4853.04–4856.86s] Na PJ, a gente vê que o mercado de capitais multiplicou várias vezes
+[4856.86–4858.46s] e virou o maior player.
+[4858.68–4861.20s] A indústria de FDIC, por exemplo, tem mais de 800 bilhões.
+[4862.02–4867.24s] Isso dilui risco, por um lado, mas causa mudanças
+[4867.24–4871.72s] e a gente não sabe como é que o mercado de capitais reagiria a uma crise,
+[4871.72–4874.02s] se todo mundo iria para a mesma direção ou não.
+[4874.56–4878.10s] Na pessoa física, os incumbentes perderam bastante share em cartão de crédito
+[4878.10–4879.58s] e também em Credit On Secured.
+[4880.20–4883.42s] Você tem aí os novos bancos, mas tem plataformas,
+[4883.50–4884.80s] todo mundo quer ser banco hoje.
+[4885.34–4890.02s] Então, eu queria entender como é que você compara com crises passadas
+[4890.02–4894.34s] e como é que você vê o sistema hoje preparado para uma potencial crise.
+[4894.52–4894.88s] Obrigado.
+[4895.14–4897.08s] Perfeito. Obrigado você, Rosman.
+[4897.18–4897.62s] Bom te ver.
+[4897.78–4899.52s] Obrigado pela pergunta.
+[4900.36–4902.64s] Eu acho que você tocou em pontos super importantes.
+[4902.64–4904.92s] Quando a gente olha o cenário atual,
+[4904.92–4909.32s] tiveram mudanças grandes nos últimos anos.
+[4909.90–4917.14s] A primeira delas, você falou, quando a gente olha, o mercado de capitais passou o volume de crédito do sistema financeiro.
+[4918.18–4920.46s] Então, é um volume realmente brutal.
+[4920.60–4924.80s] É claro que aí dentro você tem que olhar o que é a LF bancária, enfim, mas não importa.
+[4924.80–4933.90s] Os volumes são muito, muito relevantes e hoje você tem, pelo menos, quase uns dois Itaús em crédito corporativo no sistema
+[4933.90–4937.44s] e a gente nunca teve um mercado de capitais tão relevante.
+[4937.52–4941.22s] Isso é ótimo, porque para as empresas passa a ter um mercado mais profundo,
+[4941.34–4944.76s] mais acesso a mercado, a bancabilidade, a crédito.
+[4945.24–4948.46s] Operações de longo prazo, que no passado eram exclusivas do BNDES,
+[4948.54–4951.04s] hoje o mercado de capitais tem a capacidade de absorver.
+[4951.74–4955.96s] Mas a gente nunca viveu uma crise relevante de crédito diante desse cenário
+[4955.96–4960.08s] e eu acho que vai ter desafios diferentes do que a gente já viveu em cenários anteriores.
+[4960.08–4964.40s] São menos bancos, são bancos e mercado de capitais discutindo.
+[4964.58–4974.34s] A gente já tem tido alguns casos, a gente tem conseguido de uma certa forma negociar de uma forma racional com todos os participantes,
+[4974.74–4977.34s] mas é sempre um desafio. Então esse é o primeiro ponto.
+[4977.42–4983.02s] Segundo ponto, eu acho que a regulação abriu demais lá atrás, esse é um ponto que a gente faz há muito tempo
+[4983.02–4986.88s] e hoje a quantidade de players no mercado é realmente muito grande.
+[4986.88–4994.08s] E aí você tem um mercado que é supervisionado, lembrando que o Banco Central faz o seu trabalho,
+[4994.22–4999.04s] também tem o seu contingenciamento orçamentário, acho que isso tem vindo muito à tona
+[4999.04–5002.96s] e a gente é muito a favor de um aumento de dotação orçamentária para o Banco Central,
+[5003.68–5007.96s] porque é a mesma coisa de você dar crédito e não ter estrutura de cobrança.
+[5008.58–5013.40s] É você abrir o mercado e não ter estrutura de supervisão,
+[5013.40–5018.22s] que consiga acompanhar a evolução do mercado na mesma velocidade, não pela qualidade,
+[5019.18–5022.30s] mas pela limitação física de fato.
+[5022.70–5025.78s] Então esse é um tema importante que a gente vem falando.
+[5026.40–5030.22s] A gente defende muito esse aumento de dotação orçamentária para o Banco Central
+[5030.22–5032.30s] para que ele consiga supervisionar.
+[5032.38–5034.22s] Depois tem o mercado não supervisionado.
+[5034.84–5040.40s] Boa parte dos neobanks ou dos newcomers acabam trazendo as operações para o balanço,
+[5040.86–5042.14s] mas distribuem para fundos.
+[5042.14–5045.80s] Então, o mercado de FDIC de R$ 800 bilhões, boa parte do risco foi para lá de volta.
+[5046.38–5050.92s] São mercado de capitais, mas é um risco que é quase um shadow banking,
+[5051.28–5055.10s] que a gente tem baixa visibilidade efetivamente do que estão dentro desses FDICs.
+[5055.50–5059.06s] E quando você tem uma situação de estresse, quem é o dono do recebível,
+[5059.52–5062.52s] a lei do repasse do Banco Central, o que vem na frente, enfim,
+[5062.58–5066.44s] são situações que surgem que a gente vai ter que lidar com elas.
+[5066.58–5070.06s] Então, eu acho o seguinte, eu acho que o comprometimento de renda está muito alto.
+[5070.06–5075.56s] Acho que os indicadores de atraso acima de 90 estão subindo em uma velocidade importante,
+[5075.56–5081.16s] basta ver os dados de mercado e o volume de crédito que foi distribuído no mercado
+[5081.16–5084.66s] é muito acima do que o mercado teria capacidade de absorver.
+[5084.66–5088.16s] Então hoje a facilidade para você ter um cartão de crédito,
+[5088.16–5092.56s] o fato de não ter anuidade te permite ter seis cartões na carteira,
+[5092.56–5096.76s] porque você não vai pagar anuidade e aí você cria o efeito de morte súbita.
+[5096.76–5098.96s] Você usa um cartão até o momento que você não consegue pagar,
+[5098.96–5104.54s] você põe na gaveta, vai para o próximo, para o próximo e você deixa por último aquele banco que tem a principalidade.
+[5104.68–5111.48s] Então, eu acho que o cenário, seja na pessoa física, SMI, bastante pressionado, esse nível de juros é preocupante
+[5111.48–5117.78s] nos patamares que a gente está vendo e isso dificulta naturalmente a capacidade das empresas de investirem
+[5117.78–5125.00s] e de pagarem as suas obrigações. O mundo do agro, claramente, com seus desafios, enfim, Perfect Storm,
+[5125.00–5131.98s] seja por preço de commodity, seja pelo preço do frete, seja pelo preço do fertilizante com a guerra, enfim.
+[5132.12–5137.74s] Então tem N sinais de que a situação piorou na margem. Ela não melhorou, ela piorou na margem.
+[5138.58–5147.80s] Agora, o mercado está líquido, vários atores operando, consumo interno, bastante dinheiro e recurso vindo para fundos,
+[5147.94–5151.66s] até a primeira marcação a mercado relevante, que isso pode gerar um impacto.
+[5151.66–5158.32s] E a gente vem pela dinâmica de preço, você vê uma certa volatilidade nos spreads de crédito,
+[5158.32–5160.32s] mas ainda em patamares super competitivos.
+[5161.12–5163.72s] Então, o mercado tem absorvido crédito em preço competitivo.
+[5163.80–5165.50s] Então, quem aproveitou a janela, aproveitou bem.
+[5166.06–5170.08s] Quem encarteirou no preço errado, tem um problema, porque o dia que precisar vender
+[5170.08–5175.06s] por uma necessidade de giro de balanço ou o que for, vai acabar tendo um hit muito grande.
+[5175.48–5179.28s] Então, é isso que a gente vai ter que acompanhar, mas eu acho que o cenário piorou na margem.
+[5179.28–5184.98s] que a gente vai ter que acompanhar é o desdobramento, o nível de juros estrutural e produtividade,
+[5185.24–5191.04s] crescimento de atividade, economia, não dá para depender de gasto público e de transferências,
+[5191.22–5196.28s] quer dizer, a gente precisa trazer um investimento privado que nesses níveis de juros e de incerteza
+[5196.28–5199.80s] fica mais reticente e acaba fazendo menos.
+[5202.24–5205.82s] Obrigado, Rosman. Agora nós temos o Mário Pierre do Bank of America.
+[5206.52–5207.94s] Mário, pode fazer sua pergunta.
+[5209.28–5218.08s] Bom dia, pessoal. Obrigado pela oportunidade de fazer pergunta e parabéns pelo resultado.
+[5218.98–5222.44s] Milton, eu queria voltar um pouquinho para a receita de serviços, né?
+[5222.54–5227.84s] Porque, como o Sérgio explicou bastante, mudaram, fizeram a revisão do guidance,
+[5228.76–5234.96s] mas eu queria entender como que isso tem a ver com a migração, né?
+[5234.96–5239.72s] Vocês falavam bastante nos últimos trimestres da migração dos clientes para o One App
+[5239.72–5242.78s] e os benefícios que isso teriam para o banco,
+[5242.86–5248.84s] tanto em receita, tanto melhorar o cross-sell de produtos.
+[5249.84–5253.30s] Se então, com essa revisão da receita,
+[5253.56–5257.06s] quer dizer que a gente está vendo que essa migração ocorreu,
+[5257.22–5260.46s] mas os benefícios não são tão bons quanto o esperado?
+[5260.46–5263.48s] Ou como é que você está vendo essa migração para o One App
+[5263.48–5267.26s] e o benefício que está tendo para os resultados do banco. Obrigado.
+[5267.52–5272.38s] Obrigado você, Pierre, obrigado pela pergunta, bom te ver pelos comentários iniciais.
+[5273.46–5281.76s] Veja, eu acho que não, não é essa a explicação e sim a gente continua bastante positivo com a evolução da migração do N-Itau,
+[5282.08–5285.36s] que a gente fez ao longo dos últimos trimestres.
+[5286.16–5291.94s] Primeiro, a gente concluiu toda a migração, segundo, com nível de NPS acima de 80, bastante forte,
+[5291.94–5298.42s] com a fricção minúscula, quer dizer, 99,3% dos clientes migraram,
+[5298.78–5302.16s] com uma experiência digital muito sólida, eu falava agora há pouco
+[5302.16–5306.68s] como a gente conseguiu fechar 18 pontos de NPS em relação ao líder
+[5306.68–5310.86s] do segmento em experiência digital, então isso mostra evolução.
+[5311.52–5313.88s] O volume de lançamento de novos produtos importante,
+[5313.88–5319.92s] mais de 20 produtos lançados aí no período, com nível de ativação muito forte,
+[5319.92–5330.04s] Quer dizer, seja transferência de limites, os cofrinhos, gestão de gastos, enfim, tem um sem número, ajuste de limite entre cartão e outros produtos,
+[5330.14–5333.00s] enfim, tem um sem número de produtos que tem trazido resultados importantes.
+[5333.54–5339.20s] A gente quadruplicou quase o volume de abertura de contas do banco com essa migração.
+[5339.82–5345.52s] A gente, enfim, mais de 70% dos clientes já tem mais de três produtos hoje do banco.
+[5345.72–5347.30s] Então, a gente vem conseguindo.
+[5347.30–5353.12s] Então, conta corrente passa a ser relevante e aí aparece a oportunidade de crescer em crédito
+[5353.12–5356.16s] num cliente que você já conhece, já tinha um relacionamento no cartão,
+[5356.66–5358.88s] mas não explorava um relacionamento de full bank.
+[5359.08–5363.96s] Isso para qualquer produto, seja de um crédito imobiliário a um consignado privado
+[5363.96–5366.62s] ou a um crediário que for.
+[5366.84–5369.08s] E isso fica na margem com clientes.
+[5369.66–5372.76s] Fica no crescimento das carteiras, não fica na margem de serviços.
+[5373.26–5376.98s] O cartão de crédito já estava aí, desse público.
+[5377.30–5382.72s] E daquele público que a gente migrou, mas parte dele a gente fez o de-risk,
+[5382.84–5386.48s] naturalmente ele afeta negativamente aqui, porque a gente vem reduzindo,
+[5387.00–5389.60s] enfim, a grande redução já foi feita, mas ele não cresce.
+[5390.12–5395.88s] Então é ele que acaba afetando marginalmente esse efeito aqui na carteira de serviços.
+[5396.34–5403.04s] Então eu acho que o Anitaú está indo super bem, oportunidades de crescimento na BUPF todas,
+[5403.04–5405.96s] a gente tem conseguido crescer num ritmo bastante forte,
+[5405.96–5412.66s] O trabalho que vem sendo feito de transformação da BUPF, quando eu faço uma análise dos últimos sete meses,
+[5413.18–5417.78s] é um trabalho primoroso, com resultados muito sólidos, com crescimento de qualidade.
+[5418.56–5426.06s] Tudo aquilo que a gente falou no Itaudei no ano anterior e que a gente vem comunicando tem sido executado de forma impecável.
+[5426.50–5431.20s] Então só tenho elogios a fazer o trabalho que vem sendo feito e os resultados estão nos acompanhando.
+[5431.20–5435.86s] Então a gente vê rentabilidade da BUPF já há muito tempo criando valor.
+[5435.96–5440.88s] segmentos que eram mais deficitários e tinha um deles que era um segmento mais difícil,
+[5441.00–5446.38s] especialmente o digital indo a break-even, capacidade de crescer nos vários nichos
+[5446.38–5453.54s] e segmentos definidos com qualidade e a gente tem que colocar em prática 60 a 70% das iniciativas
+[5453.54–5457.18s] que foram mapeadas serão executadas até o final desse ano.
+[5457.66–5462.50s] Nada leva a crer que a gente não vai conseguir fazer e aí os crescimentos virão
+[5462.50–5468.32s] nos anos subsequentes, naturalmente. Então, estamos muito animados com toda a evolução da nossa operação,
+[5468.32–5473.40s] seja de varejo pessoa jurídica, seja de varejo pessoa física, mas onde a gente tinha realmente
+[5473.40–5479.94s] programas estruturais muito, muito relevantes e profundos, a gente tem conseguido executar com maestria.
+[5480.12–5482.62s] Estou bem animado com o que vem pela frente.
+[5484.32–5489.80s] Obrigado, Mário. E agora, voltamos ao inglês, como temos o Carlos Gomes Lopes, do HSBC, conosco.
+[5490.32–5491.40s] Carlos, por favor, vá em frente.
+[5492.50–5494.50s] Olá, bom dia.
+[5494.50–5498.50s] Gabriel, Milton, Gustavo.
+[5498.50–5499.50s] E, novamente, congratulations
+[5499.50–5502.50s] pela consistência do resultado.
+[5502.50–5505.50s] Eu queria perguntar sobre uma das coisas que são
+[5505.50–5509.50s] unidade de vida, que é o que é o que é o que é o que é o que é o que é o que é o que é.
+[5509.50–5512.50s] Você diferenciou não só por um maior profissional,
+[5512.50–5516.50s] mas também por um banco com a maior taxa de mais de mais de mais de mais de mais.
+[5516.50–5518.50s] Mas quando você pensa sobre isso
+[5518.50–5520.88s] Você pensa sobre isso da política de um ponto de vista,
+[5520.88–5523.76s] o sistema, em geral, está pagando menos taxas hoje
+[5523.76–5524.92s] do que antes,
+[5524.92–5528.38s] e com a decisão da DTA, possivelmente mais.
+[5528.38–5531.16s] Você está preocupado que na próxima administração
+[5531.16–5534.92s] poderia haver pressão para a indústria pagar mais?
+[5534.92–5537.66s] E, nesse sentido, o que você pode fazer para proteger você,
+[5537.66–5539.84s] por um banho ou algo mais,
+[5539.84–5543.38s] e onde você pode ver pressões para a taxa de alta taxa?
+[5543.38–5544.38s] Obrigado.
+[5544.38–5546.00s] Obrigado, Carlos.
+[5546.00–5553.48s] Eu acho que a primeira resposta à sua pergunta é que há um grande stock no mercado de DTAs e tax credit.
+[5554.06–5558.40s] Então, a DTA e a tax credit é uma taxa que foi pagada em um momento,
+[5559.02–5565.86s] ou você tem que lidar com isso quando você move para o próximo ano.
+[5565.98–5567.78s] Então, isso é relevante.
+[5567.78–5573.56s] Eu acho que, no final do dia, quando um banco tem uma situação de tax credit,
+[5573.56–5578.72s] para evitar que os perdas em taxa de crédito
+[5578.72–5581.56s] que vão reduzir a sua capital base.
+[5581.56–5584.26s] A primeira coisa que a bank deve fazer
+[5584.26–5589.56s] é evitar que os operações que reduz a sua taxa base.
+[5589.56–5591.76s] Então, isso é uma coisa.
+[5591.76–5594.36s] A segunda coisa é reduzir a IOC.
+[5594.36–5600.06s] Então, você não é obrigado a fazer 100% da IOC.
+[5600.06–5609.06s] Você pode fazer o upto, mas você precisa ter uma situação positiva para fazer isso acontecer.
+[5609.06–5614.06s] Então, eu acredito que os bancos vão precisar, em um momento, a ajustar o IOC.
+[5614.06–5616.06s] O terceiro é o payout.
+[5616.06–5621.06s] Então, eu acho que os bancos têm a capacidade de reduzir o payout, também, para retainir mais capital,
+[5621.06–5627.06s] se, por algum motivo, eles vão se enfrentar dificuldades com o tax credit.
+[5627.06–5630.94s] Mas a IOC está lá. Eu não vi nenhuma discussão sobre isso.
+[5630.94–5634.10s] Não é só para os bancos, mas para o mundo todo.
+[5634.10–5638.58s] É verdade que o sistema, o nosso sistema,
+[5638.58–5641.34s] retém um grande valor de capital em um balance sheet.
+[5641.34–5644.48s] E por isso? Porque é um ativo regulador.
+[5644.48–5648.62s] Então, a central bank requer que, para você,
+[5648.62–5652.02s] para fazer o crédito e ter um portafolio de tamanho que você tem,
+[5652.02–5654.58s] você precisa de retém capital.
+[5654.58–5659.18s] E esse capital que você retém, no final, tem o benefício da IOC.
+[5659.38–5664.48s] Mas você tem, na outra parte, um nível de taxa,
+[5664.68–5668.28s] a taxa de taxa para os bancos no Brasil, que é 45%.
+[5668.48–5671.38s] E há um aumento para empresas financeiras,
+[5671.58–5677.88s] em consumo financeiro e também para IPs,
+[5678.08–5681.58s] em recentes anos.
+[5681.58–5684.42s] Então, eu acho que há não risco para essa discussão,
+[5684.50–5687.58s] porque tem a ver com a nível de capital,
+[5687.66–5689.38s] e eu acho que os bancos, em um certo ponto,
+[5689.46–5692.14s] têm que reduzir o IOC.
+[5692.22–5696.82s] É não nosso caso, não temos nenhum problema com isso,
+[5696.90–5699.82s] mas eu acho que o mercado vai precisar reduzir o IOC
+[5699.90–5707.30s] para evitar que os perdas em seus créditos.
+[5707.38–5709.46s] Isso vai reduzir o capital.
+[5709.54–5711.38s] Eu acho que isso é algo que nós vamos ver,
+[5711.38–5718.38s] e isso vai necessariamente aumentar a sua renda efetiva.
+[5720.18–5726.68s] Obrigado, Carlos. E agora voltamos para o português com Eduardo Nishio da Genial. Bom dia, Nishio.
+[5727.58–5732.68s] Bom dia, bom dia a todos. Bom dia, Milton, Gabriel, Gustavo. Parabéns pelos resultados.
+[5732.68–5737.08s] Eu tenho uma pergunta mais voltada de novo para o índice de eficiência.
+[5737.08–5741.48s] Gostaria de saber de vocês, do ponto de vista de custo e de receita,
+[5741.74–5743.82s] acho que quebrar essa pergunta em duas,
+[5744.36–5751.66s] tem o número de colaboradores caindo bem forte, em torno de 5,5% no ano,
+[5752.08–5756.84s] e agências e paves caindo mais ainda, você tem uma queda de 19%.
+[5756.84–5760.94s] Queria saber até onde esse processo de adequação de footprint,
+[5760.94–5765.94s] onde você está nesse estágio de adequação do seu footprint,
+[5765.94–5769.88s] que hoje está em torno de 2.210, mais ou menos,
+[5770.50–5772.82s] se você ver mais espaço de redução.
+[5773.78–5776.56s] E na parte de receita, que é mais difícil de tangibilizar,
+[5777.02–5780.48s] queria voltar para o assunto do Super App.
+[5781.46–5784.18s] Se você pode compartilhar com a gente
+[5784.18–5786.04s] alguns números de cross-selling,
+[5786.04–5791.76s] se você já tem esses números para falar com a gente.
+[5791.76–5797.26s] e o lançamento da IA generativa que vocês fizeram no Super App também.
+[5797.44–5801.84s] Seria interessante saber a proposta e o que vocês esperam nesse lançamento. Obrigado.
+[5802.18–5803.62s] Joia, obrigado você, Nishio.
+[5803.70–5806.68s] Então, olha, primeiro, sobre a primeira parte da sua pergunta,
+[5807.50–5810.74s] quando a gente olha, enfim, número de agências,
+[5810.94–5815.60s] a gente sempre faz uma revisão do nosso footprint do cliente para dentro,
+[5815.80–5817.20s] não é de dentro para o cliente.
+[5817.20–5825.20s] Então, a demanda por agência caiu muito nos últimos anos, o fluxo reduziu para um quarto do que já foi no pré-pandemia.
+[5825.20–5832.20s] Veio a pandemia, teve um efeito de digitalização importante no mercado e a gente sempre está revisitando os nossos modelos de negócio.
+[5832.20–5838.20s] A proposta de valor passa por um olhar para como eu atendo e em que canais eu atendo o cliente.
+[5838.20–5845.20s] O que é no digital, o que é no remoto, o que é na agência digital, o que é no atendimento remoto, o que é na agência física.
+[5845.20–5852.10s] isso faz parte do processo. Então, a gente não costuma dar guidance, nem de quantidade de agências no longo prazo,
+[5852.56–5860.22s] nem muito menos de headcount, mas naturalmente tem um turnover natural do banco e na medida que a gente entende
+[5860.22–5867.26s] que a gente tem capacidade de absorver, sendo mais eficiente e ao mesmo tempo ajustando a nossa proposta de valor
+[5867.26–5873.50s] e o modelo de negócio para atender os nossos clientes, a gente vai fazer. Nesse primeiro semestre teve uma redução também,
+[5873.50–5879.08s] enfim, é um pouco da dinâmica, mas além da revisão, é a revisão da proposta de valor,
+[5879.60–5883.48s] a vocação do ponto físico, isso tudo a gente discute o tempo todo.
+[5883.76–5890.38s] Então, volta a dizer, não temos uma meta, temos uma meta, um compromisso com o cliente
+[5890.38–5895.62s] e com o modelo de negócio e a gente vai ter que ir ajustando na medida que seja necessário,
+[5896.20–5901.28s] é isso que a gente tem procurado fazer, gerando o mínimo de fricção e com o máximo de cuidado possível.
+[5901.28–5902.70s] É assim que a gente tem feito.
+[5903.50–5908.42s] Depois, sobre eficiência, a gente falou aqui do Super App.
+[5908.82–5910.92s] Um pouco dos dados que eu dei, a gente não divulga assim.
+[5910.98–5916.26s] Os clientes migrados foram 15 milhões de clientes efetivamente migrados.
+[5917.02–5922.62s] A gente já tem mais de 60, 70%, quase 70% dos clientes com mais de 3 produtos.
+[5923.52–5929.52s] A gente tem tido um aumento e um volume de abertura de contas gigantesco em todos os segmentos,
+[5929.52–5934.30s] o que mostra na sua capacidade de entregar valor dependendo do perfil do cliente.
+[5934.54–5936.10s] Então não tem um one size fits all.
+[5936.62–5940.18s] O benefício da integração não foi só para os clientes que foram migrados,
+[5940.30–5943.46s] foi também para os correntistas, porque os apps dedicados,
+[5944.00–5948.04s] eles tipicamente tinham uma jornada, uma experiência melhor do que o super app.
+[5948.18–5950.76s] Então quando a gente integra, o hub de cartões é um exemplo,
+[5951.22–5955.40s] quem estava no super app passa a ter um hub de cartões muito melhor do que tinha antes.
+[5955.40–5960.00s] Então você também beneficia os clientes que já estavam utilizando o Super App.
+[5960.38–5966.40s] Então agora esses clientes passam a fazer parte do nosso ecossistema, faz parte da gestão de ciclo de vida,
+[5966.98–5973.32s] faz parte do cliente entender que agora ele tem um full bank a serviço dele, não tem mais uma experiência monobank
+[5973.32–5978.18s] e a gente vai entregando soluções e produtos para os clientes na medida que eles tenham demanda e necessidade
+[5978.18–5983.70s] para que esse crescimento seja feito de forma, obviamente, natural.
+[5983.70–5996.16s] A gente está super animado com o que a gente viu de resultado até aqui, mas olhando para frente, sem dúvida, é um componente importante do crescimento da BUPF, também passa por atender melhor esses clientes.
+[5996.78–6000.82s] E aí veio coroar um trabalho que vem sendo feito já há muitos anos.
+[6001.12–6009.62s] Primeiro a gente fez um trabalho de fundação, de criar os guard-rails, a fundação de como é que a gente coloca a inteligência artificial para interagir com os clientes.
+[6009.62–6018.14s] A gente tem uma responsabilidade como uma instituição do tamanho da nossa, não dá para colocar um modelo para interagir com o cliente que não tenha as proteções devidas.
+[6018.64–6023.20s] Segundo, garantir que a gente tem modelos que são escaláveis no custo certo.
+[6023.66–6027.40s] Como é que a gente consegue levar os dados do cliente em benefício dele?
+[6027.52–6032.42s] Então não é mais a personalização em escala, mas é individualização da experiência.
+[6033.06–6038.64s] Isso a gente consegue fazer tendo claramente o DNA do cliente, tudo o que ele é, como ele se comporta.
+[6038.64–6044.92s] E aí, com o grau de privacidade e cuidado que o cliente quiser, ter o modelo e entregar
+[6044.92–6048.58s] o modelo de inteligência artificial sem ter o que a gente chama dos cabezos, os knowledge
+[6048.58–6054.32s] bases bem definidos, são basicamente as instruções, as nossas políticas e quase que a nossa cultura.
+[6054.52–6057.34s] O agente que está lá na ponta, ele tem que ter a cultura do banco.
+[6057.90–6060.14s] E ele precisa ter guarde-reios claros.
+[6060.24–6064.30s] Mas mais importante é como é que a gente treina esses modelos para que ele consiga entender
+[6064.30–6067.68s] o cliente na sua individualidade e em todo o relacionamento que ele tem com o banco.
+[6067.68–6073.74s] Então a nossa visão é que sem AI, sem ser o full bank por trás, não é simples.
+[6073.74–6078.12s] Um, porque você não é o one stop shop, você não entrega tudo que o cliente quer e
+[6078.12–6083.26s] você não consegue tomar decisões olhando todo, você acaba dando recomendações parciais
+[6083.26–6086.48s] e não necessariamente as melhores recomendações, certo?
+[6086.48–6090.48s] E dois, você não tem o histórico de dados que a gente tem, em segmentos que a gente
+[6090.48–6095.80s] sempre foi relevante, investimentos, crédito, seguros e por aí vai.
+[6095.80–6100.24s] Então isso facilita também a compreensão do cliente no ciclo que ele está.
+[6100.40–6104.68s] Se ele quer um assessment sobre investimento, a gente tem um super histórico do que oferecer,
+[6104.82–6108.98s] quando oferecer, por que oferecer e até que você chegue no transacional,
+[6109.28–6113.34s] você consiga também transacionar sem precisar do envolvimento humano.
+[6113.78–6118.78s] E isso vai desonerar, inclusive para dúvidas, porque não é só ir para o cliente,
+[6118.78–6124.22s] é ir para dentro, para os nossos colaboradores, porque ela libera tempo das pessoas
+[6124.22–6129.42s] para que desonera as equipes comerciais, que muitas vezes tem que ficar cuidando de uma atividade operacional,
+[6129.66–6132.28s] respondendo uma pergunta mais simples, o modelo vai fazer isso.
+[6132.86–6137.32s] Facilita com que as pessoas passam a ter três vezes mais contato com o cliente do que ela tinha,
+[6137.72–6145.88s] traz uma eficiência, inclusive, na quantidade de clientes, no account load das equipes,
+[6145.96–6150.12s] quantos clientes elas têm para atender, e melhora a experiência,
+[6150.12–6152.72s] porque você tem um first call resolution muito melhor,
+[6153.16–6155.78s] à medida que boa parte das dúvidas são esclarecidas ali.
+[6155.92–6161.02s] Então, a gente está muito animado, acho que o primeiro banco a lançar algo com esta profundidade,
+[6161.16–6165.16s] com este nível de completude, com esta quantidade de dados embutidos,
+[6165.18–6167.76s] e os modelos vão crescer e aprender junto com os clientes também.
+[6167.94–6170.06s] Então, a gente está super animado com a evolução,
+[6170.50–6174.02s] e a sacada do comando IAI, Inteligência Artificial Itaú,
+[6174.42–6176.60s] acho que foi uma forma, inclusive, de posicionar,
+[6176.60–6182.22s] Acho que a gente foi bem feliz em como posicionar e dizer que o IA sempre esteve presente no banco,
+[6182.62–6188.82s] enfim, na própria marca, o IA sempre esteve lá, e agora crescer e crescer junto com os nossos clientes.
+[6188.90–6194.62s] Acho que vai ser um game changer na experiência e leva a organização para um papel cada vez mais
+[6194.62–6199.68s] e uma estratégia cada vez mais AI first, o que vai ser super relevante para o futuro.
+[6201.06–6205.54s] Obrigado, Nishio. Agora vamos para a nossa última pergunta com Henrique Navarro, do Santander.
+[6206.18–6207.74s] Navarro, pode fazer sua pergunta.
+[6209.72–6213.08s] Obrigado. Bom dia, pessoal, e parabéns pelos resultados.
+[6214.98–6219.58s] Então, o mercado tem mudado bastante e mudado muito rápido,
+[6219.72–6222.72s] então não é normal a gente ver o Itaú, por exemplo, revisar o guidance.
+[6223.66–6226.86s] E a minha pergunta é a seguinte, o guidance novo,
+[6226.86–6231.70s] até a amplitude do guidance, ele, de certa maneira,
+[6232.24–6234.86s] reflete a estimativa de vocês para o resto de 2026.
+[6234.86–6243.16s] Mas da maneira rápida que o mundo está mudando, quais linhas vocês acham que estão mais frágeis no guidance?
+[6243.40–6250.34s] Ou seja, se houver algum erro e possivelmente uma expectativa de revisão, uma necessidade de revisão do guidance,
+[6250.80–6254.40s] quais linhas vocês acham que estariam mais at risk?
+[6254.84–6261.02s] E olhando um pouco para a 27 também, talvez vocês concordem comigo que as mudanças que estão sendo necessárias,
+[6261.02–6263.98s] em janeiro desse ano
+[6263.98–6265.98s] talvez o sell side
+[6265.98–6267.44s] o buy side e os bancos
+[6267.44–6270.36s] a gente tinha uma expectativa de uma recuperação de crédito
+[6270.36–6272.36s] um novo ciclo de crédito
+[6272.36–6273.28s] em 2027
+[6273.28–6275.68s] que da maneira que as coisas estão acontecendo
+[6275.68–6277.44s] não vai rolar
+[6277.44–6279.18s] então eu queria ouvir de vocês isso também
+[6279.18–6282.52s] se realmente a gente deveria já olhar para o ano de 2027
+[6282.52–6284.52s] com um pouco mais de cautela
+[6284.52–6286.18s] talvez um crescimento de crédito
+[6286.18–6287.28s] um pouco mais suave
+[6287.28–6290.36s] um cost of risk estrutural um pouquinho mais alto
+[6290.36–6299.78s] e talvez a gente tenha que empurrar esse banking um pouquinho mais fraco também para o ano de 2027.
+[6299.88–6304.50s] É isso, é só um pouco de luz sobre o final de 2026 e 2027. Obrigado, pessoal.
+[6304.60–6308.80s] Ótimo, obrigado você, Henrique, obrigado pelos comentários iniciais.
+[6309.58–6313.00s] É a última pergunta, mas não sem energia, tá, a resposta.
+[6313.00–6321.44s] Primeiro, quando a gente olha, o range no final do dia, ele tende a capturar bem o que a gente imagina para o ano.
+[6322.16–6325.90s] A gente faz um guidance imaginando que a gente não vai precisar rever,
+[6326.46–6331.66s] mas a gente, por outro lado, tem o pragmatismo e a disciplina de rever toda vez que a gente tem uma informação melhor do que o mercado.
+[6332.16–6338.24s] Então a gente acha que isso é boa prática de transparência para, enfim, levá-los para o número que a gente está vendo.
+[6339.06–6343.26s] A gente não costuma dar geografia e nem muito menos um ponto,
+[6343.36–6345.00s] se não seria um ponto, não seria um range,
+[6345.58–6347.10s] mas o que eu posso te dizer é o seguinte,
+[6347.26–6352.10s] quando a gente vê carteira de crédito, ela vai continuar crescendo em um ritmo razoável,
+[6352.52–6354.66s] tem esse efeito de Colômbia que eu falei agora há pouco,
+[6354.76–6357.22s] que dá mais ou menos 0,6 na carteira, não é pouco,
+[6357.80–6360.88s] porque ela continua na base do ano passado, mas ela vai sair,
+[6361.34–6364.00s] porque foi uma venda de carteira que foi feita no final do dia.
+[6364.00–6371.08s] Então são 10 bilhões de reais que saem automaticamente, mas de novo a carteira tende a vir bem.
+[6371.20–6377.38s] Margem com clientes, se a gente for anualizar o que a gente teve no primeiro semestre,
+[6377.44–6381.08s] é o desafio que a gente tem para os próximos dois trimestres, não há dúvida disso.
+[6381.60–6386.50s] Então hoje, de fato, a gente está rodando muito mais próximo do piso do que do ponto médio,
+[6387.00–6392.58s] pela própria margem que foi divulgada, pelos efeitos que eu já comentei de passivos,
+[6392.58–6399.52s] que já está num patamar bastante sólido, então ele cresce junto, pelas operações estruturadas que tem uma certa volatilidade,
+[6399.70–6405.46s] então isso pode fazer a diferença nos próximos dois trimestres, sem dúvida, dado o nível de margem que a gente vê,
+[6405.94–6413.26s] e o capital de giro que já vem, bastante estável e crescente, mas não vai crescer de uma velocidade super relevante.
+[6413.54–6420.22s] E a margem de ativos está crescendo com carteira, não tenho nenhuma preocupação com relação a isso, mas a margem no final entrega tudo isso.
+[6421.12–6423.74s] Custo do crédito, acho que muito se falou de crédito.
+[6424.44–6429.38s] Eu queria dizer para vocês que, enfim, um pouquinho para a direita, um pouquinho para a esquerda,
+[6429.78–6434.22s] mas a nossa melhor expectativa hoje é ficar muito mais perto do ponto médio do guidance.
+[6434.22–6439.92s] Então, apesar dessas perguntas, se teve aqui, piorou na margem, será que tem algo implícito?
+[6440.42–6444.62s] O que a gente tem visto é que no atacado tem uma dinâmica mais desafiadora de crédito,
+[6444.68–6449.46s] quando a gente compara com anos anteriores, é verdade, mas a gente tem feito as provisões
+[6449.46–6453.50s] e uma mensagem que eu queria deixar muito clara para vocês é o seguinte,
+[6454.10–6457.24s] a gente primeiro faz as provisões e depois a gente discute o lucro,
+[6457.34–6459.14s] não é do lucro para a provisão.
+[6459.72–6462.86s] Então, se a gente tiver que vir em um trimestre com um resultado pior,
+[6463.32–6466.02s] porque as provisões foram fortes, a gente fará as provisões,
+[6466.20–6468.88s] eu virei aqui, explicarei para vocês as razões
+[6468.88–6471.74s] e entregaremos um resultado menor se isso acontecer.
+[6471.92–6475.94s] Então, essa disciplina de ter um balanço sempre muito forte e provisionado,
+[6476.32–6477.30s] a gente não abre mão.
+[6477.92–6481.58s] Isso é o primeiro mandamento da gestão de balanço de banco.
+[6482.12–6484.02s] Balanços têm que estar bem provisionados.
+[6484.38–6490.54s] A gente não vai ficar, em nenhum caso, subprovisionado.
+[6490.94–6494.76s] Nem na pessoa física, nem na pessoa jurídica varejo, nem no atacado.
+[6495.10–6497.84s] A gente sempre vai ter a disciplina de fazer as provisões.
+[6498.44–6505.38s] Dito isto, nossa melhor expectativa é fechar no ponto médio, próximo do ponto médio do custo do crédito.
+[6505.38–6507.60s] Você pode ter uma variação para a direita ou para a esquerda.
+[6508.24–6511.62s] Receita de prestação de serviços seguros, a gente já fez o ajuste agora,
+[6511.72–6513.04s] despesa não decorrente de juros.
+[6513.82–6517.76s] Se estão vendo os resultados, a gente continua numa agenda muito sólida aqui olhando para frente.
+[6517.94–6523.72s] Então, como eu disse, o nível de mobilização alto e o imposto mais próximo do piso.
+[6524.40–6529.62s] Quando eu olho essas geografias e a gente sempre roda os nossos full year forecast para ver,
+[6529.62–6533.84s] tudo bem, isso tudo está mirando que nível de bottom line,
+[6533.84–6537.56s] eu diria que o bottom line está em linha com o que era com o guidance anterior.
+[6538.46–6541.36s] Geografia um pouco mais para a direita, um pouco mais para a esquerda aqui e acolá,
+[6541.94–6547.98s] mas acho que o bottom line implícito, se teve variação, é pequena a variação, não é relevante.
+[6548.48–6549.68s] Então, isso é o que a gente está vendo.
+[6549.78–6557.48s] Para 2027, muito cedo ainda para falar, Henrique, porque de novo o cenário, como você mesmo disse, está muito dinâmico.
+[6557.82–6562.56s] Então, a gente vai começar agora a fazer uma discussão, a gente faz as nossas visões mais longas,
+[6562.56–6568.82s] mas agora que vem o refinamento para a gente conseguir ter uma boa peça orçamentária para 2027,
+[6568.82–6574.80s] com grandes desafios não há dúvida, mas de novo, com esse olhar de longo prazo e disciplina de execução,
+[6574.80–6580.16s] a gente vai produzir o melhor que a gente puder para dividir com vocês em breve.
+[6580.16–6581.16s] Tá bom?
+[6583.90–6589.56s] Obrigado Milton, obrigado Gabriel e obrigado a todos vocês que participaram da nossa videoconferência de resultados.
+[6589.56–6594.80s] Com isso, terminamos a nossa sessão de Q&A e a nossa videoconferência do segundo trimestre de 2026.
+[6595.44–6598.78s] Agora eu passo a palavra mais uma vez para o Milton fazer as suas considerações finais.
+[6599.08–6599.76s] Milton, com você.
+[6599.90–6602.28s] Obrigado, Gustavo. Obrigado, Gabriel.
+[6603.26–6606.62s] Enfim, gente, super obrigado pela participação de todos vocês.
+[6607.10–6612.94s] A gente gosta muito dessa relação, seja com a imprensa, seja com os investidores, com todos os stakeholders,
+[6613.64–6616.48s] em que a gente procura abrir o máximo que a gente pode de informação,
+[6616.48–6621.02s] com maior nível de transparência, com maior nível de previsibilidade,
+[6621.54–6625.30s] para qualquer que seja a direção, se tiver que ajustar para baixo é para baixo,
+[6625.36–6629.42s] se for para cima é para cima, mas a gente evita trazer surpresas.
+[6630.06–6634.30s] Então, acho que foi um trimestre sólido, um cenário super desafiador,
+[6634.44–6638.14s] então entregar os resultados que a gente entregou com esse nível de rentabilidade,
+[6638.26–6641.92s] com esse nível de índice de eficiência, com esse nível de transformação no banco
+[6641.92–6646.22s] e com indicadores de crédito, com o nível de qualidade que a gente entregou,
+[6646.48–6653.94s] não é simples. Realmente aqui é um trabalho de todos, um nível de mobilização gigante e de muita capacidade,
+[6654.10–6659.86s] não só competência dos times, mas principalmente capacidade de navegar no cenário.
+[6660.24–6664.26s] E eu acho que o que nos traz até aqui é o que sempre nos trouxe de uma certa forma,
+[6664.26–6669.02s] essa disciplina de alocação de capital, criação de valor e visão de longo prazo.
+[6669.10–6672.28s] A gente não abre mão disso. Essa disciplina é imperativa.
+[6672.28–6678.86s] Então, mais uma vez, obrigado. A gente se vê em breve. Não tenho dúvida que a gente vai se encontrar em outras oportunidades.
+[6679.42–6683.64s] E para os youtubers que estão nos assistindo também, é um resultado de todos.
+[6683.92–6687.54s] Tá bom, gente? Muito obrigado. Obrigado pela confiança. A gente se vê em breve.
+[6702.28–6732.26s] E aí

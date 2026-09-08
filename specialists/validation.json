@@ -1,0 +1,67 @@
+{
+  "package_validation": {
+    "banco-do-brasil-specialist": [
+      true,
+      "Skill is valid!"
+    ],
+    "bradesco-specialist": [
+      true,
+      "Skill is valid!"
+    ],
+    "itau-specialist": [
+      true,
+      "Skill is valid!"
+    ],
+    "santander-specialist": [
+      true,
+      "Skill is valid!"
+    ],
+    "caixa-specialist": [
+      true,
+      "Skill is valid!"
+    ],
+    "btg-pactual-specialist": [
+      true,
+      "Skill is valid!"
+    ]
+  },
+  "full_guide_generation_tested": false,
+  "retrieval_tests": {
+    "Banco_do_Brasil": {
+      "search_matches": 3,
+      "bank_and_period_isolation": "passed",
+      "inventory_isolation": "passed"
+    },
+    "Bradesco": {
+      "search_matches": 3,
+      "bank_and_period_isolation": "passed",
+      "inventory_isolation": "passed"
+    },
+    "BTG_Pactual": {
+      "search_matches": 0,
+      "bank_and_period_isolation": "passed",
+      "inventory_isolation": "passed"
+    },
+    "Caixa": {
+      "search_matches": 0,
+      "bank_and_period_isolation": "passed",
+      "inventory_isolation": "passed"
+    },
+    "Itau": {
+      "search_matches": 3,
+      "bank_and_period_isolation": "passed",
+      "inventory_isolation": "passed"
+    },
+    "Santander": {
+      "search_matches": 3,
+      "bank_and_period_isolation": "passed",
+      "inventory_isolation": "passed"
+    }
+  },
+  "incremental_index": {
+    "new_sources_indexed": 0,
+    "sources_total": 40,
+    "pages_total": 1204,
+    "errors": []
+  }
+}

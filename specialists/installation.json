@@ -1,0 +1,11 @@
+{
+  "registration_directory": "/Users/francisco/.agents/skills",
+  "skills": [
+    "/Users/francisco/.agents/skills/banco-do-brasil-specialist",
+    "/Users/francisco/.agents/skills/bradesco-specialist",
+    "/Users/francisco/.agents/skills/btg-pactual-specialist",
+    "/Users/francisco/.agents/skills/caixa-specialist",
+    "/Users/francisco/.agents/skills/itau-specialist",
+    "/Users/francisco/.agents/skills/santander-specialist"
+  ]
+}

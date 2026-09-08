@@ -1,0 +1,62 @@
+[
+  {
+    "bank": "Banco_do_Brasil",
+    "year": 2025,
+    "error": "curl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com"
+  },
+  {
+    "bank": "Bradesco",
+    "year": 2025,
+    "error": "curl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com"
+  },
+  {
+    "bank": "Caixa",
+    "year": 2026,
+    "error": "curl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com"
+  },
+  {
+    "bank": "Banco_do_Brasil",
+    "year": 2026,
+    "error": "curl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com"
+  },
+  {
+    "bank": "Caixa",
+    "year": 2025,
+    "error": "curl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com"
+  },
+  {
+    "bank": "Bradesco",
+    "year": 2026,
+    "error": "curl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com"
+  },
+  {
+    "bank": "Itau",
+    "year": 2025,
+    "error": "curl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com"
+  },
+  {
+    "bank": "Santander",
+    "year": 2025,
+    "error": "curl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com"
+  },
+  {
+    "bank": "Itau",
+    "year": 2026,
+    "error": "curl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com\ncurl: (6) Could not resolve host: api.mziq.com"
+  },
+  {
+    "bank": "BTG_Pactual",
+    "year": 2026,
+    "error": "curl: (6) Could not resolve host: api.solutions-ir.com\ncurl: (6) Could not resolve host: api.solutions-ir.com\ncurl: (6) Could not resolve host: api.solutions-ir.com"
+  },
+  {
+    "bank": "Santander",
+    "year": 2026,
+    "error": "curl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com\ncurl: (6) Could not resolve host: apicatalog.mziq.com"
+  },
+  {
+    "bank": "BTG_Pactual",
+    "year": 2025,
+    "error": "curl: (6) Could not resolve host: api.solutions-ir.com\ncurl: (6) Could not resolve host: api.solutions-ir.com\ncurl: (6) Could not resolve host: api.solutions-ir.com"
+  }
+]

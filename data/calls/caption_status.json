@@ -1,0 +1,317 @@
+[
+  {
+    "bank": "Bradesco",
+    "period": "2T26",
+    "url": "https://www.youtube.com/live/RlwyeIFMLBE?si=qnRD6o6oiGK5z8fu",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Bradesco/2T26/youtube.pt-orig.vtt",
+      "data/calls/Bradesco/2T26/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Bradesco/2T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Bradesco/2T26/youtube.txt"
+  },
+  {
+    "bank": "Bradesco",
+    "period": "1T26",
+    "url": "https://www.youtube.com/live/4qWu111pYzo?feature=share",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Bradesco/1T26/youtube.pt-PT.vtt",
+      "data/calls/Bradesco/1T26/youtube.pt-orig.vtt",
+      "data/calls/Bradesco/1T26/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Bradesco/1T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Bradesco/1T26/youtube.txt"
+  },
+  {
+    "bank": "Banco_do_Brasil",
+    "period": "2T26",
+    "url": "https://www.youtube.com/watch?v=J9I2VdnE8Ek&list=PLhnExfBbbmAQN6fskEyH7zTibkAPJWlHv&index=83",
+    "exit_code": 1,
+    "vtt_files": [
+      "data/calls/Banco_do_Brasil/2T26/youtube.pt-PT.vtt",
+      "data/calls/Banco_do_Brasil/2T26/youtube.en-orig.vtt",
+      "data/calls/Banco_do_Brasil/2T26/youtube.pt-orig.vtt"
+    ],
+    "log": "data/calls/Banco_do_Brasil/2T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Banco_do_Brasil/2T26/youtube.txt"
+  },
+  {
+    "bank": "Banco_do_Brasil",
+    "period": "1T26",
+    "url": "https://www.youtube.com/watch?v=dZOPnJUsMjk",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Banco_do_Brasil/1T26/youtube.pt-PT.vtt",
+      "data/calls/Banco_do_Brasil/1T26/youtube.pt-orig.vtt",
+      "data/calls/Banco_do_Brasil/1T26/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Banco_do_Brasil/1T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Banco_do_Brasil/1T26/youtube.txt"
+  },
+  {
+    "bank": "Banco_do_Brasil",
+    "period": "4T25",
+    "url": "https://www.youtube.com/watch?v=NcDxee0tUtI",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Banco_do_Brasil/4T25/youtube.pt-orig.vtt",
+      "data/calls/Banco_do_Brasil/4T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Banco_do_Brasil/4T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Banco_do_Brasil/4T25/youtube.txt"
+  },
+  {
+    "bank": "Banco_do_Brasil",
+    "period": "3T25",
+    "url": "https://www.youtube.com/watch?v=eDUqZEXA0h0",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Banco_do_Brasil/3T25/youtube.pt-orig.vtt",
+      "data/calls/Banco_do_Brasil/3T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Banco_do_Brasil/3T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Banco_do_Brasil/3T25/youtube.txt"
+  },
+  {
+    "bank": "Banco_do_Brasil",
+    "period": "2T25",
+    "url": "https://www.youtube.com/live/ezUCFOb8uAs",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Banco_do_Brasil/2T25/youtube.pt-orig.vtt",
+      "data/calls/Banco_do_Brasil/2T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Banco_do_Brasil/2T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Banco_do_Brasil/2T25/youtube.txt"
+  },
+  {
+    "bank": "Banco_do_Brasil",
+    "period": "1T25",
+    "url": "https://www.youtube.com/live/OK2CeHZogX0",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Banco_do_Brasil/1T25/youtube.pt-orig.vtt",
+      "data/calls/Banco_do_Brasil/1T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Banco_do_Brasil/1T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Banco_do_Brasil/1T25/youtube.txt"
+  },
+  {
+    "bank": "Itau",
+    "period": "1T26",
+    "url": "https://www.youtube.com/live/s2wn6SOWHDo",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Itau/1T26/youtube.pt-orig.vtt",
+      "data/calls/Itau/1T26/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Itau/1T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Itau/1T26/youtube.txt"
+  },
+  {
+    "bank": "Santander",
+    "period": "2T26",
+    "url": "https://www.youtube.com/watch?v=eCBnTeXLu8E&feature=youtu.be",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Santander/2T26/youtube.pt-PT.vtt",
+      "data/calls/Santander/2T26/youtube.pt-orig.vtt",
+      "data/calls/Santander/2T26/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Santander/2T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Santander/2T26/youtube.txt"
+  },
+  {
+    "bank": "Santander",
+    "period": "1T26",
+    "url": "https://www.youtube.com/watch?v=oGtq-xaEdwU&feature=youtu.be",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Santander/1T26/youtube.pt-orig.vtt",
+      "data/calls/Santander/1T26/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Santander/1T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Santander/1T26/youtube.txt"
+  },
+  {
+    "bank": "Itau",
+    "period": "4T25",
+    "url": "https://www.youtube.com/watch?v=lP-1iEHAh4E",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Itau/4T25/youtube.pt-orig.vtt",
+      "data/calls/Itau/4T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Itau/4T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Itau/4T25/youtube.txt"
+  },
+  {
+    "bank": "Itau",
+    "period": "3T25",
+    "url": "https://www.youtube.com/watch?si=8o6QLeJ17NDuk1gc&v=XufmH-VmG2U&feature=youtu.be",
+    "exit_code": 1,
+    "vtt_files": [
+      "data/calls/Itau/3T25/youtube.pt-orig.vtt"
+    ],
+    "log": "data/calls/Itau/3T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Itau/3T25/youtube.txt"
+  },
+  {
+    "bank": "Itau",
+    "period": "1T25",
+    "url": "https://www.youtube.com/watch?v=s0Nm2IpWKe4",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Itau/1T25/youtube.pt-orig.vtt",
+      "data/calls/Itau/1T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Itau/1T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Itau/1T25/youtube.txt"
+  },
+  {
+    "bank": "Itau",
+    "period": "2T25",
+    "url": "https://www.youtube.com/watch?v=KzpYKxeWYs0",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Itau/2T25/youtube.pt-orig.vtt",
+      "data/calls/Itau/2T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Itau/2T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Itau/2T25/youtube.txt"
+  },
+  {
+    "bank": "Bradesco",
+    "period": "4T25",
+    "url": "https://www.youtube.com/embed/kQw3qsRjn10?si=knU6XuZ_v5F0pQAs",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Bradesco/4T25/youtube.pt-orig.vtt",
+      "data/calls/Bradesco/4T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Bradesco/4T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Bradesco/4T25/youtube.txt"
+  },
+  {
+    "bank": "Bradesco",
+    "period": "3T25",
+    "url": "https://www.youtube.com/watch?v=ZL1u3A6tRmk",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Bradesco/3T25/youtube.pt-orig.vtt",
+      "data/calls/Bradesco/3T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Bradesco/3T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Bradesco/3T25/youtube.txt"
+  },
+  {
+    "bank": "Bradesco",
+    "period": "2T25",
+    "url": "https://www.youtube.com/embed/vnj0zbcStz4?si=VgxpZXgoko6ZjNZc",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Bradesco/2T25/youtube.pt-orig.vtt",
+      "data/calls/Bradesco/2T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Bradesco/2T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Bradesco/2T25/youtube.txt"
+  },
+  {
+    "bank": "Bradesco",
+    "period": "1T25",
+    "url": "https://www.youtube.com/embed/W7cZR5bxiX4?si=RSV8XOteNFknIyiF",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Bradesco/1T25/youtube.pt-orig.vtt",
+      "data/calls/Bradesco/1T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Bradesco/1T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Bradesco/1T25/youtube.txt"
+  },
+  {
+    "bank": "Santander",
+    "period": "4T25",
+    "url": "https://www.youtube.com/watch?v=-fpM10OkOrY&feature=youtu.be",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Santander/4T25/youtube.pt-orig.vtt",
+      "data/calls/Santander/4T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Santander/4T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Santander/4T25/youtube.txt"
+  },
+  {
+    "bank": "Santander",
+    "period": "3T25",
+    "url": "https://www.youtube.com/watch?v=LZ34Ro8Bcno&feature=youtu.be",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Santander/3T25/youtube.pt-orig.vtt",
+      "data/calls/Santander/3T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Santander/3T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Santander/3T25/youtube.txt"
+  },
+  {
+    "bank": "Santander",
+    "period": "2T25",
+    "url": "https://www.youtube.com/watch?v=iC49nJiiGyM",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Santander/2T25/youtube.pt-orig.vtt",
+      "data/calls/Santander/2T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Santander/2T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Santander/2T25/youtube.txt"
+  },
+  {
+    "bank": "Santander",
+    "period": "1T25",
+    "url": "https://www.youtube.com/watch?v=OM6cEIDPT9w",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Santander/1T25/youtube.pt-orig.vtt",
+      "data/calls/Santander/1T25/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Santander/1T25/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Santander/1T25/youtube.txt"
+  },
+  {
+    "bank": "Caixa",
+    "period": "2T26",
+    "url": "https://www.youtube.com/watch?v=K0BjeF0KkTs",
+    "exit_code": 0,
+    "vtt_files": [
+      "data/calls/Caixa/2T26/youtube.pt-orig.vtt",
+      "data/calls/Caixa/2T26/youtube.pt.vtt"
+    ],
+    "log": "data/calls/Caixa/2T26/caption_download.log",
+    "final_verified_status": "downloaded_and_indexed",
+    "final_source_path": "data/calls/Caixa/2T26/youtube.txt"
+  }
+]

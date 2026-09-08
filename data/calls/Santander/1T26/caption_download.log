@@ -1,0 +1,38 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=oGtq-xaEdwU&feature=youtu.be
+[youtube] oGtq-xaEdwU: Downloading webpage
+[youtube] oGtq-xaEdwU: Downloading visionos player API JSON
+[youtube] oGtq-xaEdwU: Downloading m3u8 information
+[info] oGtq-xaEdwU: Downloading subtitles: pt-orig, pt
+[info] oGtq-xaEdwU: Downloading 1 format(s): 399+251-1
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Santander/1T26/youtube.pt-orig.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Santander/1T26/youtube.pt-orig.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Santander/1T26/youtube.pt-orig.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at   13.08MiB/s (00:00:00)
+[download]   63.00KiB at   11.74MiB/s (00:00:00)
+[download]  127.00KiB at    4.47MiB/s (00:00:00)
+[download]  255.00KiB at    1.80MiB/s (00:00:00)
+[download]  511.00KiB at    2.84MiB/s (00:00:00)
+[download]  725.67KiB at    3.69MiB/s (00:00:00)
+[download] 100% of  725.67KiB in 00:00:00 at 1.94MiB/s
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Santander/1T26/youtube.pt.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Santander/1T26/youtube.pt.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Santander/1T26/youtube.pt.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at  Unknown B/s (00:00:00)
+[download]   63.00KiB at  Unknown B/s (00:00:00)
+[download]  127.00KiB at    6.54MiB/s (00:00:00)
+[download]  255.00KiB at    2.98MiB/s (00:00:00)
+[download]  511.00KiB at    3.38MiB/s (00:00:00)
+[download]  725.67KiB at    4.36MiB/s (00:00:00)
+[download] 100% of  725.67KiB in 00:00:00 at 2.34MiB/s
+[info] Writing video metadata as JSON to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Santander/1T26/youtube.info.json
+

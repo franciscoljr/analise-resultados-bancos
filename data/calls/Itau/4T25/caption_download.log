@@ -1,0 +1,40 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lP-1iEHAh4E
+[youtube] lP-1iEHAh4E: Downloading webpage
+[youtube] lP-1iEHAh4E: Downloading visionos player API JSON
+[youtube] lP-1iEHAh4E: Downloading m3u8 information
+[info] lP-1iEHAh4E: Downloading subtitles: pt-orig, pt
+[info] lP-1iEHAh4E: Downloading 1 format(s): 616+251
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/4T25/youtube.pt-orig.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/4T25/youtube.pt-orig.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/4T25/youtube.pt-orig.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at   14.41MiB/s (00:00:00)
+[download]   63.00KiB at   13.60MiB/s (00:00:00)
+[download]  127.00KiB at    5.03MiB/s (00:00:00)
+[download]  255.00KiB at    2.71MiB/s (00:00:00)
+[download]  511.00KiB at    1.98MiB/s (00:00:00)
+[download] 1023.00KiB at    3.49MiB/s (00:00:00)
+[download]    1.02MiB at    3.55MiB/s (00:00:00)
+[download] 100% of    1.02MiB in 00:00:00 at 2.22MiB/s
+Deleting existing file /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/4T25/youtube.pt.vtt
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/4T25/youtube.pt.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/4T25/youtube.pt.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at  Unknown B/s (00:00:00)
+[download]   63.00KiB at   61.21MiB/s (00:00:00)
+[download]  127.00KiB at    3.23MiB/s (00:00:00)
+[download]  255.00KiB at    2.60MiB/s (00:00:00)
+[download]  511.00KiB at    1.99MiB/s (00:00:00)
+[download] 1023.00KiB at    3.43MiB/s (00:00:00)
+[download]    1.02MiB at    3.49MiB/s (00:00:00)
+[download] 100% of    1.02MiB in 00:00:00 at 2.06MiB/s
+[info] Writing video metadata as JSON to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Itau/4T25/youtube.info.json
+

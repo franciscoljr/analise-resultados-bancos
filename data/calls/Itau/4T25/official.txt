@@ -1,0 +1,1827 @@
+=== PÁGINA 1 ===
+ 
+1 
+ 
+Transcrição –  Resultados 4T25 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores)  
+ 
+Olá! Bom dia a todos ! Eu sou o Gustavo e é um prazer contar com a participação de vocês na 
+videoconferência de resultados do quarto trimestre de 2025. Como sempre, o Milton explicará a 
+nossa performance e em seguida teremos a nossa tradicional sessão de perguntas e respostas, em 
+que analistas e investidores poderão interagir diretamente conosco. Antes de passar a palavra para 
+o Milton, gostaria de passar algumas instruções para o melhor aproveitamento desse nosso encontro 
+de hoje. 
+ 
+Para quem está acessando pelo nosso site, existem três opções de áudio : todo o conteúdo em 
+português, todo conteúdo em inglês ou no áudio original. Nas duas primeiras alternativas 
+contaremos com tradução simultânea. Para escolher essa opção, basta clicar na bandeira que está no 
+canto superior esquerdo da sua tela. 
+ 
+As perguntas também podem ser enviadas por WhatsApp para o número que está aparecendo aqui 
+embaixo. A apresentação que faremos hoje está disponível para download na tela do hotsite e, como 
+sempre, no nosso site de Relações com Investidores.  
+ 
+Agora, passo a palavra para o Milton e mais tarde teremos a sessão de perguntas e respostas. Milton 
+é com você!  
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Bom dia! Bem-vindos a mais uma divulgação de resultados. Hoje, nós veremos a divulgação do quarto 
+trimestre de 2025.  Eu v ou falar das perspectivas para o próximo ano , sobre o guidance para 2026. 
+Também vou contar um pouco do que foi a nossa trajetória até aqui, como ela  tem sido ao longo dos 
+últimos anos e quais foram as entregas relevantes de 2025 para dar mais visibilidade do que tem sido 
+a nossa agenda no banco, mas não de maneira exaustiva. 
+ 
+Vou começar trazendo esse histórico, primeiro reforçando quais são os pilares que nos acompanham 
+e que têm sido relevantes no nosso modelo de gestão. A Centralidade no cliente sempre em primeiro 
+lugar, este tem sido o foco da organização como um todo. Mas p ara entregarmos essa centralidade 
+no cliente foi fundamental  toda a transformação  cultural e digital que fizemos  no banco ao longo 
+desses anos.  Esse n ão é um processo que termina, ele  é contínuo, mas os avanços são muito  
+relevantes.  
+ 
+Sobre a Cultura de gestão de riscos , esse é um diferencial comparativo que temos. Nós temos uma 
+visão de longo prazo , capacidade de aprofundar todos os riscos aos quais o conglomerado está 
+exposto diariamente. A gestão de riscos está integrada à gestão de todas as áreas.  Essa não é uma 
+
+=== PÁGINA 2 ===
+ 
+2 
+ 
+atribuição apenas da área de riscos  e por isso o meu ponto sobre esse pilar ser um diferencial 
+competitivo.  
+ 
+Com isso temos  também toda a discussão de alocação de capital. Então, em nossos modelos de 
+gestão, de tomada de decisão diári a, em nossos modelos de remuneração, todos somos focados e 
+muito disciplinados. Nós temos uma disciplina de aloca ção de capital que é: escolher o lugar c erto, 
+para alocar no preço correto e com a rentabilidade adequada. Sempre mantendo a visão do cliente e 
+de longo prazo, ter esse olhar prospectivo é fundamental.  
+ 
+A modernização da plataforma tecnológica  e arquitetura de dados é um enabler muito importante 
+para tudo o que temos conseguido entregar. São anos e anos de investimentos relevantes, mudanças 
+transformacionais dentro das nossas plataformas com toda a modernização  e simplificação do 
+legado, que por sinal já temos data e hora para ser desligado.  
+ 
+Portanto, continuamos muito entusiasmado s com o potencial dessa agenda e, especialmente  com 
+toda a revisão da arquitetura de dados. Temos uma  arquitetura muito mais centralizada, com uma 
+única fonte de informação para o banco todo , dados democratizados dentro da organização , 
+datamesh em nuvem.  
+ 
+Esse movimento todo tem nos ajudado a potencializar a aplicação de inteligência artificial nos nossos 
+negócios. O lançamento de novos produtos, interação com clientes, revisão de processos, aumento 
+de produtividade, essa revisão foi muito importante para todas essas melhorias.  
+ 
+E por último, mas não menos importante, é a gestão estratégica de custos e eficiência. Não é o custo 
+pelo custo , “e ficiência” é a palavra de ordem dentro do banco. Nós f omos capazes de investir 
+bastante em toda essa transformação, entregando resultado  e rentabilidade, fazendo com que a 
+receita crescesse mais do que custo ao longo dos anos , o que vocês podem ver refletido no nosso 
+índice de eficiência.  
+ 
+Com todo esse investimento que foi feito em tecnologia, plataformas e digitalização da organização, 
+nós entramos  em uma fase muito importante de escalabilidade . A escala operacional  é o nome do 
+jogo, especialmente para alguns negócios específicos, que eu vou detalhar daqui a pouco. Como isso 
+se traduz em resultado? 
+ 
+A carteira de crédito cresceu 40% nesse período , o que é  um crescimento bastante importante. 
+Durante esse processo nós também f izemos um derisking relevante de alguns portfólios que não 
+traziam a rentabilidade adequada de acordo com a nossa visão de gestão de portfólio, que é uma das 
+disciplinas no pilar de cultura de gestão de riscos e de alocação de capital . Esse derisking relevant e 
+nos salvou de alguns milhões de perdas, alguns percentuais importantes nos indicadores de atraso e 
+deixou nosso portfólio muito mais adequado e com mais qualidade para o crescimento futuro. 
+ 
+
+=== PÁGINA 3 ===
+ 
+3 
+ 
+Como isso se traduz em números? Nós vimos uma expansão muito importante no RO E que era 
+de 19,3% em 2021 e agora atingiu 23,4% , um aumento substancial no período . O índice de eficiência 
+caiu de 44% para 38,8%, uma redução bastante importante também. 
+  
+Nós tivemos uma distribuição de dividendos no período de R$ 105 bilhões , que se traduz em um 
+payout de 57,9% no período. Ou seja, tivemos forte criação de valor, aumento de rentabilidade  com 
+disciplina na agenda de custos e eficiência,  o que se traduzi u em uma grande distribuição de valor 
+para os nossos acionistas.  
+ 
+E como nós medimos a criação de valor dentro do banco? Aqui temos um recorte de 2021. O resultado 
+do banco foi de R$26,9 bilhões. Nós tivemos uma criação de valor, pelos nossos modelos e com o custo 
+de capital em linha com o que acompanhamos  das metodologias, de R$9,3 bilhões. Agora em 2025, 
+nós atingimos R$46,8 bilhões de resultado no consolidado, com R$18,5 bilhões de criação de valor, ou 
+seja, duas vezes a criação de valor no período, o dobro do que foi em 2021. Esse é  um crescimento 
+muito importante, co m qualidade, sustentabilidade, consistência e, acima de tudo, com muita 
+disciplina e criação de valor. 
+ 
+Esse é um slide com bastante informação, mas a ideia é trazer um panorama do que foi nosso ano de 
+2025. Eu vou me aprofundar em alguns destaques. Começo falando para vocês sobre a satisfação dos 
+nossos stakeholders.   
+ 
+A primeira medição é a de como nós somos avaliado s pelos nossos colaboradores dentro do banco.  
+Nós atingimos o eNPS de 83 pontos, muito próximo ao d as máximas históricas, o que mostra que 
+temos conseguido evoluir muito internamente no que diz respeito ao ambiente, cultura, 
+empreendedorismo e capacidade de atração e retenção de talentos, criando um ambiente realmente 
+muito produtivo.  
+ 
+É com esse ambiente que conseguimos, naturalmente, cuidar dos nossos clientes. Nós atingimos um 
+NPS consolidado na máxima histórica em 2025, e atingimos recordes nos segmentos de média e alta 
+renda, que são dois segmentos muito importantes  e relevantes para o banco e continuam sendo 
+centrais na nossa estratégia.  
+ 
+Para os nossos investidores, nós não trouxemos essa informação através dos nossos múltiplos, preço 
+da ação ou evolução da ação no período , nós sempre temos o olhar de longuíssimo  prazo. O total 
+shareholder return do banco ao longo desses últimos cinco anos foi altíssimo , mostrando  nossa 
+capacidade de entregar valor e ter o reconhecimento dos nossos investidores. Mas escolhemos 
+trazer essa informação através da pesquisa da Extel, em que fomos, pelo segundo ano consecutivo, 
+líderes em todas as categorias da pesquisa. Eu fico bastante feliz e agradeço mais uma vez aos nossos 
+investidores pela confiança e reconhecimento. Nossa responsabilidade e dedicação s ó aumenta m, 
+acreditem.  
+ 
+
+=== PÁGINA 4 ===
+ 
+4 
+ 
+Do ponto de vista de tecnologia  nós tivemos uma redução importante nos incidentes através 
+de toda a  modernização. A redução foi de 99%, um número muito importante dado o tamanho da 
+nossa arquitetura, da nossa plataforma e atuação nos diversos negócios.  
+ 
+Um tema que eu acho central nessa modernização é velocidade . É a nossa capacidade de entregar 
+valor para os nossos clientes com muito mais rapidez e agilidade. Isso fez com que a nossa velocidade 
+aumentasse 2.600%. É uma mudança muito transformacional. 
+ 
+Quando analisamos a  escalabilidade, e falamos bastante a respeito desse tema, nós tivemos uma  
+redução de 45% no nosso custo unitário d e transações, mostrando que, de fato, temos conseguido 
+fazer essa transformação com muita qualidade, profundidade e com resultados muito consistentes.  
+ 
+Bom, no varejo, tanto na pessoa física quanto na pessoa jurídica, nós tivemos diversa s entregas ao 
+longo de 2025, foi um ano realmente importante, então vou ressaltar algumas. Primeiro, nós tivemos 
+a migração dos 15 milhões de clientes para o SuperApp. O foco foi absolutamente a  experiência dos 
+clientes e o NPS t raduz isso , tivemos um NPS de 80 pontos e a partir de agora  passamos a ter um 
+relacionamento full banking com esses clientes.  
+ 
+No que diz respeito a v elocidade, nós conseguimos avançar entre 4 e  5 vezes a velocidade que 
+vínhamos entregando antes, desenvolvendo novos produtos, resolvendo dores de clientes e  com 
+muita adoção e ativação. Os volumes transacionados nesses novos features são muito importantes. 
+Temos o Pix no WhatsApp, Powered by AI, Cofrinhos, Transferência de limites, cartão com colateral, 
+ou seja, temos uma gama muito importante de produtos e soluções novas para os nossos clientes. 
+ 
+A modernização na plataforma fez com  que, logo no início, nós começássemos a participar do novo 
+Consignado CLT. Se vocês olharem uma série desde o início até hoje, nós assumimos a liderança com 
+performance destacada. Já  éramos líderes no consignado CLT , no modelo anterior, e conseguimos 
+voltar a essa liderança do que foi produzido ao longo desse período. Nós mantínhamos a liderança do 
+ponto de vista de carteira, com crescimento muito importante, com qualidade e visão de longo prazo. 
+ 
+Nós tivemos um aumento importante da penetração digital nos nossos clientes. Todo o investimento 
+que foi feito em tecnologia, a transformação cultural e digital e o atendimento dos nossos clientes da 
+melhor forma possível levaram a natural otimização do footprint.  
+ 
+Em seguros, que há muitos anos eu vinha falando para vocês que tínhamos um catchup para fazer , 
+nós t erminamos 2025 com uma evolução de 130% no resultado recorrente , ou seja, mais do que 
+dobramos o resultado no período. E a boa notícia é que ainda vemos ótimas perspectivas para frente, 
+tendo seguros como parte integrante das nossas jornadas, seja na pessoa física, seja na pessoa 
+jurídica.  
+ 
+Quando analisamos a pessoa jurídica, eu quero destacar o volume de R$1 trilhão  que atingimos em 
+valor transacionado em adquirência. Com isso nós assumimos a liderança de mercado em crédito , 
+
+=== PÁGINA 5 ===
+ 
+5 
+ 
+que já tínhamos  assumido há algum tempo ; em adquirência seguimos mantendo a liderança, 
+com muita disciplina , foco, nova s tecnologias e novos produtos ; e em fl uxo de pagamento e 
+recebíveis. Tudo isso mostra a importância da visão cliente na nossa relação na pessoa jurídica do 
+varejo.  
+ 
+Tivemos o  lançamento do Itaú Emps , u ma plataforma 100% power ed by AI, que tem perspectivas 
+incríveis quando olhamos para o futuro , como parte da entrega de valor e do modelo de negócio da 
+Pessoa Jurídica no Varejo.  
+ 
+No atacado eu quero destacar algumas linhas também. Estamos em 1º lugar no ranking de emissão e 
+distribuição de Renda Fixa, um mercado muito competitivo em que boa parte dos nossos clientes de 
+grande e médio porte passaram a acessar com bastante frequência ao longo dos últimos anos. 
+Fechamos o ano com 26% de market share e R$124 bilhões de operações originadas. 
+ 
+Continuando nessa visão do atacado, nós falamos bastante sobre esse tema durante o Itaú Day. Nós 
+tivemos a criação do segmento de Infraestrutura e Energia, com foco e estrutura especializada, dado 
+todo pipeline de investimentos que vemos. Atingimos a liderança no Eco Invest Brasil, um programa 
+muito importante, e tivemos a maior captação entre os bancos , nós já habilitamos R$12 bilhões em 
+investimentos. 
+ 
+Tivemos mais um ano em que assumimos a liderança no BNDES, nos rankings de câmbio, derivativos 
+e risco sacado . Mais uma vez, destaques no crédito, na estruturação de operações, no mercado de 
+capitais e no dia a dia dos nossos clientes. Alcançamos a liderança pelo segundo ano consecutivo em 
+algo superimportante  no Research –  no Institutional Investor , ou  Extel Brasil, por dois anos 
+consecutivos, e no Extel LatAm,  pelo primeiro ano como vencedor. Então , um grande orgulho do 
+trabalho que os times v êm fazendo, mais uma vez cobrindo com muita disciplina e profundidade os 
+nossos clientes que são listados em bolsa. 
+ 
+Seguindo para WMS (Wealth Management), darei dois destaques: primeiro, no “mundo dos trilhões”, 
+quero dizer que já atingimos  ativos sobre gestão e administração  de R$4,1 trilhões. Esse é o volume 
+que o banco tem hoje sob  gestão em administração . Sobre plataforma aberta, fala -se muito sobre 
+isso. O banco é uma plataforma aberta em que leva para os seus clientes uma oferta de produtos 
+muito diversificada. Crescemos 15%, atingindo R$422 bilhões, o que mostra que dá para crescer com 
+qualidade, com curadoria, com disciplina, com segurança e mantendo naturalmente um sistema 
+rígido, com uma visão muito centrada no cliente. Eu acho que os números falam por si só. 
+ 
+Tivemos também uma evolução importante na receita da corretora de pessoa física. Isso era um gap, 
+algo que a gente realmente precisava trabalhar e aprofundar. Houve um crescimento de três vezes  
+neste período.  
+ 
+
+=== PÁGINA 6 ===
+ 
+6 
+ 
+Bom, vou falar agora dos resultados do quarto trimestre. Vou passar por resultado, 
+rentabilidade, carteira de crédito, margem financeira com clientes e serviços e seguros, e vou falar no 
+final sobre índice de eficiência. 
+ 
+Para ficar mais fácil a visualização de vocês, eu vou começar dando um zoom no resultado. Atingimos 
+um resultado de R$ 12,3 bilhões , um resultado muito forte no quarto trimestre, um crescimento de 
+3,7% em relação ao trimestre anterior e 13,2% em relação ao quarto trimestre de 2024, operando com 
+um nível de rentabilidade muito forte. Se vocês olharem no consolidado, atingimos ROE de 24,4 % e 
+no Brasil, ROE de 26,0%. Esse número no consolidado, ajustado a 11,5% de capital –  que é onde vemos 
+a média da indústria e o que é o nosso apetit e de capital hoje definido pelo Conselho – nossa 
+rentabilidade consolidada foi de 25,4 % e, no Brasil, de 27,3 %. Talvez esse seja o número mais 
+comparável para conseguir ler e interpretar a performance que a gente teve na operação do Brasil , 
+com crescimento e expansão em todas as visões.  
+ 
+Como é que construímos  isso? A carteira de crédito teve um crescimento importante em relação a 
+setembro, de  6,3%, e em relação a  dezembro de 20 24, 6%. Eu vou falar daqui a pouco sobre a  
+prestação de contas do Guidance do ano. 
+ 
+Atingimos uma carteira de um R$1.490,8 bilhões. Tirando os efeitos de variação cambial, no trimestre, 
+teria sido um crescimento de 4, 5% e na comparação anual,  7,3%, porque temos  um componente , 
+tanto de bancos fora do Brasil, que impactam as carteiras na variação cambial, quanto das  próprias 
+carteiras feitas no Brasil, que têm um componente de moeda estrangeira. 
+ 
+A Margem financeira com clientes também apresentou um resultado muito sólido, com crescimento 
+de 1,5% em relação ao trimestre passado e 8,6% de crescimento ano contra ano, que eu entendo ser 
+um crescimento bastante sólido para o banco, dado o nosso tamanho e rentabilidade. 
+ 
+Seguindo para s erviços e seguros , foi um trimestre muito bom. Crescemos 5,9% no trimestre e 9,1% 
+em comparação com o quarto trimestre de 2024, o que mostra R$15,6 bilhões de resultado gerado 
+com muita solidez e qualidade. 
+ 
+Atingimos os melhores patamares de índices de eficiência : no consolidado 38,9% e, no Brasil, 36,9 %. 
+Nós vemos uma expansão em todas as visões, uma melhoria contínua do nosso índice de eficiência, 
+que conversa também com aquele primeiro slide que eu apresentei para vocês. 
+ 
+Bom, agora eu vou dar um destaque na carteira de crédito. São muitas informações, mas eu vou 
+direto nos pontos que eu julgo que são mais relevantes. Primeiro, esse é um trimestre que tem uma 
+boa sazonalidade com as compras de final de ano, então a carteira de cartões tipicamente cresce 
+neste trimestre , e ela cresceu 8%. O importante –  e i sso ajuda, inclusive, a explicar a margem no 
+próximo slide –  é que a carteira não financiada tende a crescer mais nesse trimestre , por uma razão 
+muito simples: compras, sejam elas à vista ou parcelad as, elas têm um componente importante de 
+
+=== PÁGINA 7 ===
+ 
+7 
+ 
+crescimento, e essa carteira cresce 4,3%. A carteira financiada cresce 1,6% no trimestre. Na visão 
+ano contra ano, as duas carteiras crescem de forma importante. 
+ 
+Seguindo para o crédito consignado, vimos que houve um crescimento de 4%. O grande destaque foi 
+o consignado privado, em que tivemos  um crescimento de 27 ,5% no trimestre e, no ano contra ano, 
+de 36%. Foi este crescimento que levou a gente à  liderança no consignado privado no Brasil, com 
+muita qualidade, rentabilidade, muito bem-feito, com uma experiência de contratação impecável.  
+ 
+Próximo destaque é o c rédito imobiliário. Entendemos a importância dessa alavanca para o longo 
+prazo na relação com os nossos clientes. Atingimos aproximadamente R$ 142 bilhões de carteira de 
+crédito imobiliário –  o maior banco entre os privados. Conseguimos  bater o market share de 50% na 
+originação de operações de crédito imobiliário, com mais de R$ 33 bilhões originados em 2025, que já 
+vinha de um crescimento alto. Ainda assim, crescemos a originação 9% no ano contra ano, crescendo 
+12,8% a carteira no período. 
+ 
+Falando de micro, pequenas e médias empresas, tivemos um crescimento muito importante também 
+nesse trimestre. Quando quebramos  entre pequenas e médias, o crescimento maior foi em médias , 
+de 12%, e de 6,4% nas pequenas empresas. Os  programas governamentais, que são  uma forma de 
+atender os nossos clientes com taxas muito competitivas e prazos adequados, tiveram um 
+crescimento de 10% . Os crescimentos anuais também são muito fortes  quando olhamos tanto para 
+pequenas empresas, quanto para programas governamentais. 
+ 
+Agora vou falar para vocês sobre a margem. Eu comentei a respeito  do mix que vocês viram , então 
+nós temos um componente de crescimento em empresas  que são números bastante importantes . 
+Por outro lado, no varejo o mix também importa para a margem. Crescemos muito em carteira não 
+financiada –  o que é sazonal, típico do trimestre. Crescemos bastante no imobiliário e no consignado 
+privado, que são produtos garantidos, que, numa visão de longo prazo, são muito importantes para 
+a rentabilidade e para a qualidade do portfólio, mas que na margem anualizada eles trazem um 
+pequeno efeito –  não é relevante, mas eu já vou entrar nesse detalhe.  
+ 
+O que importa é que crescemos R$13 bilhões na comparação de 2025 contra 2024. E quando olhamos 
+para o quarto trimestre de 2025 em relação ao terceiro trimestre, crescemos R$500 milhões, ou 1,5%. 
+O grande destaque foram os volumes , como vocês viram, um crescimento de carteira muito forte.  O 
+mix, que eu explicava para vocês agora, tem um leve impacto negativo. Spread e margens de passivos 
+com uma rentabilidade muito boa, especialmente nos passivos. E vemos também efeitos menores, 
+como calendário e operações estruturadas e LatAm. Tudo isso  mostra um crescimento bastante 
+sólido no quarto trimestre.  
+ 
+Seguindo para a NIM ( margem média anualizada), vemos essa leve queda no trimestre no 
+consolidado de 9,0% para 8,9% e, ajustado ao risco, de 6,2% para 6,1%. Na visão Brasil, redução de 9,8% 
+para 9,7% no trimestre e , ajustado ao risco, de 6,7% para 6,6%.  Isso é basicamente explicado pelos 
+
+=== PÁGINA 8 ===
+ 
+8 
+ 
+eventos que eu comentei agora há pouco: mix entre PJ e PF, e dentro da PF, um mix de carteira 
+onde tivemos crescimentos mais relevantes no trimestre.  
+ 
+Essa é a visão quebrada, c omo a gente observa. E essa é a visão da margem anualizada que eu 
+comentava para vocês agora, absolutamente dentro de patamares muito adequados. 
+ 
+Falando de  margem com o mercado , c hamo a atenção que essa queda  já era esperad a. O próprio 
+guidance já continha uma margem com mercado implícita um pouco menor. Vimos que no Brasil , 
+tivemos uma performance muito boa, mas os trimestres anteriores  foram muito fortes. Ainda assim, 
+foi uma boa performance. Um pouco menos em LatAm, por um custo de Hedge  do índice de capital, 
+em linha com o que observamos nos trimestres anteriores. 
+ 
+Eu acho que a prestação de contas do ano fica muito clara. Se vocês olharem a diferença que tivemos 
+de performance, ela não está no top line. O Brasil performou um pouco pior do que foi 2024, e LatAm 
+um pouco melhor, mas se vocês olharem na composição , é uma margem muito parecida . A grande 
+diferença está no custo do hedge do índice de capital, que teve um aumento, da do o diferencial de 
+taxa de juros desse hedge. 
+ 
+A principal mensagem é que ficamos muito seguros e confortáveis com esse hedge que fazemos e 
+que nos permite uma boa gestão de capital com muita previsibilidade e boas distribuições de 
+dividendos ao longo do período. Então , isso tirou volatilidade do nosso índice de capital e é uma 
+política que a gente revê e rediscute a cada seis meses. 
+ 
+Agora vamos discutir sobre a receita de serviços e de seguros. Eu vou dar ênfase também naquilo que 
+eu acho que é mais relevante. Eu falava agora há  pouco de pagamentos e recebimentos. Tivemos 
+uma evolução de 5% no trimestre, um volume transacionado de R$301 bilhões, muito forte, com 
+crescimento de 16,8% no trimestre e 22,8% no ano contra ano.  
+ 
+Em administração de recursos, tivemos um crescimento de 14,2%, foi um trimestre muito forte e esse 
+é um trimestre de performance fee também. Então , como eu falava para vocês , atingimos R$4,1 
+trilhões de ativos sob gestão e administração. Queria chamar a atenção para a nossa captação líquida 
+em 2025, uma captação recorde de R$ 156 bilhões, um crescimento de 49% , o que mostra de novo a 
+confiança, a capacidade de entrega de valor, a visão de longo prazo e, mais do que tudo, a 
+credibilidade que a gente constrói todos os dias com os nossos clientes. 
+ 
+Em assessoria financeira e corretagem, tivemos um bom trimestre, com crescimento de 17%. Somos 
+líderes de market share, como eu já comentei, tivemos R$124 bilhões em volume originado. Na visão 
+ano contra ano, houve uma queda,  porque o ano de 2024 foi um ano recorde de resultado em 
+assessoria e corretagem , especialmente em dívida no mercado corporativo. Ainda assim , 
+conseguimos ter uma performance melhor do que imaginávamos  no início do ano, com a nossa 
+expectativa de volumes no mercado. 
+ 
+
+=== PÁGINA 9 ===
+ 
+9 
+ 
+O resultado de previdência e capitalização cresce 1,9 % no trimestre e cresce 17% no ano contra 
+ano. A mensagem mais importante é mostrar que os nossos prêmios continuam crescendo –  13% no 
+ano contra ano . O resultado recorrente cresceu mais 20% esse ano, vindo de anos muito relevantes 
+de crescimento de resultado, o que faz com que a gente atinja 130% de crescimento no período de 
+2021 até aqui. 
+ 
+Agora darei um zoom nos atrasos. Vou começar com o atraso curto, onde eu acho que tem algumas 
+mensagens. A primeira delas eu tinha antecipado para vocês no trimestre anterior: tínhamos um caso 
+específico em grandes empresas, um caso conhecido e amplamente noticiado, que entrou em atraso 
+curto, e a nossa expectativa era de que ele saísse do balanço , que fosse vendido, e que estivesse em 
+uma nova estrutura até o final do ano. E foi de fato o que aconteceu. Por isso que vocês veem esse 
+salto em setembro e essa queda em dezembro. Não fosse isso, o indicador teria ficado absolutamente 
+de lado. Quando olhamos a América Latina,  total e Brasil, no consolidado, temos indicadores muito 
+comportados. 
+ 
+No Brasil, chamo a atenção para dois efeitos. Primeiro , na pessoa física,  onde atingimos o menor 
+patamar da história, o que mostra que todo esse processo de gestão de portfólio que  foi feito ao 
+longo dos anos  tem se traduzido em resultados importantes, com crescimento de carteira, geração 
+de valor e deixando o portfólio muito sustentável. O efeito de grandes empresas está aqui. Quando 
+olhamos o atraso curto ele chegou a 1% em setembro e voltou a 0,03% em dezembro, porque aquele 
+cliente corporativo específico sai agora no quarto trimestre , só reforçando a informação que eu já 
+tinha dado para vocês no call anterior. 
+ 
+Quando olhamos o atraso longo, nenhuma grande informação.  Eu acho que a mensagem é que os 
+atrasos estão super comportados, na América Latina também, então temos resultados muito sólidos. 
+Quando olhamos as várias carteiras , temos a carteira de pessoa física com inadimplência de 3,6%, 
+analisando a série histórica, está muito estável. Em pequenas e médias, temos um leve aumento que 
+está em linha com o que eu já vinha antecipando para vocês, especialmente pela penetração de 
+produtos governamentais que tinham carência. A  nossa expectativa é de uma normalização desse 
+atraso ao longo do tempo, na medida que o período de carência vai acabando . Mas são carteiras 
+muito garantidas , p ortanto, ele corre no atraso, mas ele não afeta as perdas nem o resultado das 
+carteiras de forma relevante.  
+Sobre o atraso de grandes empresas, a gente faz um 
+caveat, porque tivemos uma venda de fato. Sem 
+considerar essa venda, teria sido mais 0,9 ponto percentual , o que mostra uma certa estabilidade.  
+Lembrando que esse não é um indicador que gostamos de acompanhar por atraso, especialmente de 
+grandes empresas.  
+ 
+Na carteira de estágio 2 e 3, não temos nenhum grande destaque além da carteira do Estágio 3, na 
+qual vemos a queda, especialmente em pessoa jurídica . Isso foi exatamente a saída daquele cliente 
+específico de grandes empresas que eu comentava agora há pouco. Ele sai do estágio 3, uma vez que 
+ele é vendido, gerando esse efeito e vocês conseguem ver também o impacto na cobertura, que tem 
+uma leve queda . Isso  porque este era um cliente corporativo amplamente provisionado dentro 
+
+=== PÁGINA 10 ===
+ 
+10 
+ 
+daquilo que era necessário. Esse crédito sai com nível de cobertura maior do que a cobertura do 
+saldo que fica. Por isso ela cai ligeiramente. Eu acredito que estes sejam os dois únicos destaques que 
+eu daria, que no fim, é sobre o mesmo caso. 
+ 
+Seguindo para o custo do crédito, atingimos R$9,4 bilhões de custo do crédito e uma relação de 2,6% 
+sobre a carteira de, absolutamente estável se vocês olharem a série histórica . Quando olhamos ano 
+contra ano, tem um aumento nominal , ma s é lógico que teria , dado que houve um crescimento 
+importante das carteiras no período. Por isso que sempre gostamos  de olhar a relação custo de 
+crédito sobre carteira, que está atingindo um patamar muito saudável de 2,6%. 
+ 
+Quando olhamos a carteira renegociada, eu acho que o único destaque é dizer que aquele caso que 
+eu mencionava agora há pouco estava classificado em carteira reestruturada, como vocês podem 
+observar aqui. Essa  queda nominal é explicada basicamente por aquele evento e é por isso que o 
+percentual sobre carteira também cai. Este é o grande destaque desse quadro. 
+ 
+Agora, eu vou falar sobre despesas. O primeiro ponto específico é que es te é um trimestre que 
+tipicamente o custo tende a ser mais forte , mas tivemos  um custo muito comportado com 
+crescimento de 0,5% no Brasil, o que mostra a direção e a tendência. V ocês vão ver isso refletido no 
+guidance olhando para frente. No final, fechamos  com crescimento de 7,6% na visão Brasil e 7,5%  no 
+total, o que é absolutamente em linha com o ponto médio do Guidance, o que mostra nossa disciplina 
+e a previsibilidade, sendo que boa parte desse aumento de custo ao longo do ano vem da capacidade 
+de absorver investimentos relevantes que foram feitos e aumento de volumetria com redução de 
+custo unitário.  
+ 
+Mas é uma operação que está gerando mais negócios, mais volumes com os nossos clientes , o que  
+acaba trazendo um custo variável e claro, a rentabilidade do banco também afeta os custos,  pelos 
+modelos de remuneração , sempre temos um efeito nesse sentido, o que eu acho absolutamente 
+saudável, dado o nível de rentabilidade e resultados que o banco vem entregando.  
+ 
+Vamos seguir para o Índice  de Eficiência. Eu acho que voltar na série histórica é sempre bom para 
+lembrar de onde partimos  lá em 2019, seja no consolidado ou no Brasil. V ocês conseguem observar 
+uma redução substancial no período, atingindo no Brasil 36,9% de Índice de Eficiência –  o menor dessa 
+série –  o que mostra a nossa disciplina de cuidar do cliente, fazer investimentos importantes, gerar 
+resultado, aumentar a produtividade, a eficiência da organização como um todo e com muito foco na 
+escala operacional. Este é o tema que mais discutimos aqui dentro.  
+ 
+Eu queria trazer uma informação nova para vocês e como classificamos  em base  100, dada  a 
+sensibilidade da informação, nós separamos os nossos negócios em algumas visões. Como eu sempre 
+falo, o Itaú Unibanco é um portfólio de negócios , é um banco muito grande de atacado e é um banco 
+muito grande de varejo , ele é um banco grande na região  e é o banco mais internacional do Brasil. 
+Temos operações importantes na região como um todo, 18% dos nossos ativos estão fora do Brasil e 
+
+=== PÁGINA 11 ===
+ 
+11 
+ 
+8% do nosso resultado vem de operações fora do Brasil. Então, isso mostra um pouco a 
+diversificação do nosso portfólio, muito concentrado, inclusive , em países investment grade  na 
+América do Sul. 
+ 
+Então nós separamos nes te slide  o que são os segmentos de referência, sejam os segmentos de 
+referência no atacado ou no varejo, ou aqueles que entendemos que já temos um índice de eficiência 
+que é referência global. Claro que existe  oportunidade e estamos sempre olhando para isso , 
+especialmente nesse novo mundo, com inteligência artificial  e novas tecnologias, sempre há espaço 
+para ser mais eficiente. Mas se vocês observarem esse gráfico de base 100 de 2024 até hoje, verão os 
+segmentos e negócios que mantiveram o seu índice de eficiência. 
+ 
+Quando olhamos esse gráfico na América Latina, ela apresenta essa curva, mas tem muito efeito de 
+variação cambial aqui. Desta forma, eu vou desconsiderar a América Latina por um segundo, mas que 
+no consolidado  naturalmente tem impacto. Nós podemos ver que no consolidado, nosso índice de 
+eficiência, considerando essa visão de base 100, sai de 100 e vai para 98.  Os números vocês conhecem, 
+mas a mensagem mais importante é que onde estamos conseguindo fazer a grande evolução no 
+índice de eficiência, são nos segmentos escaláveis, que são segmentos do varejo, seja na pessoa 
+física, seja na pessoa jurídica, em que tecnologia, proposta de valor, escalabilidade e produtividade 
+são fundamentais, e que no longo prazo é o que fará diferença para ate ndermos melhor os nossos 
+clientes, assim como ampliar o atendimento a novos grupos de clientes, que, dada nossa estrutura de 
+custos atual e índice de eficiência, temos menos capacidade de absorver as perdas de crédito.  
+ 
+Então se vocês observarem , eu já estou trazendo aqui um insight para 2026 . Nós partimos de uma  
+base 100 em 2024 e chegamos até 94 em 2026. E a nossa ambição é enorme de continuar vendo essa 
+linha evoluir. Portanto, boa parte dos investimentos e toda a transformação que foi feita nos anos 
+anteriores é o que permite acelerarmos a escalabilidade daqui para frente. É uma super oferta digital, 
+uma super plataforma. É uma otimização do modelo de negócio, do modelo de atendimento  e da 
+proposta de valor. Então estamos  muito animados, não só com evolução  de tudo isso , mas com as 
+perspectivas olhando para frente.  
+ 
+Com relação a  capital, no final do dia, todos os resultados e aquela disciplina toda que comentei, se 
+traduz em boa performance  de capital. Temos aqui no primeiro bloco o proforma de dezembro de 
+2024, no qual nós atingimos 12,3% de CET1.  
+ 
+O lucro líquido gerou 3,3% no período. Tivemos  um consumo de capital de 0,8% pelos ativos 
+ponderados pelo risco. Com relação aos dividendos e juros sobre o capital próprio, nós tivemos 2,5% 
+de consumo de capital para esse fim. E tivemos uma variação positiva no capital de  0,2% com novas 
+emissões que foram feitas de AT1, especialmente no mercado doméstico. Tudo isso fez com que 
+atingíssemos 12,3% de CET1 e 1,5% de AT1 em dezembro de 2025. 
+ 
+Lembrando que agora no primeiro trimestre de 2026,  nós já temos alguns eventos regulatórios que 
+consomem parte desse excesso de capital. Isso tudo já estava no nosso planejamento quando 
+
+=== PÁGINA 12 ===
+ 
+12 
+ 
+decidimos fazer a distribuição antecipada de dividendos adicionais , que tipicamente fazemos 
+em março e que realizamos no final do ano de 2025. 
+ 
+Falando sobre distribuição de juros sobre o  capital próprio  e dividendos, nós distribuímos R$9,7 
+bilhões de JCP pagos e provisionado e R$24 bilhões de  dividendos e juros sobre  o capital próprio 
+adicionais, portanto, entregamos de valor para os nossos acionistas R$33,7 bilhões em 2025, o que se 
+traduz em um payout de 72%. Ou seja, uma distribuição muito forte, mas que só é possível com uma 
+ótima qualidade e muita capacidade de geração de capital . O nosso foco é rentabilizar a operação, 
+mas quando entendermos que há excesso para aquilo que temos de perspectivas de utilização e de 
+rentabilização, o objetivo é distribuir para os acionistas. 
+ 
+Agora irei fazer a prestação de contas com relação ao guidance. Eu não vou entrar em linha por linha, 
+mas visualmente dá p ara ver que fic amos muito perto do ponto médio em quase todas as linhas do 
+guidance ao longo do ano. Tivemos um c rescimento de carteira de 6% e a margem financeira com 
+clientes com crescimento de 12,1%. Nossa margem com mercado atingiu R$3,3 bilhões. O c usto do 
+crédito atingiu R$ 36,6 bilhões. A  receita de prestação de serviços e seguro  atingiu 6,3% de 
+crescimento no ano. As despesas não decorrentes de juros cresceram 7,5%, o que está absolutamente 
+em linha com o nosso orçamento . E por fim, a alíquota efetiva ficou em 29,7% . Acho que é uma boa 
+prestação de contas. Isso mostra não só a nossa capacidade de previsibilidade, mas mostra que de 
+fato temos as alavancas nas mãos.  
+ 
+Falando de perspectivas para 2026, e nós teremos mais tempo para falar sobre isso no nosso Q&A, eu 
+gostaria de  fazer um comentário adicional que é superimportante  e que eu já vinha dizendo pa ra 
+vocês que a gente esperava fazer algumas re classificações entre linhas no nosso modelo gerencial,  
+no MD&A como divulgamos para vocês. 
+ 
+E nós fizemos  uma revisão para garantir que a forma como divulgamos é exatamente o espelho 
+daquilo que a gente usa como gestão dentro do banco. E com isso tinham  alguns ajustes defasados 
+que queríamos fazer e esperamos fechar o ano para fazer esses ajustes. Não tem certo ou errado, mas 
+é a melhor representatividade daquilo que fazemos e como gerimos dentro da organização. 
+ 
+Vocês vão ver que no final o bottom line é o mesmo com R$ 46,8 bilhões de resultado recorrente 
+gerencial em 2025, desta forma, não há variações no total mas as  variações estão entre as linhas . E, 
+obviamente, a equipe de Relações com Investidores está à disposição de vocês para poder explicar e 
+entrar em mais detalhes. Mas eu vou tentar, simplificadamente, dar uma esclarecida.  O que 
+chamamos aqui de principais reclassificações, explicam 90% dos montantes que foram ajustados. 
+ 
+Então, só para dar um exemplo para vocês: despesas com bandeira de cartões emissor e adquirente, 
+historicamente nós tínhamos uma parte que ficava n as despesas não decorrentes de juros , e um 
+pedaço que era um  redutor de produto bancário. Agora, estamos levando o que é despesa com 
+cartões, emissor e adquirência da DNDJ para a linha de serviços. Com isso, vocês conseguem observar 
+
+=== PÁGINA 13 ===
+ 
+13 
+ 
+que ele impacta positivamente as despesas e ele ajuda a explicar um pedaço do efeito negativo 
+na receita de serviços. Então esse é um exemplo.  
+ 
+Um outro exemplo é a margem de antecipação de recebíveis . Como já mencionei em outros calls de 
+resultados, parte do resultado da Rede  estava na receita de serviços e parte estava na margem com 
+clientes. Na  margem com clientes  tinham dois  resultados, o RAV  que são as antecipações que 
+fazemos para os lojistas e o custo de funding do Flex. Os dois componentes estavam na margem com 
+clientes.  
+ 
+Desta forma, estamos reclassificando tudo que é referente a  Rede para linha de serviços e  seguro, o 
+que ajuda a explicar também parte do efeito que vocês estão vendo aqui . Ou seja,  um aumento na 
+margem com clientes, porque o custo do funding do Flex estava classificado nessa linha e ele passa a 
+ser considerado na receita de serviços e seguros como um redutor de receita.  
+ 
+Temos um terceiro  exemplo com relação ao  desconto da composição de d ívidas em atraso , que  
+estava na margem financeira com clientes e que entendemos que o mais lógico é levá-lo para o custo 
+do crédito, porque não deixa de ser um desconto , e temos a abertura no  custo do crédito  de 
+descontos concedidos. Então isso ajuda a explicar uma parte do positivo que vemos na margem com 
+clientes de R$2,8 bilhões, que vira um negativo no custo de crédito de R$1,5 bilhão, e com a 
+reclassificação, o custo do crédito sairia  de R$36,6 bilhões para R$38,1 bilhões. O mais importante é 
+que daqui para frente vamos falar desses resultados reclassificados.  
+ 
+E o outro ajuste é que a gente assume o controle  da Avenue . Então ela passa a integrar as nossas 
+linhas da forma como vocês estão vendo  nesta coluna. Então tem um impacto positivo na margem 
+com clientes. No custo do crédito, não há qualquer impacto, mas ela impacta as outras linhas no P&L, 
+algo que não tinha anteriormente, pois ela entrava por equivalência patrimonial até 2025 e passamos 
+a consolidar a partir de 2026. 
+ 
+A mensagem central para vocês aqui é que toda a visão de Guidance, olhando para frente, já 
+considera essas reclassificações que, de novo, é a melhor forma de demonstrar para vocês os nossos 
+números, os nossos resultados e como fazemos a gestão do banco. E faremos sempre a comparação 
+com ano de 2025 ajustado pelas reclassificações que comentei. 
+ 
+Falando do cenário macroeconômico, esse aqui no slide é o que  utilizamos. Nós sabemos que é um 
+cenário bem dinâmico, mas é o que a gente usou p ara fazer as nossas projeções  e análises do 
+guidance para 2026.  
+ 
+Com isso, temos uma estimativa de PIB que cresce 1,9% em 2026, uma Selic no final de 2026 em 12,75%, 
+com expectativa de corte agora em março, expectativa de  inflação IPCA convergindo para 4%, uma 
+taxa de desemprego ainda em um patamar baixo, mas com um leve aumento de 5,4 % para 5,7% e o 
+dólar de R$5,47 para R$5,50. 
+ 
+
+=== PÁGINA 14 ===
+ 
+14 
+ 
+Novamente, essas são premissas utilizadas no nosso processo orçamentário e revisão do 
+guidance para 2026.  
+ 
+E com isso eu termino no último slide falando pa ra vocês sobre como ficou o guidance  para 2026. 
+Primeiramente, a carteira de crédito total, com uma expectativa de  crescimento entre 5,5% e 9,5%. 
+Nós achamos importante destacar para vocês o crescimento no Brasil, entre 6,5 % e 10,5%, dado que 
+a América Latina acaba puxando para baixo o crescimento consolidado. 
+ 
+As demais linhas são todas na visão consolidada. Temos uma  margem financeira com clientes com 
+expectativa de crescer entre 5%  e 9% e uma margem com mercado com expectativa entre R$2,5 e 
+R$5,5 bilhões. A nossa expectativa para o ano é de custo  do crédito entre R$38,5 e R$43,5 bilhões. O 
+crescimento da linha de receita de serviços de seguros entre 5% e 9%. 
+ 
+Olhando para as  despesas não decorrentes de juros , aqui vale lembrar  do crescimento de apenas 
+0,5% que vimos no 4º trimestre de 2025  em relação ao trimestre anterior, e vocês podem  ver aqui 
+também uma convergência importante já nesse ano de 2026, onde esperamos um crescimento entre 
+1,5% e 5,5% , e  no ponto médio ficando abaixo da inflação projetada. Lembrando que a inflação 
+bancária é mais alta do que o IPCA. 
+ 
+Desta forma,  isso já mostra nossa capacidade de colher benefícios de tudo aquilo que foi feito ao 
+longo dos últimos anos . E esperamos uma alíquota efetiva entre 29,5 % e 32,5%. Então, isso é o que 
+enxergamos para 2026. Naturalmente, ao longo do ano, com mais informações de mercado, 
+capacidade de entregar nas várias linhas, a gente vai atualizando e ajustando se for necessário.  Mas 
+essa é a melhor informação disponível nesse momento.  
+ 
+Bom, pessoal, com isso eu termino. Foi um deck um pouco mais longo, porque falamos da história, do 
+ano, dos resultados do trimestre e terminamos com uma visão mais clara de guidance para 2026. Para 
+mim o fechamento do ano é o fechamento de um resultado muito sólido, de muita qualidade. Mais do 
+que o resultado, é importante olhar a qualidade do balanço,  e se vocês olharem, em todas as linhas , 
+estamos com provisões extremamente adequadas, com uma alocação de capital muito  disciplinada 
+na gestão do banco, com criação de valor importante no período, com uma rentabilidade de 27,3% no 
+Brasil. Eu acho que isso traduz muito todo esse esforço. Também com uma agenda de eficiência 
+avançando a passos largos, eu diria, com tudo o que eu falei para vocês agora no final, com o próprio 
+guidance, e com boas perspectivas olhando para frente. 
+ 
+É claro que es te é um ano que se espera um pouco mais de volatilidade, mas eu acho que a nossa 
+cultura de gestão de risco , um portfólio extremamente saudável operando nos menores patamares 
+de custo de crédito e um balanço altamente provisionado , permitem que a gente aproveite as 
+oportunidades que vierem ao longo do ano, sejam oportunidades para crescer de forma mais 
+acelerada, sejam oportunidades para gerir de forma mais defensiva o portfólio, se necessário for. 
+ 
+
+=== PÁGINA 15 ===
+ 
+15 
+ 
+Então, eu acho que a gente entrega um ano incrível. Acho que todos aqui estão muito 
+orgulhosos do trabalho que foi feito, mas extremamente conscientes dos desafios. Resultado s 
+passados não necessariamente garante m o resultado futuro. Portanto, muita humildade, muita 
+disciplina, muito foco, mas acima de tudo, muita paixão e energia pelo que a gente faz aqui no banco. 
+Então, é assim que eu encerro. 
+ 
+Vou me juntar agora ao Gustavo aqui no estúdio ao lado, para conduzirmos o nosso tradicional Q&A. 
+Agradeço mais uma vez , não só o tempo de vocês, mas toda a confiança depositada no banco, seja 
+como cliente ou investidor e como colaborador ao longo desses anos todos. Muito obrigado! 
+ 
+Q&A 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores)  
+ 
+Olá, estamos de volta agora direto do nosso estúdio com Milton e Gabriel para a sessão de perguntas 
+e respostas. Antes de começar, gostaria de lembrá -los que a sessão é bilíngue, ou seja, 
+responderemos as perguntas no idioma em que elas forem feitas. Para quem precisar de algum tipo 
+de apoio na tradução, nossa plataforma conta com as opções de áudio em português, inglês ou no 
+áudio original. 
+ 
+Além disso, vocês podem mandar as perguntas pelo WhatsApp. Com isso, vamos para a primeira 
+pergunta que vem do Thiago Batista do UBS. Thiago, é com você. 
+ 
+Thiago Batista (UBS) 
+ 
+Tudo bom, Milton, Gustavo e Gabriel? Primeiro, parabéns pelo resultado. Mais um resultado bem 
+forte que o Itaú entrega. Eu vou juntar na minha pergunta dois tópicos, tá? Primeiro, a rentabilidade 
+do banco e segundo o capital. 
+ 
+Eu lembro que alguns anos atrás, a gente não podia imaginar que o ROE do Itaú fosse atingir esse 
+nível de 24%ou 25%. A dúvida que a gente tem agora é se esse nível é recorrente, dá para imaginar 
+que esse ROE vai continuar nesse patamar nos próximos anos? E eu faço o link aqui com alavancagem 
+do banco. Lembro que alguns anos atrás, talvez 10 anos atrás, quando vocês implementaram a 
+política de capital, o 
+target era 13,5% de Tier I, que não é muito diferente do que é hoje, 12% de core 
+capital, mas desde lá a gente viu algumas diferenças importantes. 
+ 
+O 
+overhedge acabou, vocês começaram a fazer hedge do capital, do investimento lá fora, então 
+principalmente, sua volatilidade de capital reduziu bastante. Então minha dúvida é: dá para manter 
+esse ROE de 24%, 25%? E se a gente pode imaginar alguma redução ou aumento de alavancagem over 
+time para manter esse ROE de 24%, 25%?  
+ 
+Milton Maluhy Filho (CEO) 
+
+=== PÁGINA 16 ===
+ 
+16 
+ 
+Tá bom, Thiago. Bom, prazer em revê-lo aqui. 
+ 
+Obrigado pela pergunta, obrigado pelas palavras iniciais. Estamos bastante satisfeitos com as 
+entregas e otimistas com o que vem pela frente. O que eu queria te dizer é o seguinte: primeiro, sobre 
+a rentabilidade, a gente não dá guidance de ROE no longo prazo, mas o guidance desse ano tem 
+implícito uma rentabilidade em patamares muito próximos ao que a gente observou em 2025. 
+ 
+Se vocês olharem no ponto médio do 
+guidance, a gente deve crescer próximo ao que foi o 
+crescimento de 2025 contra 2024. E entregando um bottom line bastante sólido e com rentabilidade 
+bem forte também. Então, eu não antevejo hoje nenhuma razão para que a gente não tenha uma 
+visão do ROE nesses patamares que estão implícitos no guidance. 
+ 
+Claro que o ano e os eventos são dinâmicos, mas para a gente o mais importante é sempre o 
+spread 
+over custo de capital. E a gente deve entrar num ciclo de redução de taxa de juros. Vamos ver como é 
+que o prêmio de risco para o COE no Brasil se comporta ao longo do ano, mas na medida que a gente 
+tenha uma redução dos juros no tempo, pode ser que o 
+spread over se mantenha, não 
+necessariamente o nível de ROE, mas ainda acho que tem um caminho longo pela frente a ser 
+percorrido. 
+ 
+Sobre a questão da alavancagem do banco, eu acho que o ponto é ótimo e, de fato, você tem toda a 
+razão. O  overhedge trazia uma volatilidade pro índice de capital, mas a gente ainda tem alguma 
+volatilidade com as carteiras em moeda estrangeira, acima de tudo, por isso que a gente 
+implementou inclusive a política de hedge do índice, que tem funcionado super bem, tem um custo 
+de oportunidade, inevitavelmente, mas ela traz também uma previsibilidade importante, seja para a 
+gestão prospectiva do banco, seja para a própria distribuição de dividendos. 
+ 
+O que acontece é que quando a gente definiu o apetite em 11,5% (era 12% o apetite), a gente reduziu 
+para 11,5%, isso foi aprovado no Conselho, mas para fins de distribuição de dividendos, a gente 
+trabalha com um 
+buffer de 50 basis points . Esse buffer é o que dá para a gente tranquilidade e 
+segurança para continuar crescendo com força, aproveitar as oportunidades que apareçam, para 
+que a gente não corra o risco de invadir o apetite e ter que fazer um plano de contingência de 
+recomposição d o índice de capital  e perder oportunidades que venham pela frente. Então, ter o 
+balanço forte, bem capitalizado, a gente acha que é uma vantagem comparativa, até porque cenários 
+podem mudar muito rapidamente, a gente viu isso na época da pandemia, então ter uma base de 
+capital sólida é importante. Eu acho que a nossa maior restrição ativa para fazer uma revisão de 
+alavancagem, a gente discute com bastante frequência, são as agências de rating. O que a gente não 
+quer é trabalhar mais alavancado e correr o risco de perder o rating. O que a gente acha importante, 
+ainda que hoje a gente tenha um volume de captação externa muito menor do que a gente já teve no 
+passado, ter um rating internacional relevante é o que traz para a gente oportunidades de custo de 
+captação para que a gente seja sempre muito competitivo. 
+
+=== PÁGINA 17 ===
+ 
+17 
+ 
+Essa é a restrição ativa. Estamos sempre debatendo o tema, olhando para os vários cenários de 
+choque que fazemos no balanço e esse é um ano que pode ter mais volatilidade. Em função do 
+cenário eleitoral, as incertezas que vêm aí pela frente. 
+ 
+Então, não deverá ser esse ano que a gente vai fazer essa discussão de revisão de alavancagem, mas 
+é um tema presente nos nossos debates, sem dúvida nenhuma.  Fazemos conversas com as agências 
+para entender exatamente como é que isso pode impactar os nosso s ratings. Mas é um tema 
+constante da nossa agenda, tá? Não acho que esse debate vai avançar em 2026. 
+ 
+Mas enfim, dependendo das perspectivas, podemos eventualmente fazer uma revisão do nível de 
+alavancagem, sem dúvida nenhuma. Essa é uma discussão que faremos com o Conselho no momento 
+apropriado.  
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores)  
+ 
+Obrigado, Thiago. Agora nós vamos para a segunda pergunta do Bernardo Guttmann, da XP. 
+Bernardo, por favor.  
+ 
+Bernardo Guttmann (XP Investimentos) 
+ 
+Olá, pessoal, bom dia. Bom dia, Gustavo, Milton, Gabriel. Obrigado pelo espaço aqui para perguntar e 
+parabéns pelos resultados. Impressiona o nível de rentabilidade que o banco vem entregando, um 
+ROE orbitando 27% no Brasil. 
+ 
+Eu queria explorar um pouco mais essas alavancas para frente, tentando dar um zoom nessa 
+alavanca de eficiência. Olhando para o 
+guidance de despesas não ligadas a juros, o crescimento 
+implícito parece baixo considerando que em 2026 ainda deve ter itens temporários negativos com 
+ajustes na estrutura. A leitura correta então é que 2026 já captura uma mudança relevante na base 
+de custos, perm itindo que o banco entre em 2027 com uma estrutura ainda mais limpa e eficiente, 
+criando um driver importante de alavancagem operacional daqui para frente? Obrigado. 
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Bom, obrigado você, Bernardo, é um prazer revê -lo aqui, obrigado aí pelas palavras iniciais. A 
+resposta é sim e sim. 
+ 
+Então, sim, estamos capturando e colhendo frutos de todo o trabalho que foi feito ao longo dos anos 
+anteriores, muito investimento em tecnologia, muito foco em aumento de produtividade, em 
+digitalização das plataformas e do banco, das experiências dos noss os clientes, uma revisão 
+importante nos vários modelos de negócio, modelo de servir, uma forma de atender o cliente de 
+forma cada vez mais digital. Aquele slide que eu mostrei para vocês agora há pouco, que separava o 
+que são os segmentos referência em índice de eficiência e quais são os segmentos que a gente chama 
+
+=== PÁGINA 18 ===
+ 
+18 
+ 
+escaláveis, é dali que vem grande parte das eficiências que a gente deve capturar nos anos que 
+vêm pela frente. A gente terminava com uma projeção de 94, no final de 2026. Isso já traz um certo 
+assumption aqui do guidance para o ano, mas olhando para frente, a gente não tem dúvida que é 
+para lá que a gente vai. Então, eficiência é o nome do jogo, escala operacional, mas não é escala 
+operacional na força bruta, não é simplesmente fazer um ajuste de estrutura ou uma redução sem 
+nenhum tipo de estratégia por trás. 
+ 
+É uma revisão profunda com tudo aquilo que a gente vem investindo ao longo dos anos. Agora, mais 
+importante do que isso é que toda essa redução e esse ajuste é rodando abaixo do IPCA. Eu sempre 
+falo sobre inflação bancária porque temos aumento de folha rea l, e tem outros custos, ou seja, a 
+inflação bancária é maior do que o IPCA, mas todo esse crescimento que você vê projetado, de 3,5% 
+no ponto médio do 
+guidance para 2026, tem também volumes importantes de investimento. Não 
+deixaremos de investir no longo p razo, não deixaremos de investir nos nossos negócios, não 
+deixaremos de investir nas nossas plataformas. 
+ 
+É claro, priorizamos o que é mais relevante, sempre com um olhar de longo prazo, sempre com foco 
+em criação de valor. Então, eu acho que essa capacidade que a gente encontrou de gerar top-line, 
+capacidade de absorver os investimentos, fazer a transformação profunda que foi feita na 
+organização nos últimos anos e agora um período de entrega consistente permite que a gente abra 
+ainda mais espaço para investir e expandir onde tem que ser expandido . Fizemos investimentos em 
+vários negócios, investimentos expansionistas e a gente vai continuar nessa toada com uma visão de 
+longo prazo. Sem jamais hipotecar o futuro. A palavra da ordem é crescer de forma sustentável, 
+buscando mais produtividade, mais eficiência, mais escala operacional. Gabriel, que está aqui ao lado, 
+tem liderado essa frente aqui dentro do banco. Essa não é uma frente da área de finanças, ele 
+naturalmente é o líder, mas é uma frente multidisciplinar, todos os negócios absolutamente 
+envolvidos. 
+ 
+Cada um com seus desafios, alguns num patamar já muito eficiente, mas sempre tem oportunidade. 
+Eu estou muito otimista de que a gente entrou numa jornada agora muito profunda de ajuste e de 
+escalabilidade.  
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores)  
+ 
+Obrigado, Bernardo. E agora a gente vai para a próxima pergunta do Renato Meloni, da Autonomous. 
+Renato, pode seguir com a sua pergunta.  
+ 
+Renato Meloni (Autonomous) 
+ 
+Bom dia, pessoal. Parabéns pelos resultados, bom revê -los e obrigado pelo espaço. Eu queria 
+expandir um pouco nas duas perguntas anteriores. Acho que é natural, se a gente entrar no momento 
+de redução de custo de capital no Brasil, que o ROE acomode e caia um pouco. Mas com o você falou, 
+o importante é a geração de valor. Então queria entender mais a longo prazo, quais alavancas que 
+
+=== PÁGINA 19 ===
+ 
+19 
+ 
+você vê para expansão dessa geração de valor, ou se a gente está no nível razoável agora. Você 
+fala bastante de eficiência, mas eu lembro também de um comentário seu em alguns calls passados 
+de que na medida que vocês forem implementando essa eficiência naturalmente parte disso é 
+repassado para os clientes também. 
+ 
+Então talvez outras vertentes aqui que possam gerar mais geração de valor. E se vocês me 
+permitirem, só um esclarecimento rápido do 
+guidance. O crescimento da margem financeira 
+comparado com o crescimento do portfólio, implica em redução na NIM. Mas imagino que aqui 
+também tem um efeito da antecipação dos dividendos.  Poderia comentar rapidamente a evolução 
+da NIM, sensibilidade a juros, e como que isso vai decorrer ao longo do ano. Obrigado.  
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Obrigado você, Renato. Ótimos pontos. Obrigado pela presença aqui no nosso call. Primeiro, eu acho 
+que as alavancas passam por todos os negócios, tá? É a nossa capacidade de crescer carteira com 
+qualidade, a gestão de portfólio que tem sido feita já há muitos anos no banco, é a disciplina de 
+alocação de capital. 
+ 
+Esse é o nome do jogo. Crescer gerando operações abaixo do custo de capital sempre vai ser 
+dilutive, 
+vai destruir valor no longo prazo. Então essa é a disciplina que faz com que a gente gere a 
+rentabilidade necessária through the cycle, sempre com essa visão de longo prazo. 
+ 
+Toda a parte de eficiência e custos tem um papel importante, mas como você bem sabe, no fundo é o 
+binômio custo e receita. Então a gente vem aprofundando o relacionamento com os nossos clientes, 
+a gente vem crescendo de forma muito consistente as nossas carteiras. A gente vem aprofundando 
+a principalidade, aliás, a gente bateu recorde no índice de principalidade do banco e de engajamento, 
+os maiores patamares da história. 
+ 
+A gente vem crescendo essas carteiras 2 dígitos. Então, olhando para frente, a gente vê uma série de 
+alavancas, evidente que custo é uma delas, mas sempre nessa lógica de eficiência, olhando para a 
+nossa capacidade de geração de
+ top-line, de crescimento de fato. E atuando muito fortemente em 
+custo e produtividade, para que a gente tenha ofertas cada vez mais lean, mais digitais, experiências 
+melhores para os nossos clientes e simplificando a proposta de valor e simplificando o próprio banco, 
+naturalmente, com toda essa transformação. 
+ 
+Um pedaço vem dessa modernização tecnológica, e a gente já fala em descomissionar os sistemas 
+legados em poucos anos. Isso vai fazer também uma diferença importante. Na medida em que 
+passamos a operar na base de muito mais custo variável, de uma forma muit o mais simplificada 
+internamente e velocidade de entrega em tecnologia, tivemos crescimento de mais de 2.000% no 
+volume de atualizações tecnológicas de 2018 a 2025, hoje a gente consegue desenvolver um produto 
+e trazer uma solução para o mercado numa velocidade 5 vezes maior. Então essa capacidade de 
+
+=== PÁGINA 20 ===
+ 
+20 
+ 
+entregar valor mudou num patamar muito, muito forte. E a gente vai continuar acompanhando 
+as oportunidades. 
+ 
+O cost of equity  a gente discute todo mês. A gente olha a metodologia interna metodologias de 
+mercado, a gente olha o custo de capital que os analistas buy-side e sell-side consideram. Então a 
+gente tem a nossa reunião de Copom mensal com o Conselho, onde a gente lá no Comitê de Gestão 
+de Risco e de Capital define qual é o COE do banco.  Ele afeta a nossa capacidade de  pricing, 
+naturalmente, e como você bem falou, eu não acredito num mundo estático, que você faz o trabalho 
+de eficiência, ela reduz custo, mas a receita é sempre a mesma. 
+ 
+No fundo é a escala para que você muitas vezes gere mais valor, mais carteira e consiga ter os 
+retornos através do cross-sell e penetração na relação com o cliente, mas uma parte da eficiência tem 
+que ir para o preço. É o que vai transformar a gente numa plataforma ainda mais competitiva. A gente 
+é muito competitivo do ponto de vista de custo de funding e a gente passa a ser ainda mais 
+competitivo nos custos unitários. 
+ 
+O nosso custo unitário reduziu 45% nesse período e a gente vê espaço para continuar reduzindo. 
+Volumetria crescente, custo unitário caindo, eu acho que esse é o nome do jogo. Sobre a margem, eu 
+queria fazer um reforço aqui desse teu ponto. 
+ 
+Primeiro, se considerarmos a diferença no montante de dividendo pago em 2025 contra 2024, e a 
+antecipação que foi feita em dezembro do ano passado, isso gera para a gente aproximadamente 
+R$ 1,5 bilhão de margem a menos ao longo de 2026. Então, se a pergunt a vier:  Milton, estou vendo a 
+carteira crescer no ponto médio a 7,5% e a margem de clientes está crescendo 7%, qual é a razão, da 
+margem estar crescendo um pouco abaixo? Se a gente fizer esse ajuste, a margem estaria crescendo 
+8,1% no ano. Portanto, a margem comparável, normalizada, é o realque a gente vai observar ao longo 
+do ano. 
+ 
+Mas a margem comparável, para fins de entender a dinâmica de geração de valor do banco, é 
+comparar margem crescendo 8,1% com uma carteira que vai crescer 7,5%. Isso seria em bases 
+comparáveis. Então, sem dúvida nenhuma, esse efeito ajuda a explicar um potencial ajuste, não é tão 
+relevante, mas tem sim ajuste na NIM do banco, seja no consolidado e naturalmente na NIM líquida 
+do custo do crédito. 
+ 
+Então você capturou um efeito importante, é isso sim. E são 110 
+basis points quando a gente olha o 
+efeito na margem financeira com cliente no ano, não é pouco. O que mostra que o core, as carteiras, 
+o crescimento de fato orgânico está vindo num ritmo super adequado, com mix adequado, com risco 
+adequado e gerando valor para o acionista. Perfeito, obrigado. 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores) 
+ 
+
+=== PÁGINA 21 ===
+ 
+21 
+ 
+Obrigado pelas perguntas, Renato.  E agora a gente vai para a próxima pergunta do Yuri 
+Fernandes do J.P. Morgan. Yuri, por favor. 
+ 
+Yuri Fernandes (J.P. Morgan) 
+ 
+Obrigado, Gustavo. Bom dia, Milton, Gabriel. Parabéns também pelos resultados, melhora de NPS, 
+qualidade de crédito, algumas linhas acelerando. Acho que são entregas de curto prazo que são boas 
+para o médio e longo prazo também. 
+ 
+Eu queria focar um pouquinho em SME e entender como que essas entregas que a gente tem visto 
+em pequenas e médias empresas deveriam mudar a rentabilidade do banco. Quando a gente olha o 
+volume, eu achei o trimestre muito forte. A Rede (adquirência) crescen do mais de 20% que nós 
+estimamos que seja mais de 2 vezes o crescimento da indústria. A gente também tem visto carteira 
+crescendo 9%, olhando o dado do Bacen, a indústria tem crescido coisa de 3%. 
+ 
+Então também o Itaú ganhando
+ share em carteira. Óbvio que não é comparável, não tem tudo de 
+carteira expandida, mas eu acho que mostra que tanto em pagamentos quanto em volume de 
+crédito, o Itaú tem ganhado share. E o EMPs ainda está sendo implementado. 
+ 
+Então minha pergunta é: como que isso impacta o ROE de vocês? Em edições antigas do Investor Day 
+de vocês, vocês costumavam falar que SMEs tinham ROEs acima de 30%, 35%. Era um segmento 
+muito rentável. A gente deveria, com SMEs ganhando mais e mais tração, ver o ROE de varejo subir 
+mais ou não? Ou, de novo tem uma questão de preço, tem uma questão de competição. A gente está 
+indo muito bem, mas calma. Porque parece que isso aqui poderia ser uma alavanca de rentabilidade 
+para vocês. Obrigado. 
+ 
+Milton Maluhy (CEO) 
+ 
+Obrigado a você, Yuri, bom vê -lo aqui novamente. Obrigado pelo seu tempo e obrigado aí pelas 
+palavras iniciais. Olha, o segmento de SMEs para a gente, e lembrando que na forma como a gente 
+divulga, a gente agrupa micro, pequenas e médias empresas. Então a gente mistura o que aqui dentro 
+a gente chama de BUPJ, unidade de negócio da pessoa jurídica, varejo, e o middle market que fica sob 
+gestão do atacado (Itaú BBA). É a soma dos dois negócios que estão emblocados aqui dentro. No 
+disclosure do modelo de negóc io, a BUPJ está considerada dentro da estrutura do varejo e o middle 
+market na estrutura do atacado, mas no quadro de carteira a gente faz esse emblocamento. 
+ 
+Nós temos tido um resultado extraordinário no negócio de PJ, seja ele 
+middle market, seja ele pessoa 
+jurídica varejo, e esse é um trabalho que vem sendo feito há muitos anos, toda uma reorganização, 
+toda uma revisão profunda da estratégia e, mais do que tudo, mais uma vez, a gestão de portfólio. 
+Acho que a gente soube aproveitar as oport unidades, soube crescer nos clientes sempre com essa 
+visão de longo prazo e, mais do que tudo, com disciplina de alocação de capital. Vemos um mercado 
+ainda muito errático no 
+pricing nesses segmentos. 
+
+=== PÁGINA 22 ===
+ 
+22 
+ 
+A gente sempre tenta fazer aqui um “de/para” de quanto é que teria sido o nosso retorno se 
+estivéssemos operando em algumas operações que são bastante relevantes em alguns desses 
+segmentos, e são retornos, sejam operações com funding ou sem funding, abaixo do nosso custo de 
+capital, considerando o nosso modelo que é supereficiente. Então, aqui é disciplina, disciplina de 
+gestão, disciplina de principalidade, ter essa visão de fluxo, por isso a gente traz a Rede para dentro, 
+então essa integração da Rede com o banco foi fundamental para que a gente pudesse de fato ter 
+uma visão integrada de fluxo. Se a gente olhar o volume de adquirência no mercado, ele é apenas 
+uma fração do volume de fluxo de pagamentos e recebimentos no sistema como um todo. 
+ 
+Então, o share of flow para a gente é mais importante do que o market share de adquirência e como 
+é que a gente entrega uma proposta de valor integrada de fluxo para os nossos clientes e 
+principalidade é o nome do jogo. Então, temos conseguido sim crescer, crescer com qualidade. Agora, 
+a gente já opera num nível de rentabilidade muito alta nesse segmento. O que eu quero dizer é que a 
+gente tem expectativa de incremento de bottom line,  é isso que a gente espera para 2026, não 
+necessariamente uma expansão de rentabilidade no segmento, dado o nível de rentabilidade que ele 
+já opera hoje, que está acima dos patamares que você comentou agora há pouco. 
+ 
+Então, isso vale tanto para a BUPJ, quanto para o segmento de middle market. Temos feito revisões 
+estratégicas constantes, fizemos mais um esse ano, tanto na pessoa física como na pessoa jurídica, e 
+a gente tem um plano muito sólido olhando para frente. Eu estou muito otimista com a nossa 
+capacidade de entrega de valor e de execução desses planos e o Emps
+ passa a ter um papel ainda 
+mais protagonista dentro da estratégia da BUPJ. 
+ 
+A gente veio de uma forma muito cuidadosa, testando a nova tecnologia, aprendendo com os 
+clientes, powered by AI , mas os avanços são incríveis. A quantidade de produtos que tem hoje na 
+plataforma traz uma completude de  full bank , mais focado nas necessidades dessas empresas 
+menores –  suas necessidades digitais. Não adianta você levar todos os produtos, você precisa 
+entender qual dor do cliente você precisa resolver e como é que você interage de forma muito mais 
+eficiente. Então, a plataforma Emps passa a te r um papel ainda mais relevante dentro da estratégia, 
+onde a gente consegue com isso atender melhor uma base de clientes que já está dentro do banco –  
+fora os clientes que a gente tem conquistado no mercado, e de uma forma muito mais eficiente, muito 
+mais digital, com uma experiência muito melhor. Então, esse é o trabalho e a plataforma tem um 
+papel muito relevante nisso. 
+ 
+Então, eu não vejo necessariamente uma expansão do retorno no varejo. Eu acho que a gente veio 
+fazendo um 
+catch-up importante desde o terceiro trimestre de 2022, em que eu disse para vocês que 
+eu estava bem desconfortável com o nível de rentabilidade. A gente vinha de um ciclo de despesas 
+de PDD mais forte, mas olhando para frente, fizemos um catch-up importante – mais de 10 pontos 
+percentuais na rentabilidade do varejo –  e de forma sustentável. Então, não existe um negócio 
+performando bem e algum negócio pe rformando abaixo do custo de capital. Todos os negócios 
+estão criando valor, operando acima do custo de capital e com boas perspectivas olhando para 
+frente. 
+
+=== PÁGINA 23 ===
+ 
+23 
+ 
+Então, eu acho que no equilíbrio do portfólio eu não vejo necessariamente uma expansão de 
+ROE por conta disso, mas eu vejo, sim, um aumento consistente da franquia dos resultados desses 
+segmentos. 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores) 
+ 
+ Obrigado, Yuri. Agora vamos para o inglês porque temos Tito Labarta, do Goldman Sachs. Tito, a 
+palavra é sua.  
+ 
+Tito Labarta (Goldman Sachs) 
+ 
+Ótimo! Muito obrigado, Gustavo, Milton e Gabriel. Obrigado pela oportunidade de fazer minha 
+pergunta. Parabéns pelos resultados fortes, vocês são muito consistentes ao longo dos anos. Milton, 
+minha pergunta é sobre o ambiente competitivo. Se você observar os últimos 10 anos, o ambiente 
+competitivo evoluiu bastante no Brasil –  e eu acredito que continua evoluindo. 
+ 
+Nós vimos muitos dos seus pares tendo que adaptar seus modelos de negócios e muitas 
+fintechs que 
+se tornaram bem fortes. Vocês foram capazes de se adaptar muito bem no banco, é só olhar o nível 
+de rentabilidade. Como você comentou, todos os negócios estão operando acima do custo de capital. 
+Então, nesse contexto, o que te preocupa? São os pares se adaptando , e muitos deles se voltando 
+para o segmento alta renda, no qual vocês são muito fortes? São as 
+fintechs? Tem algum segmento 
+que você está mais preocupado do que outro? Você falou que já são líderes no consignado privado. 
+O que te preocupa nesse novo ambiente competitivo? Além disso, o que mais te entusiasma olhando 
+para frente? Onde você vê oportunidades para o futuro para poder continuar a entregar melhores 
+resultados? Obrigado.  
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Obrigado, Tito, excelente vê -lo. Obrigado pelos elogios. Estamos muito orgulhosos. Obrigado por 
+participar da teleconferência. 
+ 
+Eu vou lhe dizer, primeiramente, que temos um grande respeito por toda concorrência. Como vocês 
+sabem, temos um grande portfólio de negócios. Portanto, temos no atacado muitos negócios no qual 
+competimos com os bancos, mas também competimos com as fintechs . Então, dependendo do 
+segmento que você está vendo, a concorrência muda muito. 
+ 
+A nossa capacidade de entender as necessidades do cliente, entender a concorrência, ser humilde, 
+olhar para fora o tempo todo e entender que talvez tenham pessoas que estão fazendo coisas de uma 
+forma melhor e que nós temos que melhorar e temos que dar ess e salto para o futuro –  isso nos 
+permitiu transformar a organização nos últimos anos. 
+ 
+
+=== PÁGINA 24 ===
+ 
+24 
+ 
+Eu não vejo em nenhum segmento hoje com qualquer dificuldade na concorrência, mesmo 
+sabendo que a competição está vindo de todos os lugares no mercado. Novamente, muito respeito, 
+acredito que temos muita concorrência boa no Brasil. Todo mundo está fazendo sua lição de casa, 
+todos estão tentando melhorar o que já estão fazendo, e nós temos que ser melhores e mais rápidos. 
+Acredito que isso é o que estamos fazendo nos últimos anos. Eu vejo algumas alavancas que nos 
+levam para este lugar. Em primeiro lugar, capital humano. 
+ 
+Nós a creditamos que temos boas pessoas na organização, que têm paixão pelo que fazem e uma 
+forte cultura, o que nos coloca em vantagem competitiva. Temos capacidade de alocação de capital, 
+o que também é muito importante, além da disciplina de sempre olhar para  o longo prazo e da 
+habilidade de fazer investimentos em todos os negócios, uma vez que não enxergamos apenas o 
+próximo trimestre, mas os próximos dez anos. Temos realizado grandes investimentos em todos os 
+negócios. A modernização que realizamos em n ossas plataformas, na arquitetura de dados e na 
+forma como nos relacionamos com o cliente, aliado ao lançamento de inteligência artificial nos 
+nossos negócios, não apenas internamente, mas também externamente, faz com que sejamos 
+extremamente competitivos. É assim que nos posicionamos no mercado hoje. 
+ 
+No segmento de pessoas físicas, por exemplo, nós passamos por uma grande revisão de estratégia 
+no ano de 2025. Estamos no modo execução, e fizemos mudanças relevantes em toda a operação do 
+varejo. O segmento de Pequenas e Médias Empresas também passou por mudanças importantes. 
+Olhando para o futuro, nós entendemos que o que nos trouxe aqui não necessariamente nos vai levar 
+para os próximos anos. Por isso, acreditamos que a capacidade de olhar para o futuro e manter a 
+régua elevada vai nos ajudar a alcançar os melhores resultados.  
+ 
+O que me preocupa? Tudo me preocupa. Eu sou paranoico com a concorrência, com o cenário 
+macroeconômico, além do nível de serviço que entregamos para os nossos clientes. E esse é o nosso 
+direcionador. E acredito que temos a o capital humano, o talento, uma excelente cultura e uma 
+grande capacidade de execução. Acredito que essas são as alavancas que podem nos levar adiante.  
+Precisamos estar atentos ao cenário macroeconômico, principalmente pelo tamanho do banco, já 
+que ele influencia a precificação. Precisamos monitorar o risco, e acredito que temos uma forte 
+cultura de gestão de risco. Todos, desde a primeira até a terceira linha de defesa, estão 100% focados 
+na gestão de risco.Temos uma área de risco única, composta por excelentes profissionais, que atuam 
+apoiando os negócios e analisando, de forma produtiva e prospectiva, quais são as alavancas, quais 
+são os riscos e como p odemos tomar decisões no dia a dia baseados nessas análises. Acredito que 
+isso representa um pouco do que estamos fazendo atualmente e no que estamos concentrando 
+nossos esforços na organização. 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores)  
+ 
+Obrigado, Tito. Agora voltamos para o português com Gustavo Schroden. Gustavo, por favor. 
+ 
+ 
+
+=== PÁGINA 25 ===
+ 
+25 
+ 
+Gustavo Schroden (Citi) 
+ 
+Bom dia, pessoal. Obrigado, Gustavo, Milton e Gabriel. Mais uma vez, parabéns pelo resultado sólido 
+e forte. Eu queria fazer um acréscimo na pergunta do Tito, de uma forma mais específica: eu lembro 
+que dois segmentos especificamente, massificado e recentemente o INSS, o Mi lton já havia 
+comentado anteriormente que um custo de servir mais baixo seria ideal para conseguir aceitar um 
+nível de inadimplência mais alto no segmento massificado, e compensar essa taxa de juros mais baixa 
+no INSS, depois das alterações no limite da taxa de juros (
+cap). Nós observamos o índice de eficiência 
+bem baixo no Brasil, de 36%, aproximadamente. Além de todo o esforço que o banco tem feito para 
+ajustar a estrutura. Então, Milton, gostaria de ser mais específico nesses dois segmentos. Como está 
+o cenário? Existe apetite? Há rentabilidade? Queria ouvir um pouco de você. 
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Obrigado, claro! Primeiro, tendemos a simplificar quando falamos de massificado. Por isso, tenho me 
+referido a segmentos mais escaláveis de média e alta renda na apresentação, onde a escala 
+operacional faz uma diferença importante. Então, o foco tem sido e ntregar uma proposta de valor 
+cada vez mais competitiva para os nossos clientes, e, com isso, criar a capacidade de melhorar e 
+avançar nos nossos índices de eficiência. 
+ 
+Nós trabalhamos com uma série de clientes em todos esses segmentos, sejam eles de baixa ou de 
+média renda, e são clientes que são resilientes através do ciclo. Então, ter uma renda menor não 
+significa que o cliente não é resiliente, como podemos ver no apo sentado do INSS, fazendo uma 
+conexão com a sua outra pergunta, ele é um cliente que muitas vezes tem uma renda menor, mas ele 
+é muito resiliente em um ciclo longo. 
+ 
+E isso vale para o portfólio inteiro. Então, eu acho que nossa capacidade de olhar para os dados, para 
+o cliente, entender a capacidade dele de fazer frente às suas obrigações em ciclos mais longos, não 
+depende da renda, em muitos casos. Porém, é inevitável que ao se tornar mais competitivo do ponto 
+de vista de índice de eficiência, a sua capacidade de absorção de perdas aumenta, e isso vale para o 
+portfólio inteiro.  A revisão do apetite é constante. Então toda vez que fazemos uma operação com 
+cliente, nós olhamos o custo, seja o custo marginal ou o custo absoluto no segmento. Quanto mais 
+eficiente você for, maior será a sua capacidade de absorção de perdas. 
+ 
+Quanto mais ineficiente você for, menos espaço você tem para absorver perdas, gerar um resultado 
+e remunerar o capital alocado daquela atividade. Então, a direção que temos seguido é a de 
+escalabilidade operacional, eficiência máxima, 
+full digital, para que que a gente consiga atender 
+melhor esses clientes. 
+ 
+Aqui há o tema de você ter uma oferta full digital para o cliente, mas você precisa ter um full bank para 
+conseguir atender esse cliente da melhor forma possível. E acho hoje nós temos uma completude de 
+prateleira incrível. Nós fizemos toda uma migração de 15 milhões de clientes para o One  Itaú. 
+
+=== PÁGINA 26 ===
+ 
+26 
+ 
+E é muito importante ressaltar que nós não pegamos 15 milhões de clientes e melhoramos a 
+experiência do app dos clientes atuais.  Nós migramos 15 milhões de clientes que não tinham 
+nenhuma experiência e nenhuma relação full bank com Itaú, e migramos para uma nova plataforma. 
+Além disso, nós melhoramos, e muito a plataforma dos clientes que já utilizavam o Super App. 
+ 
+Então, foi o melhor dos dois mundos. Nós melhoramos muito porque trouxemos funcionalidades dos 
+Mono Apps, que eram mais avançadas, para dentro do Super App e melhoramos a experiência dos 
+clientes já existentes e migramos esses 15 milhões de clientes. Esses  clientes estão distribuídos nos 
+diversos segmentos. 
+ 
+Nós temos clientes migrados que são clientes target do Personnalité, do Uniclass, do Itaú Agências e 
+temos conseguido converter, de forma importante, aumentando o nível de engajamento. E esse é um 
+atendimento 
+full digital. Eu me lembro que logo que divulgamos os resultados no ano passado, nós 
+fizemos uma conversa com investidores e me perguntaram sobre o consignado CLT: "Milton, mas 
+você tem estrutura de agência? Você vai ser competitivo?" Nós não fazemos subsídio e nem cu sto 
+cruzado. 
+ 
+Se o meu canal de contratação é digital, então o custo é o do digital e eu sou tão eficiente quanto 
+qualquer outro player na indústria. E é assim que temos conseguido crescer, seja no consignado CLT, 
+em que temos um custo e uma competitividade enorme, com custo de serviço muito baixo, porque 
+ele vem de um canal 100% digital. Portanto, nós não fazemos subsídio cruzado ou cust o cruzado 
+entre segmentos, entre o canal de entrada do cliente. 
+ 
+No INSS, eu entendo que tem duas questões muito importantes. Primeiro, nesse último ciclo nós 
+tivemos os maiores volumes de contratação do mercado. O mercado diminuiu muito, mas ele não 
+diminuiu devido ao cap. 
+ 
+O principal efeito recente no INSS tem a relação com os bloqueios dos benefícios, com todo o trabalho 
+que o Ministério da Previdência e que o presidente do INSS estão fazendo por conta das fraudes e de 
+todos os problemas que foram encontrados. Eles têm criado mecanismos para que esse cliente 
+reconfirme e passe a ganhar o seu benefício novamente. Isso fez com que o volume de benefícios 
+pagos diminuísse de forma relevante, e logo, o consignado também. Mas dados os volumes que 
+foram produzidos no mercado recentemente, nós temos liderado esse volume de contratação muito 
+mais focados no canal interno. 
+ 
+Nós fizemos uma saída importante do canal externo, porque o cap de juros altera o preço e porque as 
+comissões para os correspondentes bancários não fazem sentido. Dessa forma o retorno sobre essas 
+operações é abaixo do custo de capital, e com isso nós temos privilegiado os canais bancários, com 
+75% da nossa contrataçã o feita nesses canais, seja no digital, seja no canal físico. Eu acho que aqui 
+temos dois pontos: a redução dos juros devemos começar a observar na frente, isso vai abrir espaço 
+para novos públicos no INSS, e poderemos voltar a penetrar em públicos que ficaram fora, o que não 
+
+=== PÁGINA 27 ===
+ 
+27 
+ 
+é pouco dinheiro, e o segundo efeito é essa capacidade de reconfirmar os benefícios e voltar a 
+uma certa normalidade. Isso vai fazer com que o volume de demanda também aumente. 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores) 
+ 
+Obrigado, Gustavo. Vamos para nossa próxima pergunta com Mário Pierry do Bank of America. 
+Mário, prazer em revê-lo. 
+ 
+Mario Pierry (Bank of America) 
+ 
+Bom dia, pessoal. Parabéns pelo resultado, não apenas desse trimestre, mas ao longo dos últimos 5 
+anos. Milton, desde que você assumiu como CEO, eu acho que uma das grandes vantagens do banco 
+foi toda a modernização que você já comentou, com a mudança na p lataforma e investimento em 
+tecnologia. 
+ 
+Eu achei interessante o seu slide mostrando que o custo com tecnologia está crescendo 18% nos 
+últimos 12 meses e já representa 20% das suas despesas. E como deveríamos pensar, Milton, de agora 
+em diante? Quanto mais de investimento é necessário? Como você pensa investimentos em 
+tecnologia daqui para frente, em percentual da receita? Os investimentos que você ainda precisa 
+fazer são mais para melhorar processos ou para melhorar a eficiência, ou são investimentos que 
+ajudam o banco a crescer? Como você vê ess e mix dos investimentos? Você pode fazer um double-
+click quando você fala sobre o crescimento da carteira que você espera para 2026? Se você pudesse 
+especificar o que você está esperando de crescimento por segmento. Obrigado. 
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Ótimo. Obrigado a você, Mario. É sempre bom te ver, obrigado pelas suas palavras iniciais. Enfim, a 
+gente fica bastante lisonjeado aqui com as suas palavras. Mas deixa eu te falar, primeiro, o 
+investimento do banco é algo que nós, todos os anos discutimos com profundidade para garantir, 
+um, que a gente está investindo no lugar certo, dois, com retorno adequado e, três, a nossa 
+capacidade de absorção dos investimentos no longo prazo. Porque se eles são accretive e eles geram 
+valor, eles deveriam ser positivos no long run e a nossa capacidade de projetar. 
+ 
+Então, nós também temos 
+backtests. Em que olhamos todos os investimentos que foram feitos em 
+ciclos anteriores e acompanhamos no escritório, investimento a investimento, se está vindo com 
+retorno, se as premissas estão adequadas, o que mudou, por que o resultado está vindo ou melhor ou 
+pior, a gente olha para os dois lados e como a gente vai recalibrando e melhorando a nossa 
+sensibilidade para tomada de decisão. Então, isso é um ponto central. 
+ 
+Em tecnologia, a gente continua fazendo investimentos no mesmo patamar. Então, não há uma 
+redução de investimento em tecnologia, ao contrário, tem sempre um crescimento mecânico, 
+
+=== PÁGINA 28 ===
+ 
+28 
+ 
+natural. A gente fez um ajuste, hoje boa parte do nosso custo está ligado a quadro, aos nossos 
+talentos, ao nosso capital humano. Isso foi mudando ao longo dos anos. 
+ 
+Então, hoje o custo de 
+headcount é maior do que já foi no passado e se você olhar o nosso mix ao 
+longo dos anos, mudou muito. A gente tinha poucos anos atrás, 7% dos nossos colaboradores em 
+tecnologia, hoje temos mais de 20%. Então isso mostra como o mix foi se ajustando ao longo do 
+tempo, investindo mais em plataforma, mais nas comunidades, mais em tecnologia, mais em 
+experiência do cliente e naturalmente o mix foi se ajustando ao longo do tempo. Número 2, a gente 
+tem, e aqui eu acho que vale a pena destac ar um ponto, a nossa capacidade de absorção de 
+investimentos é importante.  
+ 
+Primeiro pela disciplina de ativação. A gente é hiper criterioso quando a gente ativa um investimento 
+no balanço do banco, que vira um intangível, que amortiza no tempo, tem o efeito em capital, mas a 
+gente sempre toma muito cuidado. Então, num funil de ativação, eu posso te dizer que talvez a gente 
+ative hoje metade do que eu poderia, no limite, ativar pelas regras contábeis. E por que isso? Primeiro, 
+porque a gente tem a disciplina de deixar passar uma boa parte em OPEX, porque, o que a gente não 
+quer é hipotecar e essa é uma conta que uma vez que você contrata ela vem no longo prazo. 
+ 
+O número 2, é porque a gente só ativa projetos que têm benefício, efetivamente. Se ele for uma 
+mudança regulatória, risco operacional ou uma mudança grande na plataforma que não traz 
+benefícios claros, a gente não vai ativar pela disciplina de descasar temporalmente os benefícios que 
+aquela plataforma, aquele investimento vai ter com os resultados esperados para que eles andem 
+juntos. 
+ 
+Terceiro ponto, prazo de ativação. Muito importante. A gente não ativa mais do que 5 anos, porque a 
+gente tem dificuldade de enxergar uma vida útil de uma plataforma ou de um sistema nos tempos de 
+hoje com prazo maior do que esse. 
+ 
+Toda vez que você alonga o prazo de ativação, você está empurrando um problema para frente, você 
+está contratando um problema para frente, sabendo que a vida útil da plataforma é menor do que 10 
+anos, por exemplo. Então, você está num novo ciclo de reinves timento daquela plataforma e você 
+não terminou de pagar o investimento da plataforma anterior e você vai empilhando. Esse é um custo 
+contratado que está dado no tempo. 
+ 
+Então, a gente toma um cuidado gigantesco com isso. Investimento não é só em tecnologia, a gente 
+olha investimentos em expansão de negócios, expansão de força de vendas onde tem que crescer, 
+expansão ou criação de novos modelos de negócios ou novos produtos. Então, a gente está o tempo 
+inteiro olhando para isso e o ritmo de investimento continua no mesmo patamar. 
+ 
+A gente olha sim, investimento em relação à receita para ver quanto é que a gente está investindo, a 
+gente vê como é que projeta isso, ativação e amortização ao longo dos anos, como é que isso se 
+comporta com a DNDJ. Então, toda essa gestão é feita de form a bastante cuidadosa. E sobre o teu 
+
+=== PÁGINA 29 ===
+ 
+29 
+ 
+segundo comentário, vai depender muito das oportunidades, é muito difícil antecipadamente 
+dizer se a gente vai investir mais aqui ou ali. 
+ 
+O que eu posso te dizer é que o investimento em manutenção de plataforma e sustentação tem 
+reduzido de forma muito material, por conta de toda a modernização que a gente fez na plataforma. 
+Então, boa parte do investimento hoje é para desenvolver novos feat ures, novos negócios, novos 
+produtos, novas soluções para os nossos clientes. Porque quando você tem um volume de 
+capacidade de investimento “X” e você usa metade para questões regulatórias, questões de riscos ou 
+para sustentação da plataforma, acaba sobrando muito pouco para investir em novos negócios. 
+Então, o que conseguimos fazer ao longo dos anos, é melhorar a qualidade do investimento, 
+aumentando o investimento para novos negócios que vão gerar benefícios no longo prazo e que vão 
+melhorar o NPS e as relações com os nossos clientes. Então, o mix importa muito também: onde 
+estamos investindo. E sobre a carteira, que foi sua pergunta de crescimento para 2026, diria que está 
+muito bem distribuído nos vários segmentos. 
+ 
+O segmento que a gente sempre tem um pouco mais de incerteza é o de grandes empresas, porque 
+depende muito da dinâmica de mercado de capitais. Então precisamos ver como é que o mercado de 
+capitais vai evoluir em 2026. Teve um volume relevante em 2025, fora m R$ 700 bilhões, mas é uma 
+plataforma importante para entregarmos valor para os nossos clientes, dado a nossa participação de 
+mercado hoje. 
+ 
+Então, essa é a peça que sempre fica ali no quebra- cabeça de dúvida, porque pode ser mais, ou 
+menos, a depender de como o mercado de capitais vai absorver a demanda das grandes empresas. 
+Nas outras carteiras, a gente vê um crescimento muito consistente de SME, muito consistente no 
+middle market , muito consistente na pessoa física, muito bem distribuído nas diversas linhas de 
+negócios. Então, eu diria que não tem nenhuma grande concentração, todas de alguma forma estão 
+crescendo em ritmos bastante adequados para 2026, mas sempre naquela lógica de target, longo 
+prazo, visão de portfólio, resiliência, e acima de tudo, no preço certo, e gerando valor para o banco e 
+para o acionista. 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores)  
+ 
+Obrigado, Mário. Vamos voltar para o inglês. Agora nós temos Jorge Kuri, do Morgan Stanley. 
+ 
+Jorge Kuri (Morgan Stanley) 
+ 
+Olá a todos! Obrigado pela oportunidade e parabéns pelos excelentes números, 27% de ROE é 
+impressionante. Eu gostaria de perguntar sobre o crescimento da carteira de crédito de 2026 no 
+guidance, que é um pouco baixo na minha opinião, porque no ano passado, quando você informou o 
+guidance para 2025, o cenário macro era mais desafiador. 
+ 
+
+=== PÁGINA 30 ===
+ 
+30 
+ 
+Vocês esperavam que a taxa de juros subisse de 12,25% para 15,75%, o que obviamente é 
+negativo para a demanda e a oferta de crédito. O desemprego deveria aumentar para 6%, eu acho 
+que isso estava no guidance. E, você projetou um crescimento do crédito entre 4,5% e 8,5% e, no final, 
+o resultado ficou bem próximo ao ponto médio dessa faixa. Então, avançando para hoje, a 
+perspectiva macroeconômica que você está prevendo para este ano parece ser mais construtiva.  
+Vocês esperam que as taxas de juros caiam de 15, 0% para 12,75%, o que deveria melhorar a 
+acessibilidade e impulsionar a demanda por crédito. Espera-se que o desemprego permaneça abaixo 
+do nível previsto para o ano passado. E a economia ainda está crescendo, bem, em 2%. Então, apesar 
+desse contexto macro melhor, a sua previsão de crescimento de crédito é só marginalmente superior 
+ao crescimento do ano passado, entre 5,5% e 9,5%, 1 ponto percentual acima do limite inferior e 
+superior do intervalo. 
+ 
+Milton, você falou sobre uma melhoria significativa sobre como vocês trabalham com os clientes. 
+Vocês desenvolveram em 2025 a plataforma para SMEs, o Itaú EMPs. O que você espera que permitirá 
+que você cresça mais rápido, especialmente dado que o cliente SME é grande parte da sua carteira de 
+empréstimos?  O consignado também é um produto muito importante, que estava notavelmente 
+ruim em 2025, crescendo somente 1% por todas as razões que você já mencionou. Agora, com as taxas 
+caindo, esse é um produto que é muito sensível a taxas. 
+ 
+Vocês estão posicionados agressivamente em alguns negócios, então parece que o resultado deveria 
+ser significativamente mais alto. Então, de novo, por que temos um guidance relativamente 
+conservador? Será que a concorrência está intensificando, e que é mais difícil você defender a fatia 
+de mercado, você está perdendo market share? Você está sendo cuidadoso sobre as eleições de 
+outubro? Quais são as coisas que estão por trás d isso? Qualquer visão sobre isso vai ajudar muito. 
+Obrigado pela paciência com a minha pergunta longa. 
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Obrigado, Jorge. Excelente vê-lo! Eu entendo perfeitamente o seu contexto da pergunta. Vou tentar 
+esclarecer para dar uma melhor resposta, não tão longa. Eu vou tentar ser mais direto. 
+ 
+Eu espero que você esteja correto. Eu espero que a gente descubra que tem uma oportunidade para 
+ter melhores resultados, mais crescimento em 2026. Quando nós fazemos o nosso planejamento, nós 
+temos que ver o futuro e ver quais são as incertezas. 
+ 
+A área macro tem essa visão, mas nós sabemos que isso aqui é um ano de eleição no Brasil. A eleição 
+traz naturalmente volatilidade. Agora, quando o macro tenta nos dar os números, entendemos que 
+tudo fica estável.  
+ 
+Você não vê um input de volatilidade nessa perspectiva macro. No entanto, é isso que enfrentaremos 
+no Brasil em 2026. Como o investidor reagirá no processo de eleições? Qual será o plano econômico 
+do candidato? O que acontecerá com o Brasil a longo prazo? O que acontecerá com o câmbio? E se 
+
+=== PÁGINA 31 ===
+ 
+31 
+ 
+isso traz mais volatilidade se a inflação aumenta por qualquer razão devido a efeitos como o 
+câmbio também ao custo de alimentos, por exemplo, Será que o Banco Central conseguirá cortar as 
+taxas de juros e chegar a 12,75% no fim do ano? Será que ficaremos mais tempo com a taxa mais alta? 
+Não é o que acreditamos que irá acontecer.  Como isso impactará o nosso portfólio do atacado? Como 
+vai impactar o portfólio para pequenas e médias empresas? Como vai ser a atividade? É uma 
+diminuição na atividade mesmo que o PIB cresça em 1,9% na nossa projeção? Qual será a expansão 
+desse PIB? Qual é a qualidade desse crescimento? Será que será mais no estímulo fiscal ou  mais na 
+produtividade? Qual o nível de investimento que nós vemos no Brasil? Não estou falando sobre 
+investimento de portfólio, estou falando da infraestrutura de investimento a longo prazo. Muitas 
+empresas estão esperando para tomar a decisão de investimento, entendendo o que vai acontecer 
+no ano de eleições. 
+ 
+Então não diria que é um guidance defensivo, mas é um guidance realista devido ao nível de 
+incertezas que nós vemos em 2026. Eu espero que você esteja correto, eu espero que tudo saia muito 
+bem. Se isso acontecer, temos capacidade de reação e de voltar e dizer, olha, cometemos um erro ou 
+temos nova informação e acred itamos que podemos sair melhor. Se você considerar o ponto médio 
+do guidance do ano passado, o lucro implícito era de R$ 44,8 bilhões, e nós conseguimos entregar 
+R$ 2 bilhões a mais em todo ano. 
+ 
+Lembro que a gente mudou o guidance nos trimestres subsequentes. Então a gente atualizou nossas 
+estimativas para margem financeira com cliente, para a margem financeira com o mercado, e para os 
+impostos. Então, se tem uma oportunidade nós vamos conseguir voltar e fazer melhor que o 
+guidance. 
+ 
+Depois, prospectivamente, vamos ver o que está acontecendo no Brasil. Então a nossa capacidade 
+de reagir é muito rápida, independentemente. E se as coisas não saem tão bem, por qualquer razão, 
+a gente também vai reagir rápido, no modo defensivo. 
+ 
+E no nosso portfólio a gente não tem restrição de capital, não tem restrição de liquidez, não tem 
+restrição de NPL, a gente não tem restrição de rentabilidade. Portanto, vamos ser ágeis e reagir se 
+necessário.  
+ 
+E como nós conseguimos reagir em ciclos que vão em direções diferentes. Isso é o mais importante, a 
+capacidade que a gente tem de reação, a execução das capacidades que a gente tem dentro da 
+organização e a capacidade de ver prospectivamente. Imagine se a gente decide crescer o dobro do 
+portfólio do que nós vemos hoje e as coisas não dão certo. 
+ 
+E se o cenário macro muda? E se na eleição, por qualquer razão, o mercado não reage bem? E se a 
+inflação aumenta E a gente tenha que manter a taxa de juros alta? O portfólio está lá. Então eu não 
+posso dar um grande crescimento e depois retroativamente diz er: ah, eu acho que a gente deveria 
+ter feito de uma forma diferente, num caminho diferente.  
+
+=== PÁGINA 32 ===
+ 
+32 
+ 
+Então essa disciplina que nós temos sempre vem no longo prazo. Se tem uma oportunidade, se 
+a gente pode entregar mais, vamos fazê -lo. E não se esqueça que as taxas e também, a redução de 
+taxa de juros tem um impacto no nosso balanço de um lado, mas tem benefício por outro lado. 
+ 
+Então você sempre faz esse ponto de quão sensíveis somos ao CDI no Brasil, e a gente sempre volta 
+na apresentação para mostrar que somos menos sensíveis do que o mercado acredita. E eu acho que 
+você não acredita mais nisso, você tem nos acompanhados ao longo dos ciclos, e nós temos hedge no 
+nosso portfólio. E é dessa forma que vamos enfrentar 2026, de forma realista, com cautela, olhando 
+para o futuro sobre o que estará por vir em termos da eleição. 
+ 
+E se tem uma oportunidade de aumentar a velocidade, faremos assim. Se tem uma oportunidade de 
+entregar mais, vamos fazê-lo. Obrigado. 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores) 
+ 
+E agora, com Marcelo Mizrahi do BBI. Marcelo, pode seguir com sua pergunta. 
+ 
+Marcelo Mizrahi (Bradesco) 
+ 
+Olá, pessoal, obrigado pela oportunidade. Mais uma vez, parabéns pelos resultados, belíssimo 
+resultado e o guidance super transparente. Acho que em relação a minha pergunta, queria entender 
+um pouco mais justamente sobre esse cenário de incerteza, que você trouxe, em relação à questão 
+da inadimplência. 
+ 
+Queria que você trouxesse um pouco mais de visão para a gente, tanto sobre a inadimplência de 
+pessoa física quanto de jurídica, acho que são dinâmicas bem diferentes. Como você falou, até o 
+mercado de capitais tem impactado a liquidez da pessoa jurídica, m as a gente tem a questão dos 
+programas de governo, então queria entender um pouco como é que você está vendo o impacto do 
+potencial diminuição dos programas nesse ano. E o banco cresceu forte nas pequenas e médias 
+empresas. E na pessoa física, a gente tem toda essa questão da reforma tributária, a própria liquidez 
+que o consignado privado tem trazido para o sistema. A gente até viu o banco caindo um pouco a 
+carteira de crédito pessoal, a carteira de consignado privado muito forte. Então queria que você 
+ajudasse a gente a fazer um diagnóstico do que pensar para a inadimplência de 2026. Entendo que 
+podemos ter um ano muito diferente comparando o primeiro com o segundo semestre, mas qualquer 
+visão que você puder compartilhar aqui com a gente pode ser de bastante uso aqui, ok?  
+Obrigado. 
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Obrigado você, Marcelo. Obrigado pelas palavras iniciais, bom te ver no call. 
+ 
+
+=== PÁGINA 33 ===
+ 
+33 
+ 
+Bom, sobre inadimplência, primeiro quero dizer para você que a gente não vê nenhuma 
+mudança material nos indicadores de inadimplência em relação ao que observamos em 2025. 
+Evidente que o primeiro trimestre é sempre o que, sazonalmente, tem um leve aumento de 
+inadimplência, em função de todos os compromissos de início de ano, então, isso acaba puxando um 
+pouco a inadimplência no começo do ano. Esse ciclo a gente não espera uma mudança muito 
+relevante do que observamos em ciclos anteriores, temos aí um mês co mpleto, já entramos em 
+fevereiro, e estamos vendo um ciclo comportado. 
+ 
+Claro, a gente já vê alguns portfólios, especialmente indicadores de indústria, em que vemos os 
+atrasos já mais pressionados e em algumas divulgações já começamos a ver os atrasos curtos bem 
+mais pressionados. Os nossos atrasos curtos, sejam na pessoa físi ca, sejam nas pequenas e médias 
+empresas, estão absolutamente controlados em todos os portfólios, não tem nenhum desvio. O que 
+tem sim na pessoa jurídica, pequenas e médias empresas, e a gente já tem falado isso há bastante 
+tempo, é o que eu tenho chamado de normalização do efeito dos programas governamentais. 
+ 
+Então, esse crédito sai de um período de carência e entra no período de pagamento, isso acaba 
+pressionando e afetando um pouco mais os atrasos no curto prazo, mas não o custo do crédito, na 
+medida que as carteiras são bem garantidas e com custo de crédito super comportado e adequado. 
+Então, eu diria que não temos nenhuma preocupação com o cenário para 2026. Evidente que o 
+cenário é dinâmico, evidente que se os juros não fizerem o ajuste na velocidade que a gente imagina, 
+a pressão em cima das empresas e das  pessoas físicas é maior e aí você pode esperar uma 
+inadimplência maior. 
+ 
+A gente vê uma boa qualidade da geração de emprego nesse ciclo, mais da metade da queda do 
+desemprego veio de aumento de investimento em setores de mão de obra intensiva. Então, essa 
+liquidez que você mesmo comentou da isenção do Imposto de Renda, o aumento da faixa isenta traz 
+na média uma liquidez adicional para o sistema. O consumo ainda muito resiliente, e uma prestação 
+de serviço muito resiliente em função disso, comprometimento de renda num patamar alto, ainda 
+que a gente veja uma massa salarial crescendo no Brasil, então o comprometimento de renda é 
+sempre um ponto de atenção. 
+ 
+E quando olhamos os atrasos que têm sido divulgados no mercado, seja o atraso curto, 
+especialmente o atraso longo, a gente vê aumentos razoáveis em vários produtos e portfólios. As 
+nossas carteiras têm performado completamente diferente aos dados. Então, q uando você exclui a 
+nossa inadimplência em cada um dos produtos, a gente tem um comportamento bem diferente. 
+ 
+Agora, é importante também reforçar que uma parte desse aumento no atraso longo tem a ver com 
+a mudança decorrente da Res. Nº 4.966, e pelo que a gente tem visto, várias instituições mudaram o 
+critério de alongamento do 
+write-off para prazos mais longos, o que pressiona o atraso, porque ele 
+demora mais para limpar na carteira, mas alivia o custo do crédito de forma importante.  
+ 
+
+=== PÁGINA 34 ===
+ 
+34 
+ 
+A gente decidiu aqui no banco trabalhar com a melhor expectativa de recuperabilidade. Mesmo 
+com a flexibilidade que a Resolução Nº 4.966 dá para o banco de poder ajustar esse write-off para 
+prazos um pouco mais longos, a gente manteve exatamente os mesmos prazos desde o primeiro dia. 
+Então não houve qualquer mudança em nenhuma carteira, em nenhum portfólio de alongamento de 
+write-off. Porque isso “suja” o número, mas mais importante do que isso, você deixa de fazer a 
+provisão por perda esperada, você começa a fazer a provisão por perda incorrida, porque você 
+diminui a capacidade dos modelos de antecipar a sua real capacidade de recuper abilidade daquele 
+crédito. 
+ 
+Então, tem que olhar também sempre limpo disso. E aí eu acho que a melhor 
+proxy para isso é a gente 
+voltar 3 trimestres, olhar o nível de NPL creation que o banco tem, e comparar isso com os write-offs 
+que estão saindo agora, e essa é uma correlação direta de 1 para 1. Quando você começa a olhar essa 
+quebra de correlação, 70% do que era, 60% do que era o creation em 3 trimestres para trás, 
+claramente houve uma mudança de política de write-off e alongamento de prazo, beneficiando o 
+custo de crédito no curto prazo, mas a conta vai chegar. Portanto, esse é um cuidado que a gente 
+toma. Com isso, temos os indicadores muito controlados e adequados. A carteira de grandes 
+empresas está com nível de provisionamento muito adequado. Nós sempre fazemos essa revisão de 
+empresa a empresa, mas importante lembrar que eventos acontecem, especialmente em empresas 
+maiores, e que eventualmente não foram capturados pelos modelos. E são eventos que muitas vezes 
+ocorrem por algo que não controlamos, como uma fraude como já vimos no passado. 
+ 
+Então devemos estar sempre atentos, nós não estamos antevendo nada. Se a gente vê algum caso, 
+nós provisionamos adequadamente, estamos com um nível de provisão muito adequado. Eu acho 
+importante olhar a fortaleza das nossas provisões e a cobertura em todos  os segmentos. Nós não 
+vamos deixar de fazer provisão para entregar resultado ou rentabilidade no trimestre. A provisão é 
+uma decisão, é gestão de balanço e a gente sempre vai provisionar na frente. Se o ROE cair e o lucro 
+cair no trimestre por conta disso , a gente vem e explica. Mas a provisão está na frente da 
+rentabilidade sempre. E, portanto, não vamos deixar nenhum segmento, nem o atacado, nem o 
+varejo, sub provisionado para entregar um resultado melhor.  
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores) 
+ 
+Obrigado, Marcelo. Agora voltamos para o áudio em inglês. Mais uma vez, porque temos Carlos 
+Gomez do HSBC. Bem-vindo. 
+ 
+Carlos Gomez-Lopez (HSBC) 
+ 
+Muito obrigado pela oportunidade de fazer pergunta. Dentre os excelentes números que você 
+compartilhou conosco, talvez um dos que mais me impressionou é esse 50% de market share  de 
+crédito imobiliário entre os bancos privados. Mas para onde você vê esse mercado indo no futuro? 
+Por que você acha que tem essa participação de mercado em comparação com a concorrência? 
+Vocês são grandes consumidores de software e serviços de TI? Nós estamos vendo uma grande 
+
+=== PÁGINA 35 ===
+ 
+35 
+ 
+reação no mercado para as soluções de inteligência artificial entrando nesse espaço. E como 
+isso afeta o mercado como consumidor desse serviço? Você viu uma mudança na precificação 
+quando discute com os fornecedores nos últimos meses?  
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Obrigado. Muito obrigado pelos elogios. Primeiramente, com relação ao imobiliário. Temos a maior 
+captação de poupança no Brasil depois da Caixa Econômica Federal. Então, no setor privado, nossa 
+maior captação de poupança nos permite ser mais competitivo em financiamento imobiliário. O 
+segundo ponto é que todo mundo colocou no mercado 100 % do valor em poupança, por conta da 
+obrigação de direcionar 65% para ativos imobiliários (e 20% recolhido em depósito compulsório). E 
+neste ano temos uma mudança regulatório em que eles estão liberando mais 5% desses depósitos no 
+Banco Central para o imobiliário (compulsório passa a ser 15% vs 20% na regra antiga), o que fornecerá 
+mais liquidez para o financiamento imobiliário.  Acredito que a nossa capacidade de servir o cliente 
+de uma forma muito competitiva é reflexo dessa estrutura de funding. Essa estrutura de funding nos 
+coloca em posição diferenciada de competitividade. Isso permite nosso melhor nível de retorno 
+comparado com o mercado, mesmo com a mesma taxa, pois precisamos de menos funding de 
+mercado do que outras instituições da concorrência que têm um diferente portfólio de poupança. 
+ 
+Então essa estrutura de funding de poupança é muito importante. Os produtos que temos, a 
+experiência, a jornada com o nosso cliente, não é só orientada pelo preço. Nós conseguimos investir 
+muito no financiamento imobiliário para nossos clientes, e também temos uma visão a longo prazo, 
+considerando que o financiamento imobiliário é um produto muito importante quando trabalhamos 
+o engajamento e principalidades dos clientes a longo prazo. 
+ 
+Então, acredito que temos conseguido originar uma quantidade relevante de financiamento 
+imobiliário nesse sentido. Temos o maior portfólio, tirando a Caixa Econômica e Banco do Brasil. Mas 
+eu diria que isso aqui é a principal razão. 
+ 
+Agora, falando sobre nossa relação com os fornecedores de tecnologia. Eu acho que vamos ter cada 
+vez mais volatilidade no mercado. Muitos dizem que não é uma bolha, quando você olha para a 
+própria área de tecnologia, a capacidade de escalabilidade, muitos investimentos entrando na área, 
+e isso foi muito importante para o crescimento do PIB americano, por exemplo. Mas se a pergunta for 
+“quem vai ser o campeão a longo prazo?”... Como qualquer outra indústria, você não vai ter muitos 
+campeões, só alguns, mas t odos estão fazendo investimentos massivos. Então, a preocupação do 
+mercado agora, mais do lado do equity é: será que eu estou investindo no campeão? Quem vai estar 
+aqui daqui a 5 anos? Quem não vai estar aqui daqui a 5 anos? E à medida que o preço aumenta 
+fortemente, vamos ver muita volatilidade na indústria de tecnologia indústria. Como cliente dessa 
+indústria, nós estamos fazendo excelentes negociações com todos os provedores. 
+ 
+Temos relacionamento com muitos deles até antes do fenômeno da IA que nós vemos. Portanto, 
+esses fornecedores olham para a gente e tentam ser muito competitivos devido ao nível de 
+
+=== PÁGINA 36 ===
+ 
+36 
+ 
+escalabilidade e a capacidade que nós temos para comprar em quantidades relevantes. E 
+também, claro, se para o GPR e todos os processadores que temos que utilizar, nós temos que pagar 
+o preço de mercado, e é caro para todo mundo, não só para a gente. Portanto, o que tentamos fazer 
+é fazer grandes negociações e negociações a longo prazo, inclusive para cloud. 
+ 
+Nós temos contratos a longo prazo com nossos fornecedores, mas, mais do que isso, temos uma boa 
+relação a longo prazo com eles, tentando entender o Itaú por meio do ciclo com os clientes, como nós 
+medimos e negociamos o contrato a longo prazo com os fornecedores. Então não vemos uma grande 
+quantidade de aumento no preço. Acredito que o preço está bastante competitivo, e não está nos 
+colocando pressão adicional em nossos custos. 
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores)  
+ 
+Obrigado. Agora vamos para a última pergunta com Daniel Vaz do Safra. Daniel, pode seguir com sua 
+pergunta. 
+ 
+Daniel Vaz (Safra) 
+ 
+Boa, obrigado, Gustavo. Bom dia, Milton. Bom dia, Gabriel. Eu queria fazer só um pequeno follow -up 
+na pergunta do Marcelo Mizrahi antes de fazer a minha. As linhas governamentais a gente estudou 
+bastante, acho que é legal comentar sobre carência e o aumento de atraso que a gente vê esse ano, 
+mas ainda o que está p ouco claro, na nossa percepção, é se o FGI aguenta sustentar tamanha 
+produção e rolagem de dívidas em 2026. Então, se você puder comentar, se você acredita que precisa 
+de uma recapitalização do fundo esse ano, dada tamanha rolagem e produção do fundo?  
+ 
+A minha pergunta é sobre AI. É muito claro os efeitos para eficiência de custo, mas em negócio tenho 
+uma certa dificuldade de tangibilizar o potencial de incremento, seria principalmente nas receitas.? 
+O banco sempre fez muito benchmark global, isso é muit o bom, e eu queria ouvir de vocês se vocês 
+veem alguma oportunidade clara em negócio e potenciação de receitas vindo de AI generativa e 
+todas as tecnologias que se desenrolam com isso. Obrigado. 
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Bom, obrigado você, Daniel. Obrigado por participar da nossa reunião de resultados. O FGI, se a gente 
+olhar o programa como um todo, eu acho que não teve melhor alocação, dos programas que o 
+governo fez, com melhores resultados. Isso vale para as linhas do  Pronampe, isso vale para o FGI, em 
+que o BNDES tem um papel super relevante, ele é o gestor do programa. Então, eu acho que do ponto 
+de vista de alocação de dinheiro público, os retornos são realmente impressionantes, porque a gente 
+consegue chegar em emp resas menores, empresas que teriam mais dificuldade em captar recursos 
+naquelas condições e especialmente nos prazos que a gente consegue oferecer. 
+ 
+
+=== PÁGINA 37 ===
+ 
+37 
+ 
+Então eu sou entusiasta dos programas, porque eu acho que é uma super aplicação de recursos 
+públicos com resultados realmente incríveis. Se a gente fizer uma retrospectiva desses últimos anos, 
+quantidade de crédito que foi liberado no mercado, quantidade de clientes que se beneficiaram, 
+quanto a gente financiou, o aumento de emprego, produtividade, investimentos que foram feitos, eu 
+acho que o programa é vencedor. 
+ 
+O que aconteceu é que no último trimestre de 2024, a gente entendeu que o nível de alavancagem 
+daquelas garantias que eram feitas no FGI era baixa, e, portanto, a gente conseguiria trazer para o 
+mercado recursos adicionais, que foi apelidado de “troco”. O Itaú levou essa proposta para o BNDES, 
+a gente teve uma conversa com eles mostrando que tinha uma oportunidade de retornar para o 
+sistema um volume importante de recursos, aumentando alavancagem das garantias sem colocar 
+recurso novo no FGI. E o BNDES fez as análises, concordou, e a gente conseguiu com isso trazer R$ 100 
+bilhões a mais de recursos para o sistema. Então, logo no último trimestre de 2024, se você olhar a 
+produção do mercado, vocês vão ver que a gente aplicou um volume importante de recursos d o FGI 
+logo no último trimestre. Ao longo de 2025, o mercado como um todo também. Não todos, mas alguns 
+bancos aplicaram recursos também importantes no FGI. 
+ 
+Para 2026, o orçamento é de fato uma certa manutenção do que tinha sido o orgânico dos anos 
+anteriores, mas sem esse troco que voltou, que foram R$100 bilhões. Então, a sensação de que terá 
+menos recurso é por conta disso, é porque a alavancagem que foi fe ita, um top-off que gerou 
+recursos adicionais. A gente tem conversado tanto com o Ministério da Fazenda, tanto com o BNDES, 
+com o governo para dar visibilidade, que do ponto de vista de alocação de recursos públicos, acho 
+que não tem programa melhor sucedido. Então tem discussões acontecendo, a gente não sabe se 
+haverá um apetite por um aporte adicional, mas volto a dizer, pode ser que sim, pode ser que não. 
+O Pronampe não, ele é um programa mais definitivo e orgânico, então a gente vai ver um crescimento 
+normal do Pronampe. E o FGI vai depender dessa decisão que o governo tem que tomar de alocação 
+de recursos de fato, portanto, como você bem falou, precisaria de um aporte adicional no fundo para 
+a gente conseguir produzir um volume parecido com o que foi produzido aí nos últimos 15 meses no 
+sistema. Então estamos dependendo dessa decisão importante. 
+ 
+O segundo ponto, sobre AI, é uma agenda que realmente veio para ficar. Nós queremos estar na 
+vanguarda desse movimento, acho que ter feito a modernização tecnológica e revisão de arquitetura 
+de dados colocou a gente num lugar muito diferenciado para avançar nessa próxima era. E a gente 
+acredita, como eu tenho dito, que falar de
+ AI sem você ter de fato todos os conhecimentos 
+embarcados que a gente tem nas várias jornadas, produtos e negócios, você não consegue treinar os 
+seus modelos, além de modelos comoditizados, ele vem com uma experiência muito júnior do ponto 
+de vista de treinamento. 
+ 
+Eu acho que essa capacidade da gente treinar, e temos feito isso em escala e conseguido resultados 
+impressionantes, treinar os nossos modelos com o nosso jeito de fazer as coisas, com toda 
+experiência embarcada que o banco tem de muitos e muitos anos. Então essa organização da base 
+de dados, dos tokens nos grandes modelos e a gente utilizando isso dentro de uma arquitetura, 
+
+=== PÁGINA 38 ===
+ 
+38 
+ 
+democratizando dados, enriquecendo as bases, tem feito com que a gente encontre 
+oportunidades incríveis em todas as dimensões, sejam dimensões de eficiência, sejam dimensões de 
+modelagem, sejam dimensões de experiência do cliente, de processos internos e produtividade. 
+Então, a gente tem visto sim avanços relevantes e do ponto de vist a da visão o cliente, a plataforma 
+Emps, que eu comentava agora há pouco, ela é powered by AI, 100%. 
+ 
+O benefício vem porque eu consigo engajar clientes com um nível de eficiência muito melhor. Isso vai 
+me trazer oportunidade para ter mais apetite de risco, porque eu vou aceitar mais perdas e isso é 
+geração de valor para o banco, e eu vou ser mais competitivo em relação a outras ofertas de mercado. 
+Isso me faz ganhar clientes e mercado. Então, a receita virá naturalmente. O 
+Wealth Specialist é uma 
+forma de aumentar a principalidade com os meus clientes, engajando investimentos sem precisar 
+escalar a força de vendas, porque o custo de servir desses modelos de especialistas, o B2C, ele passa 
+por pessoas, ele passa por um custo de servir mais alto que você não consegue oferecer para 
+qualquer cliente, para qualquer bolso. 
+ 
+Esses modelos são muito escaláveis, então eu consigo atender um cliente no mundo de investimentos 
+de uma forma muito mais simples e aumentar a principalidade, o nível de engajamento desse cliente 
+com o banco, gerando também 
+top-line, reduzindo o churn, melhorando a relação com esse cliente 
+no longo prazo. O Pix por WhatsApp é transacional, mas é uma plataforma super barata, 
+supereficiente, isso melhora a principalidade do cliente, porque ele começa a transacionar com você 
+e daqui a pouco está usando outros produtos, outros negócios e você passa a ser o principal banco. 
+Então, eu acho que cada solução vai vir de um ângulo diferente, mas a gente acredita sim, na 
+capacidade de geração de top-line, não só, na geração de bottom-line, na medida em que você 
+também vai ser mais eficiente para servir os seus clientes.  
+ 
+Gustavo Lopes Rodrigues (Diretor de Relações com Investidores) 
+ 
+Obrigado, Daniel, Obrigado, Milton, Obrigado, Gabriel e obrigado a todos vocês que participaram da 
+nossa videoconferência de resultados. Com isso terminamos a nossa sessão de Q&A e a nossa 
+videoconferência do quarto trimestre de 2025.  Agora eu passo a palavra mais uma vez para o Milton 
+fazer as considerações finais. Milton. 
+ 
+Milton Maluhy Filho (CEO) 
+ 
+Obrigado, Gustavo, obrigado Gabriel e obrigado a todos pela presença, pelas perguntas, pelas 
+palavras. Eu terminei a apresentação inicial dos slides, falando de foco, disciplina, humildade, então 
+eu sempre gosto de trazer esses pontos. 
+ 
+E eu acho que tem um elemento adicional que é seriedade. E a gente sabe a importância de construir 
+modelos de negócio que são sustentáveis, em que a gente coloca os interesses do sistema e dos 
+clientes na frente dos interesses do banco. E é dessa forma que  a gente trabalha aqui no Itaú 
+Unibanco. 
+
+=== PÁGINA 39 ===
+ 
+39 
+ 
+Apesar da gente ver no mercado um fenômeno que muitas vezes não acontece dessa forma, 
+são os interesses da companhia na frente dos interesses do sistema. E é isso que a gente precisa, eu 
+acho que é liderar e liderar pelo exemplo, é fazer o certo, é fazer o sustentável, porque não tem um 
+jeito certo de fazer a coisa errada. E é nisso que a gente acredita. 
+ 
+Então, eu acho que não existe responsabilidade maior do que qualquer instituição de olhar para os 
+seus processos, para os seus clientes e para o sistema e pensar em que impactos a gente vai gerar. 
+Acho que essa é a responsabilidade primária de qualquer ins tituição financeira. E isso não dá para 
+terceirizar ninguém, essa responsabilidade não é culpa do regulador, não é culpa de ninguém. A 
+responsabilidade primária é nossa e a gente tem naturalmente capacidade instalada, equipes 
+técnicas que são capazes de entender e avaliar os dados, a gente não precisa de um auditor ou de um 
+regulador para dizer para a gente se está certo ou se está errado. Estou superanimado, apesar de um 
+ano desafiador por conta de incertezas e eleição, estou superanimado com o momento do Banco. A 
+gente encerra um ciclo de entregas muito robustas, relevantes, com muita consistência, qualidade, 
+resultados e olhando para frente eu acho que a gente tem tudo para entregar mais um ano sólido, de 
+muita qualidade. É claro que tem toda execução par a ser feita ao longo do ano todo, mas eu não 
+tenho dúvida que se as condições mantiverem, a gente vai entregar com muita qualidade e muita 
+sabedoria e, mais uma vez, sem hipotecar e antecipar o futuro. Então, essa disciplina de alocação de 
+capital, criação de valor, essa agenda de eficiência é superimportante para a gente atravessar mais 
+um ciclo, que são os próximos anos que vêm pela frente. 
+ 
+Então, eu quero agradecer a participação de vocês, o apoio, a confiança que vocês depositam na 
+instituição e dizer que está todo mundo com faca nos dentes, muito foco, muita garra e num 
+ambiente de trabalho realmente incrível, enfim, com uma transformação que a gente passou ao 
+longo dos últimos anos, que tem produzido resultados incríveis e eu sou superotimista do que a gente 
+ainda pode fazer pela frente. Tá bom, gente? Obrigado mais uma vez, a gente se vê em breve. Um 
+abraço a todos. 
+ 
+ 

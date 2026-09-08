@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-06T19:35:15.343229",
+  "steps": [
+    {
+      "step": "extract_caixa.py",
+      "exit_code": 0
+    },
+    {
+      "step": "extract_itau_capital.py",
+      "exit_code": 0
+    },
+    {
+      "step": "normalize.py",
+      "exit_code": 0
+    },
+    {
+      "step": "driver_bridges.py",
+      "exit_code": 0
+    },
+    {
+      "step": "validate.py",
+      "exit_code": 0
+    },
+    {
+      "step": "charts.py",
+      "exit_code": 0
+    },
+    {
+      "step": "build_reports.py",
+      "exit_code": 0
+    }
+  ],
+  "download_gaps": [],
+  "mapping_errors": [],
+  "stale_bank_series": [],
+  "narrative_reviewed_through": "2026Q2",
+  "requires_narrative_review": false
+}

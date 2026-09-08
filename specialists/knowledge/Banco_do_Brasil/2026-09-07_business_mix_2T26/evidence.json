@@ -1,0 +1,70 @@
+{
+  "basis": "Lucro líquido da nota por segmentos, reconciliado ao contábil; R$ milhões",
+  "names": [
+    "Bancário",
+    "Investimentos",
+    "Gestão de Recursos",
+    "Seguros, previdência e capitalização",
+    "Meios de Pagamento",
+    "Outros segmentos"
+  ],
+  "h1": [
+    -256.599,
+    81.617,
+    1243.672,
+    3113.214,
+    768.886,
+    1313.873
+  ],
+  "q1": [
+    -10.278,
+    11.066,
+    599.924,
+    1463.348,
+    374.078,
+    651.866
+  ],
+  "sources": [
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "2T26",
+      "title": "Demonstrações Contábeis PDF 2T26",
+      "path": "documents/Banco_do_Brasil/2026/2T26/Demonstracoes_Contabeis_PDF_2T26__eca85b5ab6ae.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/5760dff3-15e1-4962-9e81-322a0b3d0bbd/8e0ed08b-f661-f270-dee3-2de71bf10a3c?origin=2",
+      "pages": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "bank": "Banco_do_Brasil",
+      "period": "1T26",
+      "title": "Demonstrações Contábeis PDF 1T26",
+      "path": "documents/Banco_do_Brasil/2026/1T26/Demonstracoes_Contabeis_PDF_1T26__b06fa5f6b7f7.pdf",
+      "url": "https://api.mziq.com/mzfilemanager/v2/d/5760dff3-15e1-4962-9e81-322a0b3d0bbd/eed501c3-db22-a6a8-40c6-362070a9b98e?origin=2",
+      "pages": [
+        35
+      ]
+    }
+  ],
+  "values": [
+    -246.321,
+    70.551,
+    643.748,
+    1649.866,
+    394.808,
+    662.007
+  ],
+  "method": "2T26 = 1S26 - 1T26, nas notas por segmento",
+  "period": "2T26",
+  "total": 3174.659,
+  "shares": [
+    -7.758975058423598,
+    2.2223174205481597,
+    20.27770541655025,
+    51.96986510992204,
+    12.436233308837263,
+    20.85285380256588
+  ]
+}

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "Banco_do_Brasil",
+    "skill": "banco-do-brasil-specialist",
+    "name": "Banco do Brasil",
+    "focus": [
+      "Agribusiness and rural-credit economics: client concentration, subsidized/equalized lines, repricing, collateral, restructurings and loss migration; distinguish policy mechanisms from unsupported assumptions about political intervention.",
+      "Public-sector relationships, payroll/retail, corporate and SME franchises; test how client/product mix changes margins and funding stability.",
+      "Credit recoveries, discounts and provisioning alongside NPL and coverage; distinguish a quarterly profit rebound from a credit-cycle inflection.",
+      "Treasury, insurance/affiliates, pension-related contributions and tax effects; reconcile their role in recurring and accounting results.",
+      "Capital generation/distribution and expected-loss transition: separate Resolution 4,720 legacy tables from CMN 4,966 presentation."
+    ],
+    "traps": [
+      "Some spreadsheet cells are BRL displayed as millions; others are thousands or already millions.",
+      "Agribusiness is separately classified in selected credit tables; do not add it to PF/PJ figures that already include it.",
+      "Published narrative, current workbook and original quarter can use different expanded-credit definitions."
+    ]
+  },
+  {
+    "id": "Bradesco",
+    "skill": "bradesco-specialist",
+    "name": "Bradesco",
+    "focus": [
+      "Banking versus insurance/pensions/capitalization: isolate revenue, underwriting/claims, financial income, capital and profit contributions.",
+      "Transformation execution: distribution footprint, high-income/SME client propositions, digital engagement, technology costs and realized productivity.",
+      "Client versus market NII, liability margins, secured origination and SME collateral realization; test risk-adjusted returns rather than equating collateral with safety.",
+      "Provisions, Stage 3 migration, restructurings, recoveries and credit cost across the recovery cycle.",
+      "Recurring versus accounting profit, fiscal/labor adjustments, administrative expense reclassifications and capital distribution."
+    ],
+    "traps": [
+      "The mapped historical ROE is YTD annualized; quarterly ROAE in releases is a different series.",
+      "Managerial and accounting balance sheets have different consolidation perimeters.",
+      "Insurance strength does not by itself establish improvement in the banking franchise; broader operating expenses are not a common peer denominator."
+    ]
+  },
+  {
+    "id": "BTG_Pactual",
+    "skill": "btg-pactual-specialist",
+    "name": "BTG Pactual",
+    "focus": [
+      "Business-line economics: investment banking, corporate lending, sales/trading, asset management, wealth/personal banking, consumer finance and interest/other results.",
+      "Recurring management fees versus performance/transactional revenues, client flows versus market appreciation, and the quality of AuM/WuM monetization.",
+      "Pan and other acquisitions: compare original/perimeter-adjusted history, integration effects, goodwill and capital use; isolate organic growth.",
+      "Corporate and consumer credit quality separately, concentrations, guarantees, collateral and underwriting; do not infer low risk from an absent retail NPL metric.",
+      "Funding mix, maturity, secured/unsecured funding, market risk, RWA intensity, liquidity buffers and capital allocation between franchises."
+    ],
+    "traps": [
+      "AuM/WuM are client assets, not bank assets or revenue; avoid unsupported double counting.",
+      "Balance-sheet loans differ from the corporate-plus-consumer business portfolio.",
+      "Reported operating expenses include items excluded from adjusted efficiency; reported expenses/revenue does not reproduce that ratio.",
+      "Call transcripts and thematic reviews are available under data/calls and the bank knowledge directory; consult latest_calls.json for exact coverage and outstanding gaps."
+    ]
+  },
+  {
+    "id": "Caixa",
+    "skill": "caixa-specialist",
+    "name": "Caixa Econômica Federal",
+    "focus": [
+      "Housing/mortgage concentration, duration, funding sources and policy-linked economics; distinguish the bank's balance sheet from funds it administers.",
+      "Savings, term deposits, credit letters and other funding: pricing, maturity and dependence on housing funding mechanisms.",
+      "Retail/commercial PF/PJ, infrastructure and agribusiness: contribution, loss concentration and portfolio weights; a small distressed book can have a high ratio without characterizing the whole bank.",
+      "Government services, payments, cards, insurance distribution and asset management as fee franchises; quantify scale, monetization and expense absorption.",
+      "Recurring versus accounting profit, provisions/write-off criteria, legal/actuarial items, capital requirements and distributions."
+    ],
+    "traps": [
+      "ROE and efficiency in the key-figures tables are trailing 12 months.",
+      "Quarter, YTD and annual values coexist on the same PDF page; superscript footnotes can be mistaken for numbers.",
+      "Customer deposits, broad funding and administered assets have different scopes; FGTS administered assets are not automatically bank funding.",
+      "Call transcripts and thematic reviews are available under data/calls and the bank knowledge directory; consult latest_calls.json for exact coverage and outstanding gaps."
+    ]
+  },
+  {
+    "id": "Itau",
+    "skill": "itau-specialist",
+    "name": "Itaú Unibanco",
+    "focus": [
+      "Brazil versus LATAM results, client/product mix, FX, credit volumes and asset/liability margin contributions.",
+      "Retail/high-income, SME/corporate, wealth/investments, insurance, payments/cards and investment banking: contribution and cross-sell economics, not client counts alone.",
+      "Pricing discipline, credit quality by segment, Stage 2/3, write-offs and recoveries; assess returns alongside RWA/capital and cost of risk.",
+      "Digital/distribution productivity, recurring fee growth, expense seasonality and changes in service economics.",
+      "Acquisitions including Avenue, managerial reclassifications, goodwill/tax adjustments, OCI and capital return; isolate perimeter effects."
+    ],
+    "traps": [
+      "Consolidated ROE and Brazil-only ROE differ; do not choose whichever makes a ranking look stronger.",
+      "Pro forma historical series and original 2024 reporting are not interchangeable.",
+      "The funding aggregate includes securities/borrowings and is not simply customer deposits.",
+      "The historical workbook is a supplemental official-page link; verify its current replacement for a new release."
+    ]
+  },
+  {
+    "id": "Santander",
+    "skill": "santander-specialist",
+    "name": "Santander Brasil",
+    "focus": [
+      "Client-margin changes through mass-market selectivity, consumer financing, SME/corporate, product spreads and liability mix; test deliberate risk reduction versus lost competitiveness.",
+      "Funding composition, PF/PJ mix, customer primacy, pricing and maturity; connect to margin and liquidity outcomes.",
+      "Wholesale-specific provisions, retail/consumer vintages, restructurings and revised write-off criteria; reconcile NPL movements with provisioning and Stage 3.",
+      "Cards, insurance, consortia, brokerage and other fees versus lending dependence; measure profitability and distribution strength where disclosed.",
+      "Managerial/accounting reconciliation, goodwill exclusions, exceptional provisions, expense discipline, taxes and capital return."
+    ],
+    "traps": [
+      "ROAE excludes goodwill; the accounting-profit base differs from recurring managerial profit.",
+      "Legacy 2024 sheets use thousands where current tables use millions.",
+      "Stage 3 coverage is not NPL90 coverage; certain historical ratios exclude extraordinary provisions.",
+      "A falling NPL ratio alongside rising provisions needs migration/write-off/denominator analysis, not an automatic improvement verdict."
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "path": "documents/Caixa/2025/2T25/tmpespqtgt9.part",
+    "bytes": 4401784,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "documents/Caixa/2025/2T25/tmpxczb8g96.part",
+    "bytes": 7616601,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "documents/Caixa/2025/3T25/tmpulyrv3cq.part",
+    "bytes": 3094613,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "documents/Caixa/2025/4T25/tmphbojjho1.part",
+    "bytes": 21572106,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "documents/Caixa/2025/4T25/tmpqj9wo23z.part",
+    "bytes": 19621622,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "documents/Caixa/2026/1T26/tmpuh4grb2l.part",
+    "bytes": 4962387,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "data/partials/32acd0bfa72cbaa18801409173f09b371657847e45bfe5295077ced3bd811327.part",
+    "bytes": 13430784,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "data/partials/8ddd0997084c0f5e1716635d40f405c4f50ab01a8dc9361eb6c2904278999a25.part",
+    "bytes": 23097344,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "data/partials/6fdcf8a521da452adf69e42ac972ec450427976887dc5e7f86c8e7c27ce389f3.part",
+    "bytes": 37875712,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  },
+  {
+    "path": "data/partials/cc23af6d2a4783bae3e29c24dd078ff09bf939a5e12ab10540dc1d520e649006.part",
+    "bytes": 7401472,
+    "reason": "Task-created incomplete transfer; final source is archived and indexed"
+  }
+]

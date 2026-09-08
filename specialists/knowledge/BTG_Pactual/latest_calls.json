@@ -1,0 +1,16 @@
+{
+  "bank": "BTG_Pactual",
+  "review_date": "2026-09-07",
+  "review": "specialists/knowledge/BTG_Pactual/2026-09-07_calls_2025_2026/review.md",
+  "sources": "specialists/knowledge/BTG_Pactual/2026-09-07_calls_2025_2026/sources.json",
+  "review_scope": "Thematic reading of prepared remarks and selected Q&A; not a full audio audit or complete bank guide",
+  "transcript_periods": [
+    "1T25",
+    "2T25",
+    "3T25",
+    "4T25",
+    "1T26",
+    "2T26"
+  ],
+  "missing_periods": []
+}

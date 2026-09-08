@@ -1,0 +1,2143 @@
+[00:00:27.070] Bom dia a todos. Obrigada por estarem
+[00:00:27.080] conosco para acompanhar a nossa
+[00:00:29.240] videoconferência de resultados do
+[00:00:31.039] primeiro trimestre de 2026. Estamos ao
+[00:00:34.640] vivo aqui da nossa sede em São Paulo e
+[00:00:37.000] vamos dividir esse evento em duas
+[00:00:39.000] partes. Primeiro, o Mário Leão vai falar
+[00:00:42.200] sobre os principais destaques do
+[00:00:43.760] trimestre e os direcionamentos para o
+[00:00:45.960] nosso crescimento nos próximos períodos,
+[00:00:48.520] além de uma análise do nosso desempenho
+[00:00:50.600] financeiro. Depois teremos a sessão de
+[00:00:53.920] perguntas e respostas. Nesse momento,
+[00:00:56.600] teremos também a presença do nosso CFO,
+[00:00:59.120] Carlos Muniz. No momento das perguntas,
+[00:01:01.879] você vai observar três opções de áudio
+[00:01:04.199] na tela. Em português, em inglês ou o
+[00:01:08.439] áudio original. Para você escolher a sua
+[00:01:10.960] opção, basta você clicar no botão que tá
+[00:01:12.880] na parte inferior da sua tela. Para
+[00:01:16.040] fazer uma pergunta, você precisa clicar
+[00:01:18.040] no ícone de mão, também na parte
+[00:01:19.759] inferior da sua tela. A apresentação que
+[00:01:22.600] faremos agora já está disponível para
+[00:01:24.720] download no nosso site de R. E agora eu
+[00:01:28.680] passo a palavra ao Mário para iniciar a
+[00:01:30.920] apresentação.
+[00:01:39.030] >> Obrigado, Camila. Bom dia a todos. Um
+[00:01:39.040] prazer estar aqui mais uma vez. 10:02
+[00:01:41.280] começando.
+[00:01:43.119] Eu queria começar e vocês vão ver que a
+[00:01:44.719] apresentação tá nesse trimestre um pouco
+[00:01:46.960] mais inxuta. A gente quer poder cobrir
+[00:01:49.040] as grandes mensagens mais rápido e poder
+[00:01:52.200] partir pro Q&A, ah, que a gente
+[00:01:54.640] obviamente gosta muito de entreter com
+[00:01:56.159] vocês. Começando com o resultado, eh, na
+[00:01:59.640] ponta esquerda embaixo, a gente tem um
+[00:02:01.399] lucro que vocês já viram que ele cai no
+[00:02:04.759] tri contrat marginalmente, ano contra
+[00:02:06.799] ano. Eu vou depois entrar mais no
+[00:02:09.360] detalhe da dinâmica que constrói esse
+[00:02:11.160] lucro trimestral ah de 3.8 B
+[00:02:14.239] arredondando, mas eu gostaria de
+[00:02:16.000] destacar mais o dado que a gente traz
+[00:02:19.160] aqui com destaque que é da evolução do
+[00:02:22.640] lucro antes do imposto. A gente esse tri
+[00:02:25.280] cresce 5.4 lucro antes do imposto, o que
+[00:02:28.040] significa que a operação orgânica do
+[00:02:30.360] banco tá crescendo na direção na qual a
+[00:02:33.480] gente vem trabalhando aí ao longo dos
+[00:02:34.640] últimos anos. Então, a execução nossa, e
+[00:02:36.959] a gente vai ver depois, linha a linha,
+[00:02:38.800] converge para um lucro eh antes do
+[00:02:41.000] imposto de um crescimento analisado
+[00:02:44.040] acima de 20%. A gente com isso, na
+[00:02:47.120] prática, passa a pagar mais imposto do
+[00:02:48.879] que a gente pagou no último tri, ao
+[00:02:50.280] longo do ano passado todo, que foi um
+[00:02:51.640] ponto que analistas e investidores eh
+[00:02:55.319] nos questionaram, desafiaram. Então, a
+[00:02:57.360] gente tá evoluindo exatamente na direção
+[00:02:59.360] do que a gente se comprometeu de
+[00:03:01.400] aumentar a base tributável do banco. Tem
+[00:03:03.959] movimentos associados a operação
+[00:03:05.720] orgânica, claro, que geram isso. E tem
+[00:03:08.720] também movimentos de como a gente tá
+[00:03:11.040] evoluindo
+[00:03:12.560] as várias entidades do Santander Brasil
+[00:03:15.239] na direção de ter mais lucro no veículo
+[00:03:18.200] do banco e com isso uma maior capacidade
+[00:03:21.000] de absorção do nosso estoque de DTAs,
+[00:03:23.560] que é um tema de capital, de
+[00:03:24.760] rentabilidade e por que não de resultado
+[00:03:27.239] bastante relevante. A gente pode falar
+[00:03:28.760] mais disso depois. como esse lucro onde
+[00:03:31.319] imposto cresce, como isso, como isso
+[00:03:33.319] acontece nas macrolinhas.
+[00:03:36.239] A gente tem uma margem financeira que
+[00:03:37.840] cresce tri contra tri, 3.1%, a gente vai
+[00:03:40.920] depois sacar ah pelas sublinhas.
+[00:03:44.200] Claramente tem um efeito grande aqui de
+[00:03:45.840] mercados. Eu já vou contar um pouco para
+[00:03:47.439] vocês como a gente gere na prática o
+[00:03:49.159] banco, olhando menos o que é mercado e o
+[00:03:51.840] que é passivo de clientes, e sim olhando
+[00:03:54.079] a margem, o perímetro como um todo
+[00:03:56.519] passivo do banco. Mas sem dúvida é uma
+[00:03:58.519] evolução positiva. A gente tem uma queda
+[00:04:01.480] que é bastante sazonal em comissões de
+[00:04:03.239] 5,5%, depois vocês vão ver linha a linha
+[00:04:06.159] aonde cai o que é esperado até que cai,
+[00:04:09.000] aonde sobe. A gente tem pontos bem
+[00:04:10.840] positivos na linha de comissões para
+[00:04:12.640] comentar. Sem dúvida, a gente quer mais
+[00:04:14.159] e a gente quer continuar evoluindo e
+[00:04:15.959] crescendo comissões desproporcionalmente
+[00:04:18.479] em relação à carteira. Esse tri, a gente
+[00:04:20.280] tem isso na na visão anualizada, a gente
+[00:04:23.160] cresce 1.6 vezes as comissões em relação
+[00:04:25.280] à carteira e a gente vai continuar
+[00:04:26.440] buscando isso. O nosso ROI, por um
+[00:04:28.840] efeito matemático, claro, o numerador
+[00:04:31.000] diminuindo na visão trimestral e o PL
+[00:04:33.919] médio subindo a que é o denominador, na
+[00:04:36.840] prática, o ROI volta para 16%. Não é um
+[00:04:39.680] número estrutural, é um número, eu
+[00:04:41.600] diria, contábil. a gente sem dúvida
+[00:04:43.199] continua com a missão de buscar um ROI
+[00:04:45.759] que ao longo do ano volta a crescer, que
+[00:04:47.840] vai buscar um ROY médio ah compatível e
+[00:04:50.880] acima do que a gente teve ano passado. E
+[00:04:52.880] a nossa meta de buscar não como meta
+[00:04:54.919] definitiva, mas como degrau importante,
+[00:04:57.560] o ROY de 20%, tá absolutamente reforçada
+[00:05:00.880] e chancelada e a gente tá trabalhando
+[00:05:03.080] organicamente para entregar esse banco
+[00:05:04.960] nos próximos 2 anos. O nosso número de
+[00:05:07.479] custo de crédito fica praticamente
+[00:05:08.919] estável. Ele, na verdade, cai um
+[00:05:10.000] pouquinho no TRI e a gente vai falar
+[00:05:11.520] mais em detalhe. E a eficiência por
+[00:05:13.360] conta da melhora nas receitas e a gestão
+[00:05:15.720] de gastos bem controlada, vocês vão ver
+[00:05:17.360] que é uma ótima entrega do TRI. A
+[00:05:19.479] eficiência melhora 110 pontos no
+[00:05:21.520] trimestre.
+[00:05:23.720] A gente tem um slide só que a gente fala
+[00:05:25.319] mais de estratégia, de dados mais quali
+[00:05:27.880] e depois eu vou entrar nos números. Mas
+[00:05:29.840] vale comentar, como sempre, a gente
+[00:05:31.319] começa com cliente. O cliente sendo
+[00:05:33.800] centro, não dá para deixar de cobrir
+[00:05:35.720] numa página do lado esquerdo. A gente
+[00:05:37.199] fala a evolução de números. A gente
+[00:05:39.600] cresce seis numa base anualizada, base
+[00:05:42.400] de clientes totais e três clientes
+[00:05:44.520] ativos. Então a gente continua crescendo
+[00:05:46.680] a franquia. Obviamente importa mais
+[00:05:49.160] ainda quanto que eu extraio de todos
+[00:05:51.600] esses clientes ativos. da
+[00:05:52.720] principalidade. Vocês vão ver alguns
+[00:05:54.160] dados nos quais a gente mostra como a
+[00:05:56.520] gente tá conseguindo ressignificar a
+[00:05:58.800] nossa relação, focar num massivo cada
+[00:06:01.680] vez mais cirúrgico e mais produtivo em
+[00:06:04.479] termos de rentabilidade. Então, a gente
+[00:06:06.240] tá evoluindo na franquia de clientes
+[00:06:08.120] continuamente, claro que a gente quer
+[00:06:09.520] mais. E à direita eu dou destaque a algo
+[00:06:11.840] bem significativo que a gente acaba de
+[00:06:13.520] lançar. Então aqui tem tinta fresca na
+[00:06:15.759] notícia. A gente lançou esses dias o
+[00:06:18.360] nosso Santander Rewards, que é uma das
+[00:06:20.720] entregas mais importantes nesses vários
+[00:06:22.639] anos que eu lidero o banco e que a gente
+[00:06:25.280] pela primeira vez traz a relação do
+[00:06:27.360] cliente como um todo pra forma como a
+[00:06:29.360] gente prestigia o cliente em pontos, em
+[00:06:31.560] benefícios e vantagens. Então, ao invés
+[00:06:34.520] da relação cartão que nós e toda a
+[00:06:37.160] indústria sempre teve, você consome
+[00:06:39.160] tanto, tem tantos pontos, tem isenção,
+[00:06:41.039] etc.,
+[00:06:41.960] A gente agora olha a relação do cliente
+[00:06:43.680] como um todo e de fato prestigiu o
+[00:06:45.960] cliente que prestigiu Santander e faz
+[00:06:48.479] isso de uma forma didática, de forma com
+[00:06:50.880] bastante engajamento, quase que com uma
+[00:06:52.639] gamificação. E a gente com isso traz eh
+[00:06:56.280] de forma dinâmica e multicanal o cliente
+[00:06:58.599] cada vez mais perto. Então, um grande
+[00:07:00.319] lançamento. A gente vai fazer uma
+[00:07:01.479] campanha que começa eh no sábado junto
+[00:07:04.360] de um show que a gente vai patrocinar
+[00:07:05.960] bem grande, talvez o maior evento de
+[00:07:07.720] música do ano lá no Rio. E a gente vai
+[00:07:10.080] com isso evoluir mais ainda uma franquia
+[00:07:12.800] de clientes e especificamente de
+[00:07:14.400] cartões, que é já um dos nossos grandes
+[00:07:16.400] pilares, como vocês vão ver nos números.
+[00:07:20.280] Aqui indo direto já para pros dados, pra
+[00:07:22.879] gente ser bem produtivo, focando em
+[00:07:24.759] carteira, a gente continua exatamente na
+[00:07:27.680] mesma linha que eu venho comentado de
+[00:07:29.680] forma bastante repetitiva, no bom
+[00:07:32.400] sentido com vocês já há alguns anos.
+[00:07:34.960] A cabeça do Santander é de crescer, sem
+[00:07:37.280] dúvida, mas crescer com qualidade,
+[00:07:39.800] crescer com disciplina de elocação de
+[00:07:41.319] capital, crescer com disciplina de
+[00:07:43.800] gestão da rentabilidade marginal de cada
+[00:07:45.919] desembolso. Então, cada um dos segmentos
+[00:07:48.599] que a gente produz todo dia, e vocês
+[00:07:50.159] podem imaginar, a gente produz muitas
+[00:07:52.120] centenas de milhões todos os dias, desde
+[00:07:54.919] o massivo até o private, desde a pequena
+[00:07:58.000] empresa, até o grande cliente Ultrage
+[00:08:00.400] Corporate, a gente olha a gestão
+[00:08:02.159] marginal de rentabilidade do ativo e
+[00:08:05.759] rentabilidade do cliente a cada
+[00:08:07.879] desembolso. E a gente tem feito isso, na
+[00:08:10.360] minha visão, de forma impecável ao longo
+[00:08:11.800] dos últimos anos. Claro que Expost a
+[00:08:13.680] gente avalia, na verdade, a cada mês a
+[00:08:15.720] gente vai avaliando a performance de
+[00:08:17.000] tudo isso e vai retroalimentando o nosso
+[00:08:19.280] sistema de originação. Mas as safras que
+[00:08:21.599] a gente vem produzindo nos últimos anos,
+[00:08:23.520] a gente tem produzido tal qual a gente
+[00:08:25.560] esperava e obviamente isso vai
+[00:08:27.840] misturando no bom sentido com as safras
+[00:08:30.000] mais antigas e fazendo um portfólio cada
+[00:08:31.720] vez melhor. Então, quando vocês vê um
+[00:08:33.479] crescimento plano para levemente
+[00:08:35.599] negativo, eu olho de forma positiva para
+[00:08:39.000] essa construção e vejo que na PF a gente
+[00:08:41.159] tá caindo, mas a gente esperava cair na
+[00:08:43.599] PF. A gente esperava cair na PF porque
+[00:08:46.600] na baixa renda a gente tá reduzindo
+[00:08:48.760] alguns pontos percentuais no Tri.
+[00:08:52.680] E isso é técnico, isso é científico, a
+[00:08:55.600] gente tá fazendo de forma programática e
+[00:08:58.600] isso é o nosso de risking da baixa renda
+[00:09:00.560] acontecendo
+[00:09:02.200] em full force. A gente tá já há alguns
+[00:09:04.880] anos fazendo isso. A gente imagina que
+[00:09:06.480] em 26 e parte de 27 a gente ainda vai
+[00:09:09.480] completar esse de risking da baixa
+[00:09:11.240] renda. Ele leva mais tempo porque a
+[00:09:13.279] carteira de baixa renda é a carteira com
+[00:09:15.160] duration mais alto que a gente tem.
+[00:09:17.240] Então, leva um pouco mais de tempo, mas
+[00:09:18.760] a gente tá fazendo isso com o máximo de
+[00:09:20.120] velocidade que a gente pode. Então, esse
+[00:09:22.120] portfólio runof da baixa renda, como a
+[00:09:24.079] gente chama, faz com que a carteira da
+[00:09:26.000] PF tenha uma ancoragem de crescimento.
+[00:09:29.519] Mas essas fichas de capital que eu gero
+[00:09:31.360] baixando a minha baixa renda, eu
+[00:09:33.640] realoco, bom, na própria baixa renda que
+[00:09:35.560] eu quero crescer e tem uma parte grande
+[00:09:37.320] que eu quero crescer e eloco na alta
+[00:09:39.480] renda e nos outros segmentos. O blend
+[00:09:41.440] disso é uma queda na PF, mas não há uma
+[00:09:43.480] queda na PF que nos preocupa. Essa queda
+[00:09:46.279] também tem um efeito sazonal em cartões,
+[00:09:48.880] dada a sazonalidade de primeiro tris
+[00:09:51.160] contra quarto trz. Como eu falei, a
+[00:09:52.920] nossa franquia de cartões é um dos
+[00:09:54.519] carros chefe da franquia e tem ido super
+[00:09:57.040] bem. A gente teve um quarto tri record
+[00:09:59.560] meses sobre meses de faturamento recorde
+[00:10:02.040] e naturalmente no primeiro tri. Vocês
+[00:10:03.920] vão ver isso também em comissões. Mas no
+[00:10:06.240] crédito imobiliário, por exemplo, a
+[00:10:07.600] gente tá evoluindo bastante bem a
+[00:10:09.079] franquia. a gente cresce no tri, cresce
+[00:10:12.279] quase dois dígitos ou um pouco acima de
+[00:10:14.320] dois dígitos no ano e vale de sacar no
+[00:10:16.880] imobiliário que o home equity, que a
+[00:10:18.680] gente chama aqui do uso e casa, é um
+[00:10:20.640] produto no qual o Santander é líder e a
+[00:10:23.160] gente tá crescendo a originação em 13
+[00:10:26.240] pontos relativamente ao imobiliário
+[00:10:28.399] tradicional, ou seja, a gente tá fazendo
+[00:10:29.800] muito mais romcode do que a gente jamais
+[00:10:31.440] fez. a gente tá com uma originação
+[00:10:33.440] mensal que tá aí batendo R50, quase R
+[00:10:36.480] 400 milhões deais, que é praticamente o
+[00:10:38.639] dobro do que a gente fazia um ano atrás.
+[00:10:41.839] Em financiamento ao consumo, a gente tem
+[00:10:43.519] um crescimento positivo, ainda que menor
+[00:10:46.320] no Tri. Aqui a gente vai mais acompanhar
+[00:10:48.880] o mercado. A gente não quer ter um
+[00:10:50.360] crescimento desproporcional em relação
+[00:10:51.959] ao mercado, porque a gente já é o líder
+[00:10:53.880] e a gente, ao tomar mais risco do que o
+[00:10:56.120] mercado, a gente na prática vai estar
+[00:10:57.560] diluindo a originação que a gente tem
+[00:10:59.720] feito super bem. A financeira é uma das
+[00:11:01.800] joias da coroa aqui. A gente tem um
+[00:11:03.160] orgulho danado dela, mas ela precisa ser
+[00:11:05.480] feita de forma controlada e cometida. E
+[00:11:07.399] o cenário macro, obviamente, não
+[00:11:09.240] comporta a gente crescer de forma
+[00:11:11.000] acelerada aqui. Mas vocês veem que na
+[00:11:12.760] visão ano contra ano a gente, aí a gente
+[00:11:14.200] ainda tem um crescimento de 14 na
+[00:11:16.120] financeira. Vale destacar
+[00:11:19.040] em veículos elétricos, de cada dois
+[00:11:21.399] veículos elétricos financiados no
+[00:11:22.959] Brasil, um deles é financiado pelo
+[00:11:25.000] Santander. Se a gente tem uma cota
+[00:11:26.880] agregada de 20 a 21, em elétricos, a
+[00:11:29.720] gente tem uma cota de 50%, sendo que
+[00:11:31.440] algumas marcas, algumas das quais mais
+[00:11:34.200] crescem no Brasil, a gente tem 2/3 a
+[00:11:37.200] 75%. Então a gente tem uma penetração
+[00:11:39.800] muito grande de elétricos. Esse é um
+[00:11:41.440] cliente com melhor rating, porque o
+[00:11:43.360] ticket média é mais alto. Carro novo tem
+[00:11:46.160] performance de crédito melhor do que
+[00:11:47.760] carro usado, quase que por definição.
+[00:11:49.880] Então a gente tem concentrado muito na
+[00:11:51.800] financeira, no crescimento de novos e
+[00:11:54.320] especificamente elétricos.
+[00:11:57.000] Esse já é um negócio fora cartões que
+[00:11:58.800] mais gera comissões pro nosso banco.
+[00:12:01.120] Então a gente tem crescido
+[00:12:03.000] exponencialmente a capacidade de gerar
+[00:12:04.760] comissões por riscader assets na
+[00:12:07.200] financeira. Então financeira aqui tá
+[00:12:08.600] fazendo um trabalho de crossell, vamos
+[00:12:10.560] chamar com banco e entre linhas, entre
+[00:12:12.519] margem e comissões, um trabalho
+[00:12:14.320] impecável.
+[00:12:16.040] A gente pequenas e médias anda de lado
+[00:12:17.720] no Tri. Obviamente esse é um segmento
+[00:12:19.680] que eu tenho dito a vocês há anos que a
+[00:12:21.880] gente quer crescer disso
+[00:12:22.680] proporcionalmente. Esse crescimento não
+[00:12:24.800] aconteceu no primeiro tri. Óbvio que a
+[00:12:26.800] gente preferia ver um número diferente
+[00:12:29.320] em que pese ano contra ano tá perto de
+[00:12:31.160] 10. Mas aqui a gente foi mais cauteloso
+[00:12:33.920] dado o cenário macro. A gente no
+[00:12:35.880] segmento das pequenas, das
+[00:12:37.279] pequenininhas, que a gente chama de
+[00:12:38.519] empresas um, das pequenas empresas, a
+[00:12:40.680] gente tem um desafio maior de crédito
+[00:12:42.360] dado macro. Então a gente foi menos
+[00:12:44.399] agressivo nesse primeiro tri, mas
+[00:12:45.800] obviamente aqui direcionalmente continua
+[00:12:47.639] sendo junto com alta renda um dos dois
+[00:12:49.720] grandes segmentos em que a gente tem que
+[00:12:51.160] crescer dois dígitos plus ao ano, tem
+[00:12:54.360] que ganhar cota e tem que se
+[00:12:55.560] diferenciar.
+[00:12:57.079] Em grandes empresas também um
+[00:12:58.199] crescimento de lado. Aqui o efeito
+[00:12:59.639] câmbio, que foi bem material no primeiro
+[00:13:01.800] tri, é mais relevante. A gente tem como
+[00:13:04.079] maior banco internacional no Brasil uma
+[00:13:05.480] carteira de trade muito grande. Então em
+[00:13:07.800] dólares ou em euros a gente teve uma
+[00:13:09.199] valoração do real, que é bom pra
+[00:13:10.639] economia, mas pra carteira não
+[00:13:12.320] necessariamente. Então aqui o o efeito
+[00:13:14.160] do câmbio leva a carteira para baixo.
+[00:13:16.360] Mas mais um andar de lado aqui no
+[00:13:18.360] atacado. Aqui não é falta de apetite,
+[00:13:19.920] aqui não é falta de capital. Obviamente,
+[00:13:21.959] como eu tenho dito para vocês, é muito
+[00:13:23.279] mais o foco enorme que a gente tem na
+[00:13:25.639] disciplina. de rentabilidade marginal e
+[00:13:28.000] de crossell. Então, a carteira como todo
+[00:13:31.000] involui 04, no ano 3.4. Eu tinha falado
+[00:13:34.199] que comissões crescia 1.6 vezes isso.
+[00:13:36.800] Essa relação de crescer comissões contra
+[00:13:39.519] carteira, a gente vai continuar buscando
+[00:13:41.680] e vocês podem cobrar
+[00:13:43.600] a a disciplina da gestão. Aqui eu já dei
+[00:13:45.519] alguns destaques que estão à direita,
+[00:13:46.920] vale só comentar adicionalmente na PF
+[00:13:50.720] que a parte alta renda somando o private
+[00:13:53.959] e o select cresce.
+[00:13:56.160] três pontos percentuais de share, ou
+[00:13:58.000] seja, a gente tá ao mesmo tempo que a
+[00:13:59.639] gente diminui o nosso massivo, a gente
+[00:14:02.000] aumenta o nosso alta renda. Então, cada
+[00:14:04.079] vez mais eu ter uma PF de alta renda
+[00:14:06.360] aqui no Santander. Isso vai continuar
+[00:14:07.800] acontecendo pelo menos ao longo dos
+[00:14:09.440] próximos 1 do anos.
+[00:14:12.800] Bom, a derivada seguinte da carteira,
+[00:14:15.120] margem financeira, a gente em margem,
+[00:14:17.880] como eu falei mais cedo, a gente tem um
+[00:14:19.279] crescimento, eu diria, bastante bom, tri
+[00:14:21.279] contra tri, de 3.1. A composição dele é
+[00:14:25.240] mais por conta de mercados do que por
+[00:14:27.440] conta de clientes. Na verdade, o número
+[00:14:28.959] frio de clientes ele cai 1.4%.
+[00:14:32.480] É verdade que em clientes, tanto em
+[00:14:34.480] margem quanto em comissões,
+[00:14:37.120] o delta de azul dias corridos tira
+[00:14:39.600] aproximadamente R 300 milhões deais
+[00:14:41.800] entre margem e comissões. Então não é
+[00:14:44.079] menor o efeito de dias, mas enfim, isso
+[00:14:45.920] é só um contexto.
+[00:14:47.880] Mas o jeito que a gente geregem
+[00:14:56.470] com mercado e margem com clientes
+[00:14:56.480] passivo e ativo separado. Mas a forma
+[00:14:59.720] como a nossa gestão financeira, o nosso
+[00:15:01.399] ELM é tocado é pelo perímetro de
+[00:15:04.240] passivos como um todo. Quando a gente
+[00:15:06.839] começa em setembro de 24 a neutralizar
+[00:15:10.519] muito mais o balanço do banco, fazendo o
+[00:15:12.839] red marginal da produção, é um red
+[00:15:14.800] dinâmico entre 50 e 100% na média todos
+[00:15:17.680] os dias, o que deve levar uma média de
+[00:15:20.160] 70 75% e já um ano e 9 meses. Esse red
+[00:15:24.480] dinâmico, na prática, diminui a
+[00:15:26.680] volatilidade que o balanço tem ao juro
+[00:15:29.079] de curto prazo, diminui, claro, o
+[00:15:32.360] carrego positivo ou negativo com grandes
+[00:15:34.600] movimentos de taxa de juros. E junto
+[00:15:36.839] disso a gente fez um movimento de
+[00:15:38.440] alongamento da nossa carteira
+[00:15:41.680] de títulos de muito curto prazo, que
+[00:15:43.600] portanto também eram muito mais
+[00:15:45.199] sensíveis ao cupom, ao juro curto para
+[00:15:49.000] bondos muito mais de longo prazo, que
+[00:15:50.680] permitem, não só com os menores, mas
+[00:15:52.880] permitem uma realização de resultado ao
+[00:15:56.120] longo do tempo com as valias, como a
+[00:15:58.079] gente chama, né, com com o resultado
+[00:16:00.160] embutido na marcação ao mercado. Essa
+[00:16:02.519] evolução positiva da nossa gestão
+[00:16:04.360] financeira
+[00:16:06.000] foi agregada a visão ampliada do ALM. O
+[00:16:10.240] ALM não é só medido aqui no Santander
+[00:16:12.600] pelo resultado frio que acaba sendo
+[00:16:14.759] reportado em margem de mercados. A gente
+[00:16:18.000] gere e acompanha nos comitês específicos
+[00:16:21.079] a gestão do passivo como um todo, ou
+[00:16:23.560] seja, o perímetro ampliado que soma
+[00:16:25.759] margem de passivos com clientes e ALM.
+[00:16:30.440] Esse é o perímetro com o qual a gente
+[00:16:31.920] avalia o time, se avalia, me avalia. E
+[00:16:34.759] esse número tem crescido todos os anos.
+[00:16:38.240] A gente não reporta dessa forma porque o
+[00:16:39.759] mercado inteiro faz essa quebra como tá
+[00:16:42.199] aqui. Mas eu quis fazer esse parênteses
+[00:16:44.160] rápido para dizer que no fundo não nos
+[00:16:46.560] preocupa margem com mercado está
+[00:16:48.680] melhorando bem e margem com clientes por
+[00:16:50.759] passivos cair um pouco porque o
+[00:16:52.319] agregado, sem dúvida, tá andando na
+[00:16:54.079] direção certa. Então, grandes grandes
+[00:16:56.440] secados, não fosse pelos efeitos
+[00:16:58.360] contábeis de 4966, o SPR estaria plano.
+[00:17:01.680] O que no contexto em que eu sigo fazendo
+[00:17:03.720] risking da baixa renda e realocando
+[00:17:06.039] essas de capital em outros segmentos,
+[00:17:08.079] mas que rendem menos margem bruta, o
+[00:17:10.720] spread tá plano é bastante bom.
+[00:17:14.000] Segundo recado, pela primeira vez,
+[00:17:15.880] provavelmente na história do banco, a
+[00:17:17.919] gente tem uma PF que traz mais volume de
+[00:17:20.280] captação do que a PJ. Eu falo há anos
+[00:17:22.959] para vocês que um dos pilares, uma das
+[00:17:24.919] golden rules que a gente chegou a contar
+[00:17:26.640] para vocês, uma das regras de ouro da
+[00:17:28.720] gestão, a gente evoluir o mix de fund do
+[00:17:31.039] banco. A gente não tá onde a gente quer
+[00:17:33.320] ainda. A gente quer chegar pelo menos 60
+[00:17:35.480] 40, mas a gente chegou já a 5149, o que
+[00:17:37.960] é o marco. [limpando a garganta] Isso
+[00:17:39.720] não é só reflexo da nossa atividade
+[00:17:41.600] transacional muito melhor no varejo como
+[00:17:43.919] todo na PF, mas traz um custo menor per
+[00:17:47.679] custa menos captar dinheiro na PF do que
+[00:17:50.000] na PJ. O segundo dado e talvez seja mais
+[00:17:53.039] emblemático ainda no massificado, no
+[00:17:55.480] nosso baixa renda, vejam evolução de uma
+[00:17:58.679] base 100 de 24 para 25, evoluiu um
+[00:18:01.080] pouquinho, a carteira cai de 100 para
+[00:18:02.840] 99,
+[00:18:04.559] mas de 25 para 26 ela cai de 99 para 91.
+[00:18:08.559] Então outros oito pontos percentuais da
+[00:18:10.640] mesma base 100 de 24. Esse mesmo
+[00:18:13.280] segmento, exatamente no mesmo recorte,
+[00:18:16.159] sobe o depósito transacional de 100,
+[00:18:19.400] sobe um pouquinho já no primeiro ano
+[00:18:21.200] para 106, mas nesse segundo ano sobe
+[00:18:24.240] mais 16 pontos. Então, olhando só os
+[00:18:26.400] últimos 12 meses, eu cresço 16 pontos
+[00:18:29.280] percentuais dos depósitos com o mesmo
+[00:18:31.440] perímetro de massivo e reduzo a
+[00:18:34.080] exposição em oito pontos, dois para um,
+[00:18:37.200] sendo que um foi negativo e o outro foi
+[00:18:38.640] positivo.
+[00:18:40.440] Isso mostra que a gente tá conseguindo
+[00:18:42.000] focar num massivo, sim, um pouco menor,
+[00:18:45.400] mas muito mais produtivo e muito mais
+[00:18:47.039] sentável. E isso com o tempo vai
+[00:18:49.440] aparecer na conta, sem dúvida.
+[00:18:56.590] Falando de comissões, é uma linha que
+[00:18:56.600] sazonalmente primeiros tris contra
+[00:18:58.400] quarto tris tem uma pressão, tipicamente
+[00:19:01.159] uma redução. Eu olho para esse 5,5 e
+[00:19:04.960] obviamente prefiro zero positivo no
+[00:19:07.039] primeiro tri, mas quando eu olho a
+[00:19:08.919] quebra, alguns dos números são
+[00:19:11.760] explicáveis pela sazonalidade, outros eu
+[00:19:13.960] diria que a gente fez bastante bem e
+[00:19:15.200] outros a gente tem que fazer bem melhor.
+[00:19:17.400] Então, passando ponto a ponto, cartões é
+[00:19:19.679] onde tem uma sazonalidade que dado como
+[00:19:22.280] a gente cresceu e de novo cresceu com
+[00:19:24.000] qualidade, com saúde de carteira ao
+[00:19:27.120] longo do ano passado todo e no último
+[00:19:28.960] tri fez o o nosso all time high. Em
+[00:19:32.000] cartões, a gente tem uma sazonalidade de
+[00:19:33.440] queda, é a nossa maior linha de
+[00:19:34.960] comissões, como já é há muito tempo, mas
+[00:19:37.000] ainda no ano contra ano, praticamente
+[00:19:38.559] dois dígitos. E de novo, isso aqui é com
+[00:19:40.640] qualidade. É um é uma comissão com nível
+[00:19:43.760] de crédito nos rotativos e parcelados.
+[00:19:47.360] adequada,
+[00:19:48.880] com rentabilidade bastante boa. Já o
+[00:19:51.919] business de seguros, que deveria ter
+[00:19:53.320] tido uma sazonalidade até maior no
+[00:19:55.000] primeiro tri, mostrou uma queda
+[00:19:56.960] praticamente zero e um ano contra ano
+[00:19:59.840] com dois dígitos, claro. Então aqui a
+[00:20:01.559] gente ficou bastante contente. Isso aqui
+[00:20:03.640] é menos o seguro related, ou seja, o
+[00:20:06.240] seguro associado ao crédito, porque a
+[00:20:07.799] gente tá menos agressivo, menos eh eh
+[00:20:11.840] crescendo menos a carteira. Então, a
+[00:20:13.480] gente fez melhor ainda o que é mais
+[00:20:15.000] difícil, que é o seguro open, aquele
+[00:20:16.840] seguro descorrelacionado do crescimento
+[00:20:19.000] da carteira. Então, e ponto positivo
+[00:20:21.080] aqui na linha de comissões, sem dúvida,
+[00:20:22.919] a linha de seguros, que é a segunda
+[00:20:24.039] maior. A gente encontra tem uma queda,
+[00:20:26.840] mas é uma queda, eh, quase que
+[00:20:29.039] estrutural da indústria. Eu diria que a
+[00:20:31.159] gente tem caído como Santander menos do
+[00:20:33.559] que o mercado. O mercado naturalmente
+[00:20:35.960] vai tendo a pressão das contas free,
+[00:20:38.240] como a gente chama aqui, das contas sem
+[00:20:40.200] comissão e é natural e é saudável, mas a
+[00:20:42.760] gente tem conseguido engajar os clientes
+[00:20:44.480] PFPJ para manter na média e cair mais
+[00:20:48.640] devagar do que do que muitos
+[00:20:49.840] concorrentes. Então é um é um número que
+[00:20:52.039] eu vejo positivamente também. Operações
+[00:20:54.640] de crédito, sem dúvida, é uma queda por
+[00:20:56.679] sazonalidade e, obviamente, pela menor
+[00:20:59.159] agressividade nossa em concessão em
+[00:21:00.880] alguns portfólios. Então, não é o número
+[00:21:02.360] que eu gosto de ver, mas ele é explicado
+[00:21:04.480] pela menor produção de ativos. E a
+[00:21:06.679] administração de recursos tem, eu diria,
+[00:21:08.840] na prática, duas positivas. Em consórcio
+[00:21:10.960] a gente tá voltando a crescer num ritmo
+[00:21:12.600] maior. Eu quero muito mais que isso.
+[00:21:14.520] Falei hoje cedo pra organização toda que
+[00:21:16.559] eu espero crescer o dobro disso. Eh, eh,
+[00:21:19.360] trimestralmente. Eu acho que a gente vai
+[00:21:20.640] conseguir, mas já é um crescimento mais
+[00:21:22.679] decente se a gente anualiza. E o de
+[00:21:24.640] administração de recursos tem um
+[00:21:25.880] contraefeito de um pontual no quarto
+[00:21:28.080] tri. E mais, mais importante olhar o
+[00:21:30.360] 20.9 que a gente tem no ano contra ano,
+[00:21:32.840] eh, que mostra que a franquia nossa
+[00:21:34.559] deet, eh, que reconhecidamente ela é
+[00:21:37.279] desproporcionalmente menor do que o
+[00:21:39.480] resto do banco e, portanto, é onde a
+[00:21:41.039] gente tem mais que crescer em
+[00:21:42.240] velocidade, vai crescer, é um negócio
+[00:21:44.400] não para dobrar, ele é um negócio para
+[00:21:45.679] triplicar ao longo dos próximos anos,
+[00:21:47.840] mas a gente tá indo numa velocidade de
+[00:21:49.200] crescimento anual já bastante melhor. Em
+[00:21:52.440] cobrança e corretagem de títulos, a
+[00:21:54.279] gente foi bastante bem no TRI. Então são
+[00:21:55.760] duas linhas que foram fortes em em
+[00:21:58.720] corretagem, mercado de capitais, foi dos
+[00:22:00.960] tris mais fortes que a gente já teve. Em
+[00:22:03.039] cobrança, arrecadação também teve um
+[00:22:04.799] trio bastante bom. E aí o outros tem
+[00:22:06.840] alguns contraefeitos também de vendas de
+[00:22:08.600] carteira, venda de negócio do no fim do
+[00:22:10.279] ano passado. Nada que chame tanto
+[00:22:12.559] atenção.
+[00:22:14.200] De destaques, eu já falei bastante, mas
+[00:22:16.120] a o negócio de de cartões continua
+[00:22:18.039] evoluindo bem. A gente em dois anos
+[00:22:20.080] consegue crescer o faturamento, quase
+[00:22:21.640] 20%. A gente em seguros tem novos
+[00:22:24.559] produtos de menor ticket na financeira,
+[00:22:27.520] mão na roda, na conta e no cartão. O
+[00:22:30.080] seguro de conta e cartão protegido
+[00:22:32.320] também evoluíram super bem. Alguns
+[00:22:33.840] seguros mais ã mais mais de mais alto
+[00:22:37.360] valor que a gente vai vender pra base de
+[00:22:38.720] alta renda. Em consórcio a gente lança
+[00:22:41.080] dois produtos fundamentais no fim do
+[00:22:43.240] tri, que ainda não geram resultado no
+[00:22:45.279] Tri, mas que a gente espera bastante
+[00:22:46.720] deles ao longo do ano. E fashion gaps
+[00:22:48.840] que a gente tinha em relação à
+[00:22:49.919] concorrência, principalmente os
+[00:22:50.919] independentes, que são o lance fixo e o
+[00:22:54.559] e o e a parcela reduzida.
+[00:22:57.799] Aqui em qualidade da carteira
+[00:23:00.200] tem vários dados. Eu vou tentar ser
+[00:23:01.520] breve para dar tempo de cobrir depois no
+[00:23:03.520] Q&A.
+[00:23:05.240] Primeiro,
+[00:23:06.840] o custo de crédito em si friamente ele
+[00:23:09.960] cai alguns base points no tri, OK?
+[00:23:12.520] Positivo. A PDD ela sobe, mas ela sobe,
+[00:23:16.520] na minha visão, num num ritmo
+[00:23:19.320] bastante aceitável e explicado
+[00:23:22.120] principalmente por uma redução nas
+[00:23:25.120] recuperações, que por sua vez são
+[00:23:27.279] explicadas por uma redução na venda de
+[00:23:29.200] carteiras. Então, a gente fez menos
+[00:23:30.600] vendas de carteira no TRI, fez uma
+[00:23:33.320] recuperação em bloco, que são as vendas
+[00:23:35.200] de carteira, um pouco menor e o, eu
+[00:23:37.880] diria que o BA andou praticamente de
+[00:23:40.320] lado com o contexto macro que a gente
+[00:23:41.919] tá. Então, dado o contexto que a gente
+[00:23:43.720] tá e alguns portfólios que continuam
+[00:23:45.480] preocupando, eu já citei eh brevemente
+[00:23:49.320] pequenas empresas, a gente tem no agro
+[00:23:51.840] ainda um desafio em que pese, eu espero
+[00:23:54.120] o ano vai ser bem melhor ou menos pior
+[00:23:56.480] do que foi o ano passado. O ano passado
+[00:23:57.799] foi de fato muito ruim pro mercado como
+[00:23:59.720] todo e o Santander não tava imune. a
+[00:24:02.440] gente espera uma melhora relativa, mas
+[00:24:04.039] ainda um ano desafiado no agro, um ano
+[00:24:06.200] desafiado nas pequeninhas empresas, em
+[00:24:08.960] partes também do nosso portfólio de
+[00:24:10.320] cartões, em que pese ser um negócio como
+[00:24:12.039] um todo que tá andando muito bem, a
+[00:24:13.799] gente tem pequenos ajustes para fazer,
+[00:24:15.400] dado o tema do endividamento das
+[00:24:17.559] famílias, do qual tá se falando
+[00:24:19.159] bastante, inclusive com o novo programa
+[00:24:22.080] que o governo deve lançar nos próximos
+[00:24:23.880] dias.
+[00:24:25.320] Então diria que a PDD andou eh bem, o
+[00:24:28.799] custo de crédito cai, o NPL Formation tá
+[00:24:32.279] praticamente estável e quando a gente
+[00:24:33.840] olha ele numa senda de um ano, ele tá
+[00:24:35.919] nos mesmos níveis, então a gente não tem
+[00:24:38.000] uma preocupação aqui. E quando a gente
+[00:24:39.880] olha os overs, comentários um pouco
+[00:24:42.720] distintos. No atraso curto do 15 a 90, a
+[00:24:45.720] gente já vê a PJ eh numa inflexão leve,
+[00:24:49.720] caindo um pouquinho no TRI, lembrando
+[00:24:52.600] que tem um componente na PJ associado
+[00:24:55.640] aos programas governamentais que não
+[00:24:57.320] vira depois PDD, como a gente sabe. E na
+[00:25:00.320] PF tem um aumento no R,90, mas ele é
+[00:25:03.640] bastante correlacionado ao imobiliário e
+[00:25:06.080] a financeira. São dois produtos nos
+[00:25:08.399] quais a gente tem uma geração de atraso
+[00:25:10.760] curto eh quase B.
+[00:25:13.399] Mas a rolagem disso pro atraso mais
+[00:25:15.520] longo e, portanto, mudança de estágio e,
+[00:25:17.440] portanto, incremento a PDD bastante
+[00:25:20.080] contida. Então, a gente acredita que
+[00:25:21.880] nesses dois portfólios a gente deve ter
+[00:25:23.640] no segundo tri uma reversão e, portanto,
+[00:25:26.480] uma não geração de over 90 e de provisão
+[00:25:28.880] adicional.
+[00:25:30.480] O over 90 ele tem alguns efeitos. Um
+[00:25:33.600] deles é ainda no quarto tri do ano
+[00:25:35.679] passado,
+[00:25:37.399] a gente fez uma revisão bastante técnica
+[00:25:39.600] de cada portfólio nosso eh massificado,
+[00:25:42.360] varejo e financeira e definiu que ao
+[00:25:45.120] invés de ter um tratamento de lançamento
+[00:25:48.120] a prejuízo quase que médio do portfólio,
+[00:25:51.399] a gente passou a ainda no quarto tri a
+[00:25:53.919] gerir portfólio a portfólio com muita
+[00:25:56.120] técnica de novo. Alguns antecipando a
+[00:25:58.720] velocidade com a qual a gente lançava
+[00:26:00.360] prejuízo ou fazer white off. em outros
+[00:26:02.520] casos possessipando, dado comportamento
+[00:26:04.960] histórico de recuperação de cada um dos
+[00:26:06.600] portfólios. Então isso tem algum efeito,
+[00:26:08.720] teve algum efeito no quarto tri, tem
+[00:26:10.240] algum efeito agora de alargamento do
+[00:26:12.360] prazo médio da carteira em que pese de
+[00:26:15.279] novo alguns serem até mais cedo. Isso
+[00:26:17.240] faz com que o over 90 também estique um
+[00:26:18.919] pouquinho, mas a gente continua com a
+[00:26:20.559] disciplina, claro, de lançar prejuízo
+[00:26:22.399] tudo aquilo que a gente não acreditar
+[00:26:24.880] que tem capacidade recuperatória e
+[00:26:27.159] depois a gente vai buscar isso via venda
+[00:26:29.320] de carteira. A pressão, como eu comentei
+[00:26:31.760] nos portfólios de agro, PF, baixa renda
+[00:26:34.640] principalmente e e empresas umas
+[00:26:37.279] empresas pequenininhas, aparece mais
+[00:26:39.480] aqui. Então, tem pedaços do nosso
+[00:26:42.360] portfólio que exigem mais atenção. A
+[00:26:44.159] gente presta atenção em todos, mas em
+[00:26:45.480] alguns a gente presta mais ainda. E
+[00:26:47.720] esses são aqueles que estão mais
+[00:26:49.080] correlacionados a esses aumentos do
+[00:26:51.000] over.
+[00:26:53.080] Falando de despesas aqui, mais um tri
+[00:26:55.399] que eu julgo que a gente tem uma entrega
+[00:26:57.640] bastante sólida, bem alinhada com o que
+[00:27:00.039] eu tenho falado de forma quase monótona
+[00:27:02.320] aqui para vocês ao longo dos anos. A
+[00:27:03.799] gente tá fazendo uma gestão eh finaquela
+[00:27:06.480] linha que a gente mais controla, então
+[00:27:08.000] realmente a nossa obrigação fazer, mas
+[00:27:09.840] não quer dizer que é fácil. a gente com
+[00:27:11.799] toda a pressão de câmbio ao longo do
+[00:27:13.960] ano, esse ano o câmbio ajudou, mas ao
+[00:27:15.360] longo do ano passado não, inflação de
+[00:27:17.640] sídio, agora reprficação de componente
+[00:27:20.520] de tecnologia por conta do conflito que
+[00:27:22.960] tá acontecendo lá fora eh e e vários
+[00:27:26.399] efeitos e e obviamente a própria
+[00:27:27.799] expansão da franquia, a gente tem
+[00:27:29.320] conseguido contrapor tudo isso com muita
+[00:27:31.919] gestão e a gente entrega um tri com
+[00:27:33.720] crescimento de gastos eh basicamente
+[00:27:35.960] zero. E quando a gente faz a quebra
+[00:27:37.640] entre o que é o gasto geral ordinário,
+[00:27:40.360] que é a boa parte, e o que é
+[00:27:41.480] amortização, a gente na prática tá
+[00:27:43.600] reduzindo nominalmente o gasto em 07 no
+[00:27:46.360] TRI e principalmente até numa visão
+[00:27:48.679] analisada em 03. Então tem uma quebra
+[00:27:52.279] aqui entre administrativas e pessoal,
+[00:27:54.399] mas essencialmente a gestão, óbvio, olha
+[00:27:56.440] as duas linhas. A gente tá enxugando
+[00:27:58.760] também o número de pessoas. a gente tem
+[00:28:00.640] uma redução já de, eu diria, vários mil
+[00:28:03.080] ano passado e a gente continua olhando
+[00:28:05.240] não friamente pelo número de pessoas,
+[00:28:06.880] mas para ter uma organização mais enxuta
+[00:28:08.880] e mais eficiente. O gasto sobe, por
+[00:28:11.880] outro lado, pelo derivado da da gente
+[00:28:14.240] ter investido em tecnologia e expansão
+[00:28:16.320] ao longo dos últimos anos. Então é
+[00:28:17.760] positivo e mesmo assim o blend é zero
+[00:28:19.720] nutrir e só 09 no ano contra ano. Isso
+[00:28:23.279] faz com que, claro, o nível de
+[00:28:24.600] eficiência melhore, porque eu tô
+[00:28:26.360] melhorando, ainda que não muito a linha
+[00:28:28.679] de cima. Obviamente eu quero crescer
+[00:28:29.960] mais a receita, mas ao crescer receita e
+[00:28:32.679] manter gasto plano, o índice de
+[00:28:34.360] eficiência só num tri cai 110 B, o que é
+[00:28:37.200] bom. Alguns dados aqui, o custo de
+[00:28:39.120] servidos select, que é o nosso
+[00:28:40.480] autarrenda, cai 19 pontos em do anos. Eu
+[00:28:43.000] nem precisava reduzir tanto assim o
+[00:28:44.440] custo do select, porque eu tenho já um
+[00:28:45.799] segmento bastante rentável, dos seus 20
+[00:28:48.440] altos pro centro de ROI, mas obviamente
+[00:28:50.880] é saudável conseguir fazê-lo e continuar
+[00:28:52.679] engajando bem o cliente. Mais importante
+[00:28:54.799] ainda no massivo, custo cai 44% em 2
+[00:28:58.120] anos.
+[00:28:59.080] eh, positivo, mas eu quero muito mais.
+[00:29:01.000] Então, o time sabe que a gente tem que
+[00:29:02.600] buscar aqui outros 30, 40% pelo menos eh
+[00:29:06.039] nos próximos 1, do anos para poder ter
+[00:29:07.799] de fato um massivo virtualmente tão
+[00:29:10.679] barato quanto os bancos digitais e com
+[00:29:12.880] isso e poder servi-los da melhor forma.
+[00:29:15.519] A gente cresce 22% em 2 anos em
+[00:29:18.840] tecnologia e expansão do negócio, ao
+[00:29:20.640] mesmo tempo que a gente cai nominalmente
+[00:29:22.039] três em todo o resto, que são as
+[00:29:24.120] despesas recorrentes. E por último, eu
+[00:29:26.960] vou comentar do gravity. A gente já
+[00:29:28.600] falou e o grupo fala bastante do
+[00:29:30.200] gravity, só para nivelar que que é o
+[00:29:32.720] Gravity, porque ele tá agora há poucos
+[00:29:34.080] meses implementado.
+[00:29:36.200] O gravity significa o Santander deixar
+[00:29:38.840] de processar o banco inteiro de
+[00:29:41.840] mainframe, aquelas máquinas caras que
+[00:29:44.399] você paga para comprar e depois paga
+[00:29:46.240] para consumir, os MIPs famosos. Você
+[00:29:48.760] passar de processar em mainframe e
+[00:29:51.080] passar a processar o banco inteiro no
+[00:29:52.519] que a gente chama de baixa plataforma,
+[00:29:53.880] que são máquinas menores, mais baratas,
+[00:29:56.120] mais eficientes, mais modernas.
+[00:29:58.600] essa redução eh numa base anualizada,
+[00:30:01.440] uma vez quando a gente implemente o
+[00:30:02.679] gravity, que a gente espera que seja
+[00:30:04.320] agora já no terceiro tri, idealmente no
+[00:30:06.360] começo, quando a gente olha anualizado a
+[00:30:09.080] partir dali, só a implementação do
+[00:30:11.200] gravity deve trazer uma redução de
+[00:30:13.600] savings de peto de R$ 400 milhões deais
+[00:30:15.559] ano. Vocês terem uma noção da
+[00:30:17.039] materialidade, quase dois pontos
+[00:30:18.720] percentuais da conta de despesas do
+[00:30:20.880] banco. E óbvio que a gente tá olhando
+[00:30:22.440] todo tipo de iniciativa que pode trazer
+[00:30:24.559] isso. Quando a gente pula para IA,
+[00:30:27.720] obviamente IA toca em praticamente tudo
+[00:30:30.559] e a gente tá olhando muito o IA como
+[00:30:32.720] agenda de eficiência, mas também agenda
+[00:30:34.320] de crescimento. O grupo no Investor Day
+[00:30:36.840] de fevereiro se comprometeu a gerar 1
+[00:30:39.080] bilhão de euros em 2028 de resultado
+[00:30:42.559] derivado de iniciativas de A. Dada a
+[00:30:44.880] relevância do Brasil, esse número pro
+[00:30:46.799] Brasil é algo como 200 milhões de euros,
+[00:30:49.240] fazendo uma conta rápida aqui, um 200.
+[00:30:51.480] Então, a gente já se comprometeu na
+[00:30:53.679] prática de em 2028 poder ter esse tipo
+[00:30:56.080] de eficiência. Mas para dar uma noção de
+[00:30:57.399] ordem de grandeza para vocês, esse ano,
+[00:30:59.679] se a gente agrega as várias iniciativas,
+[00:31:01.399] porque a gente não começou ontem a fazer
+[00:31:02.880] IA, a gente já deve ter alguma coisa
+[00:31:04.840] entre 400 e 500 milhões de resultado,
+[00:31:07.320] principalmente do lado de eficiência,
+[00:31:09.039] derivado de uso de a de forma mais
+[00:31:11.000] massificada.
+[00:31:12.880] para fechar a DRE. E eu vou parar aqui,
+[00:31:15.519] a gente já falou de cada uma das linhas,
+[00:31:17.039] mas em resumo a gente tem uma primeira
+[00:31:18.840] linha, a linha de cima, que cresce.
+[00:31:21.039] Obviamente ela tem que crescer mais e
+[00:31:23.600] vai crescer mais ao longo do tempo, mas
+[00:31:25.519] ela cresce positivamente. Eu diria que
+[00:31:27.240] com uma dinâmica de mix cada vez mais
+[00:31:29.519] equilibrada, cada vez mais balanceada,
+[00:31:31.320] então a direção claramente tá certa. Eh,
+[00:31:34.399] e o mix também a gente precisa trabalhar
+[00:31:36.760] para aumentar a velocidade, sem dúvida.
+[00:31:39.120] As linhas do meio, despesas, outros
+[00:31:42.000] provisões em que pesa crescer um pouco
+[00:31:44.039] também se comportam bem. Isso tudo
+[00:31:46.559] somado, dada a alavancagem operacional
+[00:31:48.679] da operação, faz com que a gente tenha a
+[00:31:50.519] evolução, na minha visão, bem positiva,
+[00:31:52.799] do lucro antes do imposto, que faz com
+[00:31:54.399] que a gente ofereça a tributação, a
+[00:31:56.039] absorção dos DTAs, a melhoria marginal
+[00:31:58.039] do capital. Eh, e com isso o lucro
+[00:32:01.080] líquido acaba caindo, mas por um efeito
+[00:32:02.600] matemático que eu diria que é saudável.
+[00:32:04.720] Eh, o importante aqui na minha visão é a
+[00:32:06.880] visão orgânica da franquia crescendo,
+[00:32:09.039] levando a um City One e a um índice de
+[00:32:10.919] Basileia bastante saudáveis, ah, na
+[00:32:13.320] ordem 15.2, 11.2 dois e com isso o
+[00:32:17.120] conforto da gente continuar em que pese
+[00:32:19.080] o Zedon de capital e a gente continuar
+[00:32:21.519] com a nossa política de distribuição,
+[00:32:22.960] como recentemente no JCP, a gente não
+[00:32:24.919] deveria ter nenhuma mudança ao longo do
+[00:32:26.720] ano e com resultado crescendo, uma
+[00:32:28.760] distribuição que deve crescer junto. Com
+[00:32:30.960] isso, eu paro por aqui, vou chamar a
+[00:32:32.840] Camila para iniciar o o trabalho do Q&A.
+[00:32:36.399] E nesse Q&A eu vou ter pela primeira vez
+[00:32:38.679] o nosso novo CFO Carlos Muniz do meu
+[00:32:40.279] lado. Eu combinei com ele que eu vou
+[00:32:42.000] tomar eh as perguntas essencialmente
+[00:32:44.360] todas, mas ele ali do meu lado vai ter a
+[00:32:46.440] chance de poder comentar algo se ele
+[00:32:47.799] quiser adicionar e com isso conhecer
+[00:32:49.519] mais vocês. Obrigado e seguimos.
+[00:34:06.350] Iniciaremos agora a nossa sessão de
+[00:34:06.360] perguntas e respostas. Para participar é
+[00:34:09.159] só você clicar no ícone de mão que
+[00:34:10.919] aparece na parte inferior da sua tela. A
+[00:34:14.240] gente vai responder as perguntas no
+[00:34:16.040] idioma em que elas forem feitas. Pedimos
+[00:34:18.639] que cada analista faça somente uma
+[00:34:20.480] pergunta para que todos tenham a
+[00:34:22.040] oportunidade de participar.
+[00:34:24.359] A primeira pergunta vem do Thiago
+[00:34:26.800] Batista do UBS. Bom dia, Thago.
+[00:34:34.149] >> Bom dia, Camila. Bom dia, Mário. Bom
+[00:34:34.159] dia, Carlos. Mário, eu não sei se esse é
+[00:34:36.639] seu último call, ainda tem mais um, mas
+[00:34:38.359] de qualquer maneira, obrigado pela
+[00:34:40.119] parceria dos últimos anos aí. Eh, minha
+[00:34:42.440] pergunta é sobre o desenrola. Eh, a
+[00:34:46.000] gente deve ter o anúncio nos próximos
+[00:34:47.480] dias, anúncio formal do novo programa de
+[00:34:49.480] refinanciamento. Eh, pelo que a gente
+[00:34:51.919] sabe até agora, focado em baixa renda,
+[00:34:54.079] cartão de crédito, eh, consumer finance
+[00:34:57.560] e e Overdraft, chefe especial, você
+[00:35:01.800] consegue compartilhar conosco a
+[00:35:03.280] impressão de vocês sobre esse eh
+[00:35:05.880] programa de financiamento que vai ser
+[00:35:07.280] anunciado? E só um followup no seu ponto
+[00:35:10.000] que você comentou sobre o DTA no durante
+[00:35:12.119] a apresentação, qual o impacto que vocês
+[00:35:14.280] imaginam que vai ter no capital de vocês
+[00:35:15.960] a não amortização do DTA e ao longo dos
+[00:35:18.480] próximos anos?
+[00:35:21.200] >> Eh, legal, Thiago, obrigado. Prazer
+[00:35:22.839] falar com você. E sim, eh, em princípio
+[00:35:25.000] essa é minha última divulgação, então,
+[00:35:27.480] eh, um prazer e espero me manter próximo
+[00:35:30.839] de todos vocês e seguirei torcendo pelo
+[00:35:33.079] banco e apoiando no que eu puder. Eh,
+[00:35:35.880] começando pelo desenrola, ah, agora a
+[00:35:38.800] pouco eu falei com a imprensa e para
+[00:35:41.320] destacar para todos vocês, primeiro, eu
+[00:35:44.200] acredito que o programa ele é de fato
+[00:35:46.960] necessário.
+[00:35:48.720] Eh, ele tá sendo bastante bem desenhado.
+[00:35:52.880] capitaneado pelo Ministério da Fazenda,
+[00:35:54.440] pelo próprio ministro Daril e pelo
+[00:35:55.880] secretário executivo CON. Eles têm
+[00:35:58.160] trazido os bancos para desenhar junto.
+[00:36:00.599] Não é um desenho feito num laboratório
+[00:36:02.480] em Brasília que os bancos vão ter que
+[00:36:04.160] depois implementar ou ver ser
+[00:36:06.000] implementado numa plataforma única. Ele
+[00:36:08.480] tem evoluções relevantes em relação ao
+[00:36:10.280] desenho de 2023, eh, em que a plataforma
+[00:36:13.200] era centralizada e por isso talvez não
+[00:36:15.319] tenha saído tanto volume quanto se
+[00:36:17.520] esperava. agora vai ser feito através de
+[00:36:19.880] cada banco nos seus próprios canais, num
+[00:36:22.319] framework compartilhado, claro, né? Um
+[00:36:24.720] framework de modelo, mas todos os bancos
+[00:36:27.200] vão poder engajar suas esteiras para
+[00:36:29.480] poder fazer o, vamos chamar desenrola
+[00:36:31.119] dois, eh, sair do papel. Eh, então, por
+[00:36:35.800] que que eu digo que ele é importante e o
+[00:36:37.760] timing é é de fato agora
+[00:36:41.440] a gente tá olhando os mesmos dados, né?
+[00:36:43.280] Apesar do desemprego tá onde tá, apesar
+[00:36:45.240] da inflação tá caindo até recentemente,
+[00:36:47.240] a economia tá crescendo por algum
+[00:36:49.240] milagre, mesmo com o nível de juros que
+[00:36:50.880] a gente vive, eh o nível de
+[00:36:53.160] endividamento das famílias, o nível de
+[00:36:55.000] renda disponível tá eh tá crítico e isso
+[00:36:58.800] faz com que o nível de inadimplência
+[00:37:00.560] prático esteja esteja ruim. E a gente
+[00:37:02.560] não teve uma evolução substancial eh no
+[00:37:05.200] endividamento e na capacidade de consumo
+[00:37:07.200] ou de desalavancagem das famílias nos
+[00:37:09.400] últimos anos. Então, para mim, eh, faz
+[00:37:11.920] sentido o teu programa. Eh, de novo, o
+[00:37:14.480] os os pedaços que compõe o programa, que
+[00:37:17.440] o governo vai anunciar quando um posso
+[00:37:19.240] ser diferente, eh, fazem sentido. A
+[00:37:21.839] gente participou do desenho, eh, e deve
+[00:37:25.319] e deve ter bastante sucesso no sentido
+[00:37:27.720] de bastante gente, eu diria que espero
+[00:37:30.720] milhões de brasileiros que estão eh
+[00:37:33.560] endividados e atrasados acima de eh um
+[00:37:36.880] prazo mínimo, provavelmente deve ser o
+[00:37:39.400] atraso que a gente chama de atraso já um
+[00:37:40.880] pouco mais longo do acima de 90 dias. H,
+[00:37:43.720] vão ter chance de renegociar com
+[00:37:45.800] descontos relevantes e, obviamente, com
+[00:37:48.119] eh com um amparo do governo por um certo
+[00:37:50.400] montante do que fica da dívida. Então,
+[00:37:52.440] eh, faz sentido, vai acontecer e os
+[00:37:55.480] bancos eh por terem participado do
+[00:37:57.319] desenho, sem dúvida, vão apoiar e o
+[00:37:59.240] Santander não vai ser diferente.
+[00:38:02.839] >> Sim, sim. Eh, eu só, enfim, então no
+[00:38:06.040] desenrolo é isso e e obviamente mais do
+[00:38:07.920] que isso, seria seria furar o bolo aqui.
+[00:38:10.520] Obviamente a gente prefere que o que o
+[00:38:13.000] governo anuncie, mas a mensagem
+[00:38:14.480] principal é: "Faz sentido, vamos abraçar
+[00:38:16.400] e eu acredito que vai ser vai ser
+[00:38:17.800] efetivo". O tema dos DT são várias peças
+[00:38:21.839] eh ao mesmo tempo, né, Thiago?
+[00:38:25.480] a gente já tem uma base de de DTE
+[00:38:28.800] Levante, nós e eu diria a indústria como
+[00:38:30.560] um todo. Alguns proporcionalmente mais,
+[00:38:32.480] outros um pouco menos, mas o tema do
+[00:38:33.960] DTA, pelo critério contábil que muda a
+[00:38:37.160] partir de 25, todo mundo acumulou DTAs
+[00:38:39.720] de forma relevante. Em 25 você ainda não
+[00:38:42.240] foi obrigado a lançar eh a resultado
+[00:38:45.960] essa no livro fiscal esse DTA, mas em 26
+[00:38:48.599] começa. Então, a gente já teve a essa
+[00:38:50.560] altura 420
+[00:38:53.280] nosso estoque de DTAs de de PDD de 31 de
+[00:38:56.440] dezembro de 25, lançados no resultado
+[00:38:58.480] concorrendo com a a PDD marginal já
+[00:39:01.560] desde o ano passado, como você sabe bem.
+[00:39:03.160] Então, essa confluência da PDD marginal
+[00:39:06.359] que passa a fluir no livro fiscal e o
+[00:39:08.280] um, no nosso caso, 120 eh, inexorável,
+[00:39:11.960] né, num reloginho da PDD histórica, isso
+[00:39:14.720] gera uma pressão de consumo de base
+[00:39:16.880] fiscal, principalmente no veículo do
+[00:39:18.920] banco, bem relevante. Eh, então, sabendo
+[00:39:22.160] disso, o que que a gente tem feito,
+[00:39:23.440] Thago? [roncando] A gente tem, eu
+[00:39:25.720] comentei rápido, né? a gente tem desde o
+[00:39:27.280] ano passado reordenado dentro do que é
+[00:39:30.440] arms lamp, dentro de que é obviamente
+[00:39:32.400] regulatoriamente correto, a gente tem
+[00:39:34.640] buscado reordenar o resultado entre os
+[00:39:36.920] nossos veículos legais dos veículos que
+[00:39:39.359] têm menos DTA e às vezes pagam menos
+[00:39:42.319] imposto, como a nossa financeira, como
+[00:39:45.040] algumas entidades não financeiras, eh
+[00:39:47.520] jogando esse resultado no banco. Efeito
+[00:39:50.200] prático é eh eu gero mais lucro antes do
+[00:39:52.680] imposto no banco, o que é bom porque eu
+[00:39:54.599] absorvo mais rápido os DTAs. Por outro
+[00:39:56.319] lado, eu tô levando esse resultado a um
+[00:39:59.319] imposto mais alto do que nas outras
+[00:40:01.319] entidades. Então, no curto prazo, eu tô
+[00:40:03.880] eh diminuindo lucro líquido na prática,
+[00:40:05.599] porque eu tô levando mais lucro ante
+[00:40:07.359] imposto pro veículo que paga mais. Mas
+[00:40:09.400] obviamente no médio, eu não diria nem
+[00:40:10.920] que é médio, que logo no tric seguinte e
+[00:40:12.800] a partir dali você tá aumentando na
+[00:40:14.720] margem o capital de giro próprio e
+[00:40:16.560] fazendo aquele aquele ativo que hoje
+[00:40:18.200] rende nada passar a render no mínimo
+[00:40:20.000] SELIC e obviamente junto com a carteira
+[00:40:22.160] render mais do que isso. Então eh e
+[00:40:24.960] essas placas tectônicas, vamos chamar
+[00:40:26.839] assim, no nosso balanço de todos os
+[00:40:28.680] bancos, estão acontecendo ESO SPAK e a
+[00:40:30.760] gente tá buscando, via esse
+[00:40:32.960] reordenamento dos dos veículos legais,
+[00:40:35.640] eh, impulsionar mais o resultado do
+[00:40:37.079] banco. Então vocês vão ver ao longo do
+[00:40:38.480] tempo o Banco Santander Brasil, SA, CNPJ
+[00:40:41.240] tal, cada vez com mais,
+[00:40:44.079] perdão, mais [limpando a garganta]
+[00:40:44.720] resultado relativamente aos outros
+[00:40:46.319] veículos. Tudo feito de novo, arms left.
+[00:40:48.440] E correto? [roncando] Junto disso, a
+[00:40:51.440] própria operação orgânica tem que
+[00:40:53.119] crescer, e aí vai crescer em todos os
+[00:40:54.680] veículos, mas tem que crescer
+[00:40:56.160] principalmente no banco, para que o
+[00:40:58.480] próprio orgânico que chega lá fora a
+[00:41:00.359] realocação entre veículos também aumente
+[00:41:03.040] a base tributável do veículo banco e com
+[00:41:05.119] isso a gente ofereça mais imposto à
+[00:41:06.760] tributação e absorva mais rápido os
+[00:41:08.640] DTAs.
+[00:41:10.720] A gente espera que a gente consiga
+[00:41:12.640] absorver todos os DTAs no primeiro,
+[00:41:15.560] segundo, terceiro tri. Desculpa.
+[00:41:19.440] consegue continuar. OK. A gente acha que
+[00:41:22.200] vamos a ser capaces de absorver a
+[00:41:24.240] totalidade dos DT queemos para o
+[00:41:26.200] primeiro segundo tri do 2027 2028 podo
+[00:41:31.640] da evolu actividade comercial como Mario
+[00:41:33.880] falaba estamos tomando todas as medidas
+[00:41:35.920] que a gente pode tomar para tratar de
+[00:41:38.160] otimizar o consumo eh de Titi no veículo
+[00:41:41.240] banco.
+[00:41:49.990] Obrigado, Thiago.
+[00:41:50.000] >> Obrigada, Thiago. Agora a gente tem uma
+[00:41:51.839] pergunta do Daniel Vaz, do Banco Safra.
+[00:41:54.760] Bem-vindo, Vaz.
+[00:42:00.230] >> Bom dia, Mária. Bom dia, Carlos.
+[00:42:00.240] Obrigado pela participação. Eu eu queria
+[00:42:02.480] entrar no tema de SMIS e tentar detalhar
+[00:42:06.000] eh esse aumento na na dlência que a
+[00:42:07.880] gente tem visto no nos últimos tris, né?
+[00:42:10.079] A gente sabe que se fosse quebrar em
+[00:42:12.119] alguns blocos teriam vários. Eh, eu
+[00:42:14.040] queria principalmente tentar entender
+[00:42:16.280] quanto disso tem vindo dentro dos
+[00:42:17.880] programas governamentais, né? Acho que o
+[00:42:20.079] FGPA que tem tem crescido bastante e
+[00:42:23.319] tentar entender o quanto vem daqui, né,
+[00:42:25.359] dessa desse bloque do FJPA e em que
+[00:42:27.559] tamanhos de empresas tem algum setor
+[00:42:29.119] específico. Eh, e aí também se você
+[00:42:31.880] puder complementar se se isso deveria
+[00:42:34.160] continuar subindo ao longo dos próximos
+[00:42:35.839] trimestres, né, a gente viu eh fim de
+[00:42:38.760] carências eventualmente, né, das das
+[00:42:40.559] safras que foram originadas no passado e
+[00:42:43.319] e o governo capitalizando o FGO pro
+[00:42:46.400] desenrolar 2.0 e não o FGI. para poder
+[00:42:49.800] desembolsar mais nesse programa. Então,
+[00:42:52.119] se você puder nesse complemento e na
+[00:42:54.359] pergunta principal. Obrigado, pessoal.
+[00:42:56.920] >> Legal. Eu vou tentar aqui. Espero que me
+[00:42:59.040] at melhore. Daniel, prazer falar com
+[00:43:01.160] você. Eh, primeiro,
+[00:43:03.720] tem um componente grande de programas. A
+[00:43:07.119] gente tem uma carteira já de pelo menos
+[00:43:09.920] 25%, indo para 30 de linhas
+[00:43:12.519] [limpando a garganta] governamentais
+[00:43:14.480] e o atraso acontece bastante ali, o que
+[00:43:17.040] não gera necessariamente PDD. Tendo dito
+[00:43:19.559] isso, tem uma pressão nas pequenas, como
+[00:43:22.520] eu comentei, o que a gente chama de
+[00:43:23.640] empresa Zoom gerencialmente.
+[00:43:25.839] Então é um ponto de atenção ali, sem
+[00:43:27.480] dúvida.
+[00:43:29.200] A macro afeta esse segmento full, então
+[00:43:31.920] é um ponto de atenção. Eu disse
+[00:43:33.960] proporcionalmente eu quero crescer aqui
+[00:43:35.440] muito mais do que outros segmentos, mas
+[00:43:37.280] eu não vou fazer isso por controle
+[00:43:38.960] remoto. Então a gente tá olhando esse
+[00:43:40.839] tri a gente não cresceu, foi porque a
+[00:43:42.640] gente preferiu ficar mais de lado, mas
+[00:43:45.280] obviamente daqui pra frente a gente vai
+[00:43:46.720] continuar buscando oportunidade onde a
+[00:43:48.240] gente pode crescer e vai buscar crescer
+[00:43:50.480] dois dígitos plus aqui no no sequencial
+[00:43:53.240] ao longo dos próximos anos. Mas é um
+[00:43:55.520] como um todo, um portfólio que demanda
+[00:43:57.720] atenção de perto.
+[00:44:07.510] De continuidade da plência subindo.
+[00:44:07.520] >> Eh, é possível, Daniel. Não, não dá para
+[00:44:11.000] cravar que vai acontecer, mas eh com a
+[00:44:14.520] macro dura e o juro na margem caindo
+[00:44:18.000] mais devagar do que se esperava, mas
+[00:44:19.839] como eu falava com os jornalistas, cai
+[00:44:21.280] um, cai dois para esse público não faz
+[00:44:23.559] tanta diferença assim, né? Mas a
+[00:44:25.559] atividade como um todo ah afeta. Então o
+[00:44:28.920] Brasil crescer um ou crescer dois ou
+[00:44:30.880] crescer meio ou crescer um e meio para
+[00:44:32.880] esse mundo de serviços, né? muito de
+[00:44:35.000] comércio, serviços, varejo, faz bastante
+[00:44:37.359] diferença até talvez mais do que um
+[00:44:39.079] ponto para lá e para cada taxa de juros.
+[00:44:40.680] Então é possível que que o que o nível
+[00:44:43.599] de inadimplência aqui suba. Você falou
+[00:44:45.480] do FGO, não tinha coberto. Eh, a gente
+[00:44:47.599] cobriu esse ponto com o governo e o
+[00:44:49.079] governo eh seguramente vai anunciar isso
+[00:44:51.359] no momento certo, mas a gente entendeu
+[00:44:53.240] que o governo não vai deixar de apoiar a
+[00:44:56.280] FGI ProP porque está capitalizando o FGO
+[00:44:58.960] pro Desenrola 2, tá? eh existe a
+[00:45:02.559] sensibilidade do governo, eh, do
+[00:45:04.760] Ministério da Fazenda, do BNDS, da
+[00:45:06.720] relevância dos programas governamentais
+[00:45:08.760] na PJ, na pequena e pequena média PJ. E
+[00:45:11.640] a gente não acredita que isso vai ser
+[00:45:13.119] prejudicado pelo desenrola dois. As duas
+[00:45:15.839] coisas vão ser geridas em paralelo, que
+[00:45:17.480] a gente acha muito positivo.
+[00:45:26.829] >> Obrigada, Vas. Nós vamos chamar agora o
+[00:45:26.839] Mário Pierre do Bofa. Olá, Mário,
+[00:45:30.480] bem-vindo.
+[00:45:46.670] >> agora. Foi. Bom dia, pessoal. Eh,
+[00:45:46.680] obrigado aí pela oportunidade. Mário,
+[00:45:48.599] também queria aí te agradecer
+[00:45:50.376] [limpando a garganta] pela parceria nos
+[00:45:51.480] últimos anos e te desejar sucesso aí na
+[00:45:54.599] próxima jornada aí da sua carreira. Eu
+[00:45:57.680] queria fazer um double click no na
+[00:46:00.000] carteira de auto, né? Vocês mostram,
+[00:46:03.200] vocês são os líderes do mercado 20%
+[00:46:05.440] marketha,
+[00:46:07.359] a gente continua vendo um crescimento
+[00:46:09.440] saudável da carteira, mas quando a gente
+[00:46:11.880] olha os dados do Banco Central, a gente
+[00:46:14.079] vê que a inadimplência do segmento
+[00:46:16.520] piorou bastante, 130 bases points, ano
+[00:46:19.119] contra ano. Eu queria ver aí como é que
+[00:46:22.520] vocês estão vendo esse segmento, né? um
+[00:46:24.760] cenário ainda de juros elevados, como
+[00:46:26.640] você mencionou, eh, o que te dá
+[00:46:29.839] confiança de continuar crescendo na
+[00:46:31.559] nossa carteira e e se esses dados do
+[00:46:34.119] Banco Central que mostram aí uma piora
+[00:46:36.000] de 130 basis points, se tem alguma coisa
+[00:46:39.760] que tá contaminando esse NPL da
+[00:46:41.680] indústria que você não vê? E e e a
+[00:46:44.559] pergunta aqui é se vários players, né,
+[00:46:46.839] mudaram a política de right office e por
+[00:46:49.079] isso 130 bases pontes pode estar um
+[00:46:51.559] pouco inflacionado. Obrigado.
+[00:46:54.520] >> Obrigado, Mário. Obrigado pelas palavras
+[00:46:56.160] e foi um prazer e seguiremos próximos.
+[00:46:58.760] Eh, eu comentei brevemente quando eu
+[00:47:01.559] citei o tema do dos novos e dos
+[00:47:04.240] elétricos, Mário, que a gente tendo a
+[00:47:08.359] financeira eh líder de mercado, eu não
+[00:47:11.160] falo isso com nenhuma arrogância, mas a
+[00:47:12.800] gente a gente acaba tendo uma penetração
+[00:47:15.680] eh bruta. Que que eu quero dizer com
+[00:47:17.640] penetração bruta? uma capacidade de
+[00:47:19.599] originação que é de virtualmente, para
+[00:47:21.440] não dizer que é 100%, que seria um
+[00:47:23.000] exagero, mas de cada 100 contratos
+[00:47:26.640] cotados, né, ou fichas, como se fala,
+[00:47:29.640] cotadas no mercado, a gente efetivamente
+[00:47:32.400] cota 90 plus dessas fichas. Então, a
+[00:47:35.200] gente tem uma visibilidade sobre o
+[00:47:36.760] mercado que é virtualmente completa. E
+[00:47:39.880] veja, dessas 90 a gente escolhe fazer 20
+[00:47:42.800] arredondando.
+[00:47:45.240] Então a gente tá vendo 70 das fichas que
+[00:47:47.280] a gente originou e não quis fazer. É,
+[00:47:49.640] por que que a gente não quis fazer?
+[00:47:51.280] Risco retorno. A gente pode ver às vezes
+[00:47:53.640] margem muito pujante e tentadora, mas
+[00:47:57.280] uma qualidade de crédito, qualidade do
+[00:47:58.960] colateral ou um launch value velho que
+[00:48:00.640] não fazem sentido e a gente prefere
+[00:48:02.559] declinar. E a gente só escolhe fazer os
+[00:48:04.760] 20 que a gente tem. Por isso que eu
+[00:48:06.000] falei que a gente não deveria crescer
+[00:48:08.440] desproporcionalmente em relação ao
+[00:48:09.720] mercado, porque a gente vai estar
+[00:48:10.559] tomando um risco desproporcional que a
+[00:48:12.200] gente não quer. Como é que a gente lê o
+[00:48:14.400] dado de mercado contra o nosso? A gente
+[00:48:16.240] tá tendo um deterioro como mercado? Não,
+[00:48:18.760] a gente não tá. Por que que a gente não
+[00:48:20.760] tá tendo?
+[00:48:22.480] Porque por essa visibilidade ampla e
+[00:48:24.240] quase total que a gente tem do mercado,
+[00:48:26.480] a gente consegue escolher ao longo do
+[00:48:28.240] tempo onde a gente vai alocar mais as
+[00:48:29.680] nossas fichas. Nos últimos meses, para
+[00:48:32.240] não dizer no último trio, dois tr, a
+[00:48:34.440] gente tem focado menos proporcionalmente
+[00:48:36.599] em usados, menos proporcionalmente em
+[00:48:38.960] motos e mais em novos. E dentro de
+[00:48:41.440] novos, especificamente, a gente tem
+[00:48:42.880] focado muito nos elétricos. Não foi à
+[00:48:45.160] toa que a gente chegou a 50 de cota
+[00:48:47.000] média de originação de de elétricos,
+[00:48:50.200] sendo que de novo em algumas marcas que
+[00:48:52.000] são as que mais estão crescendo, eu não
+[00:48:53.319] vou ser indelicado de dar nomes aqui,
+[00:48:55.240] mas as que mais estão crescendo, a gente
+[00:48:56.920] tem shares de perto de 70%. A gente
+[00:48:59.480] escolheu fazer isso. Então a gente quis
+[00:49:02.000] priorizar nos últimos trimestres a faixa
+[00:49:05.319] de novos que tem um um nível de
+[00:49:07.319] inadimplência muito menor do que usados.
+[00:49:10.040] H, naturalmente, você acaba indo para
+[00:49:12.079] clientes de mais rating, porque o carro
+[00:49:13.799] novo é mais caro na média do que usado.
+[00:49:15.680] Então você você vai para um poder
+[00:49:17.160] aquisitivo maior, para um cliente de
+[00:49:18.880] mais renda ou mais capacidade financeira
+[00:49:21.480] e naturalmente ratings mais altos. Então
+[00:49:23.680] esse combo de rating mais alto,
+[00:49:25.319] capacidade de creditícia melhor e melhor
+[00:49:26.960] colateral, faz com que a nossa
+[00:49:29.200] performance seja e tanto na performance
+[00:49:31.480] curta quanto na de médio prazo, melhor.
+[00:49:33.520] O que não quer dizer que não é um
+[00:49:34.440] business nervoso, é um business que tem
+[00:49:35.680] o seu custo de crédito de alguns pontos
+[00:49:37.599] percentuais, obviamente não é um custo
+[00:49:39.559] zero. A capacidade de recuperatória do
+[00:49:41.240] Brasil ainda não é compatível com a dos
+[00:49:42.880] Estados Unidos. A gente tem sim o marco
+[00:49:44.799] legal das garantias, mas ainda tá longe
+[00:49:46.920] de ter uma capacidade recuperatória essa
+[00:49:48.799] judicial como tem lá fora. Mas enfim, na
+[00:49:51.160] margem tá melhorando e a gente continua
+[00:49:53.359] positivo. E a gente tem um business
+[00:49:54.880] também, ele é menor, ele é talvez 5, 6%
+[00:49:58.839] da carteira como um todo, mas ele é um
+[00:50:00.240] business bem saudável de consumer
+[00:50:02.400] finance auto. A gente ao longo dos anos
+[00:50:04.559] foi aprendendo entre eh muitos erros que
+[00:50:07.520] a gente teve e e outros tantos acertos.
+[00:50:10.000] E hoje a gente tá com as verticais na na
+[00:50:13.079] no nosso negócio de consum finance que a
+[00:50:14.839] gente quer ter já há alguns anos. Eh, um
+[00:50:16.720] negócio bem consolidado, bem rentável,
+[00:50:19.240] eh, tanto na originação marginal quanto
+[00:50:20.960] no estoque. Então, a gente pensa no
+[00:50:22.720] alto, que é o core, mas a gente tem um
+[00:50:23.960] pedaço também que eu diria que é um alfa
+[00:50:25.480] bem bom, com margens bem positivas, que
+[00:50:27.680] a gente também tem gerido bem, mas
+[00:50:28.839] também não dá para crescer
+[00:50:29.640] desproporcionalmente, porque o
+[00:50:31.000] financiamento ao consumo no Brasil tem
+[00:50:32.440] que ser bem feito e e a gente aprendeu
+[00:50:34.640] eh da do jeito duro que algumas
+[00:50:36.520] verticais não dá para operar, mas como
+[00:50:38.280] um todo é um business saudável. que a
+[00:50:40.240] gente tá sim atento à macro, claro, mas
+[00:50:43.319] a gente segue operando bem e vai
+[00:50:45.480] continuar crescendo ao longo do ano,
+[00:50:47.000] possivelmente com o mercado, mas se
+[00:50:48.559] crescer um pouco menos com o mercado,
+[00:50:49.920] não tem problema, porque a gente tá tá
+[00:50:52.880] tá tomando o aptite de risco que a gente
+[00:50:54.400] quer tomar.
+[00:50:57.240] >> Obrigado.
+[00:51:00.440] >> A pergunta agora é do analista Pedro
+[00:51:02.960] Leduque do Itaú BBA. Bom dia, Pedro.
+[00:51:07.240] >> Bom dia, Camila. Muito obrigado, Mário,
+[00:51:09.280] também parabéns pela trajetória aí,
+[00:51:11.640] sucesso na próxima. Eh, duas perguntas
+[00:51:15.000] aqui. A primeira, quando olha só
+[00:51:17.240] carteira, né, SMIS, crescendo eh 10% no
+[00:51:21.359] ano nesse contexto também macro que você
+[00:51:23.960] coloca. Se você pudesse nos ajudar a
+[00:51:26.400] revisar um pouquinho o que que deve ser
+[00:51:27.799] a estratégia aqui pra frente, eh,
+[00:51:30.000] principalmente esse balanço risco e
+[00:51:32.160] oportunidades, eh, dada nova segmentação
+[00:51:35.000] criada. Aí a segunda pergunta, mais na
+[00:51:37.960] mudança ali sobre políticas, né, da da
+[00:51:40.920] 4966 e aí alongamento talvez do do WROF,
+[00:51:44.760] se nesse trimestre teve alguma coisa já
+[00:51:47.400] a gente viu o NPL formation um pouco
+[00:51:49.119] diferente do da PDD e como a gente deve
+[00:51:52.160] pensar nos impactos aqui, que seja no
+[00:51:53.799] MPL90, dessa dessa mudança pros próximos
+[00:51:57.240] trimestres. Obrigado.
+[00:52:00.240] >> Legal. Eu vou eu vou começar com essa,
+[00:52:02.040] Pedro. Eh, a gente, como eu comentei,
+[00:52:04.480] teve, obrigado pelas palavras, eh, como
+[00:52:06.599] sempre, a gente teve já no quarto tri
+[00:52:09.960] algum efeito e nesse, nesse primeiro
+[00:52:12.040] tri, ah um pouco mais desse efeito do da
+[00:52:15.521] [roncando] mudança na na política de
+[00:52:17.280] right office. De novo, vou eu vou
+[00:52:18.400] reforçar porque é importante ficar
+[00:52:19.599] claro. A gente tá fazendo uma a uma
+[00:52:23.319] derivada de como a gente fazia antes,
+[00:52:25.000] né? muito mais técnica e muito mais
+[00:52:26.680] criteriosa. A gente fazia antes um
+[00:52:28.880] lançamento pela média e tudo que é média
+[00:52:32.319] eh não é necessariamente o mais
+[00:52:34.200] tecnicamente preciso. Não foi
+[00:52:35.880] conveniente de que a média agora é um
+[00:52:37.920] pouco acima do que era antes, indo
+[00:52:39.240] portfólio a portfólio. A gente preferiu
+[00:52:40.680] fazer esse duplo clique, viu o resultado
+[00:52:42.480] e falou: "Puxa, que bom". Eh, mas a
+[00:52:44.559] gente fez um um algo bem técnico, por
+[00:52:46.839] exemplo, cartões, que é, como eu tenho
+[00:52:49.040] falado e você acompanha de perto, é um
+[00:52:50.960] dos portfólios que a gente mais tem
+[00:52:52.319] crescido, eh, e como eu falei, uma das
+[00:52:54.559] franquias nas quais eu aposto mais e a
+[00:52:56.480] gente mais aposta, eh, a gente na
+[00:52:58.920] prática passa a antecipar o lançamento
+[00:53:01.040] perdidos do cartão, porque é a
+[00:53:02.440] velocidade concreta, expost, olhando já
+[00:53:05.359] várias safras que a gente tem capacidade
+[00:53:07.280] recuperatória, mas na financeira de
+[00:53:09.079] veículos, por exemplo, e alguns outros
+[00:53:10.680] produtos, a gente consegue uma
+[00:53:12.280] capacidade, a gente tem uma capacidade
+[00:53:13.799] recuperatória que dura mais tempo. Então
+[00:53:15.559] era incorreto eu lançar prejuízo tão
+[00:53:17.799] cedo e depois recuperar via venda de
+[00:53:19.960] carteira, etc. Então é essa análise
+[00:53:22.119] técnica que a gente tá fazendo agora. Eu
+[00:53:24.000] acredito que isso vai ser material ao
+[00:53:25.760] longo do ano a ponto de mudar
+[00:53:27.880] drasticamente a curva do nosso over.
+[00:53:29.720] Não, mas isso tende a ter um efeito no
+[00:53:32.319] over. Quando a gente pega, vai, se eu
+[00:53:33.680] puder chamar o over médio nosso, ao
+[00:53:35.760] longo do ano, ele tende a ter,
+[00:53:37.440] principalmente o over 90, ele tende a
+[00:53:39.160] ter um número mais alto do que na figura
+[00:53:41.799] média do ano passado. Então, talvez a
+[00:53:43.920] curva ela paralelize para cima um pouco,
+[00:53:46.200] sim. Eh, e a gente pode ao longo do
+[00:53:48.359] tempo mostrar quanto é esse efeito, sem
+[00:53:50.839] problema nenhum, porque, de novo, é algo
+[00:53:52.400] que a gente fez de forma eh tecnicamente
+[00:53:56.200] embasada, revisada, eh, obviamente em
+[00:53:58.599] todos os fóruns eh que você pode
+[00:54:00.520] imaginar e e e vai e vai seguir, enfim,
+[00:54:03.839] reportando eh de acordo
+[00:54:07.200] do ponto de vista da carteira, eh você
+[00:54:09.280] perguntou do eh do do NPL, da da do
+[00:54:14.400] custo de crédito, a A gente, Pedro, aqui
+[00:54:18.720] tem e de novo várias placas que se
+[00:54:21.040] movem, né? Eh, quando a gente vê o o de
+[00:54:24.480] risking que a gente segue fazendo na
+[00:54:25.920] baixa renda, eh, eu citei alguns dados
+[00:54:29.119] ali na minha na minha primeira parte,
+[00:54:31.319] mas para materializar,
+[00:54:33.760] só nesse tri a gente cai o nosso
+[00:54:36.040] portfólio de baixa renda, alguma coisa
+[00:54:38.079] como perto de 4%. Então, essa essa queda
+[00:54:41.240] da baixa renda, ela tem dois efeitos. Os
+[00:54:43.480] dois são saudáveis, mas quando a gente
+[00:54:45.079] olha numa cenda um pouco mais longa, no
+[00:54:47.280] curto prazo, eu tá acelerando o meu
+[00:54:50.040] rundown, meu runof do baixa renda, traz
+[00:54:52.920] uma carga, né, de PDD mais alta, porque
+[00:54:56.119] eu tô acelerando esse whisking. O outro
+[00:54:58.319] efeito negativo, mas que de novo é
+[00:55:00.160] saudável, eu tô eu tô deixando de gerar
+[00:55:02.280] uma uma receita que depois eu vi
+[00:55:04.200] aprovisionar. Então, eu tenho uma
+[00:55:05.920] ancoragem no meu topline. Isso é
+[00:55:07.640] importante até uma uma um parênteses
+[00:55:10.640] aqui. O meu o meu topline, a minha
+[00:55:12.760] receita, principalmente de margem, ela
+[00:55:15.440] numa visão analisada, Pedro, ela parte
+[00:55:18.599] caindo eh e esse é um bom dado para
+[00:55:20.680] vocês terem, ela parte caindo 1,5 2% do
+[00:55:23.680] agregado do banco como um todo, só pelo
+[00:55:26.599] risking que eu tô fazendo na baixa
+[00:55:27.839] renda. Então tudo que eu cresço de
+[00:55:29.880] receita é um topo off, recuperar o que
+[00:55:32.520] cai a baixa renda nessa redução técnica
+[00:55:35.359] e cirúrgica que eu tô fazendo dos
+[00:55:37.319] portfólios da baixa renda que eu não
+[00:55:38.559] quero ter mais. E e obviamente o resto é
+[00:55:40.680] crescimento saudável. Então, então o meu
+[00:55:42.920] 08 no Tri, que obviamente não é um
+[00:55:44.760] número ultra sexy, mas é um número que
+[00:55:47.240] quando você vê a composição dele, ele
+[00:55:49.319] tem uma ele tem uma qualidade bem
+[00:55:51.039] positiva. Por isso que o meu tom aqui
+[00:55:52.520] nesse tri é um tom positivo. A gente tá
+[00:55:54.960] entregando o lucro posto que cresce bem
+[00:55:56.760] e com a saúde, vamos dizer nas
+[00:55:58.720] entelinhas. Bom, mas tem esse
+[00:56:00.480] contraefeito inicial. Então, quando a
+[00:56:02.000] gente olha o NPL Formation, alguns bases
+[00:56:04.119] points acima, quando a gente olha o
+[00:56:06.039] custo de crédito caindo, soa um pouco
+[00:56:08.440] coisas na direção oposta, que tem muitas
+[00:56:10.119] placas se mexendo ao mesmo tempo. Eh,
+[00:56:12.240] tem uma preocupação que você não
+[00:56:14.119] materializou, mas possivelmente vai vir
+[00:56:15.760] em alguma das perguntas que ah, mas e os
+[00:56:17.280] nomes do atacado? Vocês estão bem
+[00:56:19.079] provisionados? A gente não responde nome
+[00:56:20.480] a nome, vocês sabem disso, mas a
+[00:56:22.680] mensagem sobre os nomes do atacado, que
+[00:56:24.280] eu acho que vale citar, porque compõe
+[00:56:25.720] obviamente o NPL, compõe o custo de
+[00:56:28.000] crédito e são single names relevantes,
+[00:56:30.240] como tudo que é no atacado, a gente
+[00:56:32.319] primeiro, claro, eh tá seguro com o
+[00:56:34.200] nível de provisão que a gente tem a cada
+[00:56:35.799] tri, na verdade a cada mês. E vale aqui
+[00:56:38.079] um comentário que eu vou fazer mais
+[00:56:39.440] genérico, eh, e vocês podem cobrar a
+[00:56:41.680] gente ao longo do tempo de como isso
+[00:56:42.960] vira na prática. A gente provisiona no
+[00:56:45.079] atacado com base primeiro em veículo
+[00:56:48.839] legal. e segundo com base em estrutura.
+[00:56:51.880] Por que que eu tô falando de veículo
+[00:56:52.960] legal? Alguns desses single names, dos
+[00:56:55.760] quais se fala bastante na imprensa,
+[00:56:58.440] entre os analistas, etc., a [roncando]
+[00:57:00.559] gente tem exposição relevante fora do
+[00:57:02.440] Brasil. Eh, e a gente, por ser parte de
+[00:57:05.280] um grupo, a gente tem funding
+[00:57:07.480] diferenciado, por exemplo, em Madrid. E
+[00:57:09.720] muitos desses single names, alguns
+[00:57:11.200] desses single names, 90 plus% da nossa
+[00:57:13.880] posição tá no Santander, Espanha, vamos
+[00:57:16.119] chamar assim, de forma simplificada.
+[00:57:17.480] Gerencialmente sou eu que toco, é o meu
+[00:57:19.240] comitê de riscos, é o meu time
+[00:57:20.920] comercial, mas não afeta o veículo legal
+[00:57:23.839] do banco e, portanto, a ação. Então isso
+[00:57:26.240] é um é um nuance importante para vocês
+[00:57:27.960] serem. Nem tudo o que o que tem lá a
+[00:57:30.599] exposição do Santander como grande
+[00:57:32.160] criador é aqui no Brasil. E o segundo é
+[00:57:33.920] a estrutura. Eu faço muita coisa a nível
+[00:57:36.160] de ativo, eu faço muita coisa de project
+[00:57:38.200] finance. Vocês sabem que a gente é líder
+[00:57:39.799] e de Project Finance já há talvez 10
+[00:57:41.440] anos. Então a gente faz muita coisa em
+[00:57:42.760] infraestrutura, energia, etc. eh, faz
+[00:57:45.000] muita coisa em mesa de energia, que é um
+[00:57:46.599] tipo de exposição mais operacional e não
+[00:57:49.079] e não financeira. Então, quando a gente
+[00:57:50.960] olha [limpando a garganta] por ativo, a
+[00:57:53.079] gente provisiona de acordo com o nível
+[00:57:55.039] de estrutura, garantia, se é operacional
+[00:57:57.960] ou não, etc. E obviamente também só vai
+[00:58:00.079] provisional o que tá no balanço do banco
+[00:58:01.400] aqui e um ou outro caso desses grandes
+[00:58:03.440] não estão nem no veículo do Brasil. Eh,
+[00:58:05.760] enfim, uma resposta ampla. Se tem algo
+[00:58:07.559] que eu não cobri, fica à vontade de
+[00:58:09.079] perguntar.
+[00:58:10.799] Obrigado por cumprimentar, Mário.
+[00:58:12.799] Sucesso novamente.
+[00:58:13.920] >> Obrigado, Pedro. Tudo de bom.
+[00:58:20.029] >> A gente tem agora uma pergunta do Brian
+[00:58:20.039] Flores do Citybank. Bem-vindo, Brian.
+[00:58:25.000] E obrigado, pessoal. Eh, Mário, muito
+[00:58:26.960] sucesso. Obrigado pela pela parceria e
+[00:58:29.240] também muito eh muito éxito para para
+[00:58:31.960] Carlos. Eh, você mencionou um ponto bem
+[00:58:34.599] interessante que é eh o ritmo de
+[00:58:36.799] crescimento de clientes, né? 6% ano
+[00:58:38.760] contra ano. E aí o engajamento, né,
+[00:58:40.960] cliente ativo cresceu um pouquinho
+[00:58:42.280] menos, 3% ano contra ano. Então, eh, eu
+[00:58:45.359] queria entender se essa esse esse gap
+[00:58:47.680] entre esses crescimentos
+[00:58:49.880] não representa para vocês um desafio em
+[00:58:52.119] termos de monetização ou despesas daqui
+[00:58:54.520] paraa frente, né? se você não não teria
+[00:58:56.319] que investir um pouco mais para trazer
+[00:58:58.280] ou ativar um pouco mais, engajar esse
+[00:59:00.359] cliente um pouquinho mais, eh, ou se,
+[00:59:03.799] eh, esse esse gap eh tem algum desafio
+[00:59:08.119] na frente em termos de eficiência, que,
+[00:59:09.599] como você mencionou também, estão indo
+[00:59:12.319] positivamente, né, até agora. Obrigado.
+[00:59:15.920] >> Eh, obrigado, obrigado, Brian. Obrigado
+[00:59:18.520] pelas palavras. E, eh, essa pergunta é
+[00:59:21.960] super estratégica, né? É, é ótima.
+[00:59:25.559] Como a [limpando a garganta] gente
+[00:59:27.720] e a gente falava hoje cedo com a quando
+[00:59:29.400] eu divulguei pra organização cedinho, eu
+[00:59:31.799] começo sempre com funcionários, eu eu
+[00:59:33.960] toquei muito nessa parte. Eh, crescer
+[00:59:36.799] seis ano contra ano, eh, dado que você
+[00:59:39.280] já tem 75 é um bom crescimento, né? Dá
+[00:59:41.960] um número aí de 4 milhões plus que é um
+[00:59:45.240] bom número. A gente, eu falei já algumas
+[00:59:47.079] vezes, não é para ser um coach legal, a
+[00:59:48.559] gente não tá na corrida de ter mais
+[00:59:50.160] clientes per. A nossa jornada é para,
+[00:59:53.640] claro, continuar crescendo a franquia
+[00:59:55.280] também através de número de clientes,
+[00:59:57.240] mas principalmente clientes ativos e
+[00:59:58.760] clientes com principalidade. Então você
+[01:00:00.119] pegou no ponto chave, né? Então para mim
+[01:00:01.920] o desafio ele é bom, posso fazer mais
+[01:00:04.079] ainda de crescer top line de clientes,
+[01:00:06.200] mas eu quero crescer clientes ativos e
+[01:00:08.160] clientes que eu consigo trazer a
+[01:00:09.280] principalidade. Então o grande desafio,
+[01:00:11.059] [roncando] tá? Fazer o três virar seis,
+[01:00:12.640] talvez, ou fazer o três virar mais
+[01:00:14.359] ainda. Que é o desafio da gestão toda.
+[01:00:17.606] [roncando]
+[01:00:18.280] Como que a gente tá trabalhando para
+[01:00:19.400] isso, Brian? algumas pinceladas, né? Eh,
+[01:00:23.440] óbvio que tem uma parte disso que é
+[01:00:24.559] aptite de crédito. Então, eu não vou
+[01:00:26.480] alterar o aptite de crédito para crescer
+[01:00:28.160] mais clientes. Eh, eu tenho que crescer
+[01:00:30.640] mais clientes dentro do apetite de
+[01:00:32.119] crédito adequado, que tá conectado com o
+[01:00:35.039] tipo de portfólio que eu quero ter, um
+[01:00:36.920] portfólio cada vez mais balanceado,
+[01:00:38.640] diversificado, diversificado,
+[01:00:40.440] sustentável e que me entrega e entrega
+[01:00:43.119] ao mercado o ROY 20 Plus a partir de
+[01:00:46.520] 2028, que inclusive o grupo se
+[01:00:48.200] comprometeu no Investor Day. Então agora
+[01:00:49.720] o próprio grupo fala do que eu já falava
+[01:00:51.559] com vocês desde 2024. Então a gente tá a
+[01:00:54.400] gente tá trabalhando e caminhando para
+[01:00:55.559] isso. Isso é inexorável. Eh, e a gente
+[01:00:58.880] só faz isso se a gente continuar tendo a
+[01:01:00.440] disciplina de custo de crédito, de
+[01:01:02.160] elocação de capital marginal que a gente
+[01:01:03.599] tem tido. Então, eu não vou crescer
+[01:01:05.599] abrindo a torneira do aptite. Claro que
+[01:01:07.280] se a macro melhorar, as famílias
+[01:01:09.079] começarem a se se desindividar, o
+[01:01:11.880] desenrola e etc, desvoluirem, a inflação
+[01:01:14.280] cair, tudo isso vai permitir que eu
+[01:01:16.400] organicamente tenha mais aptite dentro
+[01:01:18.319] dos públicos que eu já opero.
+[01:01:20.839] Mas a principal resposta é nos públicos
+[01:01:23.119] que eu tenho aptite de crédito, como que
+[01:01:24.720] eu penetro mais? E aí vem ferramental,
+[01:01:27.799] vem modelo comercial, vem oferta de
+[01:01:30.640] valor ferramental, quer dizer
+[01:01:33.599] tecnologia, plataformas, o nosso OneP
+[01:01:36.200] que a gente implementou pra base
+[01:01:37.599] inteira, talvez em tempo record, em 9
+[01:01:39.880] meses, a gente começou e terminou a
+[01:01:41.480] implementação. Ah, e a gente tem desde a
+[01:01:43.720] virada do ano todos os nossos clientes
+[01:01:45.359] correntistas no nosso OneP. E agora a
+[01:01:47.440] gente vai começar a tombar cada vez mais
+[01:01:49.200] os monoprodutistas, né? aqueles clientes
+[01:01:51.039] que só têm um produto não conta para
+[01:01:53.240] serem também clientes nossos a partir do
+[01:01:55.359] OneP.
+[01:01:57.240] A gente tem o nosso novo CRM que começou
+[01:01:59.319] no Brasil e virou uma plataforma global
+[01:02:01.599] e que a gente chama de customer
+[01:02:02.799] interaction platform, que é o
+[01:02:04.279] ferramental que basicamente permite a
+[01:02:06.079] tal da hiperpersonalização,
+[01:02:07.960] da qual eu falei várias vezes nas
+[01:02:09.319] divulgações. O Santa Rewards que a gente
+[01:02:11.720] lançou anteontem, não é menor a gente
+[01:02:13.839] poder entregar pro cliente uma visão
+[01:02:16.240] cliente em que ele se sente de fato
+[01:02:18.680] abraçado por cada um dos pontos de
+[01:02:20.240] contato e prestigiado e valorado. Tudo
+[01:02:22.480] isso somado eh eh ataca o tema de
+[01:02:25.240] ferramental barra oferta de valor. Além
+[01:02:27.279] disso, em cada um dos subsegmentos,
+[01:02:29.039] principalmente alta renda e e SMIs, a
+[01:02:31.520] gente entregar a oferta de valor que o
+[01:02:32.920] cliente espera e não só uma que empate
+[01:02:35.039] com o mercado, mas que ganhe com que
+[01:02:37.000] ganhe do mercado. E aí e aí vem também o
+[01:02:38.880] modelo de atendimento. Então em alta
+[01:02:40.319] renda e pequenas e médias empresas e
+[01:02:42.799] obviamente no atacado, a gente tem que
+[01:02:44.440] ter o modelo de atendimento que é no
+[01:02:46.079] mínimo igual, idealmente melhor do que o
+[01:02:47.559] do mercado. Então, entre modelo de
+[01:02:48.760] atendimento, oferta e ferramental, a
+[01:02:51.240] gente tem que entregar dentro do apetite
+[01:02:52.880] risco que a gente tem, da disciplina de
+[01:02:54.160] capital que a gente tem, a gente tem que
+[01:02:55.440] entregar mais. E eu tô seguro de que a
+[01:02:57.119] gente vai fazer, mas é uma jornada e
+[01:02:59.240] super difícil porque a gente tem
+[01:03:00.279] concorrentes extraordinários do Brasil,
+[01:03:02.440] os locais, internacionais, em todos os
+[01:03:04.520] subsegmentos. E obviamente um regulador
+[01:03:06.760] que nos desafia com a barra cada vez
+[01:03:08.799] mais alta, mas essa essa sem dúvida é a
+[01:03:10.760] senda.
+[01:03:12.839] Obrigado.
+[01:03:13.319] >> Perfeito. Muito obrigado. Sucesso.
+[01:03:15.400] Obrigado.
+[01:03:24.069] >> Agora vamos passar pro inglês.
+[01:03:24.079] Bom, bom dia e muito obrigado por acatar
+[01:03:26.680] as minhas perguntas. Eu acho que, Mário,
+[01:03:29.200] antes da minha pergunta, eu gostaria de
+[01:03:31.160] lhe agradecer
+[01:03:33.119] por ter mantido um diálogo tão aberto e
+[01:03:35.559] ter mantido uma relação tão próxima
+[01:03:38.240] junto aos analistas. Eu só desejo o
+[01:03:40.079] melhor para você daqui paraa frente.
+[01:03:41.960] Você falou bastante sobre o banco e
+[01:03:44.319] todas as métricas, então realmente eu
+[01:03:46.359] não tenho uma pergunta, mas eu gostaria
+[01:03:48.720] de dar um passo para trás e fazer a
+[01:03:50.480] pergunta sobre essa transição da
+[01:03:53.400] liderança. Você poderia nos ajudar a
+[01:03:55.599] entender como é que o Santander, Espanha
+[01:03:59.079] e o conselho, tanto local quanto na
+[01:04:01.599] Espanha, como eles estão pensando na
+[01:04:04.520] próxima fase da empresa e quais são as
+[01:04:07.559] experiências ou capacidades específicas
+[01:04:11.680] que o CFO e o CEO podem trazer que sejam
+[01:04:14.839] mais relevantes paraas paraa estratégia
+[01:04:17.760] e paraas prioridades, olhando daqui
+[01:04:19.480] paraa frente. E se vocês vem que essas
+[01:04:22.960] mudanças podem dar suporte à alocação de
+[01:04:26.079] capital, as prioridades do banco, ou se
+[01:04:29.039] isso é simplesmente
+[01:04:31.160] uma transição, um período de transição
+[01:04:33.279] normal do Santander,
+[01:04:37.520] trazendo pessoas de diferentes locais,
+[01:04:40.119] fazendo um realocamento das pessoas, o
+[01:04:42.599] que acontece por de tempos em tempos. Eu
+[01:04:44.960] gostaria que você nos ajudasse a
+[01:04:46.319] entender toda essa mudança na liderança.
+[01:04:48.799] Obrigado, Jorge. É sempre um prazer
+[01:04:51.359] falar novamente com você e falar sobre
+[01:04:54.240] essa transição que é um tópico
+[01:04:55.960] importante.
+[01:04:57.839] Começando do final,
+[01:05:00.480] eu não posso falar, é claro, que em nome
+[01:05:02.920] de todo o grupo, porque eu faço parte
+[01:05:05.720] desse promotórium, que é a liderança do
+[01:05:07.960] grupo Santander e também faço parte do
+[01:05:09.760] conselho. Mas a transição
+[01:05:14.400] tem muito pouco a ver com a necessidade
+[01:05:17.160] de mudança ou com a necessidade de mudar
+[01:05:20.400] a estratégia ou a necessidade
+[01:05:28.789] de pivotar no nosso direcionamento ou do
+[01:05:28.799] segmento em que a gente foca. Mas tem
+[01:05:30.359] muito mais a ver com comidade
+[01:05:33.960] e o reforço da estratégia que já estamos
+[01:05:37.279] construindo. Não só o Mário e não só os
+[01:05:40.720] líderes do Brasil sozinhos, mas toda a
+[01:05:44.039] liderança do Brasil, o conselho e a
+[01:05:47.480] liderança do grupo que está sempre
+[01:05:49.240] próximo ao Brasil o tempo todo, porque
+[01:05:51.079] estamos construindo isso em conjunto.
+[01:05:53.119] Então, seria apenas natural, né, com a
+[01:05:55.920] mudança do CEO e coincidentemente a
+[01:05:57.880] mudança do CFO, a que não, então eu não
+[01:06:01.240] espero, é claro que o nosso desafio, né,
+[01:06:04.960] vai ser passar pelo próximo ciclo, mas
+[01:06:07.760] não haverá nenhuma mudança na
+[01:06:09.119] estratégia. E eu espero, eu acho que o
+[01:06:11.799] foco seria ainda maior na disciplina da
+[01:06:15.079] execução dessa estratégia que você já
+[01:06:17.039] conhece de cor, porque eu venho repetir
+[01:06:19.240] repetindo isso mais de 10 vezes sobre o
+[01:06:21.760] que a gente tá fazendo, qual é o nosso
+[01:06:23.480] foco e agora, como a gente fala aqui, é
+[01:06:26.079] a estratégia do Barding Bank, do Boring
+[01:06:28.480] Bank, porque
+[01:06:30.960] é é uma estratégia poderosa e bem
+[01:06:34.039] sustentável. Então, obviamente, estamos
+[01:06:36.039] na metade dessa tarefa. a gente né, não
+[01:06:38.960] está, né, clamando vitória, porque na
+[01:06:41.680] verdade essa vitória é um alvo que está
+[01:06:44.200] sempre em movimento, mas estamos
+[01:06:45.480] seguindo na direção correta. Eu tenho
+[01:06:47.079] certeza que o conselho e o grupo com a
+[01:06:49.520] liderança aqui, que predominantemente é
+[01:06:51.279] a mesma liderança que eu construí com o
+[01:06:53.039] novo CFO, que eu ajudei a escolher, e o
+[01:06:55.799] novo CEO, que eu também, né, aplaudi a
+[01:06:59.400] escolha do grupo e do conselho. Eu tenho
+[01:07:02.160] certeza que o Gilson, o Carlos e toda a
+[01:07:04.119] liderança vão apoiar o conselho, dar
+[01:07:06.760] suporte ao conselho e o grupo e eles vão
+[01:07:08.599] continuar, né, executando essa
+[01:07:10.920] estratégia. Espero que até melhor, mas
+[01:07:13.839] certamente, né, mantendo a disciplina de
+[01:07:17.160] custo, sendo mais rentável, né,
+[01:07:21.200] e antes de ser grande, mas ao mesmo
+[01:07:23.160] tempo ser grande e lucrativo, né, além
+[01:07:26.359] de 2028, porque essa franquia tem seus
+[01:07:29.319] méritos e tem e tem toda a capacidade de
+[01:07:32.880] seguir numa jornada sustentável daqui
+[01:07:35.480] paraa frente. Então eu não visualizo
+[01:07:38.319] nenhuma mudança e eu espero que a
+[01:07:40.079] execução seja até a melhor, seja até
+[01:07:42.319] melhor do que até agora. Então vai ser
+[01:07:46.319] mais business as usual, né, nesse ciclo
+[01:07:49.559] de transição do Santander. O Gustavo,
+[01:07:51.400] como você sabe, depois de 26 anos o
+[01:07:53.520] Santander
+[01:07:55.039] de ser um CFO, ele anunciou a sua saída
+[01:07:57.960] no final do ano passado e a transição
+[01:07:59.720] foi bem tranquila
+[01:08:02.000] e ele foi um dos melhores CFS aqui
+[01:08:05.520] conosco, que é o Carlos Muniz. Eu, ele é
+[01:08:08.279] um dos melhores
+[01:08:10.279] CFOs que nós já temos no grupo e eu
+[01:08:12.640] tenho certeza que vocês vão ver isso com
+[01:08:14.839] ele. Eu tô muito feliz de termos agora
+[01:08:17.199] um CFO que também contempla essa função
+[01:08:20.279] de controller no Brasil. Isso vai ajudar
+[01:08:22.759] a entender melhor os números, analisar
+[01:08:24.839] melhor os números. E do meu lado, como
+[01:08:26.560] eu já anunciei [roncando]
+[01:08:28.839] há um mês atrás, também foi decisão
+[01:08:31.880] minha fechar e encerrar esse ciclo de 5
+[01:08:35.640] anos.
+[01:08:37.560] né? Eu fiz a transição com o Sérgio e
+[01:08:40.920] foi uma foi um ciclo muito rico para mim
+[01:08:43.560] e pro banco. Eu espero que também tenha
+[01:08:45.319] sido e eu estou muito ansioso pro ciclo
+[01:08:48.000] que está por vir. Então, a liderança tá
+[01:08:52.600] bem focada,
+[01:08:55.000] não tá estressada e nem ansiosa.
+[01:08:58.600] E eu tô muito empolgado
+[01:09:03.279] em compartilhar a nossa a nova fase com
+[01:09:06.560] o Gilson nesse ciclo de de transição. Eu
+[01:09:09.239] conheço o Gilson já há muito tempo,
+[01:09:10.880] desde os meus dias no City. Então, eu tô
+[01:09:13.319] muito, muito feliz em vê-lo no próximo
+[01:09:15.719] ciclo do Santandar Brasil, junto com o
+[01:09:17.679] Muniz como Sefol.
+[01:09:19.400] Então, muito obrigada e toda a sorte do
+[01:09:21.400] mundo para você.
+[01:09:27.149] >> Thank you, Jorge.
+[01:09:27.159] >> Obrigada. Agora a gente vai voltar aqui
+[01:09:28.759] para português com o Bernardo Gutman da
+[01:09:31.839] XP. Bom dia, Bernardo.
+[01:09:33.799] >> Bom dia, Camila, Mário, Carlos.
+[01:09:36.640] Aproveitando também e parabéns pela
+[01:09:38.679] trajetória no banco, Mário. Sucesso nos
+[01:09:40.960] seus próximos desafios. Eh, sucesso pro
+[01:09:43.880] Carlos também na nova posição. Eh, eu
+[01:09:46.880] vou repetir aqui a minha pergunta, né?
+[01:09:48.799] sobre o tema de crescimento em mix. Eh,
+[01:09:52.440] o banco continua nesse movimento de
+[01:09:54.679] migração para linhas eh com garantia o
+[01:09:57.679] imobiliário, financeira, PMS com
+[01:10:00.440] garantia. Na visão de vocês, esse
+[01:10:02.760] movimento, ele já tá entregando o que
+[01:10:05.120] vocês esperavam em termos de retorno
+[01:10:07.719] ajustado ao risco? Eh, e tem algum
+[01:10:10.719] segmento onde vocês enxergam que ainda
+[01:10:13.040] estão eh subalocados e querem crescer
+[01:10:16.199] mais ao longo do ano? É, obrigado.
+[01:10:19.679] >> Obrigado, Bernardo. Peço desculpas
+[01:10:21.440] também aqui em nome de todos [roncando]
+[01:10:22.920] e obrigado pela paciência de ter não só
+[01:10:25.280] você como quem consegue assistindo.
+[01:10:27.320] Obrigado por estarem aqui conosco. Vou
+[01:10:28.719] tentar make up aqui. Eh, você tocou num
+[01:10:32.400] ponto chave da estratégia que também é
+[01:10:34.199] um dos golden rules nossos dos últimos
+[01:10:36.320] anos, Bernardo, que é o mix, né? O mix
+[01:10:39.440] mais saudável, mais resiliente, mais a
+[01:10:41.920] gente usa o termo all, né? a gente quer
+[01:10:44.280] entregar e a cada tri a gente tá
+[01:10:46.040] entregando um Santander Brasil mais all
+[01:10:48.000] weather bank eh pro mercado, pro grupo,
+[01:10:51.080] para pr pra própria gestão. E isso tem
+[01:10:53.560] muito a ver com o mix
+[01:10:55.360] bem composto. Ah, a gente já tá onde a
+[01:10:59.080] gente quer tá? Sem dúvida não. Esse é um
+[01:11:01.560] contínuo que leva mais talvez do anos
+[01:11:04.480] pra gente est num mix exatamente com o
+[01:11:06.800] massivo reduzido, como a gente quer e
+[01:11:10.120] todos os outros segmentos ah do tamanho
+[01:11:12.679] proporcional num balanço obviamente
+[01:11:14.520] maior, mas a gente tá já no estágio,
+[01:11:16.520] diria mais avançado dessa recomposição
+[01:11:18.320] de mix. Como você anotou bem, a gente
+[01:11:20.440] nota o impacto disso no nas linhas de
+[01:11:22.320] resultado, sem dúvida sim, quando a
+[01:11:25.520] gente olha a safra de originação e faz o
+[01:11:28.800] back test disso, eu falei que a cada mês
+[01:11:30.679] a gente faz, mas a gente faz back tests
+[01:11:32.960] bem profundos a cada 3 meses, a partir
+[01:11:35.600] de 3 meses, quando a gente já tem uma
+[01:11:37.080] noção de atraso curto, né, o o M3, que a
+[01:11:39.920] gente chama, a gente a partir do
+[01:11:41.679] terceiro mês faz análises muito
+[01:11:43.239] profundas que quem capitania é
+[01:11:45.600] justamente o Carlos Muniz, como se
+[01:11:47.159] foldou do banco com Caros dias o nosso
+[01:11:49.639] CRO. Eh, [roncando] e eles como primeira
+[01:11:52.480] linha da equação, né, primeira linha de
+[01:11:54.440] defesa da equação de rentabilidade, eh,
+[01:11:57.199] desafiam os negócios, é nessa ordem,
+[01:11:58.960] eles desafiam os negócios a como
+[01:12:00.679] melhorar o mix. Eh, a gente anota isso
+[01:12:03.080] nas safras novas, sem dúvida. Claro que
+[01:12:05.560] a gente sempre tá retroalimentando o
+[01:12:07.000] modelo de originação com o que a gente
+[01:12:08.360] aprende, mas eu diria que 90 plus% do
+[01:12:11.639] que a gente tá fazendo tá exatamente
+[01:12:13.960] como a gente queria. Eh, ah, e a conta
+[01:12:16.000] de resultado agregada do banco,
+[01:12:17.320] Bernardo. Claro, a conta de resultado,
+[01:12:18.639] como eu respondi pro Pedro, são muitas
+[01:12:20.320] as placas tectônicas que acontecem ao
+[01:12:22.199] mesmo tempo. Então, ao mesmo tempo, eu
+[01:12:24.040] tô acelerando o meu write off no
+[01:12:26.400] especial, o meu runof no especial. Isso
+[01:12:29.040] draga um pouco a conta de resultado para
+[01:12:31.480] uma PDD maior no especial, mas é
+[01:12:33.880] saudável que eu faça isso, que eu tô
+[01:12:35.360] limpando a PDD futura que eu
+[01:12:37.679] provavelmente teria com esse segmento e
+[01:12:39.679] também tem um impacto em top line na
+[01:12:41.159] receita, porque eu tô deixando de ter o
+[01:12:42.600] spread mais alto da carteira, que é o do
+[01:12:44.520] segmento massivo. Mas a qualidade da da
+[01:12:47.760] do entrreinhas, né, a qualidade do
+[01:12:49.639] resultado que eu tô construindo no blend
+[01:12:52.719] a cada mês, a cada tri, sem dúvida a
+[01:12:54.880] gente tá a gente tá entregando isso e a
+[01:12:56.440] cada tri vocês vão poder visualizar isso
+[01:12:58.159] melhor. Então, safras novas, sem dúvida,
+[01:13:01.280] check, com uma disciplina muito grande
+[01:13:03.480] de back test que se a gente tivesse mais
+[01:13:05.760] tempo, o munípicava aqui meia hora só
+[01:13:07.400] contando como ele já faz, como
+[01:13:09.239] recém-chegado sefou essa disciplina, mas
+[01:13:11.560] podem acreditar que é uma das principais
+[01:13:13.480] etapas da gestão nossa de toda semana.
+[01:13:15.840] Eh, e aos poucos esse blend vai
+[01:13:17.400] impactando positivamente o portfólio.
+[01:13:19.520] Isso vai aparecer e daí a minha
+[01:13:21.120] segurança também de que por mix a gente
+[01:13:24.000] vai ter a rentabilidade de 20 plus a
+[01:13:26.760] partir de 28 no mínimo. Eh, dado que a
+[01:13:29.040] gente vai ter limpado que a gente tinha
+[01:13:30.400] que limpar e nas safras novas, que cada
+[01:13:32.320] vez mais vão ser o portfólio inteiro, a
+[01:13:34.199] gente vai ter as originações a 20 plus
+[01:13:36.360] de hot minimamente. Obrigado.
+[01:13:43.750] A gente caminha agora pra nossa última
+[01:13:43.760] pergunta com Marcelo Misarri do Banco
+[01:13:46.719] Bradesco BBI. Bom dia, Mizarri.
+[01:13:50.480] >> Oi, pessoal, tudo bem? Primeiro, Mário,
+[01:13:52.239] obrigado aí por tudo ao longo dessa
+[01:13:54.000] trajetória aí no Byside, agora no seu
+[01:13:56.159] side, obrigado aí pelo pelas aulas, pelo
+[01:13:58.920] aprendizado, pela parceria. Boa sorte ao
+[01:14:01.520] Carlos e vamos se ver bastante aí. Eh,
+[01:14:05.040] acho que a minha pergunta é, a gente
+[01:14:07.120] escreveu essa semana sobre justamente
+[01:14:10.040] essa questão da do 15 a 90, da inência
+[01:14:14.080] de 15 a 90 em relação a insta de 90
+[01:14:16.480] dias, né? Justamente como você
+[01:14:19.600] mencionou, né? E até o Banco Central
+[01:14:21.280] levantou isso ano passado, né? A de 90
+[01:14:23.360] dias ela acaba perdendo um pouco tanto
+[01:14:25.880] essa comparabilidade sobre como ela era
+[01:14:28.040] antes, né, no passado, sobre como no
+[01:14:30.199] caso até no caso do Santander como ela
+[01:14:32.159] vinha vindo, né?
+[01:14:34.199] Primeira pergunta assim, assim, quando a
+[01:14:36.280] gente olha a NPA de 1590 do Santander,
+[01:14:39.280] né, a indicação do pessoal de pessoa
+[01:14:41.600] física e mesmo a indicação de pequenas e
+[01:14:44.280] médias empresas, ela é construtiva, né?
+[01:14:47.360] Na verdade, o pequenas e médias
+[01:14:48.719] empresas, ele até cai no primeiro
+[01:14:50.280] trimestre em relação ao quarto tri. E o
+[01:14:53.520] de pessoas físicas ele sobe, mas sobe
+[01:14:55.920] menos do que subiu nos últimos anos. A
+[01:14:57.800] gente até olhou aqui nos últimos 4, 5
+[01:14:59.760] anos, todo o primeiro trimestre, o 1590
+[01:15:01.719] do Santander no ano passado,
+[01:15:02.920] especialmente, né? O 15,90, ele subia
+[01:15:06.440] mais do que 02 que subiu nesse tri.
+[01:15:08.480] Então quando eu olho o 15 a 90 e eu acho
+[01:15:11.040] que é uma métrica que eu acho mais eh
+[01:15:13.840] confiável a partir de agora para
+[01:15:15.520] comparar, eh eu tenho uma dinâmica de
+[01:15:18.400] qualidade um pouco mais construtiva, né?
+[01:15:21.880] Daí eu te a pergunta que precisa
+[01:15:24.840] conversar com isso aqui é cuso de risco,
+[01:15:27.000] né? Então assim, eh, olhando o custo de
+[01:15:29.960] risco, né, paraa frente, acho que ter o
+[01:15:31.760] desafio, né, desse de risking de
+[01:15:33.920] carteira, mas assim, a pergunta é, se a
+[01:15:36.159] gente colocar na conta os casos
+[01:15:38.040] específicos, eh, não sei se tem
+[01:15:41.040] provisionado ou expectativa de aumentos
+[01:15:42.960] de provisão paraa frente, se a gente
+[01:15:44.679] colocar um pouco esse perfil de carteira
+[01:15:46.120] que já tá eh um com um risco um pouco
+[01:15:49.040] menor, né, o que a gente começa a ver
+[01:15:50.560] aqui nesse efeito aqui de empresa de
+[01:15:52.239] pequenas e médias e pessoas físicas, é
+[01:15:54.600] para ver custo de risco subindo ao longo
+[01:15:56.600] do ano.
+[01:15:57.600] ou é para ver custo de risco eh mais
+[01:16:00.199] estável, né? Eu acho que assim, a grande
+[01:16:01.880] expectativa se pegar assim o que a gente
+[01:16:03.440] esperava para primeiro trimestre, era
+[01:16:05.320] uma provisão realmente mais alta,
+[01:16:07.679] justamente por essa dinâmica tanto da
+[01:16:09.600] sazonalidade quanto essa dinâmica dos
+[01:16:11.440] casos específicos, né? Então, talvez
+[01:16:13.560] queria te ouvir um pouco mais sobre a
+[01:16:15.360] dinâmica de custo de risco pra frente.
+[01:16:18.239] >> Legal, Marcelo, obrigado e obrigado
+[01:16:19.600] pelas palavras.
+[01:16:21.760] A aula foi, aula foi, eh, BF eh, ter
+[01:16:24.840] estado perto de vocês também ensinou a
+[01:16:27.000] mim e ao banco muito. E eu falo que é um
+[01:16:28.679] dos diálogos mais ricos, porque ele é
+[01:16:30.480] ultra técnico e vocês fazem sempre as
+[01:16:32.080] perguntas mais difíceis e fazem a gente
+[01:16:34.400] se preparar cada vez melhor. Então,
+[01:16:35.840] obrigado você. Eh, você tocou em vários
+[01:16:39.719] pontos. Eu vou tentar pincelar vários e
+[01:16:41.760] se ficar algum ponto ou um laço pendente
+[01:16:44.600] e você me fala e eu fecho. Eh, é verdade
+[01:16:48.520] que o 1590 tem aspectos construtivos
+[01:16:50.760] quando a gente olha principalmente na
+[01:16:52.639] visão sazonal de um primeiro tri. Você
+[01:16:54.520] tem razão. Legal você ter olhado esse
+[01:16:56.440] histórico. Particularmente o do ano
+[01:16:57.840] passado tinha sido mais duro. E o efeito
+[01:17:00.159] na época do imobiliário que eu citei
+[01:17:01.719] hoje, eu lembro de falar exatamente um
+[01:17:03.159] ano atrás da história do imobiliário,
+[01:17:04.840] ele era mais material ainda do que ele
+[01:17:07.199] foi agora. Ele ele tem sua
+[01:17:08.560] materialidade. Se a gente olha o
+[01:17:10.360] imobiliário, ele é 25 a 30% desse delta
+[01:17:14.719] 15 a 90. É só o imobiliário. Se a gente
+[01:17:16.960] soma financeira, isso vai passar
+[01:17:18.800] seguramente da metade. E que são
+[01:17:20.920] produtos que a gente tem uma natureza de
+[01:17:23.080] eh de acordo, né, nesse atraso curto,
+[01:17:25.719] uma natureza bastante saudável, como eu
+[01:17:27.320] já citei. Então, eh,
+[01:17:30.400] parece construtivo o de pequenas e
+[01:17:32.280] médias também.
+[01:17:34.280] Como é que eu leio isso, Marcelo? De
+[01:17:35.960] verdade, a gente tem sido, e você vai
+[01:17:38.199] ser o primeiro a corroborar, a gente tem
+[01:17:40.199] sido mais conservador já pelo menos um
+[01:17:42.040] ano e meio em crescimento de carteira.
+[01:17:43.520] Então, eu não quero dizer que a gente é
+[01:17:44.520] melhor por isso, mas a gente tem tentado
+[01:17:46.480] ser mais seletivo nos públicos, em cada
+[01:17:48.719] subpúblico de cada subsegmento. Então,
+[01:17:51.513] [limpando a garganta] eh, a gente vai
+[01:17:52.639] buscar sim ter uma performance de over
+[01:17:54.920] eh compatível, idealmente melhor do que
+[01:17:56.800] a do mercado, até por est crescendo
+[01:17:58.239] menos a carteira. O contrafeito que a
+[01:18:00.280] gente tá crescendo menos a carteira é
+[01:18:01.600] que eu cresço menos o denominador. Então
+[01:18:03.600] o efeito dilutivo que eu tenho tanto em
+[01:18:05.480] custo de crédito quanto em NPL
+[01:18:06.760] formation, eh, que se eu tivesse
+[01:18:08.520] crescendo a carteira 10, 12 ao ano,
+[01:18:10.760] obviamente me ajudaria a ter indicadores
+[01:18:12.639] melhores, eh eu não tô tendo. Eu não tô
+[01:18:15.280] tendo porque eu decidi não ter, não é,
+[01:18:17.199] não é por acaso, mas eh não ajuda nesse
+[01:18:19.480] aspecto. Então, óbvio que esse tri por
+[01:18:22.360] câmbio, por alguns portfólios
+[01:18:24.000] específicos, a gente acabou tendo uma
+[01:18:25.280] carteira que na visão ampliada, que é
+[01:18:27.280] como a gente vai falar com vocês sempre,
+[01:18:28.920] ela cai um pouquinho. Não, eu não espero
+[01:18:30.679] que a carteira termine 26 caindo em
+[01:18:32.880] relação a 25, obviamente não, mas ela
+[01:18:35.199] deve crescer, como já foi nos últimos
+[01:18:36.840] anos, alguns pontos ou x pontos menos do
+[01:18:39.840] que pelo menos a Febraban estima que vai
+[01:18:41.880] crescer como todo, mas algo vai crescer.
+[01:18:43.480] Então, o denominador deve andar no
+[01:18:45.600] sentido positivo de diluir custo de
+[01:18:47.280] crédito. E eu sabendo fazer isso bem em
+[01:18:49.400] relação aos portfólios, eh, eu deveria
+[01:18:51.880] conseguir fazer com que a PDD não suba
+[01:18:54.520] além do crescimento da carteira e,
+[01:18:56.280] portanto, o custo de crédito, na
+[01:18:57.960] prática, eh, se mantenha na mesma ordem
+[01:19:00.480] de grandeza. E aí eu vou me permitir
+[01:19:03.040] base points para lá e para cá considerar
+[01:19:04.760] como mesma ordem de grandeza. Então, eh,
+[01:19:07.040] não dá para cravar ainda muito cedo no
+[01:19:09.000] ano eh eh um cenário macro que
+[01:19:11.440] obviamente não tá resolvido. O tema das
+[01:19:13.520] famílias eu já cobri em bastante
+[01:19:14.960] detalhe, falei que em pequenas e médias,
+[01:19:16.719] inclusive nas pequenininhas, a gente tem
+[01:19:18.719] sim o ponto de preocupação. E e o agro
+[01:19:21.000] tá longe de ter resolvido, que não é um
+[01:19:23.159] tema só do Santander, é um tema da
+[01:19:24.440] indústria. Então, não dá para cravar que
+[01:19:26.560] vai ser uma redução já esse ano do custo
+[01:19:29.679] de crédito mais visível, mas a gente
+[01:19:31.320] espera que não haja um deterioro do
+[01:19:33.040] custo de crédito que se note com
+[01:19:34.800] materialidade nesse ano. O que eu posso
+[01:19:36.880] sim garantir é que numa senda um pouco
+[01:19:39.040] mais longa, se a gente olha para 27, 28,
+[01:19:41.719] a forma como a gente tá fazendo o
+[01:19:43.159] risking da carteira, a forma como a
+[01:19:44.920] gente tá produzindo os portfólios de
+[01:19:46.280] cada de forma cada vez mais balanceada,
+[01:19:48.080] equilibrada e diversificada, aí a gente
+[01:19:50.520] sim tá desenhando um banco que reduz o
+[01:19:52.239] custo de crédito quando a gente olha
+[01:19:53.719] numa senda para 27, para 28. Isso é mais
+[01:19:55.719] fácil cravar, porque a gente vai ter o
+[01:19:57.800] efeito mais a de médio plus prazo e do
+[01:20:02.040] nosso derisking e da produção nova cada
+[01:20:04.480] vez mais precisa e melhor, como eu
+[01:20:06.159] respondi agora a pouco numa das
+[01:20:07.719] perguntas. Então, eh eh esse ano a gente
+[01:20:10.520] espera uma ordem de grandeza plana eh
+[01:20:13.320] que eu espero seja aí na casa dos bases
+[01:20:15.080] points para cima ou para baixo. Nesse
+[01:20:16.440] tri foi bases points para baixo até
+[01:20:18.280] mesmo sem a carteira crescer. Com a
+[01:20:19.960] carteira crescendo, a gente vai ter um,
+[01:20:21.600] diria, um vento a favor nesse sentido,
+[01:20:23.199] porque dilui, eh, mas a gente vai
+[01:20:24.880] continuar com a mesma disciplina que tem
+[01:20:26.360] e enfrentando a macro que nós e vocês e
+[01:20:29.360] todos os concorrentes temos que
+[01:20:30.400] enfrentar da melhor forma. Espero ter
+[01:20:32.880] coberto aqui os pontos. E você perguntou
+[01:20:34.360] dos nomes, eu tinha citado já na
+[01:20:36.120] pergunta do Pedro, mas a gente sim
+[01:20:38.040] acredita que termina o balanço de 31 de
+[01:20:39.840] março com a provisão certa do single
+[01:20:41.560] names. Eh, mas as as situações continuam
+[01:20:44.920] evoluindo. Então, abril evolui em
+[01:20:46.880] relação a março, maio vai evoluir em
+[01:20:48.360] relação a abril. A gente não faz
+[01:20:50.199] provisão exant por um cenário que não
+[01:20:53.320] aconteceu ainda. A gente obviamente
+[01:20:54.880] desenha
+[01:20:56.239] no nosso modelo de de capacidade
+[01:20:58.560] recuperatória, nosso modelo de net
+[01:21:00.679] present value das exposições. A gente
+[01:21:02.360] leva em conta, claro, os cenários, mas
+[01:21:04.520] se tem negociações acontecendo, se tem
+[01:21:06.600] situações em que a gente tá na mesa com
+[01:21:08.520] as empresas desenhando soluções
+[01:21:10.719] construtivas, a gente tipicamente vai
+[01:21:12.920] acompanhar as discussões para avaliar
+[01:21:15.440] quanto de provisionamento a gente
+[01:21:16.600] precisa. Até porque, de novo, a gente
+[01:21:18.560] não pode generalizar. A gente tem
+[01:21:19.960] exposições em nível muito baixo em
+[01:21:22.040] holdings, em nível muito baixo cleans e
+[01:21:24.679] a gente tem muito mais exposições em
+[01:21:26.239] ativos operacionais, em projetos, em
+[01:21:28.760] operações eh eh, por exemplo, de energia
+[01:21:31.360] ou derivativos que t uma outra natureza
+[01:21:33.760] em relação a operações clean, longo
+[01:21:35.679] prazo, holding, que a gente pouco tem.
+[01:21:37.679] Então, a gente vai seguir fazendo e
+[01:21:39.639] claro que a depender da evolução dos
+[01:21:41.120] nomes, a gente vai fazer reforço de
+[01:21:42.560] provisão, sem dúvida. Eh, espero ter
+[01:21:44.800] coberto todos os pontos e de novo o tema
+[01:21:46.679] de dos índices e do custo de crédito é
+[01:21:48.920] um tema que toque muita coisa, mas mas
+[01:21:50.840] de novo o time tá a disposição e eu
+[01:21:52.560] passo de novo aqui a palavra pra Camila
+[01:21:54.000] para poder fazer o fechamento.
+[01:21:59.510] >> Bom, obrigada. Eu queria agradecer a
+[01:21:59.520] presença de todos que estiveram aqui com
+[01:22:01.360] a gente essa manhã e eu e todo o time de
+[01:22:04.199] Relações com Investidores do Santander
+[01:22:05.880] Brasil permanecemos à disposição para
+[01:22:08.120] qualquer dúvida que tenha permanecido.
+[01:22:10.000] Obrigada. Bom dia e ótima semana. E
+[01:22:12.840] obrigado a todos mais uma vez. Foi um
+[01:22:14.360] prazer ter estado com vocês todos esses
+[01:22:15.920] anos. Sucesso e seguirei aqui apoiando e
+[01:22:18.960] torcendo pelo banco o máximo possível.
+[01:22:21.400] Obrigado.

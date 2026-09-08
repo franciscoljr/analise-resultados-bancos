@@ -1,0 +1,34 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=K0BjeF0KkTs
+[youtube] K0BjeF0KkTs: Downloading webpage
+[youtube] K0BjeF0KkTs: Downloading visionos player API JSON
+[youtube] K0BjeF0KkTs: Downloading m3u8 information
+[info] K0BjeF0KkTs: Downloading subtitles: pt-orig, pt
+[info] K0BjeF0KkTs: Downloading 1 format(s): 399+251-2
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Caixa/2T26/youtube.pt-orig.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Caixa/2T26/youtube.pt-orig.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at   28.05MiB/s (00:00:00)
+[download]   63.00KiB at   29.98MiB/s (00:00:00)
+[download]  127.00KiB at    3.37MiB/s (00:00:00)
+[download]  255.00KiB at    2.98MiB/s (00:00:00)
+[download]  445.64KiB at    4.39MiB/s (00:00:00)
+[download] 100% of  445.64KiB in 00:00:00 at 1.53MiB/s
+[info] Writing video subtitles to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Caixa/2T26/youtube.pt.vtt
+[download] Destination: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Caixa/2T26/youtube.pt.vtt
+
+[download]    1.00KiB at  Unknown B/s (00:00:00)
+[download]    3.00KiB at  Unknown B/s (00:00:00)
+[download]    7.00KiB at  Unknown B/s (00:00:00)
+[download]   15.00KiB at  Unknown B/s (00:00:00)
+[download]   31.00KiB at  Unknown B/s (00:00:00)
+[download]   63.00KiB at   55.72MiB/s (00:00:00)
+[download]  127.00KiB at    2.74MiB/s (00:00:00)
+[download]  255.00KiB at    2.42MiB/s (00:00:00)
+[download]  445.64KiB at    3.39MiB/s (00:00:00)
+[download] 100% of  445.64KiB in 00:00:00 at 1.68MiB/s
+[info] Writing video metadata as JSON to: /Users/francisco/Documents/GPT/Analise Bancos/data/calls/Caixa/2T26/youtube.info.json
+

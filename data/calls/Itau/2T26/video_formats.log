@@ -1,0 +1,24 @@
+[vimeo] Extracting URL: https://player.vimeo.com/video/1215827230?h=53c9fc9a84
+[vimeo] 1215827230: Downloading webpage
+WARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[vimeo] 1215827230: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 1215827230: Downloading fastly_skyfire m3u8 information
+[vimeo] 1215827230: Downloading akfire_interconnect_quic MPD information
+WARNING: [vimeo] 1215827230: Failed to parse XML: not well-formed (invalid token): line 1, column 0
+[vimeo] 1215827230: Downloading fastly_skyfire MPD information
+WARNING: [vimeo] 1215827230: Failed to parse XML: not well-formed (invalid token): line 1, column 0
+[info] Available formats for 1215827230:
+ID                                               EXT RESOLUTION FPS |   FILESIZE   TBR PROTO | VCODEC        VBR ACODEC     MORE INFO
+-------------------------------------------------------------------------------------------------------------------------------------
+hls-akfire_interconnect_quic-audio-high-Original mp4 audio only     |                  m3u8  | audio only        unknown    Original
+hls-fastly_skyfire-audio-high-Original           mp4 audio only     |                  m3u8  | audio only        unknown    Original
+hls-akfire_interconnect_quic-451                 mp4 426x240     30 | ~361.07MiB  451k m3u8  | avc1.640015  451k video only
+hls-fastly_skyfire-451                           mp4 426x240     30 | ~361.07MiB  451k m3u8  | avc1.640015  451k video only
+hls-akfire_interconnect_quic-719                 mp4 640x360     30 | ~575.64MiB  719k m3u8  | avc1.64001E  719k video only
+hls-fastly_skyfire-719                           mp4 640x360     30 | ~575.64MiB  719k m3u8  | avc1.64001E  719k video only
+hls-akfire_interconnect_quic-1234                mp4 960x540     30 | ~987.95MiB 1234k m3u8  | avc1.64001F 1234k video only
+hls-fastly_skyfire-1234                          mp4 960x540     30 | ~987.95MiB 1234k m3u8  | avc1.64001F 1234k video only
+hls-akfire_interconnect_quic-1936                mp4 1280x720    30 | ~  1.51GiB 1936k m3u8  | avc1.640020 1936k video only
+hls-fastly_skyfire-1936                          mp4 1280x720    30 | ~  1.51GiB 1936k m3u8  | avc1.640020 1936k video only
+hls-akfire_interconnect_quic-3453                mp4 1920x1080   30 | ~  2.70GiB 3453k m3u8  | avc1.64002A 3453k video only
+hls-fastly_skyfire-3453                          mp4 1920x1080   30 | ~  2.70GiB 3453k m3u8  | avc1.64002A 3453k video only

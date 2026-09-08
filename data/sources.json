@@ -1,0 +1,351 @@
+[
+  {
+    "bank": "Banco_do_Brasil",
+    "id": "5760dff3-15e1-4962-9e81-322a0b3d0bbd",
+    "base": "https://apicatalog.mziq.com/filemanager",
+    "portal": "https://ri.bb.com.br/informacoes-financeiras/central-de-resultados/",
+    "categories": [
+      {
+        "title": "Sumário do Resultado",
+        "internal_name": "sumario-resultado"
+      },
+      {
+        "title": "Análise do Desempenho",
+        "internal_name": "downloads-analise-do-desempenho"
+      },
+      {
+        "title": "Relatório da Administração",
+        "internal_name": "relatorio-administracao"
+      },
+      {
+        "title": "Demonstrações Contábeis",
+        "internal_name": "downloads-demonstracoes-contabeis"
+      },
+      {
+        "title": "Demonstrações Contábeis PDF",
+        "internal_name": "downloads-demonstracoes-contabeis-pdf"
+      },
+      {
+        "title": "Demonstrações Contábeis em IFRS",
+        "internal_name": "downloads-demonstracoes-contabeis-em-ifrs"
+      },
+      {
+        "title": "Séries Históricas",
+        "internal_name": "downloads-series-historicas"
+      },
+      {
+        "title": "Apresentação da Teleconferência",
+        "internal_name": "tele-apresentacao"
+      },
+      {
+        "title": "Vídeo Apresentação de Resultado",
+        "internal_name": "gravacao"
+      },
+      {
+        "title": "Áudio da Teleconferência",
+        "internal_name": "tele-audio"
+      },
+      {
+        "title": "Vídeo Live de Resultados",
+        "internal_name": "Video Live"
+      },
+      {
+        "title": "Transcrição da Teleconferência",
+        "internal_name": "tele-transcricao"
+      },
+      {
+        "title": "Apresentação Institucional",
+        "internal_name": "resultados-trimestrais"
+      },
+      {
+        "title": "Coletiva de Imprensa",
+        "internal_name": "coletivas-de-imprensa"
+      },
+      {
+        "title": "Boletim InformAções BB",
+        "internal_name": "boletim_trimestral"
+      },
+      {
+        "title": "BB Notícias ",
+        "internal_name": "downloads-bb-noticias"
+      }
+    ]
+  },
+  {
+    "bank": "Caixa",
+    "id": "fb86b0b8-b4e9-407b-a575-ba3668a566a9",
+    "base": "https://api.mziq.com/mzfilemanager",
+    "portal": "https://ri.caixa.gov.br/informacoes-financeiras/central-de-resultados/",
+    "categories": [
+      {
+        "title": "Apresentação de Resultados",
+        "internal_name": "central-apresentacao-de-resultados"
+      },
+      {
+        "title": "Balanço Patrimonial",
+        "internal_name": "central-balanco-patrimonial"
+      },
+      {
+        "title": "BrGaap - Demonstrações Contábeis",
+        "internal_name": "central-brgaap-demonstracoes-contabeis"
+      },
+      {
+        "title": "BrGaap - Demonstrações Contábeis editável",
+        "internal_name": "central-brgaap-demonstracoes-contabeis-editavel"
+      },
+      {
+        "title": "Demonstração dos Fluxos de Caixa",
+        "internal_name": "central_demonstracao_dos_fluxos_de_caixa"
+      },
+      {
+        "title": "Demonstrações das Mutações do Patrimônio Líquido",
+        "internal_name": "central-demonstracoes-das-mutacoes-do-patrimonio-liquido"
+      },
+      {
+        "title": "Demonstração do Valor Adicionado",
+        "internal_name": "central_demonstracao_do_valor_adicionado_consolidado"
+      },
+      {
+        "title": "Demonstrações das Origens e Aplicações de Recursos",
+        "internal_name": "central-demonstracoes-das-origens-e-aplicacoes-de-recursos"
+      },
+      {
+        "title": "Demonstração do Resultado",
+        "internal_name": "central_demonstracoes_de _resultado"
+      },
+      {
+        "title": "Conglomerado Prudencial – Demonstrações Contábeis Consolidadas",
+        "internal_name": "central-dfs-conglomerado-prudencial"
+      },
+      {
+        "title": "DFs - IFRS",
+        "internal_name": "central_dfs_ifrs"
+      },
+      {
+        "title": "Informação Financeira",
+        "internal_name": "informacao-financeira"
+      },
+      {
+        "title": "IFRS - Demonstrações contábeis consolidadas",
+        "internal_name": "central-ifrs-demonstracoes-contabeis-consolidadas"
+      },
+      {
+        "title": "IFRS - Demonstrações contábeis consolidadas editáveis",
+        "internal_name": "central-ifrs-demonstracoes-contabeis-consolidadas-editáveis"
+      },
+      {
+        "title": "Notas da Administração às Demonstrações Financeiras",
+        "internal_name": "central-notas-da-administracao-as-demonstracoes-financeiras"
+      },
+      {
+        "title": "Notas explicativas às Demonstrações Financeiras",
+        "internal_name": "central-notas-explicativas-as-demonstrativas-financeiras"
+      },
+      {
+        "title": "Parecer da Auditoria Independente",
+        "internal_name": "central-parecer-da-auditoria-independente"
+      },
+      {
+        "title": "Parecer do Conselho Fiscal",
+        "internal_name": "central_parecer_do_conselho_fiscal_ca"
+      },
+      {
+        "title": "Press Release",
+        "internal_name": "central-press-release"
+      },
+      {
+        "title": "Relatório da Administração",
+        "internal_name": "central-relatorio-da-administracao"
+      },
+      {
+        "title": "Relatório de Análise de Desempenho",
+        "internal_name": "central-relatorio-de-analise-de-desempenho"
+      },
+      {
+        "title": "Relatório Integrado",
+        "internal_name": "relatorio-integrado"
+      },
+      {
+        "title": "Relatório dos Auditores Independentes",
+        "internal_name": "central_relatorios_dos_auditores_independentes"
+      },
+      {
+        "title": "Resumo do Relatório do Comitê de Auditoria",
+        "internal_name": "central_resumo_do_relatorio_do_comite_de_auditoria"
+      },
+      {
+        "title": "IFRS - Relatório da Administração",
+        "internal_name": "ifrs_relatório_adminisração"
+      },
+      {
+        "title": "Demonstrações Financeiras",
+        "internal_name": "demonstracoes_fina"
+      },
+      {
+        "title": "Apresentação Institucional ",
+        "internal_name": "apresentacao-institucional-central"
+      }
+    ]
+  },
+  {
+    "bank": "Bradesco",
+    "id": "80f2e993-0a30-421a-9470-a4d5c8ad5e9f",
+    "base": "https://apicatalog.mziq.com/filemanager",
+    "portal": "https://www.bradescori.com.br/informacoes-ao-mercado/central-de-resultados/",
+    "categories": [
+      {
+        "title": "Apresentação da Videoconferência",
+        "internal_name": "apresentacoes_institucionais_teleconferencia"
+      },
+      {
+        "title": "Relatório de Análise Econômica e Financeira",
+        "internal_name": "relatorios_relatorio_de_analise_economica"
+      },
+      {
+        "title": "Gerenciamento de Riscos | Pilar 3",
+        "internal_name": "gerenciamento_de_riscos_gerenciamento_de_riscos"
+      },
+      {
+        "title": "Anexos Pilar 3",
+        "internal_name": "gerenciamento_de_riscos_anexos_pilar"
+      },
+      {
+        "title": "Séries Históricas",
+        "internal_name": "relatorios_series_historicas"
+      },
+      {
+        "title": "Press Release",
+        "internal_name": "relatorios_press_release"
+      },
+      {
+        "title": "Demonstrações Financeiras Consolidadas - IFRS",
+        "internal_name": "relatorios_ifrs"
+      },
+      {
+        "title": "Podcast",
+        "internal_name": "teleconferencias_podcast"
+      },
+      {
+        "title": "Conferência de Resultados",
+        "internal_name": "videoconferencia_resultados"
+      },
+      {
+        "title": "Transcrição",
+        "internal_name": "teleconferencias_transcricao"
+      },
+      {
+        "title": "Informativo Trimestral",
+        "internal_name": "_informativos"
+      }
+    ]
+  },
+  {
+    "bank": "Santander",
+    "id": "a2595886-9fbb-4339-8a38-71d6ce7c7d36",
+    "base": "https://apicatalog.mziq.com/filemanager",
+    "portal": "https://www.santander.com.br/ri/resultados-e-relatorios/divulgacao-de-resultados/",
+    "categories": [
+      {
+        "title": "apresentacao de resultados",
+        "internal_name": "divulgacao_de_resultados_apresentacao_de_resultados"
+      },
+      {
+        "title": "teleconferencia de resultados",
+        "internal_name": "divulgacao_de_resultados_teleconferencia_de_resultados"
+      },
+      {
+        "title": "demonstracoes financeiras brgaap",
+        "internal_name": "divulgacao_de_resultados_demonstracoes_financeiras_brgaap"
+      },
+      {
+        "title": "informativo ao investidor pf",
+        "internal_name": "divulgacao_de_resultados_informativo_ao_investidor_pf"
+      },
+      {
+        "title": "demonstracoes financeiras ifrs",
+        "internal_name": "divulgacao_de_resultados_demonstracoes_financeiras_ifrs"
+      },
+      {
+        "title": "informe de resultados",
+        "internal_name": "divulgacao_de_resultados_informe_de_resultados"
+      },
+      {
+        "title": "serie historica brgaap",
+        "internal_name": "divulgacao_de_resultados_serie_historica_brgaap"
+      },
+      {
+        "title": "transcricao videoconferencia de resultados",
+        "internal_name": "divulgacao_de_resultados_transcricao_videoconferencia_de_resultados"
+      }
+    ]
+  },
+  {
+    "bank": "Itau",
+    "id": "42787847-4cf6-4461-94a5-40ed237dca33",
+    "base": "https://api.mziq.com/mzfilemanager",
+    "portal": "https://www.itau.com.br/relacoes-com-investidores/resultados-e-relatorios/central-de-resultados/",
+    "categories": [
+      {
+        "title": "central analise gerencial da operacao",
+        "internal_name": "central_analise_gerencial_da_operacao"
+      },
+      {
+        "title": "central demonstracoes contabeis completas em ifrs",
+        "internal_name": "central_demonstracoes_contabeis_completas_em_ifrs"
+      },
+      {
+        "title": "central apresentacao institucional",
+        "internal_name": "central_apresentacao_institucional"
+      },
+      {
+        "title": "central gerenciamento de riscos e capital pilar 3",
+        "internal_name": "central_gerenciamento_de_riscos_e_capital_pilar_3"
+      },
+      {
+        "title": "central informativo acoes itau em foco",
+        "internal_name": "central_informativo_acoes_itau_em_foco"
+      },
+      {
+        "title": "titulo destacado",
+        "internal_name": "titulo_destacado"
+      },
+      {
+        "title": "central apresentacao",
+        "internal_name": "central_apresentacao"
+      },
+      {
+        "title": "central transcricao do audio",
+        "internal_name": "central_transcricao_do_audio"
+      },
+      {
+        "title": "central video",
+        "internal_name": "central_video"
+      },
+      {
+        "title": "central factsheet",
+        "internal_name": "central_factsheet"
+      }
+    ]
+  },
+  {
+    "bank": "BTG_Pactual",
+    "adapter": "btg",
+    "id": "78a5a309-f13a-41ed-a7d1-814e37b63259",
+    "base": "https://api.solutions-ir.com",
+    "portal": "https://ri.btgpactual.com/principais-informacoes/central-de-resultados",
+    "categories": [
+      {
+        "title": "informacoes financeiras",
+        "internal_name": "informacoes_financeiras"
+      },
+      {
+        "title": "planilha series historicas",
+        "internal_name": "planilha_series_historicas"
+      },
+      {
+        "title": "gerenciamento de risco",
+        "internal_name": "gerenciamento_de_risco"
+      }
+    ]
+  }
+]

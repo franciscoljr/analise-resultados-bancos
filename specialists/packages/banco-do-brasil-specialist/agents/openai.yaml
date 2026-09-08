@@ -1,0 +1,6 @@
+interface:
+  display_name: "Banco do Brasil specialist"
+  short_description: "CEO/CFO strategy, financials, calls and risk"
+  default_prompt: "Use $banco-do-brasil-specialist to create the complete CEO/CFO guide to Banco do Brasil from 2024 through the latest verified quarter, integrating financial statements and earnings calls."
+policy:
+  allow_implicit_invocation: true

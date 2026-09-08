@@ -1,0 +1,683 @@
+[0.00–8.22s] Good morning and welcome to the second quarter of 2025 results conference call of Bank OBTG Pactual.
+[8.74–15.58s] With us here today we have Roberto Saludi, Renato Cohn, and Julia Rocha.
+[16.38–24.28s] We would like to inform you that this event is being recorded and all participants will be in the listen-only mode during the bank's presentation.
+[24.28–34.20s] After Banco BTG Pactual's remarks, there will be a question and answer session for investors and analysts when further instructions will be given.
+[35.08–49.60s] Today, we have a simultaneous webcast that may be accessed through the website www.btgpactual.com and the platform.
+[49.60–53.16s] There will be a replay facility for this call from today.
+[54.28–61.12s] Before proceeding, let me mention that this call may contain forward-looking statements relating to the prospects of the business,
+[61.62–68.90s] estimates for operating and financial results, and those related to the growth prospects of Bank OPTG Pactual.
+[69.16–79.24s] These are merely projections, and as such, are based exclusively on the expectations of Bank OPTG Pactual's management concerning the future of the business.
+[79.24–103.72s] Such forward-looking statements depend substantially on changes in market conditions, government regulations, competitive pressures, the performance of the Brazilian economy and the industry, among other factors and risks disclosed in Bank OBTG Pactual's filed disclosures documents and are, therefore, subject to change without prior notice.
+[104.06–109.08s] Now, I'll turn the floor to Mr. Roberto Saluti, who will begin the presentation.
+[109.82–111.80s] Mr. Sluti, please go ahead.
+[113.32–114.54s] Thank you very much.
+[115.12–116.04s] Good morning, everyone.
+[116.88–120.78s] It's a pleasure to be here with you talking about our second quarter results.
+[121.40–125.86s] I will start with the quarter highlights in page three of the presentation.
+[127.94–132.54s] Of course, I think that the most important highlight here is the return on equity for the quarter.
+[132.54–140.72s] We reached 27.1 ROE, and this is the result of a great performance by all the different business units.
+[141.36–147.20s] We finished the quarter with 8.3 billion reais in revenues and net income of 4.2 billion reais.
+[147.78–153.08s] We had an all-time high result in investment banking.
+[153.08–173.02s] This was led by a very strong M&A where we had the conclusion of various transactions which we have been working actually on for the last few years and with continuous strength in DCM and actually probably the strongest quarter of the last, I would say, eight or ten in equity capital markets too.
+[173.02–180.50s] talking about the third point of the presentation we had record results in our corporate lending and
+[180.50–186.10s] business banking business and this reflects the growth of the portfolio while we continue to
+[186.10–193.52s] maintain quality risk adjusted good good spreads continue to grow business banking and continue to
+[193.52–201.86s] benefit from the geographical and sector diversification that we have in sales and trading
+[201.86–204.48s] we also reached an all-time high result.
+[205.08–208.74s] And this was supported by the continued increase in client activity
+[208.74–214.32s] as we continue to penetrate new segments and gain market shares and others,
+[214.98–217.80s] as well as continue to roll out new products.
+[219.54–222.70s] And not only that, but you probably have also noticed,
+[223.12–226.26s] we increased the VAR allocation in the quarter,
+[226.56–228.84s] and this also helped the results of the quarter.
+[228.84–237.64s] wealth management also had another record quarter and uh this in this quarter we basically we we
+[237.64–244.60s] actually we only had organic flows but we continue to see here the benefit of the different initiatives
+[244.60–251.80s] that we've had over the last few few years and finally uh we continue to to grow our latin
+[251.80–255.56s] presence with the acquisition of HSBC Uruguay.
+[256.36–264.86s] So just in a nutshell here, what I think is important is that we see in this quarter the
+[264.86–269.18s] continued maturation of the various investments we made in the last few years.
+[269.42–275.86s] We continue to benefit from the full banking digital platform that we have in Brazil, where
+[275.86–278.80s] we basically are covering all products and segments.
+[279.34–282.42s] We continue to benefit from our growth in Latin America,
+[282.42–286.62s] and we're starting to see some revenues come from the growth
+[286.62–291.40s] of our wealth management operations in both Europe and the U.S.
+[293.30–297.70s] Turning to page four, we talk a bit about the numbers for the quarter.
+[298.46–303.68s] So total revenues growing 38% year-over-year to $8.3 billion.
+[304.50–308.62s] Net income growing 42% year-over-year to $4.2 billion.
+[308.80–312.02s] So we continue to benefit from operational leverage in our platform.
+[312.02–319.12s] And this results in a 27.1 ROE compared to 23.2 in the first quarter of the year.
+[320.18–329.68s] Turning to page five, we talk about net new money, 59 billion for the quarter, roughly half wealth management, half asset management.
+[330.18–332.06s] Once again, 100% organic.
+[332.06–346.40s] So very strong flows from the continuation of business and the past investments we've made in acquisitions and marketing and platforms and technology.
+[346.90–356.62s] Our wealth management AUM grew 32% year over year to $1,056,000,000,000.
+[356.62–365.20s] and our asset management AUM growing 19% year-over-year to 1 trillion 90 billion reais.
+[367.06–375.30s] On page six we talk about funding and credit. We continue to grow our unsecured funding 19%
+[375.30–381.58s] year-over-year reaching 280 billion reais. We continue to grow our credit portfolio 22%
+[381.58–383.76s] year over year, reaching
+[383.76–385.56s] 238 billion reais,
+[386.00–387.88s] 29 of which in the SME.
+[388.36–389.20s] As you all
+[389.20–391.12s] are probably aware,
+[391.78–393.38s] the SME sector, given the whole
+[393.38–395.38s] EOF discussions, was
+[395.38–397.28s] a bit volatile in this quarter,
+[397.76–399.00s] but we continue to see
+[399.00–401.48s] good underlying trends in that
+[401.48–403.66s] business. And finally, we continue,
+[403.86–405.46s] we finished very well
+[405.46–407.38s] capitalized with a Basel
+[407.38–410.60s] ratio increasing to 16.2%
+[410.60–411.30s] in the quarter,
+[411.58–414.60s] finishing with net equity of 64 billion reais.
+[416.20–417.52s] Turning to page seven,
+[417.70–421.66s] we show the traditional way we've been showing results.
+[422.34–424.30s] So once again, revenues of 8.3,
+[424.76–426.70s] net income of 4.2 billion reais,
+[427.34–429.80s] net income per unit of 1.10 reais,
+[430.62–432.96s] revenues growing 38% year over a year,
+[433.26–435.88s] net income 42% year over a year.
+[435.88–439.60s] We continue to improve our cost-income ratio
+[439.60–445.34s] as we benefit from operational leverage, reaching in the quarter 35.6%.
+[445.34–450.10s] And our shareholder equity grew 20% year over year.
+[450.26–454.68s] And we also increased VAR slightly to 22 BEEPs in the quarter.
+[456.18–459.10s] 32 page 8, we talk about the first half of the year,
+[459.24–460.66s] the first six months of the year.
+[461.06–465.34s] And we finished the first six months with revenues of 15.1 billion reais,
+[466.06–469.44s] net income of 7.5 billion reais,
+[469.60–476.50s] a return on equity for the first six months of 25.1, net income per unit of 1.98,
+[477.28–484.54s] and six months versus six months, growth in revenues of 27%, of net income and 29%,
+[484.54–489.96s] so once again showing the operational average, cost income at 36.2,
+[490.32–493.80s] and a VAR of 19 BEEPS for the first half of the year.
+[493.80–501.98s] finally on page nine we see the the breakdown by different business units
+[501.98–508.58s] investment banking even though we had a strong quarter it's still falling last 12 months versus
+[508.58–514.16s] last 12 months nine percent very strong performance by corporate lending and business banking
+[514.16–521.96s] reaching 34 percent growth and becoming our business line with the highest revenues
+[522.94–524.80s] Sales and trading, back to growth.
+[525.42–533.80s] As we told you the last few quarters, we had been a bit frustrated with actually what was a fall or stable sales and trading business.
+[533.80–538.40s] But we saw the trends that would permit us to go back to growth.
+[538.46–545.78s] And we start to see this in this quarter with 11% growth here last 12 months versus last 12 months.
+[545.78–552.96s] very strong growth in asset management of 25 percent uh 12 months versus 12 months and 23
+[552.96–559.50s] percent in wealth management and actually our investment management business reaching 6.9
+[559.50–565.06s] billion reais so the second largest contributor after our credit and business banking business
+[565.06–574.86s] strong contribution growth from participations 94 percent as we start accruing more uh of the
+[574.86–582.44s] the portfolios that we had acquired from from bank coupon and finally a 26 percent growth in
+[582.44–588.50s] interest another this of course reflects the increase in the celic but it also reflects the
+[588.50–596.20s] fact that we have a fortress a balance sheet where we have the very significant part of our equity
+[596.20–601.10s] in in cash and thus we're able to benefit from the higher interest rate environment
+[601.70–606.54s] With that, I'll pass to Renato Kuhn, who will talk about each of the business units, and then we can open for questions.
+[608.46–609.48s] Thank you, Roberto.
+[609.48–626.18s] So, starting in investment banking on page 11, we see that we had record revenues driven by very strong M&A contribution combined with strong TCM performance.
+[626.18–631.10s] So revenues came at 782 million reais during the quarter.
+[631.32–636.40s] That's more than double of what we achieved in the first quarter of 25.
+[636.98–642.38s] And that's a 40% increase when we compare to the second quarter of last year.
+[642.78–655.82s] In DCM, after a weak first quarter, which was affected by year end, very high volatility in financial markets, we saw a normalization of market activity.
+[655.82–665.38s] Both number of transactions and volume of transactions increased and reached similar levels of what we have seen throughout 2024.
+[666.04–670.52s] And DCM continues to be the most important contributor to investment banking revenues.
+[670.96–677.96s] And we continue to see similar levels of activity already during this first part of the third quarter.
+[677.96–689.96s] We also had very strong revenues coming from M&A, and those were driven by a concentration of some large transactions that we concluded during this quarter.
+[690.20–700.66s] We always mention that we have a robust pipeline to be executed, and the timing of the conclusion of those transactions is very difficult to predict.
+[700.66–710.38s] And this quarter, we concluded some large ones, obviously some smaller ones as well, but there was a concentration of larger ones.
+[710.60–716.38s] And we still see an important pipeline to be executed in the next few quarters.
+[717.28–726.22s] ECM, despite the challenging environment, continues to contribute to overall results with transactions in Brazil and in Latin America.
+[726.22–745.52s] And when we look at the right side of the slide, for the ranking for M&A during the second quarter of 25, we were ranked number one in number of transactions in Brazil and in LATAN, and number two in volume of transactions also in Brazil and in Latin America.
+[745.52–758.00s] For ECM, we were ranked number one in number of transactions in Brazil, number two in volume of transactions in Brazil, and also number two in number of transactions in Latin America.
+[758.00–776.00s] Going to page 12, we see our corporate lending and business banking, where we also had record revenues reflecting ongoing portfolio expansion, stable risk adjusted returns and business diversification.
+[776.00–781.94s] diversification. Revenues came at 2.1 billion reais during the quarter, and that's a 9%
+[781.94–788.94s] increase when we compare to the first quarter of 25, and a 37% increase when we compare to the
+[788.94–795.96s] second quarter of 24. Total portfolio reached 238 billion reais, which is an increase of 3%
+[795.96–800.98s] during the quarter, and a 22% increase when we compare to the second quarter of last year.
+[800.98–809.70s] And we continue to maintain a well-diversified portfolio focused on high-quality credit exposures and disciplined levels of provision.
+[810.20–819.08s] And we also continue to diversify into new segments, new geographies, as we enhance our origination capabilities.
+[819.08–833.40s] For our corporate and SME portfolios, credit spreads over funding remain stable as we continue to work and benefit from the successful reduction of our overall cost of funding.
+[833.40–846.16s] And for the total portfolio, the overall quarterly spreads increased during the quarter as we benefited from stronger results coming from our special situation business.
+[846.16–863.94s] We also are very proud that for the second year in a row, BTG Pactual Empresas, BTG Pactual Business, has been recognized as the best digital bank for corporates in Brazil by EuroMoney.
+[863.94–869.22s] Moving now to sales and trading on page 13.
+[869.86–877.72s] We also had record revenues driven by increased client activity and effective risk allocation.
+[878.48–880.70s] Revenues came at 1.9 billion reais.
+[881.28–891.92s] That's 46% higher than the previous quarter and 38% higher than the second quarter of 24.
+[891.92–900.14s] As Roberto mentioned, average VAR increased to 22 basis points while still remaining conservative and below our historical levels.
+[900.92–911.38s] And the market risk component of our risk-weighted assets increased to 25%, but remained within the range of what we've seen in the last few quarters.
+[911.38–917.38s] And we see that in the last six months, revenues reached 3.2 billion reais.
+[917.94–921.66s] That's a 17% increase when you compare to the same period of 24.
+[921.92–924.34s] as we continue to expand our client base.
+[924.70–927.84s] And at the same time, we continue to add new products,
+[927.98–931.60s] new services for this expanded client base.
+[932.66–937.56s] Looking now at our asset management business on page 14,
+[937.56–943.80s] we saw strong inflows coupled with consistent growth in management fee revenues.
+[944.50–948.66s] Revenue came at 624 million reais.
+[948.66–952.86s] And that's a 15% reduction when we compare to the first quarter of 2025.
+[953.28–958.86s] But it's important to note here that during the first quarter of 2025, we recorded very
+[958.86–964.54s] strong contribution from dividends coming from the minority stakes in independent asset
+[964.54–966.02s] managers that we invest in.
+[966.44–969.34s] And also, we recorded some performance revenues.
+[970.00–975.18s] During this quarter, we basically didn't record any dividend and a small amount of performance.
+[975.18–988.90s] So when you look overall, it's important to know that the management and administration fees continue to increase in line with the growth of overall assets under management and administration.
+[988.90–1012.46s] When you compare revenues of this second quarter of 25 with the second quarter of last year, we see a 14% increase driven by an 18.5% expansion of our assets under management and administrations, which by the end of the quarter reached $1,090,000,000,000.
+[1012.46–1028.82s] We recorded strong annual money inflows of 28 billion reais during the quarter, despite the asset management industry outflows of 39 billion reais, which once again proves the robustness of our business.
+[1028.82–1039.30s] looking now to our wealth management and personal banking business on page 15 we also had record
+[1039.30–1044.62s] revenues and very strong growth anchored by consistent and robust net new money inflows
+[1044.62–1053.22s] revenues came at 1 billion 239 million reais which is an increase of 18 percent during the
+[1053.22–1062.96s] quarter and a 33.5% increase when we compare to the second quarter of 2024. Wealth under management
+[1062.96–1069.48s] reached 1 trillion and 56 billion reais, which is a 6% increase when we compare to the previous
+[1069.48–1077.44s] quarter and it's 32% higher than the second quarter of last year. Many money was 100% organic
+[1077.44–1082.50s] and came at 30.6 billion reais during the quarter,
+[1082.62–1085.10s] once again highlighting the consistency
+[1085.10–1086.50s] in annual money generation
+[1086.50–1089.30s] that we have been showing for many previous quarters
+[1089.30–1093.70s] despite the different and challenging market environments.
+[1094.86–1097.88s] Stronger revenue growth came as a consequence
+[1097.88–1100.36s] of increased client activity
+[1100.36–1104.88s] and also the consolidation of Julius Baer revenues
+[1104.88–1108.48s] that now enter for the full quarter.
+[1108.48–1117.00s] And we successfully completed the acquisition of JGP, JGP, in July,
+[1117.64–1121.28s] adding 18 billion reais in wealth under management.
+[1121.70–1126.62s] And this number will be reflected during the third quarter results.
+[1127.62–1139.40s] Here we are also very proud that we were voted best private bank in Latin America by EuroMoney Private Banking Award.
+[1141.36–1152.68s] Going now to participations on page 16, we see that we had an overall contribution of 279 million reais in profits.
+[1152.68–1171.68s] Two seguros contributed with 64 million reais in profits. Equity pickup from Bankopan came in at 133 million reais. And the accrual of Bankopan credit portfolios that were acquired in previous quarters came at 82 million reais.
+[1171.68–1183.18s] It's important here to note that in line with Bank of PAN's strategy to retain a larger credit portfolio, we didn't execute any acquisition of payroll loan portfolios from Bank of PAN during this quarter.
+[1183.18–1194.14s] going now on to page 18 we look into our expenses and main ratios and here we see that we continue
+[1194.14–1201.28s] to see operating leverage kicking in with cost income ratio improving to 36 percent as
+[1201.28–1208.80s] as our new business initiatives continue to gain traction total operating expenses grew 16 percent
+[1208.80–1214.04s] in the quarter, but most of the growth came as a consequence of higher bonus provision
+[1214.04–1219.30s] and in line with the strong revenue generation expansion that we saw during this quarter.
+[1220.12–1225.14s] When we look at salaries and benefits, we see that they grew 3.6% during the quarter
+[1225.14–1232.72s] and administrative and other grew 7% during this quarter as both reflected now the impact
+[1232.72–1234.60s] of Julius Baer acquisition.
+[1235.60–1241.68s] Goodwill amortization increased 10% during the quarter, also reflecting Julius Baer acquisition.
+[1241.68–1248.50s] And our effective tax rate came at 20.3% during this quarter.
+[1250.08–1260.26s] Going now to our balance sheet on page 20, we see that total assets reach 656 billion reais,
+[1260.38–1263.82s] which represents 8.9 times our equity.
+[1264.60–1274.26s] Our coverage ratio increased during the quarter to 155% as our unsecured funding grew more than our on-balance credit portfolio.
+[1274.26–1282.82s] And our corporate lending and business banking credit portfolio now represents 3.7 times our equity.
+[1284.10–1292.70s] Last quarter was 3.9, so because of the strong equity growth, it reduced to 3.7.
+[1292.70–1304.38s] moving now to our unsecured funding base uh on page 21 our total funding base reached 280
+[1304.38–1309.84s] billion reais that's a seven percent increase when we compared to the previous quarter and a 19 percent
+[1309.84–1315.72s] increase when we compared to the second quarter of 24 and that came despite the five percent
+[1315.72–1322.08s] depreciation of the u.s dollar against uh the brazilian real the share of retail funding
+[1322.08–1328.32s] remain stable at 30% despite the strong total funding expansion, and demand deposits remain
+[1328.32–1336.72s] stable at 19.6 billion reais, representing 7% of our total funding base. And as I mentioned during
+[1336.72–1342.34s] the corporate lending and business banking slide, we continue to expand our funding base, and at the
+[1342.34–1351.72s] same time, we continue to reduce our overall cost of funding. Finally, looking at our basal ratio
+[1351.72–1360.12s] on page 22. We see that our total basal ratio increased 80 basis points during the quarter,
+[1360.26–1367.86s] reaching 16.2%. And that came as a consequence of the strong results that we presented and also
+[1367.86–1375.90s] the successful issuance of AT01 nodes, which contributed with approximately 30 basis points
+[1375.90–1379.04s] in additional tier one capital.
+[1379.56–1382.68s] So we see that a tier one capital increased
+[1382.68–1386.54s] from 12.2% to 13% during this quarter
+[1386.54–1388.84s] and the total basal ratio increased
+[1388.84–1392.24s] from 15.4 to 16.2.
+[1392.92–1394.78s] And as I mentioned before,
+[1394.90–1398.00s] our average daily bar reached 22 basis points,
+[1398.58–1401.68s] an increase when we compare two previous quarters,
+[1401.78–1404.28s] but still below our historical levels
+[1404.28–1406.14s] as we deployed a little bit more risk
+[1406.14–1409.80s] and we benefited from the increased levels
+[1409.80–1411.40s] of client activity.
+[1412.04–1413.88s] So I think to conclude,
+[1414.00–1417.14s] we are extremely satisfied with these results,
+[1417.26–1419.64s] reaching record revenues
+[1419.64–1421.40s] in almost all our business lines,
+[1422.00–1424.34s] which shows the potential of our business
+[1424.34–1427.40s] when we have slightly better market conditions
+[1427.40–1431.48s] and increased levels of client activities.
+[1432.24–1433.20s] So I think with that,
+[1433.20–1434.64s] we can open for questions.
+[1437.70–1438.54s] Thank you.
+[1439.00–1440.92s] The floor is now open for questions
+[1440.92–1442.38s] from investors and analysts.
+[1442.98–1444.02s] If you have a question,
+[1444.50–1446.42s] click raise hand at this time.
+[1446.94–1449.38s] If at any point your question is answered,
+[1449.72–1451.52s] you can remove yourself from the queue
+[1451.52–1454.14s] by clicking lower hand.
+[1455.08–1456.70s] Questions will be taken in order
+[1456.70–1457.74s] that they are received.
+[1458.18–1460.30s] Please hold while we poll for questions.
+[1460.30–1468.90s] The first question comes from Tito Labarta with Goldman Sachs. Please go ahead.
+[1475.60–1476.98s] Please hold a second.
+[1480.64–1486.94s] Hi, good morning. Salute con Julia. Thank you for the call and taking my questions. Congratulations
+[1486.94–1488.80s] and the very strong results.
+[1489.42–1491.50s] I guess the main question here,
+[1491.98–1494.48s] I mean, given you're achieving record revenues
+[1494.48–1495.88s] in almost every single line,
+[1497.00–1499.08s] was there a step change here?
+[1499.66–1502.08s] Just to try to think about how sustainable
+[1502.08–1504.68s] this is going forward
+[1504.68–1508.62s] or anything that you think benefited from seasonality,
+[1508.80–1510.94s] anything extraordinary in the quarter to highlight.
+[1511.40–1514.14s] But how do we think about the forward from here
+[1514.14–1515.42s] in terms of the sustainability?
+[1515.42–1521.76s] You know, I won't go line by line, but, you know, pretty much almost every single line, a record quarter.
+[1522.28–1524.16s] So just to think of the forward on that.
+[1524.26–1530.22s] And then I guess also along those lines with the ROE, as you mentioned, you know, very strong 27 percent.
+[1531.06–1533.58s] How do we, you know, you've guided for higher ROE.
+[1533.78–1536.48s] It seems very easy to deliver on that for this year.
+[1536.58–1539.78s] But how do you think about the ROE from here?
+[1539.78–1544.42s] Is this 27 percent a new level that can be sustainable?
+[1545.26–1547.22s] Should that come back a little bit going forward?
+[1547.38–1551.02s] Just help us think about the overall profitability of the business.
+[1551.28–1551.78s] Thank you.
+[1555.08–1555.96s] Thank you, Tito.
+[1557.00–1561.78s] So, as you mentioned, I think there are two things happening this quarter.
+[1562.40–1567.90s] I think, one, yes, there is a step change in some of the business lines.
+[1567.90–1572.68s] And I think this is clearly reflected in wealth management, in corporate lending.
+[1574.42–1582.14s] And it's also very not usual that you have a quarter
+[1582.14–1586.62s] where all the business signs have very strong performances, right?
+[1586.66–1589.10s] What you've seen over, since you've been following us,
+[1589.86–1594.14s] every quarter, let's say you have a strong two or three business signs,
+[1594.30–1597.16s] others perform in line, maybe you have one that's weaker.
+[1597.86–1600.38s] But this quarter, I think we had the combination
+[1600.38–1602.76s] where all the business signs were strong.
+[1603.44–1609.00s] Not necessarily that there was something out of the ordinary, but all of them were strong.
+[1610.12–1614.82s] Having said that, as you know, we're quite conservative in offering guidance.
+[1615.20–1623.82s] And what we stated at the end of last year was that we expected to continue gaining operating leverage in our business.
+[1623.96–1630.68s] And that we thought that the return on equity would be above 23.1, which was what we delivered last year.
+[1630.68–1635.38s] so right now I think we're comfortable to say that
+[1635.38–1639.46s] even using the math and what we're seeing from the structural
+[1639.46–1643.54s] levels of the business we're quite comfortable in signaling that we
+[1643.54–1647.40s] expect to deliver for this year let's say for the full year
+[1647.40–1651.10s] 24% or above and naturally if
+[1651.10–1655.10s] we continue to have strong performance in the different business
+[1655.10–1659.20s] signs the good fundamentals that we saw this quarter we will
+[1659.20–1662.04s] probably overperform that.
+[1662.70–1668.22s] But we're going to continue with our conservative guidance, increasing it a bit.
+[1668.72–1674.06s] But we don't want to commit to any different levels than this 24% for this year for now.
+[1675.22–1676.52s] No, very helpful, Saluti.
+[1676.62–1677.36s] Thanks for that.
+[1677.66–1681.18s] Maybe just one follow-up, maybe digging on the wealth management.
+[1681.58–1684.00s] Also, very strong inflows.
+[1684.12–1686.36s] I mean, that's been an area of growth for you.
+[1686.36–1693.78s] can just to think about the competitive environment there are you maybe gaining more market share
+[1693.78–1699.24s] than before or are you just benefiting is the general market doing better than expected just
+[1699.24–1704.86s] to think about that level of inflows that we saw in wealth management and how much of it was btg
+[1704.86–1711.52s] specific and how much maybe the industry doing better thank you no i i think it's fair to say
+[1711.52–1713.38s] that we are gaining market share.
+[1714.60–1716.10s] And this, as I mentioned,
+[1716.16–1720.24s] is a consequence of our expansion of products.
+[1720.80–1724.36s] So in our wealth management line,
+[1724.42–1725.58s] we also have personal banking.
+[1726.24–1728.52s] So we're seeing net inflows
+[1728.52–1731.86s] from the high income retail segment.
+[1732.10–1734.22s] We're seeing good inflows in wealth management.
+[1734.42–1738.52s] We're seeing clients using more products.
+[1738.52–1741.14s] so the market
+[1741.14–1742.00s] as you know
+[1742.00–1744.94s] had a small blip in the second
+[1744.94–1746.12s] quarter but nothing great
+[1746.12–1749.04s] so I think it is fair to assume that we've been gaining market share
+[1749.04–1750.90s] Okay
+[1750.90–1753.04s] that's helpful, thank you Saluti and congrats again
+[1753.04–1753.94s] on the strong results
+[1753.94–1755.30s] Thanks Tito
+[1755.30–1758.84s] The next question
+[1758.84–1760.56s] comes from Renato Meloni
+[1760.56–1762.20s] as an autonomous research
+[1762.20–1763.58s] please go ahead
+[1768.52–1783.88s] Hi, everyone. Congrats on the results here. Thanks for letting me ask questions. So I wanted to just focus a bit on the corporate lending side. I know you mentioned during the presentation that you had some extraordinary results from special situations.
+[1783.88–1793.14s] So first I wanted to understand if you carry that over or if those were one-offs and then by how much we should adjust the revenues.
+[1793.98–1804.34s] And then like still within corporate lending, if core spreads were similar to last quarter, if you adjust for these events.
+[1804.58–1808.38s] And then how should we think about it for the rest of the year?
+[1808.86–1809.20s] Thanks.
+[1809.20–1827.62s] Hi, Renato. Again, I think we had strong revenues throughout the corporate lending business, and I mentioned that we had stronger results coming from special situations.
+[1827.62–1833.14s] I wouldn't call it a one-off or anything different.
+[1833.34–1834.28s] They came stronger.
+[1834.48–1839.52s] They always contribute with our overall corporate lending results.
+[1840.02–1848.32s] And this quarter specifically, they contributed a little bit more than, let's say, the average contribution.
+[1848.32–1861.04s] As I mentioned, the credit spreads over our cost of funding for the corporate credit and for the SMEs remained stable.
+[1862.32–1871.26s] So there was not much of a change when you consider the credit spreads of the portfolio and the cost of funding.
+[1871.26–1878.12s] And again, I mentioned that we continue to manage and to be able to reduce our overall cost of funding.
+[1878.12–1885.42s] So we are benefiting from that. And that has allowed us to maintain a stable level of spread.
+[1885.92–1899.18s] And when you see the overall, when you include these special situations, you see that the overall credit spread increased a little bit because of this higher contribution of special situations.
+[1899.30–1903.32s] So that's basically what happened during this quarter.
+[1903.32–1931.54s] No, perfect. That's understood. If you just allow me for a follow up here, if we want to be more specific, if I'm estimating your net financial margin based on revenues divided by the average balances, right? So that was 3.4 in the first Q and then that increased to 3.6. Should I carry this over this 3.6 for the next quarters? Or do you think we might have a small decline because of the special situations?
+[1933.32–1955.58s] Look, we don't want to provide future guidance, but as I said, we've been seeing this 3.4 that you mentioned as somewhat stable, right, for a few quarters.
+[1955.58–1962.16s] and depending on the contribution of special situations,
+[1962.28–1963.50s] it can vary a little bit.
+[1963.50–1967.94s] But that's the idea.
+[1969.00–1971.20s] And also, I think it's important to know
+[1971.20–1976.94s] that we are seeing a higher contribution quarter over quarter
+[1976.94–1981.60s] as we continue to develop our business banking business.
+[1981.60–1989.54s] So this is something that one of our business initiatives that we've been developing for the last few years.
+[1989.80–1996.28s] And as time goes by, we increase the number of clients, the products that we offer to that.
+[1996.52–2001.68s] And this contributes more to the overall corporate lending business.
+[2003.28–2007.32s] Perfect. Understood. Thanks very much, guys. And congrats again on the great results.
+[2009.52–2010.66s] Thank you, Romero.
+[2011.60–2020.46s] The next question comes from Marcelo Mizrahi with Bradesco BBI. Please go ahead.
+[2023.34–2028.64s] Hello, everyone. Thank you for the opportunity. Congratulations for the results. Fantastic results.
+[2029.30–2035.70s] So looking forward, my question is about the corporate lending and the IB.
+[2035.70–2043.18s] So talking about IB, first, I just want to understand how you guys are seeing the perspective to this business.
+[2043.56–2046.50s] We saw fantastic results in the last quarter.
+[2046.94–2057.20s] Just want to understand a little bit more if the revenues comes more from M&A or if they come from DCM and looking for the perspective of those business.
+[2057.20–2063.64s] if we can have something close to these levels
+[2063.64–2066.74s] or even higher than the level of the first quarter.
+[2067.60–2071.50s] And my second question is regarding corporate lending
+[2071.50–2080.12s] and if the impact of the noise about the new measure about EOF,
+[2080.64–2083.04s] so the impact of multi-student, multi-sacado funds
+[2083.04–2086.76s] and if it hurts the growth of SME,
+[2086.76–2089.48s] So the perspective to growth is lying in the next quarters.
+[2089.62–2089.98s] Thank you.
+[2092.60–2093.70s] Thank you, Marcelo.
+[2094.12–2102.94s] Yes, so clearly we do believe that SME was impacted in the quarter by the whole EOF novel.
+[2103.46–2105.46s] First, to use a friendly term.
+[2105.96–2108.76s] So we expect to hopefully go back to growth.
+[2109.02–2111.94s] But again, here, as you know, we're always very disciplined.
+[2111.94–2118.26s] We have to make sure that the return you're getting for unit of risk makes sense.
+[2118.90–2119.94s] And we keep this discipline.
+[2120.16–2125.50s] I think what we love about our franchise is that it's very diversified geographically sector segment.
+[2125.68–2133.04s] So we can make sure that we were always allocating risk where we think we are being rewarded for each unit of risk allocated.
+[2133.60–2135.28s] On the investment banking segment.
+[2136.28–2141.80s] Yes, I would say that probably M&A was very special this quarter.
+[2141.94–2144.60s] probably will not repeat in the next.
+[2145.34–2149.02s] We see DCM and ECM at similar levels,
+[2149.16–2150.82s] maybe even possibly stronger.
+[2151.52–2154.50s] So with that, I think if you look at third and fourth quarters,
+[2155.10–2157.50s] maybe they will not be as strong as the second quarter,
+[2157.62–2159.90s] but we see them stronger than the first quarter.
+[2160.28–2161.86s] You have to remember that in the first quarter,
+[2162.56–2166.22s] we were getting questions of very significant drops
+[2166.22–2167.04s] in investment banking.
+[2167.36–2169.02s] We were a bit more constructive.
+[2169.02–2172.44s] And I think now that's proven to be the right scenario.
+[2175.20–2176.34s] Okay, thank you.
+[2179.40–2185.36s] The next question comes from Gustavo Schroden with Citi.
+[2185.60–2186.54s] Please go ahead.
+[2189.32–2190.80s] Hi, good morning, everybody.
+[2191.10–2195.18s] Thanks for taking my question and congratulations on the strong results.
+[2195.18–2200.18s] So my question is specifically on your sales and trading gains.
+[2201.18–2203.84s] It was a record, so 1.9 billion reais.
+[2204.04–2214.86s] So I just wondered to understand if there is any specific trading or trading desk that was different in this quarter.
+[2214.86–2226.26s] we saw that although the VAR is still below the historical level,
+[2226.26–2230.52s] there was a small increase versus previous quarters.
+[2231.10–2238.82s] So I just wanted to understand what has been driving this line in the quarter.
+[2239.08–2239.48s] Thank you.
+[2242.18–2243.40s] Hi, Gustavo.
+[2243.40–2250.68s] So, no, there was not a specific trading desk,
+[2250.88–2255.76s] any trading desk that contributed more significantly to the results.
+[2255.76–2261.46s] As we always mention, we have quite a large range of different trading desks,
+[2261.74–2266.74s] and they all sometimes one performs better than the other.
+[2266.88–2268.78s] This quarter was not different.
+[2268.78–2278.90s] I think that what we have seen here and throughout the overall results is that the client activity, right?
+[2278.94–2286.16s] We saw much stronger client activity this quarter when we compare to the previous quarter, right?
+[2286.22–2294.28s] And this stronger level of client activity impacted not just sales and trading, it impacted investment banking revenues.
+[2294.28–2296.38s] It impacted also wealth management revenues.
+[2296.38–2305.98s] And we see this in these three business lines, but we obviously see this in our sales and trading business lines.
+[2306.06–2315.16s] And obviously, this is a consequence of the combination of higher client activity, but also of our expanded client base.
+[2315.16–2326.76s] We continue through time to expand our overall client base in many different businesses that obviously relates to sales and trading.
+[2327.30–2339.84s] And also new products, new business lines within the sales and trading overall all contributed to these higher results that we saw during this quarter.
+[2341.06–2342.36s] Okay, thank you, Consul.
+[2342.44–2344.90s] But just to follow up on this.
+[2344.90–2349.22s] So you remain with that, let's say, soft guidance
+[2349.22–2354.94s] that the last four quarters moving averages
+[2354.94–2358.02s] is the best to use as a forecast, right?
+[2360.54–2363.20s] Yes, we continue with that guidance.
+[2364.46–2365.20s] Great, thank you.
+[2369.08–2372.86s] The next question comes from Daniel Vaz with Safra.
+[2373.18–2374.32s] Please go ahead.
+[2374.90–2386.76s] Hi, everyone. Congrats on a very positive quarter. Stellar results here. I want to touch base again on the portfolio from the property management side.
+[2386.76–2401.18s] So we already know the EOF, EIOF news flow that affected your growth. But looking at a system level, we note some deterioration of the asset quality on SMEs.
+[2401.18–2406.02s] I'm looking at central bank, I'm looking at the incumbents that already reported results.
+[2406.66–2419.92s] And I want to hear from you, Salud Chico or Julia, if this is influencing somehow your going forward level of originations, especially the SME business.
+[2420.30–2424.30s] So I want to hear from you to get a point of this. Thank you.
+[2426.40–2427.34s] Thanks, Daniel.
+[2427.34–2440.46s] So as I think we mentioned in the last few calls, we still continue with a very conservative approach on the SME credit lines focused on the collaterals.
+[2441.28–2446.58s] The most part of our portfolio is supply chain finance and credit card receivables.
+[2447.50–2449.74s] We still maintain the strategy.
+[2449.74–2458.10s] As our business banking activity grows, with that, we have been getting more significant data.
+[2458.98–2468.64s] We are building out our models for, let's say, riskier lines of credit or more clean credit, but we have not grown them significantly.
+[2469.42–2476.80s] So we have not seen this deterioration basically because of the segment that we're in or the products we are in.
+[2476.80–2480.14s] but we still continue
+[2480.14–2482.42s] with the plan that over time
+[2482.42–2483.42s] we will continue
+[2483.42–2486.06s] to grow the business
+[2486.06–2488.34s] in these product lines which as you
+[2488.34–2490.06s] mentioned are more volatile
+[2490.06–2492.34s] have a bit more risk but also have higher spreads
+[2492.34–2494.36s] but we are not there yet
+[2494.36–2495.60s] but we are confident
+[2495.60–2497.54s] that it's a matter of time
+[2497.54–2499.90s] but we are in no hurry especially
+[2499.90–2502.10s] in a more difficult environment
+[2502.10–2503.40s] as you mentioned
+[2503.40–2505.64s] which we can see from the macro numbers
+[2505.64–2513.20s] thank you and if i may a second one regarding a totally different subject on your current level
+[2513.20–2518.56s] of net new money uh if you are seeing an acceleration in market share gains right
+[2518.56–2525.14s] especially when we see the system inflows could be softer and you were able to maintain the level
+[2525.14–2531.46s] that you you were delivering net new money in the wealth business is it is it possible to to
+[2531.46–2535.46s] firmly gaining market share or even accelerating this?
+[2538.32–2541.62s] As you know, the numbers are not perfect of the industry.
+[2542.90–2548.28s] But given what we see from public numbers, yes, that is a fair assumption.
+[2550.04–2551.16s] Thanks and congrats again.
+[2554.66–2559.44s] The next question comes from Tiago Batista with UBSBB.
+[2560.02–2561.14s] Please go ahead.
+[2561.46–2570.16s] hello uh hi saluti hi renato julia congrats for the very strong results
+[2570.16–2577.94s] my question is about your capital position and dividend policy uh you guys you have now a capital
+[2577.94–2584.36s] a core capital of let's say core capital ratio of 12 percent to one ratio of 13 which seems very
+[2584.36–2591.30s] comfortable. But more than that, if I look only on how much you can pay on JCP or IOC,
+[2592.06–2600.20s] you can pay more or less about 30% of your earnings. And this means that you need to generate
+[2600.20–2605.90s] about, let's say, 100 billion of risk-weighted assets per year to maintain the leverage pretty
+[2605.90–2612.74s] much stable. So how we can think on the capital position of the bank? Is it possible to really
+[2612.74–2620.58s] add 100 billion reais per year of risk-related assets or we can imagine a higher payout ratio
+[2620.58–2624.34s] so how can we think about your ongoing capital position
+[2627.78–2636.10s] hi thiago thank you thank you for the question i think uh uh we've been managing well our
+[2636.10–2647.54s] capital base. And I think as you mentioned, we've been exactly being able to generate those
+[2647.54–2655.86s] increase in risk-weighted assets, right? The two areas that use most risk-weighted assets
+[2655.86–2663.74s] is the corporate lending. And we managed to grow the corporate lending at a reasonable pace,
+[2663.74–2670.94s] We always mention that we expect to grow at around 20% per year.
+[2672.18–2674.68s] Last two years, we managed to grow more than that.
+[2674.82–2679.14s] This year, we are very close to this level of growth,
+[2679.22–2682.20s] and we think we can maintain this level of growth.
+[2682.34–2683.74s] And also, I think sales and trading,
+[2684.76–2690.34s] then the usage of risk-weighted assets there and capital,
+[2690.68–2692.20s] it's more volatile.
+[2692.20–2707.92s] But I think we think that we are in a range that the capital that we generate to the profits every quarter, we can manage to use them.
+[2708.00–2716.10s] So I think we are far from a discussion on any possible change of our dividend policy.
+[2716.22–2718.84s] I think we'll maintain that for a while.
+[2720.04–2722.18s] No, very clear, Renato. Thanks.
+[2722.20–2727.16s] for the answer and again very good results congrats thank you
+[2729.88–2735.48s] the next question comes from antonio rouette with bank of america please go ahead
+[2740.92–2745.40s] hey thank you very much for our time and congratulations on the impressive results
+[2745.40–2751.80s] so i have two questions on my side so first it's a follow-up on vast questions i think
+[2751.80–2753.90s] regarding market share gains.
+[2754.60–2755.86s] So would you say,
+[2756.16–2758.56s] how would you assess competition
+[2758.56–2761.26s] in the asset and wealth business
+[2761.26–2763.92s] since the last easing cycle?
+[2764.44–2767.46s] I would say, rephrasing that,
+[2767.46–2772.02s] how did you perceive the evolution of incumbent banks,
+[2772.12–2773.54s] the evolution of fintechs,
+[2773.86–2775.32s] and if you are positioned,
+[2775.58–2779.76s] better positioned to benefit from another easing cycle?
+[2779.76–2790.66s] And the second question, if I may, we have a pretty stressed situation in the Rural segment regarding Rural credit.
+[2790.98–2802.58s] I would just like to ask if you see any opportunities on the segment in terms of special situations or even in other lines of corporate lending.
+[2803.14–2803.64s] Thank you.
+[2809.76–2823.36s] Hi, Antonio. So on your first question on the wealth management business, I think clearly what we see is that, as usual, all of the competitors are improving their platforms.
+[2823.98–2832.60s] And this, I think, is great for the consumer at the end of the day. So we see incumbents, the newcomers, all improving.
+[2832.60–2835.54s] we also continue to improve
+[2835.54–2837.34s] we also continue to
+[2837.34–2839.20s] roll out new products
+[2839.20–2840.62s] and
+[2840.62–2843.28s] it's a constant learning process
+[2843.28–2845.36s] I think we're doing
+[2845.36–2847.50s] a good job and this is not me saying
+[2847.50–2848.64s] this is our client saying
+[2848.64–2851.72s] I think the best recognition
+[2851.72–2853.34s] that we can get
+[2853.34–2855.72s] is of course the rewards are important
+[2855.72–2857.12s] more important than the rewards
+[2857.12–2859.48s] is the client flows and the market share
+[2859.48–2860.86s] so
+[2860.86–2864.98s] So as we all know, you cannot stop.
+[2865.24–2866.34s] You need to continue improving.
+[2866.68–2868.58s] We are seeing the market improving.
+[2868.92–2872.98s] We think we're improving at the same pace or slightly faster.
+[2873.40–2875.04s] And we're seeing that in the flows.
+[2875.04–2882.34s] And yes, I think we're definitely very well positioned to benefit from an easing cycle if that happens.
+[2882.56–2890.70s] And I think if you ask me, I think every week or every month that passes, we will be in an even stronger position to benefit from that.
+[2890.86–2918.92s] On your second question of the stress and the rural segment, of course, we're following that very closely. We do not have any significant exposure that is being affected by that. We're following it closely, but it's still too early to say if we see any strategic or opportunistic significant opportunities in the segment. We still have not made anything. We're still just following it very closely.
+[2918.92–2922.80s] All right. Thank you very much.
+[2926.86–2932.28s] The next question comes from Henrique Navarro with Santander.
+[2932.68–2933.88s] Please go ahead.
+[2936.66–2937.92s] Hi, good morning.
+[2938.68–2942.78s] My question is on corporate segment, specifically on large corporate.
+[2942.78–2948.58s] We have seen some banks struggling to grow this lending book this year.
+[2948.58–2951.68s] and yet, you know, B&G posted up like 3% growth
+[2951.68–2953.74s] a quarter over a quarter, which was impressive
+[2953.74–2955.92s] and very good results on corporates.
+[2956.26–2958.96s] My question is, how do you see, you know,
+[2958.98–2960.64s] the pace of growth looking forward?
+[2960.80–2963.04s] And if you can give a little bit of more, you know,
+[2963.48–2965.80s] detail on how this growth was achieved,
+[2965.94–2967.70s] I mean, was capital markets,
+[2968.38–2970.32s] some, you know, bonds that were incorporated,
+[2970.54–2974.46s] I mean, how did you guys manage to grow
+[2974.46–2976.96s] that number in this environment?
+[2976.96–2978.12s] Thank you.
+[2978.58–2982.06s] Hi, Navajo. Thank you for your question.
+[2982.68–2986.36s] So we continue to see 20% growth in credit,
+[2986.76–2990.52s] which is what Clon just answered on the previous question about capital allocation.
+[2991.28–2996.78s] So we're growing our capital after dividends around 20 or a bit below that.
+[2997.02–2999.44s] And we continue to expect to grow there.
+[2999.44–3005.66s] And there, I think we have the benefits that we're coming from lower market shares
+[3005.66–3007.84s] in the different segments.
+[3008.32–3011.20s] In sum, we basically had zero market share.
+[3011.82–3014.76s] And here we have SME, just how we look at it.
+[3014.84–3019.12s] We look at SME, middle, corporate, and large corporate.
+[3019.82–3022.38s] Where we had the highest market share was large corporate.
+[3022.82–3025.18s] But even compared to the competitors,
+[3025.18–3027.38s] it was a smaller market share.
+[3028.20–3029.92s] We are seeing growth there.
+[3030.24–3033.32s] But as you said, we're not using capital markets
+[3033.32–3034.92s] and we were being very disciplined
+[3034.92–3038.26s] because, as your question suggests,
+[3038.58–3042.06s] you also think that in some situations,
+[3042.54–3044.62s] spreads are too tight, and we agree with you.
+[3044.98–3048.36s] We are seeing good growth in corporate, middle.
+[3049.10–3051.94s] SME was a bit tougher this quarter because of IOF,
+[3052.30–3055.50s] but we're also benefiting from our geographical diversification.
+[3055.50–3060.22s] We continue to grow across the different geographies where we're present,
+[3060.22–3068.42s] And this is why we think that we can continue to see not only growth, but good risk allocation.
+[3068.72–3074.98s] It's the benefit of the different segments, different sectors, and different geographies.
+[3075.28–3084.10s] And the fact that we're coming from smaller market shares compared to the one or two largest banks in all of these different segments.
+[3084.98–3087.38s] Thank you. Congratulations for the results.
+[3088.74–3089.42s] Thanks.
+[3090.22–3096.36s] The next question comes from Yuri Fernandes with JP Morgan.
+[3096.80–3097.72s] Please go ahead.
+[3099.34–3100.14s] Hey, guys.
+[3100.20–3100.76s] Thank you.
+[3101.04–3103.90s] And I don't want to sound repetitive, but congratulations.
+[3104.38–3107.98s] ROE with capital generation, it's a powerful combination.
+[3108.60–3109.28s] So congrats.
+[3109.70–3112.00s] I have a question regarding expenses.
+[3112.00–3114.92s] I think it's one of the two topics that we didn't address.
+[3115.12–3118.26s] And I totally get that IB, sales and trading,
+[3118.26–3121.52s] and some of the other revenues, they trigger higher bonus
+[3121.52–3123.74s] and the bonus line was higher.
+[3124.52–3127.44s] But just any outlook for the second half,
+[3127.94–3132.58s] just trying to understand here if even the second queue was so strong,
+[3133.24–3135.82s] trying to understand if you took that advantage of this
+[3135.82–3139.78s] to kind of provision a little bit more your expenses
+[3139.78–3142.74s] and then the second half, maybe the expenses,
+[3142.94–3144.56s] they could be a little bit lower.
+[3145.00–3145.34s] Thank you.
+[3145.34–3156.30s] hi Yuri no thank you for the question but no I think the there's no advanced provision in
+[3156.30–3164.74s] in expenses in this quarter it's all related to so the bonus expenses is related to the revenues
+[3164.74–3170.84s] of the quarter right and the salaries and administrative and others as well right so
+[3170.84–3187.10s] So we would expect for the next quarter, I wouldn't say a similar behavior because this quarter, as I mentioned, we impacted, there was the impact of the consolidation of Julius Baer, right?
+[3187.10–3190.24s] Both in the salaries and administrative and others.
+[3190.62–3193.66s] So we won't have this impact in the third quarter.
+[3193.66–3198.56s] will have the impact of JGP wealth,
+[3198.56–3202.40s] which is the business that we acquire,
+[3202.80–3207.06s] but in terms of cost is smaller than Julius Baer.
+[3207.50–3211.56s] But there's no effect between the quarters
+[3212.20–3214.68s] of any type of advanced provision.
+[3216.28–3217.38s] Thank you, Renato.
+[3217.38–3225.44s] The next question comes from Pedro Leduc with Itaú BBA.
+[3225.88–3226.98s] Please go ahead.
+[3229.20–3232.44s] Thanks, guys, for the call and taking the question.
+[3232.84–3237.76s] Quickly, first, we saw a recent deal there in HSBC Uruguay,
+[3238.04–3240.94s] a lot of other things you're doing abroad.
+[3241.32–3245.64s] If you can get us a sense of maybe how much of the loan book
+[3245.64–3250.88s] or of top line is already coming from operations outside of Brazil.
+[3251.54–3254.56s] And then the second question onto your wealth management division,
+[3254.80–3257.74s] another very solid quarter in terms of net new money.
+[3258.34–3260.10s] And especially when I look at take rates,
+[3260.24–3262.42s] we are now past the consolidation of Julius Baer,
+[3262.78–3265.00s] and there seems to have been no major change,
+[3265.36–3268.26s] even though in theory it's a different profile client.
+[3268.32–3273.46s] So if you can talk to us a little bit of how to see wealth management take rates
+[3273.46–3276.18s] and maybe also net new money for the remainder of the year.
+[3276.52–3277.40s] That would be great. Thank you.
+[3281.02–3282.44s] Hi, Pedro.
+[3282.66–3284.84s] So regarding the loan book,
+[3284.90–3287.00s] I think we mentioned in the fourth quarter
+[3287.00–3296.10s] that our exposure outside of Brazil reached 20%.
+[3296.10–3297.82s] It grew from there.
+[3297.90–3298.80s] It grew a little bit.
+[3298.80–3309.14s] Obviously, those percentage, the share, if you grow at a more accelerated pace, it grows slowly, the percentage.
+[3309.32–3313.92s] So it's a little bit higher than that, than the 20% that we mentioned.
+[3314.82–3320.78s] Obviously, this is an indication for the corporate lending business.
+[3320.78–3328.58s] We have businesses in Latin America and outside Brazil.
+[3328.78–3336.66s] Overall, we have businesses of investment bank, of wealth management, of asset management and sales and trading.
+[3336.86–3345.42s] So all businesses there are represented with similar participation in terms of revenues.
+[3347.10–3349.16s] So that's the first one.
+[3349.16–3356.94s] The second one is related to the return on assets, right, on the wealth management.
+[3357.18–3369.80s] I think the acquisition of Julius Baer, the return on assets of Julius Baer is not very different from the overall return on assets of our wealth management business line.
+[3369.80–3387.10s] So it's similar there. What you have, you have a mathematical effect because the AUM of Julius Baer entered in the second quarter, but sorry, in the first quarter without recording any revenues in the first quarter, right?
+[3387.10–3398.30s] So there was a dilution there. And now in the second quarter, you don't have any more of the impact. Obviously, the U.M. is there. But when you compare the start of the quarter with the end of the quarter, it's the same number.
+[3398.30–3407.88s] but you now have fully the revenues originated from Judas Bear acquisition.
+[3408.08–3414.74s] So you had a dilution of return on assets in the first quarter
+[3414.74–3419.26s] and a normalization, I will call it that way, in the second quarter.
+[3421.70–3423.26s] Thank you. Congrats again.
+[3423.26–3432.04s] The next question comes from Nicholas River with Bank of America. Please go ahead.
+[3434.62–3440.02s] Thanks very much. Thanks very much for the chance to ask questions. I have three questions. The
+[3440.02–3447.04s] first one is you have a senior bond maturity in January, $500 million. If you can discuss to some
+[3447.04–3455.00s] extent the refinancing plans for that senior bond in January. Second, in the quarter, during last
+[3455.00–3463.06s] quarter, you raised 1.5 billion reais in 81 capital in the local market. I wanted to confirm if your
+[3463.06–3470.72s] preference continues to be to raise subordinated debt, either tier two or 81 capital in the local
+[3470.72–3476.76s] market in reais instead of the global market. And then my third question is, you recently announced
+[3476.76–3480.72s] the acquisition of HSBC Uruguay for $175 million.
+[3481.02–3484.54s] There was, I think, one of the last questions related to that.
+[3484.54–3490.82s] My question is, my understanding from other countries is that HSBC really focuses on
+[3490.82–3493.20s] higher income clients on the retail side.
+[3493.28–3497.06s] I wanted to ask if that's the case as well for Uruguay.
+[3497.58–3502.24s] And in general, given that I assume this is more of a commercial bank, I wanted to ask
+[3502.24–3507.60s] if going forward you would be kind of interested in that target size,
+[3507.68–3510.56s] in kind of a commercial bank or potential M&A,
+[3510.72–3512.38s] either in Brazil or outside of Brazil.
+[3512.86–3513.32s] Thanks.
+[3518.50–3519.72s] Hi, Nicolas.
+[3519.84–3521.60s] Thank you for the question.
+[3522.14–3524.86s] So regarding the refinancing of the bonds,
+[3524.86–3527.62s] I think we always manage that.
+[3527.62–3533.68s] and we have the maturity in January.
+[3533.92–3537.48s] I think we work with excess cash all the time
+[3537.48–3541.48s] in order to be able to either repay.
+[3541.68–3543.42s] So we are always looking at opportunities
+[3543.42–3547.44s] if we would refinance or repay that bond
+[3547.44–3549.22s] depending on market conditions.
+[3549.22–3553.68s] And I think the same will apply for ATR1.
+[3553.78–3556.72s] We will look at the local spreads, right?
+[3556.72–3570.46s] And I think the local spreads were, in our view, favorable for us to use more ATR1 capital in our balance sheet.
+[3570.56–3578.20s] So we took that opportunity and we increased the usage of ATR1 as part of our total basal ratio.
+[3578.20–3587.54s] And on your second question regarding Uruguay, yes, the HSBC franchise is focused mainly in high income.
+[3588.02–3595.96s] And it has five branches, which to some extent are similar to the regional offices that we have in Brazil.
+[3596.66–3598.98s] Four of these five branches actually have a cashier.
+[3598.98–3607.64s] So they resemble a more traditional, let's say, bank branch with the security need and all that, which will be a different experience for us.
+[3608.20–3612.52s] But we thought it was a good fit for it because, as you mentioned,
+[3612.68–3616.96s] this one focused on high-income retail, two, a very digital bank,
+[3617.48–3623.50s] three, five branches, and four, a big wealth management business also there.
+[3625.70–3632.24s] So this is not to say that we will not analyze other opportunities if they appear,
+[3632.36–3636.56s] but we thought this was a very specific one that fit what we're building,
+[3636.56–3639.36s] which is a digital full-service bank.
+[3640.86–3641.82s] Thanks very much.
+[3643.86–3644.54s] Thank you.
+[3647.64–3648.44s] Thank you.
+[3648.72–3651.82s] That brings us to the end of the question and answer session.
+[3652.18–3656.28s] I will now return the floor to Mr. Roberto Saluti for his closing remarks.
+[3659.42–3663.92s] So, I want to thank you all once again, especially for your partnership and trust.
+[3663.92–3667.10s] And two, thank you for being present in our second quarter call.
+[3667.60–3670.76s] Looking forward to talk to all of you once again in three months' time.
+[3671.12–3673.04s] Thank you very much. Have a great rest of the week.
+[3675.10–3678.16s] Thank you. This just concludes today's presentation.
+[3678.62–3681.28s] You may disconnect your line at this time and have a nice day.

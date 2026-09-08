@@ -1,0 +1,10 @@
+[vimeo] Extracting URL: https://player.vimeo.com/video/1215827230?h=53c9fc9a84
+[vimeo] 1215827230: Downloading webpage
+WARNING: [vimeo] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[vimeo] 1215827230: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 1215827230: Downloading fastly_skyfire m3u8 information
+[vimeo] 1215827230: Downloading akfire_interconnect_quic MPD information
+WARNING: [vimeo] 1215827230: Failed to parse XML: not well-formed (invalid token): line 1, column 0
+[vimeo] 1215827230: Downloading fastly_skyfire MPD information
+WARNING: [vimeo] 1215827230: Failed to parse XML: not well-formed (invalid token): line 1, column 0
+ERROR: [vimeo] 1215827230: Requested format is not available. Use --list-formats for a list of available formats

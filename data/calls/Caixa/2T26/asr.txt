@@ -1,0 +1,1063 @@
+[0.00–5.12s] E aí
+[30.00–35.12s] E aí
+[60.00–65.12s] E aí
+[90.00–95.12s] E aí
+[120.00–125.12s] E aí
+[150.00–155.12s] E aí
+[180.00–185.12s] E aí
+[210.00–215.12s] E aí
+[240.00–245.12s] E aí
+[270.00–275.12s] E aí
+[300.00–329.98s] E aí
+[330.00–359.98s] E aí
+[360.00–389.98s] E aí
+[390.00–419.98s] E aí
+[420.00–449.98s] E aí
+[450.00–479.98s] E aí
+[480.00–509.98s] E aí
+[510.00–539.98s] E aí
+[540.00–569.98s] E aí
+[570.00–599.98s] E aí
+[600.00–607.50s] E aí
+[630.00–659.98s] E aí
+[660.00–689.98s] E aí
+[690.00–697.86s] E aí
+[720.00–749.98s] Lata de larga
+[750.00–779.98s] E aí
+[780.00–809.98s] Legenda Adriana Zanotto
+[810.00–815.12s] E aí
+[840.00–869.98s] E aí
+[870.00–899.98s] E aí
+[900.00–907.66s] E aí
+[930.00–932.00s] Amém.
+[961.00–970.28s] Muito bom dia a todos e a todas. Sejam bem-vindos à apresentação de resultados do segundo trimestre de 2026 da Caixa.
+[970.68–972.88s] Agradecemos a participação de todos.
+[973.32–978.76s] Para começar, vamos exibir um vídeo com os principais destaques dos resultados da Caixa.
+[980.62–982.42s] De 2026.
+[982.90–989.14s] Na Caixa, buscamos transformar resultados em soluções que façam diferença na vida dos nossos clientes.
+[989.14–995.88s] É assim que ampliamos oportunidades, apoiamos o desenvolvimento dos negócios e fortalecemos a economia brasileira.
+[1006.00–1009.30s] Fazemos a diferença também no futuro dos clientes.
+[1009.62–1015.66s] A Caixa expandiu o crédito sustentável, ampliou o compromisso com projetos ESG e com a Agenda 2030.
+[1015.66–1019.92s] Sabe o que mais a Caixa ampliou?
+[1020.98–1024.98s] Os números de financiamentos imobiliários no primeiro semestre de 2026.
+[1025.64–1031.10s] Isso significa que o banco com maior crédito imobiliário do país segue sendo líder no segmento.
+[1031.60–1035.66s] Liderar o crédito imobiliário é para a Caixa fazer parte da vida de milhões de brasileiros.
+[1036.12–1037.86s] Onde tem Brasil, a Caixa está junto.
+[1039.86–1044.12s] Seja na habitação ou na diversidade da carteira de crédito, a Caixa está presente,
+[1044.12–1049.44s] gerando oportunidades para todos os segmentos e oferecendo acesso a diferentes mercados e empresas.
+[1049.60–1054.14s] Um banco completo, que se adapta a cada nova demanda ou necessidade.
+[1054.56–1058.84s] E isso gera mais tecnologia, inovação e transformação digital.
+[1062.00–1064.92s] Falando em inovação, foi assim que eu nasci.
+[1065.28–1071.48s] A Caixa evoluiu a forma de se comunicar e de interagir para facilitar a jornada dos clientes,
+[1071.48–1073.74s] tornando-se ainda mais integrada.
+[1074.12–1080.44s] Inovação e tecnologia estão transformando a forma como a caixa se relaciona com seus clientes.
+[1080.80–1090.26s] Cada avanço digital representa mais agilidade, mais simplicidade e mais oportunidades para quem confia nas nossas soluções.
+[1090.62–1094.80s] Os resultados refletem uma trajetória de evolução permanente.
+[1094.80–1106.92s] Ao ampliar o acesso, simplificar processos e investir em inovação, seguimos construindo uma caixa cada vez mais moderna, eficiente e presente na vida das pessoas.
+[1108.10–1115.04s] Acesse www.ri.caixa.gov.br e conheça os resultados que transformam.
+[1118.78–1124.78s] A apresentação dos resultados da caixa será realizada pelo presidente Carlos Vieira.
+[1124.80–1130.38s] e pelo vice-presidente de Finanças e Controladoria, Marcos Brasiliano Rosa.
+[1130.78–1134.88s] Convidamos o presidente Carlos Vieira para dar início à apresentação.
+[1135.98–1138.84s] Bom dia, bom dia a todas e todos.
+[1138.84–1144.64s] Muito obrigado pela presença, presença dos vice-presidentes,
+[1144.76–1152.70s] dos nossos diretores e presidentes das empresas polegadas,
+[1152.70–1156.10s] representante dos órgãos dos colegiados
+[1156.10–1158.06s] de governança da empresa
+[1158.06–1162.02s] a imprensa aqui, mais uma vez
+[1162.02–1163.62s] obrigado pela presença de vocês
+[1163.62–1165.04s] nessa cobertura
+[1165.04–1167.28s] os colegas que estão nos assistindo
+[1167.28–1168.58s] à distância
+[1168.58–1170.22s] obrigado
+[1170.22–1172.24s] os colegas, ontem eu falava
+[1172.24–1174.66s] com os colegas da agência Morro do Chapéu
+[1174.66–1178.30s] então, nome dos colegas lá de Morro do Chapéu
+[1178.30–1180.32s] queria saudar
+[1180.32–1181.80s] todos os outros colegas da Caixa
+[1181.80–1184.66s] que estão lá nas nossas frentes de resultado,
+[1184.76–1186.02s] construindo o resultado dessa empresa,
+[1186.22–1190.04s] fazendo todo esse movimento que a Caixa tem feito
+[1190.04–1192.46s] nesses últimos anos,
+[1192.58–1195.60s] no sentido de continuar fazendo o seu papel,
+[1196.10–1199.64s] de ser o banco que transforma as vidas das pessoas,
+[1200.52–1203.58s] mas, ao mesmo tempo, gerando um processo de modernização,
+[1203.86–1206.94s] de atualização mercadológica,
+[1206.94–1210.18s] e sem perder o foco que nós sempre temos
+[1210.18–1220.44s] de termos um cuidado muito excessivo com a preservação da estrutura de resultado da empresa,
+[1220.44–1232.22s] uma gestão de L&M extremamente focada em um processo que preserve a saúde financeira e econômica da empresa.
+[1232.90–1239.10s] Tudo isso, de certa forma, vai estar refletido nesse balanço desse segundo trimestre.
+[1239.10–1257.98s] Todos nós sabemos que o segundo trimestre desse ano, para o mercado como um todo, para o mercado financeiro em particular, foi extremamente desafiador, mas a Caixa colhe números, alguns deles sabe, do conhecimento, que são muito significativos.
+[1257.98–1263.54s] E eu, de certa forma, como a gente faz aquela dinâmica recorrente aqui,
+[1263.64–1267.98s] vou dar uma panorama mais geral, mais estratégico,
+[1269.02–1272.34s] e alguns resultados mais estratégicos e institucionais.
+[1273.18–1278.94s] E o brasileiro foca na verticalização da questão econômica financeira do trimestre.
+[1279.80–1285.60s] Assim, a gente continua transformando o presente para construir um futuro,
+[1285.60–1289.02s] e esse futuro ser cada vez melhor.
+[1291.66–1295.24s] A gente, há algum tempo, quando chegou aqui para vocês,
+[1295.24–1302.00s] falou que o segundo semestre de 2026 vai ser fundamental
+[1302.00–1307.40s] para a virada que a Caixa quer fazer na sua gestão de negócios
+[1307.40–1314.44s] com elementos adicionais do ponto de vista da sua transformação digital.
+[1315.60–1323.34s] E a gente sabe que qualquer que seja a instituição ou o organismo
+[1323.34–1327.06s] que se foca em uma transformação digital,
+[1328.30–1333.86s] quando ela chega e a cultura muda, a organização muda,
+[1333.86–1339.10s] a infraestrutura tecnológica muda, o avanço é muito rápido.
+[1340.26–1343.96s] E a gente está percebendo isso na caixa,
+[1343.96–1345.80s] se a gente quer compartilhar um pouco disso com vocês.
+[1346.66–1347.48s] Então, é essa coisa.
+[1347.76–1351.78s] A gente está transformando o presente em vários aspectos
+[1351.78–1354.04s] para a gente construir um futuro que, certamente,
+[1354.54–1356.40s] é um futuro melhor para todos nós.
+[1357.44–1360.72s] A gente vai falar hoje de escala de rentabilidade,
+[1360.88–1364.02s] geração de resultados, transformação digital,
+[1365.36–1366.80s] abertura de conta digital.
+[1367.86–1371.38s] E tem um número aqui que impacta para mim muito,
+[1371.38–1376.16s] esse número de chegarmos a 160 milhões de brasileiros optando pela Caixa.
+[1377.44–1381.58s] Esse número espetacular de ter um trilhão de solda em carteira de crédito imobiliário.
+[1382.40–1388.54s] O fortalecimento dessa agenda ASG na Caixa, que é uma realidade.
+[1388.54–1394.90s] 2,5 bilhões investidos em tecnologia
+[1394.90–1396.84s] só no primeiro trimestre
+[1396.84–1398.90s] semestre de
+[1398.90–1401.90s] 2026
+[1401.90–1405.26s] isso é um crescente
+[1405.26–1407.02s] que nós estamos fazendo no investimento tecnológico
+[1407.02–1408.68s] da Caixa em torno de 10, 12
+[1408.68–1410.48s] 15% ao ano
+[1410.48–1413.22s] isso já considerando as bases
+[1413.22–1415.34s] de 2023
+[1415.34–1416.14s] para cá
+[1416.14–1418.52s] era muito menos do que isso
+[1418.52–1421.46s] isso tem dado um impacto muito grande
+[1421.46–1425.40s] nós temos hoje o acesso
+[1425.40–1427.32s] a IA na Caixa
+[1427.32–1429.66s] todos os empregados, os 84 mil
+[1429.66–1430.48s] empregados da Caixa
+[1430.48–1433.26s] qualquer que seja o empregado da Caixa
+[1433.26–1434.16s] ele tem
+[1434.16–1437.22s] ferramentas de IA disponível para eles
+[1437.22–1439.90s] e uma das mais significativas
+[1439.90–1441.60s] nesse ganho
+[1441.60–1442.32s] de eficiência
+[1442.32–1444.54s] a Caixa que é um banco
+[1444.54–1447.50s] que tem um braço público, um braço privado
+[1447.50–1449.98s] Você imagina a quantidade de normativos, de adequação,
+[1450.10–1451.98s] de instruções normativas que vêm de ministério,
+[1452.86–1456.44s] de instruções dos órgãos fiscalizadores,
+[1456.62–1460.22s] instruções do Banco Central, as normas internas.
+[1460.64–1468.30s] Então, é um batalhão de uma bibliografia enorme para se buscar.
+[1469.30–1471.64s] E aí se criou um processo, o chat-caixa,
+[1472.34–1476.66s] onde, num movimento extremamente simples,
+[1476.66–1480.02s] qualquer dúvida sobre qualquer desses assuntos que estão na neta caixa,
+[1480.08–1485.48s] o empregado entra e, com isso, ele consegue fazer o acesso à informação
+[1485.48–1490.82s] que vai gerar o melhor conhecimento e um atendimento mais qualificado,
+[1490.92–1493.50s] seja ao cliente, seja às suas normas, seja ao complexo da empresa.
+[1494.62–1497.38s] Isso ganha uma eficiência, fora tantas e tantas outras coisas
+[1497.38–1501.28s] que a gente vai falando no decorrer dessa apresentação.
+[1501.28–1504.14s] Então, assim, ganho significativo de produtividade,
+[1504.14–1514.46s] redução da demanda por informações ou tirar as dúvidas de forma por telefone,
+[1514.56–1516.98s] em centralizadores, isso reduziu muito.
+[1518.22–1525.40s] Tivemos aí sim, adicionalmente, essa questão que foi 3,5 milhões de contas digitais
+[1525.40–1528.20s] abertas no primeiro semestre de 26.
+[1529.02–1533.70s] 5,5 milhões de contas abertas desde junho de 2025.
+[1534.14–1539.28s] E aí a grande novidade é a chegada para a Caixa, junto da Caixa,
+[1540.04–1546.10s] um banco centenário de 42% dessas contas abertas pela geração Z.
+[1547.72–1553.46s] Isso denota uma percepção que está associada, inclusive,
+[1553.46–1556.72s] a um plano de marketing que nós construímos.
+[1558.88–1563.80s] No dia de hoje, só para dar um spoiler sobre isso,
+[1564.14–1572.22s] Nós temos um evento de um jogo internacional de basquete em Brasília.
+[1573.82–1580.94s] O ginásio lá comporta 10.800 pessoas dentro do estádio.
+[1582.28–1587.52s] O último evento que nós fizemos lá, esse foi o recorde de ocupação.
+[1587.52–1590.26s] então a Caixa focou
+[1590.26–1592.84s] no seu marketing
+[1592.84–1595.04s] algumas atividades
+[1595.04–1596.20s] que os jovens gostam
+[1596.20–1597.60s] muitas delas
+[1597.60–1601.42s] até no vestir do jovem brasileiro
+[1601.42–1602.72s] ele gosta de se vestir
+[1602.72–1605.16s] muito deles com roupas
+[1605.16–1607.30s] do basquete
+[1607.30–1608.12s] isso é uma coisa interessante
+[1608.12–1609.28s] o basquete já foi no Brasil
+[1609.28–1610.30s] vocês lembram?
+[1612.30–1613.70s] você não que seja jovem
+[1613.70–1615.98s] mas eu me lembro da geração
+[1615.98–1622.28s] lá do Oscar, do Marçal, tantos outros que fizeram tanto por esse país.
+[1623.50–1627.80s] E os esportes mais contemporâneos, ginástica, por exemplo,
+[1628.22–1630.38s] uma coisa que a Caixa está ligada.
+[1630.74–1634.20s] Enfim, não é que nos tenha surpreendido,
+[1635.26–1639.56s] mas a chegada do jovem como cliente da Caixa é uma boa novidade que a gente traz.
+[1640.68–1644.60s] E é processo simplificado, agilidade, modernização e acessível.
+[1644.60–1645.72s] Isso é o que nós queremos.
+[1645.98–1648.14s] E isso se traduz no Super APP da Cássia.
+[1651.00–1654.14s] Há três anos, quando a gente disse que ia fazer o Super APP,
+[1654.34–1657.38s] muita gente olhava assim, que o internamento era mais certo para ser possível.
+[1659.82–1666.82s] Como é que você pega 16, de 14 a 16 aplicativos e coloca numa única base?
+[1666.82–1673.62s] Um banco que tem essa movimentação que é responsável por em torno de 15 a 20% do PIX
+[1673.62–1676.26s] feitos diariamente nesse país, como é que você consegue fazer isso?
+[1676.30–1678.88s] Um banco que faz 3 mil operações, né, Inês?
+[1678.94–1680.38s] De crédito imobiliário por dia,
+[1680.86–1684.80s] que faz dos 350 mil consultas de crédito.
+[1685.22–1686.62s] Como é que você consegue fazer um super APP?
+[1686.88–1688.82s] Não sei como foi, pessoal, não sei o que a turma fez.
+[1690.44–1694.56s] E está aí, em teste agora, inicial,
+[1694.86–1697.54s] com 300 mil clientes da Caixa,
+[1699.52–1701.36s] aprimorando para poder, até o final do ano,
+[1701.42–1703.54s] a gente liberar para os 160 clientes.
+[1703.62–1705.30s] milhões de clientes da Caixa.
+[1706.24–1709.20s] Então, essa é a pegada.
+[1709.70–1714.70s] Então, integração entre app, jornada com uso de IAR,
+[1715.84–1721.34s] confiabilidade, criação da conta Jovem Ons.
+[1721.34–1723.80s] E, aliás, aqui um dado.
+[1725.24–1728.86s] A Adriana botou oito anos, não é, Adriana?
+[1728.86–1731.96s] para usar a conta
+[1731.96–1733.62s] a 8 anos de idade.
+[1734.50–1737.26s] Eu queria que fosse certo, porque meu neto já entraria,
+[1737.34–1739.06s] mas ele não colocou, colocou para 8 anos.
+[1739.18–1742.42s] Então, assim, jovens a partir de 8 anos de idade
+[1742.42–1744.38s] já podem ter a conta na caixa.
+[1745.48–1749.28s] Essa conta é uma conta acompanhada pelos pais.
+[1750.86–1753.42s] Crédito tem toda uma jornada extremamente...
+[1753.42–1754.74s] Segundo...
+[1754.74–1758.24s] Eu não fiz porque meu neto não está ainda em condição de fazer,
+[1758.24–1759.70s] mas quando estiver com oito anos eu vou fazer.
+[1760.90–1763.04s] Um minuto e meio, Adriano, para se abrir essa conta.
+[1764.52–1772.98s] Então, assim, contas digitais, conta corrente, poupança, enfim.
+[1773.78–1777.68s] Cartões, e aí o Márcio não sei se está por aqui.
+[1779.16–1781.66s] Cartões tem sido uma grande surpresa.
+[1781.80–1784.38s] Saiu recentemente um dado de crescimento,
+[1784.38–1792.66s] de faturamento comparativo entre a Caixa Econômica e os demais gestores de cartão.
+[1793.62–1795.86s] E foi bem positiva.
+[1796.28–1799.30s] O cartão nosso é muito bem aceito.
+[1799.30–1801.42s] Enfim, parte de empréstimo.
+[1801.62–1805.90s] Hoje, nós já temos um empréstimo, por exemplo, crédito ao trabalhador.
+[1806.04–1813.72s] Ele está disponibilizado já no novo APP, com o limite que o brasileiro pode tirar.
+[1814.38–1816.76s] parte de investimento,
+[1817.62–1819.46s] ontem eu fui,
+[1819.62–1821.08s] cadê o
+[1821.08–1822.76s] Ricardo Rios, está por aí?
+[1824.14–1825.28s] Vai sair uma
+[1825.28–1826.30s] reportagem agora,
+[1827.46–1828.38s] e nós fomos de
+[1828.38–1831.68s] 15 fundos nossos de renda fixa,
+[1832.54–1833.42s] estão contemplados
+[1833.42–1834.72s] nessa premiação,
+[1834.72–1836.10s] vocês já devem estar sabendo disso,
+[1836.50–1838.22s] ou foi você que me disse, eu não sei mais como,
+[1839.08–1840.68s] é entre os
+[1840.68–1842.68s] mais rentáveis, então de novo
+[1842.68–1846.22s] na renda fixa, a gente está dando banho,
+[1846.68–1850.02s] renda variável, daqui a pouco a gente chega lá, enfim.
+[1850.88–1853.62s] Habitação, consórcio, seguro, previdência,
+[1853.76–1857.66s] tudo isso já está no novo Super APP da Cárcia.
+[1858.70–1861.06s] Números aqui, presença física,
+[1861.64–1862.98s] esses são números interessantes.
+[1863.84–1868.68s] Nós ainda continuamos com um atendimento muito especial
+[1869.24–1871.68s] às pessoas, agências, agências singulares,
+[1871.68–1874.06s] agência exclusiva para governo,
+[1874.18–1876.06s] plataforma PJ, isso é uma novidade
+[1876.06–1876.96s] que a Cárcia criou.
+[1878.12–1879.58s] A gente criou essa novidade,
+[1879.76–1881.40s] está expandendo o Brasil afora.
+[1882.86–1883.70s] Agência Caminhão,
+[1883.80–1885.20s] Contêiner, agência Barco.
+[1886.48–1886.80s] E aí,
+[1887.72–1889.70s] nós estamos inaugurando quando, semana que vem,
+[1890.00–1891.86s] né, Anderson, uma agência conceito
+[1891.86–1893.60s] aqui na Paulista,
+[1894.56–1895.88s] uma agência
+[1895.88–1897.90s] nova, um conceito diferente,
+[1898.38–1899.74s] totalmente disruptivo.
+[1899.74–1902.98s] vale a pena conhecer o que a gente vai fazer naquela agência ali.
+[1904.28–1907.76s] Então, assim, a Caixa continua com o seu propósito.
+[1907.86–1908.20s] Qual é?
+[1909.28–1914.66s] Nós estamos fazendo uma redistribuição da nossa rede física.
+[1915.74–1920.86s] Onde tiver 100 mil brasileiros, seja em que região do país for,
+[1920.90–1923.34s] e não tiver banco, a Caixa vai abrir uma agência lá.
+[1923.34–1935.84s] Então isso é um propósito que a gente tem e estabelece como um princípio de manter o atendimento físico preservado nas nossas agências.
+[1936.02–1944.78s] Por outro lado, nós vimos aí que quase o mesmo número de clientes fizeram crescimento da nossa base de clientes digitais.
+[1945.68–1953.30s] Saímos 49,8 milhões de clientes, outros são clientes com um crescimento de quase 8% em relação ao segundo trimestre de 2025.
+[1953.34–1958.44s] 29,5 bilhões de transações
+[1958.44–1959.86s] em canais digitais
+[1959.86–1961.72s] 15,5 de transações
+[1961.72–1963.64s] picos do sistema financeiro nacional
+[1963.64–1965.28s] o pessoal assim é podesto
+[1965.28–1967.32s] eu optaria de 15,5 mas vai a 20
+[1967.32–1968.64s] tem dia que dá 20
+[1968.64–1971.88s] mas 15% não é pouca coisa
+[1971.88–1974.66s] 188 mil
+[1974.66–1975.88s] atendimentos realizados pelo
+[1975.88–1978.60s] esse é um aplicativo
+[1978.60–1980.64s] car da caixa
+[1980.64–1982.50s] essa mocinha que está aí
+[1982.50–1985.50s] que faz o atendimento virtual nosso,
+[1987.18–1989.18s] que é nosso assistente, que orienta clientes,
+[1989.32–1991.22s] tirando dúvidas e tudo mais.
+[1991.38–1994.08s] Então, uma grande evolução nessa questão.
+[1995.40–1998.36s] O crédito imobiliário, com esse recorde
+[1998.36–2001.46s] de chegar a uma marca histórica de R$ 1 trilhão.
+[2002.68–2006.62s] E aí, crescimento, considerando 15% de crescimento
+[2006.62–2008.72s] nessa base de crédito,
+[2008.72–2013.24s] é uma coisa realmente a ser observada.
+[2015.74–2020.08s] Enfim, tem muita coisa a celebrar, a comemorar e a dizer sobre isso.
+[2020.34–2024.88s] O crescimento sustentado de uma carteira que cresce nessa velocidade,
+[2025.26–2030.34s] que estabiliza-se do ponto de vista de crescimento.
+[2030.90–2035.46s] É todo um contexto que reduziu, comparativamente, trimestralmente,
+[2035.46–2037.10s] a sua base de inadimplência.
+[2037.10–2040.64s] teve um trabalho fantástico feito nesse sentido.
+[2042.02–2043.08s] Mas, enquanto você fala,
+[2043.28–2046.10s] reduzo 0,3%, 0,4%,
+[2046.82–2051.08s] numa base de um trilhão de crédito,
+[2051.64–2053.34s] isso tem um impacto muito grande, positivo,
+[2053.68–2055.30s] sobre a gestão dessa carteira.
+[2056.82–2061.18s] Contratação, considerando também,
+[2061.44–2062.42s] semestre a semestre,
+[2063.24–2065.48s] quase 30% de crescimento,
+[2065.48–2070.80s] isso é muito significativo, sobre esse ponto.
+[2071.18–2075.32s] 1,5 milhão de pessoas com acesso a moradia própria,
+[2077.58–2078.98s] isso tem um impacto.
+[2079.20–2081.26s] Pela primeira vez, nós vimos, de fato,
+[2081.80–2086.92s] isso foi anunciado no trimestre passado pelo Ministério das Cidades,
+[2087.20–2091.44s] o crescimento daquela base do déficit habitacional no país,
+[2091.68–2094.58s] isso tem muito a ver com o que nós estamos fazendo.
+[2095.30–2099.74s] 1,1 milhão de empregos gerados, direto e indiretamente.
+[2100.62–2104.96s] Contratação da minha casa, minha vida, quase 40% de crescimento,
+[2105.08–2108.00s] considerando a base semestral.
+[2108.92–2110.82s] E é o que a gente fala.
+[2111.82–2116.92s] Por dia, a Caixa coloca 1 bilhão de reais...
+[2116.92–2118.06s] Pô, já quero botar 1 trilhão.
+[2118.36–2120.26s] 1 bilhão de reais na economia brasileira.
+[2120.76–2122.88s] Todos os dias, só em habitação.
+[2122.88–2125.24s] enfim
+[2125.24–2126.32s] aí vem
+[2126.32–2128.18s] o Lobo Guará
+[2128.18–2129.94s] símbolo do
+[2129.94–2133.38s] nossa questão com a responsabilidade
+[2133.38–2136.10s] de preservação
+[2136.10–2137.36s] carteiras sustentáveis
+[2137.36–2138.72s] crescemos
+[2138.72–2141.00s] vocês se lembram, nós estávamos em
+[2141.00–2142.92s] 830, 840
+[2142.92–2145.40s] 866
+[2145.40–2146.28s] para
+[2146.28–2151.12s] quase 914
+[2151.12–2151.98s] bilhões
+[2151.98–2155.06s] distribuição, esse selo
+[2155.06–2156.92s] da caixa, ele tem uma
+[2156.92–2157.92s] coisa muito interessante
+[2157.92–2160.58s] até um
+[2160.58–2162.56s] prefeito lá do
+[2162.56–2165.14s] Mato Grosso teve a oportunidade uma vez de ir
+[2165.14–2166.96s] lá entregar esse
+[2166.96–2169.06s] selo e tinha um
+[2169.06–2171.00s] gestor que tinha sido prefeito e ele falou assim
+[2171.00–2173.08s] você não imagina na minha vida
+[2173.08–2175.08s] de gestor seguir
+[2175.08–2175.96s] essas
+[2175.96–2179.12s] recomendações para poder receber o selo
+[2179.12–2181.10s] da caixa, mudou minha cabeça
+[2181.10–2184.72s] como gestor municipal, e ele já era, no âmbito estadual,
+[2184.88–2186.10s] um representante dessa...
+[2186.74–2188.40s] Então, vale a pena entender o que é isso.
+[2189.14–2192.38s] Isso é um processo, a Caixa tem algumas categorias,
+[2193.08–2199.20s] que faz a premiação aos municípios que atendem aqueles pré-requisitos,
+[2199.30–2202.10s] aqueles quadros de governança que a Caixa estabelece.
+[2202.98–2206.48s] São três ou quatro categorias, quatro categorias,
+[2208.36–2210.80s] e nós temos aí, você vê que é tão rigoroso,
+[2211.10–2212.98s] que não são todos.
+[2213.66–2220.98s] 5.570 municípios no Brasil, 329 têm esse selo.
+[2221.62–2224.10s] E aí vem o projeto de desenvolvimento sustentável,
+[2225.98–2232.86s] 44,1 milhão de desembolsos em 85 projetos que estão em execução,
+[2233.92–2238.74s] quase 200 milhões de desembolsos previstos ao longo da execução dos projetos vigentes.
+[2238.74–2246.00s] De novo, nós temos um fundo socioambiental, nós temos muito foco nesse fundo socioambiental,
+[2247.04–2254.76s] nós colocamos parte da receita da caixa nele, isso tem feito diferença na sociedade muito significativa,
+[2255.92–2260.66s] tem outros números de outra natureza que a gente pode juntar a isso aqui,
+[2260.66–2267.14s] as questões do que a Caixa tem feito no microcrédito e a transformação.
+[2268.28–2271.34s] Eu vou fazer uma afirmação aqui para vocês.
+[2272.46–2278.76s] A Caixa vai cuidar, com muito cuidado,
+[2278.84–2283.04s] e está cuidando da questão da segurança alimentar desse país.
+[2283.76–2286.48s] Estamos fazendo um movimento que começa a se expandir,
+[2286.48–2291.36s] que é o movimento do microcrédito orientado, com muita tecnologia junto,
+[2291.92–2300.60s] com muita percepção de que as quase 70 mil famílias que já tiveram esse acesso mudaram sua vida.
+[2301.02–2304.18s] Nós temos exemplos aqui em São Paulo disso acontecido na área urbana.
+[2304.52–2307.48s] Temos diversos exemplos Brasil afora.
+[2308.04–2313.94s] Temos indígenas Kayapó usando equipamento de alta tecnologia para extrair o açaí.
+[2313.94–2321.94s] Nós temos transformações como cases que nós percebemos, Brasil afora,
+[2322.90–2328.44s] de comunidades que mudaram a sua lógica de sobrevivência porque a Caixa chegou com o microcrédito.
+[2331.02–2335.34s] E essa orientação tem sido uma coisa permanente.
+[2335.42–2339.32s] Nós criamos aí com a vice-presidência de sustentabilidade,
+[2339.32–2342.66s] executivos e executivas da Caixa
+[2342.66–2344.74s] que se especializaram
+[2344.74–2346.86s] em sustentabilidade.
+[2347.10–2348.66s] São os gerentes...
+[2348.66–2352.36s] Não, o nome
+[2352.36–2354.66s] de quem está para a função é o gerente...
+[2354.66–2356.92s] Gerente de negócios.
+[2358.76–2360.62s] Esses gerentes são gerentes
+[2360.62–2362.88s] de territórios. Nós colocamos
+[2362.88–2363.50s] os primeiros
+[2363.50–2366.08s] 20 gerentes de território.
+[2367.58–2368.80s] Eles vão para lá, para dentro
+[2368.80–2372.36s] do ambiente de convivência territorial,
+[2373.44–2375.30s] atuam territorialmente.
+[2375.80–2377.68s] Nós vamos chegar ao número de 200,
+[2377.76–2378.42s] eu acho que é esse o número,
+[2378.86–2380.48s] de 200 disparado pelo Brasil.
+[2380.88–2383.38s] São especialistas que vão estar junto
+[2383.38–2385.62s] dos territórios no Brasil
+[2385.62–2390.60s] para orientar prefeitos, ONGs, quilombolas
+[2390.60–2394.70s] e toda essa dimensão do Brasil real
+[2394.70–2398.76s] para que eles tenham acesso de maneira adequada
+[2398.76–2400.74s] o crédito. Então, está dentro desse conjunto
+[2400.74–2402.26s] de sustentabilidade.
+[2404.46–2404.94s] Nós
+[2404.94–2407.44s] fomos escolhidos,
+[2407.62–2410.80s] na COP30, a Caixa foi escolhida
+[2410.80–2412.70s] para ser o banco que fizesse a compensação
+[2412.70–2414.58s] de carbono. Copa do Mundo,
+[2414.68–2416.78s] agora, pela CBF, nós fomos
+[2416.78–2418.00s] escolhidos, não é isso, Paulo?
+[2418.48–2420.72s] De novo, o banco para fazer a compensação
+[2420.72–2421.94s] de carbono
+[2421.94–2423.58s] que foi
+[2423.58–2425.92s] utilizado pela
+[2425.92–2430.82s] pela seleção brasileira durante a sua estrada na Copa do Mundo.
+[2430.94–2434.64s] Então, assim, e aí vem, dentro desse conceito,
+[2434.70–2437.78s] é muito interessante que lá fora,
+[2437.78–2440.26s] que tem, principalmente a Europa,
+[2440.38–2443.16s] tem muita preocupação com essa questão da sustentabilidade
+[2443.16–2447.64s] e como fazer uma diferença nisso.
+[2448.64–2454.14s] A Agence Francese Development fez um acordo com a Caixa,
+[2454.14–2458.42s] 228 milhões de dólares
+[2458.42–2460.46s] repassados para a Caixa Atuar
+[2460.46–2462.28s] em saneamento básico
+[2462.28–2464.36s] gestão de recursos de sólidos
+[2464.36–2466.38s] isso é um convento que nós tivemos com ele
+[2466.38–2467.54s] fora outras agora
+[2467.54–2470.98s] no Eco Invest
+[2470.98–2473.00s] agora nós captamos mais 2 bilhões
+[2473.00–2473.50s] não foi isso?
+[2474.02–2475.50s] para podermos atuar também
+[2475.50–2477.14s] então a Caixa começa a se especializar
+[2477.14–2478.94s] nessa questão
+[2478.94–2480.50s] cada vez mais
+[2480.50–2482.18s] da sustentabilidade
+[2482.18–2487.22s] e os impactos sociais que a Caixa promove,
+[2487.44–2490.40s] renda, inclusão, suporta as comunidades, apoio à cultura.
+[2492.06–2494.64s] Vou fazer um comparativo com vocês sobre cultura.
+[2496.34–2508.64s] Em 2022, menos de 50 mil pessoas visitaram as Caixas Culturais nossas.
+[2508.64–2514.58s] Em 2022, menos de 50 mil pessoas visitaram as casas culturais.
+[2515.10–2523.56s] Em 2025, 1.2 milhão e 200 mil pessoas frequentaram as casas culturais.
+[2524.10–2529.06s] Então, o nosso apoio à cultura é uma coisa muito importante.
+[2530.96–2534.36s] Antes de falar da cultura, eu vou falar do caixa hospitais.
+[2534.36–2539.52s] nós tínhamos uma carteira
+[2539.52–2541.50s] dedicada
+[2541.50–2543.64s] às santas casas e aos hospitais
+[2543.64–2544.38s] filantrópicos
+[2544.38–2547.16s] essa carteira estava estabilizada
+[2547.16–2548.14s] ela não crescia
+[2548.14–2550.88s] mas nós sabemos
+[2550.88–2552.98s] do impacto que tem as santas casas
+[2552.98–2555.24s] nas questões da saúde pública nesse país
+[2555.24–2557.10s] mais de 60%
+[2557.10–2559.66s] do SUS é atendido pelas santas casas
+[2559.66–2561.24s] nós criamos
+[2561.24–2562.20s] uma operação
+[2562.20–2565.30s] com recursos advindos do FGTS,
+[2565.78–2569.68s] que permitiu que a Caixa fizesse a reestruturação financeira das Santas Casas.
+[2570.02–2573.40s] E quem é aqui de São Paulo, vale a pena conhecer a Santa Casa de São Paulo,
+[2574.02–2579.20s] o Zé Mansur, que é uma figura fora da curva, um cidadão...
+[2579.94–2581.40s] Eu tive a oportunidade de conhecê-lo.
+[2583.00–2586.02s] O que está sendo feito por conta dessa reestruturação
+[2586.02–2587.88s] que a Caixa trouxe para as Santas Casas.
+[2587.88–2593.88s] Então, revitaliza aquele valor de 3,4 bilhões apresentado,
+[2594.60–2597.16s] porque foi antes dessa última medida agora que se tornou uma lei.
+[2597.88–2604.68s] Essa lei vai permitir que a gente capte na lei orçamentária do FGTS
+[2604.68–2608.02s] recursos para usar juntas tantas casas.
+[2608.98–2611.74s] Então, isso tem uma espiral positiva muito grande em torno disso,
+[2611.82–2614.10s] em todos os aspectos que a gente pode colocar.
+[2614.10–2618.02s] Então, tantas casas, cultura, microcrédito.
+[2618.68–2624.04s] A gente passa aqui para contar os casos de microcrédito.
+[2624.62–2629.18s] A gente fica empolgado ao ver o que está acontecendo nessa coisa do microcrédito.
+[2629.28–2635.10s] É muito significativo essa mudança da sociedade provocada pela atuação da Caixa no microcrédito.
+[2637.42–2641.10s] A questão da calamidade, o atendimento continuado, especializado,
+[2641.76–2644.90s] a Caixa criou um novo protocolo para a questão das calamidades,
+[2645.46–2649.02s] que é o novo real que a gente está vivendo,
+[2649.02–2653.46s] uma nova realidade, a Caixa está junto, criou o mecanismo,
+[2653.66–2657.14s] a agência container vem com esse propósito e tantas outras coisas,
+[2657.22–2658.68s] e o apoio ao esporte que a gente já falou.
+[2658.90–2663.58s] Então, assim, para ir já para o final,
+[2664.32–2667.74s] a gente fala aqui vários reconhecimentos que a Caixa teve,
+[2667.92–2669.40s] continua tendo.
+[2669.40–2676.60s] Agora, só vou destacar um desses oito aqui.
+[2678.04–2682.70s] Existe esse prêmio chamado Best Finance, que é Innovation,
+[2684.16–2688.96s] que tem coisa a ver com inovação digital e tal.
+[2689.86–2696.32s] A instituição que dá esse prêmio faz uma pesquisa de 187 países no mundo.
+[2696.32–2699.68s] eu não sei se é a primeira vez
+[2699.68–2702.10s] mas um grupo de colegas da Caixa
+[2702.10–2703.38s] está em Singapura
+[2703.38–2705.06s] na primeira semana de outubro
+[2705.06–2705.98s] vai receber esse prêmio
+[2705.98–2707.64s] um sandbox nosso
+[2707.64–2711.58s] de serviços financeiros que nós desenvolvemos
+[2711.58–2713.70s] que está dentro daquele conceito
+[2713.70–2715.90s] lá do Super APP
+[2715.90–2717.66s] vai estar lá
+[2717.66–2718.54s] recebendo esse prêmio
+[2718.54–2720.96s] então são vários reconhecimentos
+[2720.96–2723.12s] de marca, de questão
+[2723.12–2724.98s] de selo de proequidade
+[2724.98–2728.02s] muito reconhecimento
+[2728.02–2729.94s] em várias frentes que a Caixa teve.
+[2731.30–2733.76s] E aqui, já passando
+[2733.76–2735.92s] o baixão
+[2735.92–2737.72s] para o Brasiliano,
+[2738.20–2739.70s] eu já deixo essa tela aqui
+[2739.70–2741.60s] para que você comece a
+[2741.60–2743.42s] fazer a sua parte aí.
+[2744.06–2745.78s] Como sempre, eu faço a parte mais
+[2745.78–2747.80s] fácil e deixo a parte mais difícil para o Brasiliano.
+[2748.50–2749.56s] Pessoal, eu...
+[2749.56–2751.74s] Eu queria...
+[2751.74–2752.26s] Já que
+[2752.26–2755.46s] porque daqui a pouco a gente vai para outra,
+[2756.28–2757.88s] depois do que o brasileiro termina.
+[2758.14–2760.22s] Mas eu queria deixar aqui uma mensagem para os colegas
+[2760.22–2764.16s] que fizeram essa jornada nesse trimestre,
+[2764.24–2765.30s] que se orgulhem muito.
+[2766.00–2770.16s] Agradeço muito a todos o empenho de toda a rede de negócios da Caixa,
+[2770.16–2774.96s] de toda a dedicação, de toda a busca por essas questões
+[2774.96–2778.28s] que nós temos muita atenção.
+[2779.44–2782.20s] Queria dar um recado para quem está na nossa rede,
+[2782.26–2784.88s] que a Caixa sim está preocupada com tudo que tem a ver
+[2784.88–2790.26s] com a estabilidade dos nossos colaboradores,
+[2790.36–2791.22s] dos nossos colegas.
+[2791.30–2792.84s] Nós estamos olhando com muito carinho,
+[2793.68–2795.96s] faz possibilidade de resolutividade
+[2795.96–2800.20s] e algumas questões que precisam ser equacionadas
+[2800.20–2804.00s] do ponto de vista da nossa relação capital-trabalho.
+[2804.22–2807.44s] Podem ter certeza que a Caixa vai chegar ao bom caminho,
+[2807.50–2808.94s] com essas questões aí.
+[2809.02–2810.10s] Podem ter certeza disso.
+[2810.10–2813.28s] enfim, obrigado pela oportunidade
+[2813.28–2814.70s] de estar aqui com vocês mais uma vez
+[2814.70–2817.16s] celebrando, eu estava falando para os nossos colegas
+[2817.16–2819.18s] foi um trimestre extremamente
+[2819.18–2820.52s] difícil
+[2820.52–2822.22s] sobre todos os pontos
+[2822.22–2824.86s] mas a gente supera
+[2824.86–2827.02s] e apresenta números que são
+[2827.02–2829.18s] números realmente muito impactantes
+[2829.18–2831.28s] para a nossa sociedade, para a Caixa
+[2831.28–2833.10s] por seu papel como banco
+[2833.10–2834.80s] que tem essa função
+[2834.80–2836.98s] tão primordial numa sociedade ainda que precisa
+[2836.98–2839.14s] muito de um banco com essas características
+[2839.14–2840.96s] como o da Cárcia. Então, passa aqui
+[2840.96–2843.20s] para o Brasiliano, por favor,
+[2843.28–2845.12s] a sua parte aí. Obrigado, pessoal.
+[2852.64–2854.22s] Bom dia a todos, a todas.
+[2854.96–2856.78s] Opa, caiu aqui. Para começar,
+[2858.22–2859.36s] assessoria técnica.
+[2862.54–2863.28s] Ainda bem que o problema
+[2863.28–2865.38s] é aqui, o balanço
+[2865.38–2866.78s] está maravilhoso.
+[2866.78–2868.84s] Vai ficar tudo certo.
+[2869.14–2878.00s] Bom, resolvida a questão tecnológica, vamos aqui falando.
+[2878.52–2882.96s] Eu vou aproveitar essa tela e depois eu entro na questão dos números.
+[2883.68–2888.28s] Aqui basicamente é para a gente mostrar o gigantismo da Caixa.
+[2888.28–2892.04s] Então nós estamos falando aqui de um crescimento dos ativos totais da Caixa,
+[2892.48–2898.54s] chegando em 4 trilhões e 119 bilhões, um crescimento de 12%.
+[2898.54–2904.80s] a gente percebe também ali um crescimento, não vou dizer uniforme,
+[2904.88–2908.54s] mas um crescimento bem pari-passo entre ativos próprios, crescendo 12,
+[2908.56–2909.44s] e ativos de terceiros.
+[2911.22–2915.16s] No quadro à direita, é mais uma abertura para a gente ver ali dentro,
+[2915.82–2918.54s] que vê que praticamente todas as linhas estão crescendo,
+[2919.30–2924.98s] tanto o ativo próprio, a questão do FGTS, saindo aqui de 799 e chegando a 862,
+[2924.98–2927.36s] ou seja, continua crescendo os ativos do FGTS,
+[2927.98–2931.60s] isso captura muito da dinâmica macroeconômica também.
+[2932.20–2934.00s] Administração de fundos de terceiros aqui,
+[2934.20–2936.28s] tanto a parte da ASSE como a parte também lá,
+[2936.48–2942.98s] envolvendo lá na questão da nossa vice-presidente de gestão de outros fundos.
+[2943.68–2947.24s] Então, mostra o tamanho gigantino dos nossos ativos administrados.
+[2948.24–2952.04s] Aqui, basicamente, é o resultado do trimestre, 3.9,
+[2952.04–2955.72s] tem esse crescimento em relação tanto à comparação com o primeiro trimestre
+[2955.72–2958.72s] e à comparação no trimestre do ano passado,
+[2959.46–2960.62s] contratação de crédito,
+[2961.52–2965.66s] e vamos entrar, então, de fato, agora no desempenho financeiro.
+[2966.80–2969.60s] E antes de falar dele, eu quero dizer o seguinte,
+[2969.60–2971.90s] que o nosso resultado do semestre,
+[2972.96–2977.42s] ele está sustentado por quatro pilares,
+[2977.66–2979.08s] e é importante a gente falar sobre eles.
+[2979.74–2983.26s] expansão de negócio, disciplina do risco,
+[2984.44–2986.58s] solidez de capital e liquidez,
+[2987.44–2990.18s] e aquilo que eu trato como o mais relevante,
+[2990.82–2995.90s] mantendo a Caixa como estratégica no desenvolvimento do país.
+[2996.40–3000.62s] Porque tudo seria mais fácil se a gente desprezasse esse quarto pilar,
+[3001.24–3003.98s] quando a gente fala de recuperação, principalmente recuperação financeira.
+[3005.04–3008.70s] Então, quando feita essa consideração, a gente olha para essa DRE
+[3008.70–3012.26s] e eu já destaco a recuperação da nossa margem financeira.
+[3013.84–3017.68s] E que, inclusive, é o banco que responde de maneira mais significativa
+[3017.68–3019.72s] na recomposição dessa margem financeira.
+[3020.58–3022.00s] E ela poderia ser mais rápida.
+[3022.80–3025.04s] Aqueles que nos acompanham aqui já há algum tempo,
+[3025.68–3028.68s] a gente está aqui mostrando, digamos, mais um capítulo de uma grande série.
+[3028.78–3031.26s] A gente vai falar o seguinte, olha, nós tínhamos um dever de casa
+[3031.26–3033.18s] para recuperar a margem da caixa,
+[3033.84–3036.94s] partindo de um cenário que vinha de taxa, seria que é muito baixa,
+[3036.94–3040.76s] e que tinha uma carteira indexada com taxa muito baixa
+[3040.76–3042.42s] e que precisava ser recuperado isso.
+[3043.30–3047.74s] E a recuperação poderia acontecer se a gente desacelerasse o crédito
+[3047.74–3050.22s] e deixasse de cumprir com esse mandato que nós temos
+[3050.22–3054.00s] de ser um agente indutor do desenvolvimento do país.
+[3055.30–3058.80s] Então, a nossa missão era recuperar a margem do banco,
+[3058.80–3060.38s] e isso era necessário,
+[3060.80–3063.20s] porque ela retroalimenta a nossa capacidade operacional,
+[3064.16–3066.40s] mas sem deixar de fazer o que tem que ser feito.
+[3066.94–3073.38s] Então, a travessia seria mais longa, mas nós estamos hoje mostrando que o trabalho foi feito,
+[3073.86–3075.46s] e mais do que isso, foi bem feito.
+[3076.38–3082.76s] Então, a nossa margem financeira cresce 20% quando a gente compara com o trimestre anterior,
+[3083.26–3088.56s] mas cresce 16% nessa perspectiva de 12 meses, comparado com o semestre do ano passado.
+[3090.02–3090.94s] E de onde vem isso?
+[3090.94–3095.62s] A gente veio durante um bom tempo, onde as nossas despesas de intermediação financeira,
+[3095.62–3102.12s] crescia em uma velocidade maior do que a nossa receita da intermediação financeira.
+[3102.74–3104.20s] E a gente vem perseguindo isso.
+[3105.40–3108.16s] Olha o que está acontecendo em relação ao comportamento da nossa despesa
+[3108.16–3109.88s] na velocidade do crescimento.
+[3110.48–3116.48s] As nossas receitas financeiras crescem nesse semestre equivalente às despesas.
+[3116.48–3120.40s] Mas se você faz o recorte na perspectiva da margem,
+[3120.50–3122.32s] que é nessa comparação com o trimestre anterior,
+[3122.88–3125.22s] a receita já começa em uma velocidade maior.
+[3125.62–3128.18s] E isso faz com que a gente olhe para o final do ano,
+[3128.80–3134.96s] entendendo que a margem financeira bruta ainda vai carregar e suportar o resultado da caixa
+[3134.96–3138.54s] em relação aos grandes desafios que nós temos para esse ano ainda.
+[3139.60–3141.38s] Feito esse comentário sobre a margem financeira,
+[3141.86–3144.50s] vamos falar sobre a provisão de risco de crédito.
+[3144.50–3149.74s] E aqui, embora eu possa estar sendo repetitivo, mas eu entendo como importante,
+[3149.74–3155.68s] tem um crescimento na margem de 97%.
+[3155.68–3159.88s] Nós tivemos agora no segundo trimestre capturando todo o agravamento
+[3159.88–3162.78s] de provisão e de risco em algumas carteiras.
+[3163.18–3164.86s] Eu vou mostrar isso um pouco mais na frente.
+[3165.44–3169.62s] Na perspectiva de seis meses, tem esse crescimento de 140%.
+[3169.62–3173.50s] E aqui eu vou fazer uma observação, posso estar sendo repetitiva,
+[3173.58–3176.84s] mas é importante porque a transparência é uma outra marca importante
+[3176.84–3180.92s] que nós introduzimos aqui nessa conversa com vocês.
+[3181.98–3183.70s] No primeiro semestre do ano passado,
+[3184.86–3187.54s] a gente estava aqui respondendo porque a Caixa foi o único banco
+[3187.54–3192.20s] que teve uma redução de provisão de 40% em relação ao período de 2024,
+[3193.22–3196.56s] ao passo que teve banco e teve crescimento de 45%.
+[3196.56–3200.14s] E nós explicamos que a nossa carteira era diferente.
+[3200.92–3203.14s] Eu mostro ali na frente também que a nossa carteira era diferente.
+[3204.14–3204.56s] Por quê?
+[3204.68–3208.46s] Porque nós tivemos uma medida chamada a 4966,
+[3209.36–3212.50s] que lá no primeiro semestre jogou para o patrimônio líquido
+[3212.50–3214.62s] uma provisão relevante pela adoção da norma.
+[3214.70–3216.78s] Isso é a regra, já vi explicando isso há algum tempo.
+[3217.18–3219.96s] Então, quando a gente olha aqui na questão da provisão,
+[3220.62–3223.88s] ela conversa com aquela disciplina do risco que eu comentei lá atrás.
+[3224.66–3227.36s] Mas o número tem que ser analisado sobre um contexto
+[3227.36–3229.94s] ao longo desse período daquilo que está sendo feito.
+[3229.94–3237.06s] Mas aqui nós estamos reconhecendo os agravamentos de risco que estão feitos em algumas carteiras pontuais
+[3237.06–3242.32s] dentro daquilo que entendemos da nossa prudência como banco público.
+[3242.46–3247.94s] E o resultado sendo resiliente a ponto de suportar essas necessidades de incremento nessa linha.
+[3248.94–3253.02s] Um outro ponto muito importante que fala sobre a questão dos avanços da nossa dinâmica operacional
+[3253.02–3258.86s] é o crescimento da receita de prestação de serviço, crescendo ali em 12,7%.
+[3258.86–3261.94s] e aí praticamente em todas as linhas.
+[3263.02–3266.06s] Faço menção importante em relação a cartões,
+[3266.18–3269.94s] cartões e seguro crescendo ali na faixa de 15%.
+[3270.56–3274.24s] Menção relevante em relação à nossa questão de gestão
+[3274.24–3275.38s] de fundos de investimento,
+[3275.50–3277.86s] a questão da AST crescendo em torno de 20%.
+[3277.86–3280.12s] Eu sei que a gente tem margem para poder crescer
+[3280.12–3281.42s] nesses produtos todos.
+[3282.06–3283.94s] Governo crescendo na faixa de 20%.
+[3284.56–3288.20s] As nossas receitas em relação às operações de crédito,
+[3288.20–3289.86s] já que o nosso crédito continua crescendo,
+[3290.24–3292.18s] crescendo ali perto de 9%.
+[3292.18–3295.92s] Então, aqui é uma resposta em cima de toda a dinâmica
+[3295.92–3297.30s] e do relacionamento que temos,
+[3297.76–3299.48s] voltado diretamente aos nossos clientes.
+[3300.24–3302.80s] Despesa administrativa, crescendo na faixa de 6%,
+[3302.80–3305.16s] tanto na margem quanto na perspectiva de 12 meses,
+[3305.70–3307.94s] e aqui carregado basicamente pela Folha,
+[3308.40–3312.02s] já que as outras, e pegando a questão do acordo coletivo do ano passado,
+[3312.74–3316.50s] que cresceu ali perto de 6%, quase 5%, quase 6%,
+[3316.50–3321.08s] Mas as outras despesas administrativas, a gente vem controlando a execução,
+[3321.50–3325.78s] ela crescer na faixa abaixo de 4%, ou seja, abaixo da linha da inflação.
+[3326.32–3331.86s] Tudo isso converge para que o nosso patrimônio líquido cresça quase 6%,
+[3331.86–3334.74s] chegando em 156 bilhões.
+[3335.46–3339.54s] O ROE em 9,2%, ou seja, andando de lado um pouquinho,
+[3339.64–3343.38s] e aqui é importante porque, diferentemente dos outros bancos,
+[3343.38–3348.32s] que tem payout, pagamento de dividendo de 70%, de 50%,
+[3348.32–3351.76s] o nosso pagamento de dividendo é limitado a 25%.
+[3351.76–3354.20s] Então, a maior parte do nosso lucro retoalimenta esse capital,
+[3355.14–3358.58s] por sua vez, acaba gerando uma necessidade de resultado crescente,
+[3358.64–3360.08s] maior para poder manter esse crescimento.
+[3360.76–3365.30s] A gente tende a olhar para dezembro com a recuperação desse ROE,
+[3365.82–3368.36s] voltando à casa dos dois dígitos.
+[3369.22–3372.38s] Temos a informação do ROE, do IEO, o INSS,
+[3372.38–3374.54s] a gente vem melhorando, ou seja, esse indicador
+[3374.54–3376.28s] quanto menor, melhor, é uma
+[3376.28–3378.42s] pra caixa, dada a nossa estrutura
+[3378.42–3379.94s] na forma de atendimento,
+[3380.48–3382.54s] é um avanço muito positivo
+[3382.54–3384.54s] o ROE chegando a 52,3%.
+[3385.66–3386.62s] Bom, vamos
+[3386.62–3388.52s] falar agora da nossa estrutura de
+[3388.52–3390.52s] ativos e passivos, começando aqui pelas nossas
+[3390.52–3392.28s] captações, atingindo
+[3392.28–3394.46s] 2 trilhões e 52 bi,
+[3394.52–3396.10s] um crescimento de 13%.
+[3396.10–3398.50s] A gente vai ver um pouco mais na frente que o crescimento
+[3398.50–3400.10s] do nosso ativo é um pouquinho menor,
+[3400.10–3403.60s] isso reflete numa tesouraria nossa um pouquinho maior
+[3403.60–3408.02s] e também num índice de liquidez que também é bem significativo.
+[3408.80–3410.42s] As nossas principais captações,
+[3411.00–3413.30s] continua sendo o empréstimo repasse,
+[3413.40–3415.30s] que dentro a maior parte é FGTS,
+[3415.40–3418.34s] já tem um percentual significativo aqui de 23 bi,
+[3418.40–3422.02s] mais ou menos, vindo do Fundo Social e do BNDES.
+[3423.00–3426.30s] Poupança, 405 bi, um crescimento de quase 4%,
+[3426.30–3429.52s] e a caixa chegando a quase 40% de participação no mercado
+[3429.52–3430.82s] nesse segmento.
+[3431.36–3432.92s] Eu venho informando que
+[3432.92–3435.10s] o saldo da poupança no mercado
+[3435.10–3437.74s] está meio que estacionado ali, pouco acima de um trilhão.
+[3438.28–3439.86s] Era um trilhão e 100, um trilhão e 50,
+[3439.94–3440.78s] um trilhão e 30,
+[3441.66–3443.66s] e o saldo da Caixa é o único saldo
+[3443.66–3445.64s] que cresce mantendo a cliente.
+[3445.74–3447.14s] A maior parte aqui é por acru,
+[3447.68–3449.80s] pela movimentação do mês, mas tem um acru
+[3449.80–3450.08s] aqui,
+[3451.52–3453.66s] e a Caixa continua, então, sendo o único
+[3453.66–3455.98s] banco que cresce saldo de poupança
+[3455.98–3457.78s] de maneira significativa e ganhando
+[3457.78–3459.32s] participação no mercado.
+[3459.52–3466.62s] Depósito a prazo crescendo 20%, puxado pelo CDB, letras aqui, um investimento muito forte nosso na captação de RCI,
+[3467.06–3471.24s] mas também tivemos agora algumas LF com foco em capital.
+[3472.02–3477.68s] Mercado de capital, basicamente a nossa compromissada própria de terceiros e depósito a vista que cresce quase 10%.
+[3477.68–3482.34s] Isso é bem, muito relevante, porque parte desse depósito a vista direciona a gente para microcrédito
+[3482.34–3488.46s] e algumas operações de agro para agricultura familiar, alguma coisa nesse sentido.
+[3489.52–3493.90s] nossa carteira de crédito cresceu no quase 12%,
+[3493.90–3501.60s] e ela é bem estruturada em relação ao seu risco,
+[3501.68–3504.66s] ou seja, a carteira imobiliária já atingiu mais de um trilhão,
+[3504.80–3505.88s] isso o presidente acabou de falar,
+[3506.58–3510.00s] a gente faz uma abertura entre aquela carteira imobiliária
+[3510.00–3514.08s] que vem com o FGTS e agora junto com o Fundo Social,
+[3514.08–3516.16s] e aquilo que é recurso caixa.
+[3516.92–3519.24s] Então, quando a gente olha para a habitação social,
+[3519.52–3521.76s] que é com esse funding do FGTS e Fundo Social,
+[3522.50–3524.28s] 618 bi essa carteira.
+[3524.38–3525.76s] É uma carteira extremamente relevante,
+[3526.50–3528.64s] crescimento acima de 18%.
+[3528.64–3530.48s] Mas a nossa carteira própria,
+[3530.54–3531.60s] aquela com os recursos próprios,
+[3531.70–3533.40s] com recursos de poupança e recursos livres,
+[3533.84–3535.68s] crescendo 10,2,
+[3535.86–3539.26s] ou seja, chegando a 387 bilhões.
+[3540.14–3541.04s] Infraestrutura 110,
+[3541.42–3542.84s] crescimento de 1,2,
+[3542.84–3545.30s] carteira comercial chegando em 270,
+[3545.58–3546.68s] 7,2 de crescimento.
+[3546.68–3551.16s] A abertura importante entre carteira PJ e carteira PF,
+[3551.24–3553.52s] a PF crescendo 8,7%.
+[3553.52–3556.76s] A PJ cresceu um pouco menos, elas vinham crescendo bem linear,
+[3557.22–3559.10s] mas aqui teve uma mudança estratégica nossa,
+[3559.30–3563.02s] que está refletindo isso, e o agro crescendo 3%,
+[3563.02–3565.78s] chegando a 62,3%.
+[3565.78–3570.54s] Contratações, porque o saldo tem toda a parte de acru,
+[3570.68–3572.38s] tem crédito com carência,
+[3573.00–3574.98s] mas o que efetivamente nós fizemos
+[3574.98–3576.88s] em relação a esse primeiro semestre.
+[3576.96–3580.30s] O que a Caixa colocou à disposição da sociedade
+[3580.30–3584.44s] atendendo o nosso cliente e mexendo com a economia
+[3584.44–3585.50s] e com o desenvolvimento do país?
+[3587.24–3590.60s] 365 bi de crédito gerado no primeiro semestre.
+[3591.20–3593.18s] 16,3% de crescimento.
+[3593.88–3597.02s] Isso é extremamente significativo e irrelevante.
+[3597.02–3598.72s] O nosso crédito imobiliário,
+[3599.18–3602.84s] um crescimento na contratação de quase 30%,
+[3602.84–3606.82s] e aqui sim, os recursos próprios da Caixa crescendo 52,
+[3607.14–3610.46s] aqui capturando todo aquele movimento que foi feito com o Banco Central,
+[3611.02–3613.62s] com o Ministério da Fazenda, em relação à mudança do critério
+[3613.62–3616.44s] e o compulsório trazendo um pouco mais de recurso
+[3616.44–3617.80s] para que a gente pudesse aplicar,
+[3618.26–3621.02s] aqui está a resposta da Caixa na contratação.
+[3621.74–3624.20s] O Fundo Social e FGTS crescendo também 17,
+[3624.30–3625.64s] é um crescimento bem significativo.
+[3626.74–3628.16s] Infraestrutura, um crescimento,
+[3628.32–3630.76s] quando você olha do ponto de vista do crescimento,
+[3630.76–3633.40s] relevante, o valor é 8,7 bi,
+[3633.88–3635.26s] mas nós estamos num ano também
+[3635.26–3638.54s] de processo eleitoral,
+[3638.62–3640.46s] então isso acaba gerando também algumas limitações,
+[3640.56–3642.40s] mas é um crescimento também bem insignificativo.
+[3642.92–3643.66s] Cateira comercial,
+[3644.54–3646.44s] a contratação do PF 13,2
+[3646.44–3647.84s] e do PJ um pouco menos,
+[3648.74–3650.60s] uma redução de 5,6.
+[3650.70–3652.34s] Nós tivemos toda uma questão envolvendo
+[3652.34–3654.30s] a carteira PJ, um reposicionamento nosso
+[3654.30–3655.80s] em relação às próprias contratações,
+[3656.38–3658.40s] isso refletiu que a gente deve agora
+[3658.40–3660.22s] ter uma nova dinâmica para o
+[3660.22–3661.80s] segundo semestre em relação à carteira
+[3661.80–3664.28s] PJ. Já em relação ao agro,
+[3664.40–3666.12s] comparado com o primeiro semestre do ano passado,
+[3666.62–3668.50s] a gente retoma algumas concessões
+[3668.50–3669.62s] de um crescimento em relação
+[3669.62–3672.12s] àquilo que foi emprestado no ano passado, chegando
+[3672.12–3674.80s] a 6 mil, um crescimento acima de 4%.
+[3674.80–3680.08s] A qualidade da carteira, e aí vem aquela questão
+[3680.08–3681.96s] da nossa transparência, a gente ora o nosso índice
+[3681.96–3684.24s] consolidado de 3,64, ele é
+[3684.24–3685.94s] inferior ao mercado,
+[3686.62–3688.16s] mas quando a gente faz a abertura, a gente
+[3688.16–3689.98s] vê exatamente onde que nós estamos
+[3689.98–3693.28s] onde está o nosso foco, a nossa preocupação,
+[3693.36–3695.30s] as nossas ações em cima da nossa recuperação.
+[3695.82–3699.42s] A nossa carteira do agro chega a 20,74% na inadimplência,
+[3699.54–3702.62s] e aqui eu já faço uma primeira observação importante,
+[3702.62–3706.62s] é que nós já olhamos para essa curva como uma estabilidade,
+[3707.38–3709.58s] perda de velocidade, e agora eu olho para essa carteira
+[3709.58–3712.36s] já como uma oportunidade por conta de todo o cenário,
+[3712.84–3714.60s] medida provisória, possibilidade de a gente ir lá
+[3714.60–3717.70s] e renegociar esses créditos e atender o nosso cliente,
+[3717.70–3720.80s] que está hoje com alguma dificuldade por conta de quebra de safra,
+[3720.92–3724.22s] como a própria medida provisória hoje já traz essa intenção.
+[3724.68–3729.92s] A nossa carteira comercial, esse agravamento de 7,64 para 9,32,
+[3730.52–3733.68s] ele tem o foco principal na carteira PJ,
+[3733.90–3737.12s] que também já está estabilizada em relação a isso,
+[3737.12–3742.14s] a nossa expectativa é de pegar essa curva e começar a trazê-la para baixo.
+[3742.14–3747.14s] As demais tivemos uma diminuição relevante na carteira imobiliária,
+[3747.80–3749.18s] o presidente até comentou sobre isso,
+[3749.64–3751.30s] saindo na perspectiva do mês de março,
+[3751.38–3753.16s] numa inadimplência de 1,60,
+[3753.64–3755.02s] caindo para 1,45,
+[3755.26–3758.60s] num esforço da nossa renegociação, da nossa cobrança
+[3758.60–3761.86s] e a própria relação nossa com nossos clientes.
+[3763.40–3766.00s] Eu tenho reforçado muito essa questão da composição,
+[3766.22–3768.96s] porque esse quadro de baixo é aquilo que, de fato,
+[3768.96–3772.92s] pode ser feita sob a ótica de comparabilidade com o mercado.
+[3773.98–3777.96s] A nossa carteira de crédito é concentrada em carteiras C1 e C2,
+[3778.04–3780.36s] onde tem as melhores garantias.
+[3781.18–3784.12s] Basicamente, aqui é a alienação fiduciária e depósito em garantia,
+[3784.56–3785.76s] ou fundos garantidores.
+[3786.80–3789.50s] Lá na C5, nós temos uma participação significativa dela,
+[3789.96–3793.26s] ali são créditos sem garantia, mas ali está classificado o consignado.
+[3794.24–3797.68s] 70% desse saldo aqui é consignado.
+[3797.68–3801.40s] nós temos uma carteira consignada de 113 bi.
+[3802.12–3805.58s] Então, quando a gente olha esse desenho de 79 entre C1 e C2,
+[3806.18–3808.16s] somado, porque lá nós estamos falando de uma carteira
+[3808.16–3812.26s] que está perto de 90% classificada como de menor risco.
+[3812.94–3815.58s] A carteira C3 é aquela que concentra a nossa carteira do agro,
+[3815.68–3820.14s] ainda com hipoteca, lembrando que as contratações agora,
+[3820.60–3821.76s] dadas a mudança de cenário,
+[3821.86–3825.28s] são todas agora feitas com alienação fiduciária
+[3825.28–3827.08s] e passam a ser classificadas agora como C1,
+[3827.42–3830.04s] as novas operações e aquelas que foram renegociadas
+[3830.04–3832.80s] com uma mudança na forma da garantia.
+[3834.56–3837.30s] Bom, como que está a nossa carteira sob a lógica da proteção?
+[3837.50–3841.06s] A gente olha muito a provisão sobre dois aspectos.
+[3841.52–3843.42s] Uma é o impacto dela dentro do balanço,
+[3843.48–3846.36s] a gente falou sobre isso lá naquela demonstração.
+[3846.74–3849.64s] E depois é como que a nossa carteira está protegida,
+[3849.70–3851.58s] porque a gente olha a provisão sob o aspecto de que
+[3851.58–3854.80s] o nosso balanço está devidamente protegido
+[3854.80–3856.86s] em relação a esses riscos.
+[3857.26–3859.28s] Então, aqui vem mostrando que,
+[3859.62–3862.84s] olhando de junho de 25 para junho de 26,
+[3863.88–3867.12s] o crescimento do nível de cobertura dessa provisão,
+[3867.12–3872.78s] saindo de 4,4 e indo para 4,8 na cobertura dos ativos totais.
+[3873.60–3876.38s] A parte de desenho amarelo é quanto desse ativo
+[3876.38–3878.12s] está classificado como ativo problemático,
+[3879.02–3881.24s] que é a definição que a própria norma estabelece.
+[3881.24–3885.60s] que é aquilo que está ou renegociado ou vencido acima de 90 dias,
+[3885.82–3887.14s] dependendo da sua característica.
+[3887.64–3890.80s] E aí o retrato do segmento, o crédito imobiliário bateria em 1 trilhão,
+[3891.02–3895.44s] 49 bilhões classificado dessa forma,
+[3895.58–3899.86s] e a carteira comercial, e ali em cima a cobertura de cada um do segmento.
+[3900.34–3904.20s] Então a gente pega aqui, por exemplo, a questão do agronegócio,
+[3904.94–3908.32s] uma cobertura de 6,8, hoje ela está em 16,8,
+[3908.32–3914.66s] mostrando exatamente a preocupação da Caixa e a questão da disciplina do risco que eu comentei,
+[3915.12–3918.80s] para que a carteira esteja devidamente protegida e o balanço esteja devidamente protegido
+[3918.80–3921.06s] em relação a esses maiores riscos.
+[3921.88–3925.14s] Aqui é a abertura em relação à alocação dessa provisão.
+[3925.78–3931.24s] Então, quando a gente olha sobre a provisão, o nível de provisamento total da carteira,
+[3931.24–3934.32s] na carteira total para o estágio 3,
+[3934.44–3936.16s] é aquele onde está o maior risco,
+[3936.60–3939.92s] 51% desse ativo está provisionado,
+[3940.60–3943.86s] e aí a gente faz o recorte também para cada um dos segmentos.
+[3944.14–3946.04s] A gente olha no crédito imobiliário,
+[3946.20–3949.84s] dado a questão da recuperação do ativo que está ali em garantia,
+[3950.52–3954.14s] quase 30% para aqueles ativos que hoje estão classificados ali
+[3954.14–3955.96s] como os de maior risco.
+[3956.38–3960.58s] Já na carteira comercial, como são créditos que não têm garantia,
+[3960.58–3962.78s] ou na maior parte eles são clean, não tem garantia,
+[3963.58–3968.66s] a provisão, quando chega nesse estágio, já está ali em 76%,
+[3968.66–3972.82s] mostrando ali dentro todo o nosso cuidado na proteção do balanço.
+[3973.28–3976.86s] Isso também está refletido aqui, tanto no agro quanto na infraestrutura.
+[3977.42–3980.10s] Importante olhar para a infraestrutura com o seguinte viés.
+[3980.76–3984.86s] Infraestrutura, inadimplência baixíssima, mas quando surge um problema,
+[3985.54–3989.56s] são normalmente operações complexas, ainda que com garantia,
+[3989.56–3994.84s] mas que demanda muito tempo e a recuperação também demora um pouco mais.
+[3995.30–3997.92s] Por isso que a cobertura ali, ainda que tenha garantia,
+[3998.04–4001.80s] sejam operações estruturadas, no momento em que ela chega naquele estágio,
+[4002.34–4006.88s] prudencialmente a gente vai lá e avança nessa provisão, então 75%.
+[4006.88–4012.40s] E o água, acima de 56%, também nos dando uma tranquilidade de balanço
+[4012.40–4014.40s] muito bem protegido sobre esse aspecto.
+[4014.84–4017.56s] E isso é extremamente relevante para todo mundo.
+[4019.56–4022.40s] O capital é outra fortaleza nossa.
+[4022.56–4025.94s] Então, a gente vem, digamos assim, cuidando bem dessa linha,
+[4026.36–4028.90s] que é aquilo que nos dá a capacidade de continuar operando
+[4028.90–4030.98s] da forma como nós entendemos,
+[4031.14–4032.54s] cumprindo o nosso plano de negócio
+[4032.54–4036.48s] e retroalimentando a economia do país.
+[4036.48–4039.48s] Então, o nosso índice brasileiro fecha em 15,5%,
+[4039.48–4043.06s] ou seja, um pouquinho abaixo dos 16% lá na perspectiva do semestre,
+[4043.14–4044.48s] mas crescendo uma carteira a 12%.
+[4045.16–4046.70s] Isso é muito relevante.
+[4046.70–4050.10s] o nosso capital de nível 1
+[4050.10–4051.30s] mantendo ali
+[4051.30–4054.04s] um comportamento quase linear
+[4054.04–4055.58s] tem uma pequena redução ali dentro
+[4055.58–4058.26s] mas tem um crescimento, quando a gente olha para o patrimônio
+[4058.26–4060.24s] de referência, desse capital nível 1
+[4060.24–4062.26s] saindo de 130 para 146
+[4062.26–4063.68s] a gente faz um
+[4063.68–4066.28s] chama atenção também para o crescimento ali do capital
+[4066.28–4067.84s] nível 2, ou seja
+[4067.84–4069.50s] é a caixa indo ao mercado
+[4069.50–4072.20s] fazendo captações
+[4072.20–4073.34s] em letra financeira
+[4073.34–4075.36s] com finalidade de
+[4075.36–4080.68s] abastecer o nosso capital para garantir também a nossa capacidade operacional.
+[4081.72–4084.54s] É a Caixa sendo um banco como qualquer outro banco.
+[4086.02–4087.26s] Qualquer outro banco não, né?
+[4087.78–4092.48s] Um banco, Caixa, cuidando da Caixa, porque nós não somos como nenhum outro banco.
+[4093.62–4098.46s] Nosso valor adicionado é tudo aquilo que nós geramos de recursos,
+[4098.46–4101.76s] tudo aquilo que nós transferimos diretamente da Caixa para a sociedade.
+[4101.76–4105.78s] Esse aqui, basicamente, é um documento que a Caixa entrega,
+[4105.84–4109.02s] mas são R$ 25 bilhões que nós colocamos na sociedade
+[4109.02–4111.84s] de pagamento de salário, de imposto, de remuneração de capital
+[4111.84–4114.00s] e também de aluguéis.
+[4115.02–4118.60s] Por fim, o nosso compromisso, e esse aqui também é importante,
+[4118.70–4122.04s] o nosso compromisso é o guidance que nós estamos divulgando.
+[4122.94–4126.32s] E eu chamo a atenção para a relevância dessas informações.
+[4127.86–4130.20s] A Caixa não fornece todas.
+[4130.20–4131.92s] Primeiro que a caixa não fornecia nenhuma.
+[4132.70–4135.50s] E a gente trouxe aqui agora o gás para poder direcionar
+[4135.50–4138.90s] e a gente prestar conta daquilo que a gente está se comprometendo a entregar.
+[4139.72–4142.70s] Então, quando a gente olha para a margem financeira,
+[4143.20–4149.00s] ela já apresenta, nesse momento, um crescimento acima da linha superior do gás.
+[4149.72–4152.44s] E nós já vamos trabalhar ali para poder buscar esse diagnóstico.
+[4152.82–4157.96s] Tem crescimento consistente de carteira, renovação de saldo com mais qualidade.
+[4157.96–4162.34s] a própria baixa da carteira indexada a taxas menores,
+[4162.46–4164.06s] que foi naquele período de serica muito baixo,
+[4164.18–4167.48s] que essa carteira agora vem perdendo relevância dentro da nossa carteira total.
+[4168.34–4172.74s] Então, nós temos aqui uma recuperação já acima da linha superior do Geising.
+[4173.20–4177.00s] A nossa carteira de crédito chega quase que no centro, a carteira de crédito total,
+[4177.56–4182.06s] mas ela tem alguns arrastos, principalmente puxado aqui pela carteira habitacional.
+[4182.62–4185.60s] Mas quando a carteira sustentável acompanha a carteira total,
+[4185.60–4189.60s] porque ela é bem pari-passa o crescimento da carteira total com a carteira sustentável,
+[4190.70–4192.72s] que pega ali toda a parte, boa parte do agro,
+[4193.14–4195.76s] pega a habitação quase que toda e infra também é um pedaço,
+[4195.86–4197.58s] então isso é muito representativo.
+[4198.62–4201.24s] E na nossa carteira de habitação com recurso caixa,
+[4201.42–4204.08s] já crescendo acima da linha inferior do Gaives,
+[4205.24–4208.64s] ou seja, crescendo acima do mínimo que nós estávamos imaginando que estava crescendo.
+[4208.64–4211.14s] no FGTS
+[4211.14–4212.52s] aqui, só para fazer
+[4212.52–4215.56s] um disclaimer
+[4215.56–4216.86s] é que
+[4216.86–4218.42s] aqui é só FGTS
+[4218.42–4220.80s] lá quando a gente falou de contratação
+[4220.80–4223.08s] de saldo crescendo 18%
+[4223.08–4224.32s] ali tinha um fundo social
+[4224.32–4226.82s] aqui é só o orçamento FGTS
+[4226.82–4228.84s] então a gente tinha uma expectativa
+[4228.84–4230.56s] de entre 8 e 12 e já está em
+[4230.56–4232.68s] 3.9, aqui já é
+[4232.68–4234.42s] o orçamento do FGTS
+[4234.42–4236.72s] um pouco acima daquilo que foi pensado
+[4236.72–4238.94s] no início, quando a gente projetou,
+[4239.36–4242.08s] quando a gente fez a nossa reprogramação orçamentária.
+[4242.68–4243.78s] Mas é aquilo que eu falo.
+[4243.88–4247.24s] Na habitação social, o que tiver de orçamento,
+[4247.44–4251.30s] a Caixa tem a responsabilidade de ir executar.
+[4251.86–4252.66s] A Caixa não é...
+[4252.66–4257.08s] Essas operações de habitação social não é exclusividade da Caixa.
+[4257.82–4262.12s] É que a Caixa produz 99% dessa carteira.
+[4262.12–4265.20s] Então, tem orçamento, a Caixa executa.
+[4266.20–4268.02s] Saneamento e infra crescendo um pouco abaixo,
+[4268.10–4269.02s] a gente tinha algumas expectativas,
+[4269.14–4271.12s] mas aqui tem a ver com alguns desembolsos
+[4271.12–4272.92s] de operações já contratadas,
+[4273.02–4276.80s] então a velocidade de desembolso deu uma arrefecida nesse período.
+[4277.24–4279.66s] A gente acredita que, vencido esse processo aqui,
+[4279.72–4281.14s] a gente possa alavancar um pouco mais.
+[4281.70–4284.16s] E a despesa administrativa crescendo lá,
+[4284.30–4286.00s] já quase na linha superior do Gadsen.
+[4286.56–4289.60s] A minha expectativa em especial é de que a gente possa,
+[4289.60–4292.32s] esse crescimento possa vir mais para o centro do Gadsen
+[4292.32–4294.88s] até o final do ano.
+[4295.20–4300.72s] E aqui eu encerro e agradeço a todos pela atenção. Obrigado.
+[4307.20–4309.04s] Presidente, considerações finais?
+[4310.24–4320.82s] Eu acho que agradecer, eu acho que a gente está no momento de agradecer aos colegas, principalmente,
+[4320.82–4324.48s] os colegas que fizeram, que construíam esses números.
+[4325.12–4330.44s] A sociedade, eu acho que compreende o papel da Carta como um banco que tem,
+[4331.36–4338.26s] numa sociedade ainda, com tantas necessidades, um papel tão relevante.
+[4339.28–4344.46s] A gente, quando olha os números de emprego produzidos pelo segmento da Constituição Civil,
+[4344.46–4350.98s] um milhão de empregos só pela Constituição Civil.
+[4351.98–4355.92s] Se agrega a isso, o que a gente certamente proporciona
+[4355.92–4358.22s] pelas ações da Caixa em outros segmentos.
+[4359.22–4362.32s] Então, a Caixa tem essa característica histórica
+[4362.32–4365.96s] de ser um banco que olha para a sociedade
+[4365.96–4372.78s] não exclusivamente com um aspecto vocacionado a gerar lucro.
+[4372.78–4382.62s] Eu acho que o lucro da Caixa é um lucro que se diferencia pelo seu papel de ser um banco que tem essa visão da sociedade,
+[4383.58–4386.14s] que sempre teve essa visão, que sempre atuou dessa forma.
+[4386.68–4391.48s] Os colegas da Caixa, no seu DNA, têm essa questão muito clara.
+[4392.72–4398.90s] Então, as parcerias com os diversos governos, seja o governo federal, o governo estadual, os governos municipais,
+[4398.90–4405.14s] as empresas, os nossos clientes, os nossos colegas, já citando mais uma vez,
+[4405.82–4409.66s] e aí fica uma saudação especial aos colegas aposentados,
+[4410.56–4414.26s] tanto construíram essa empresa ao longo de sua dedicação de vidas,
+[4414.94–4421.94s] que a gente há pouco tempo mitigou um problema que nós tínhamos sério no fundo de pensão da Caixa,
+[4421.94–4424.82s] nós somos o único entidade fechada de presidência complementar
+[4424.82–4430.58s] a reduzir o impacto da questão do equacionamento,
+[4430.78–4432.16s] em quase 50%.
+[4432.16–4435.86s] Estamos correndo para ver novas ações.
+[4436.00–4439.26s] Aí fica um reconhecimento do trabalho feito também pelos colegas da FUNCEF,
+[4440.06–4443.70s] aos nossos clientes, como eu falei,
+[4443.94–4445.26s] à sociedade de uma maneira geral.
+[4445.84–4447.92s] E eu acho que fica aqui também uma...
+[4447.92–4448.32s] Acho não.
+[4448.32–4454.50s] Então, entendo ser pertinente também fazer um agradecimento à cobertura tão profissional
+[4454.50–4458.30s] que vocês dão à mídia especializada da Caixa Econômica Federal.
+[4458.98–4463.46s] Muito obrigado pela notícia de todas as formas que saem,
+[4464.10–4469.04s] sempre mostrando o lado da visão que tem que ser democrática,
+[4469.70–4474.60s] da percepção da imprensa sobre a Caixa, sobre as questões, os questionamentos,
+[4474.60–4478.56s] tantos de vocês que têm acesso a tantas informações,
+[4478.74–4480.20s] tantas questões da Caixa.
+[4480.30–4482.02s] Então, o meu agradecimento de maneira geral,
+[4482.14–4486.56s] acho que é um semestre realmente onde nós demonstramos
+[4486.56–4492.20s] a pujança que a Caixa tem ao longo desses 165 anos,
+[4492.20–4497.48s] a preocupação ativa que nós temos em preservar as estruturas
+[4497.48–4501.12s] de governança da empresa, de complice da empresa.
+[4501.70–4504.00s] São transparecidas nesses números.
+[4504.60–4508.22s] A gestão de ALM, eu acho que é um dos segredos.
+[4508.46–4513.36s] Já dizia, né, Buca Patiolo, em 1.400 e pouco, né?
+[4514.88–4518.32s] Agora, todo ativo, passivo, tem que ser do mesmo tamanho,
+[4518.44–4520.96s] com qualidade e tal, com preservação disso.
+[4521.54–4523.74s] E a gente exerce isso na empresa com muita maestria.
+[4523.88–4527.36s] Então, fica aqui meu agradecimento a todos os colaboradores da empresa,
+[4527.50–4529.96s] todos os colegas que trabalham, né, nesse...
+[4529.96–4532.44s] Resultados, resultados, primeiro semestre.
+[4532.44–4532.90s] Obrigado, pessoal. Obrigado a vocês.
+[4534.60–4540.22s] Muito obrigado, presidente.
+[4540.66–4543.08s] Bem, encerramos aqui a nossa apresentação.
+[4543.20–4545.40s] Obrigado a todos que estiveram conosco.
+[4545.78–4547.86s] Lembrando também que a apresentação
+[4547.86–4551.60s] e todas as informações detalhadas sobre o resultado
+[4551.60–4555.88s] já estão disponíveis no nosso site de relação com investidores,
+[4556.50–4559.78s] em ri.caixa.gov.br.
+[4559.96–4561.68s] Muito obrigado e até a próxima.
+[4564.60–4594.58s] E aí

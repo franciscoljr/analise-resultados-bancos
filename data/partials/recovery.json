@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://api.mziq.com/mzfilemanager/v2/d/fb86b0b8-b4e9-407b-a575-ba3668a566a9/f3fccd66-ad02-43fe-3f77-5161ac82ea16?origin=2",
+    "path": "data/partials/cc23af6d2a4783bae3e29c24dd078ff09bf939a5e12ab10540dc1d520e649006.part",
+    "bytes": 7401472
+  },
+  {
+    "url": "https://api.mziq.com/mzfilemanager/v2/d/fb86b0b8-b4e9-407b-a575-ba3668a566a9/7aee09cd-554a-1ccb-ccdb-cb54d1bc1bf2?origin=2",
+    "path": "data/partials/6fdcf8a521da452adf69e42ac972ec450427976887dc5e7f86c8e7c27ce389f3.part",
+    "bytes": 1961984
+  },
+  {
+    "url": "https://api.mziq.com/mzfilemanager/v2/d/fb86b0b8-b4e9-407b-a575-ba3668a566a9/2053dbd2-e208-ef88-1c40-77bac1aea659?origin=2",
+    "path": "data/partials/8ddd0997084c0f5e1716635d40f405c4f50ab01a8dc9361eb6c2904278999a25.part",
+    "bytes": 23097344
+  },
+  {
+    "url": "https://api.mziq.com/mzfilemanager/v2/d/fb86b0b8-b4e9-407b-a575-ba3668a566a9/5d6a858d-e0d1-4f41-402e-95b3e18a964c?origin=2",
+    "path": "data/partials/32acd0bfa72cbaa18801409173f09b371657847e45bfe5295077ced3bd811327.part",
+    "bytes": 13430784
+  }
+]

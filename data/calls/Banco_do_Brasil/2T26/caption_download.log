@@ -1,0 +1,19 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=J9I2VdnE8Ek
+[youtube] J9I2VdnE8Ek: Downloading webpage
+WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
+[youtube] J9I2VdnE8Ek: Downloading initial data API JSON
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] J9I2VdnE8Ek: Downloading visionos player API JSON
+[youtube] J9I2VdnE8Ek: Downloading m3u8 information
+[info] J9I2VdnE8Ek: Downloading subtitles: pt-orig, pt
+[info] J9I2VdnE8Ek: Downloading 1 format(s): 616+251-2
+[info] Writing video subtitles to: data/calls/Banco_do_Brasil/2T26/youtube.pt-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: data/calls/Banco_do_Brasil/2T26/youtube.pt-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    3.15MiB/s (00:00:00)[download]   15.00KiB at    6.38MiB/s (00:00:00)[download]   31.00KiB at   12.28MiB/s (00:00:00)[download]   63.00KiB at   11.34MiB/s (00:00:00)[download]  127.00KiB at    5.11MiB/s (00:00:00)[download]  255.00KiB at    3.03MiB/s (00:00:00)[download]  511.00KiB at    2.98MiB/s (00:00:00)[download]  723.00KiB at    4.10MiB/s (00:00:00)[download] 100% of  723.00KiB in 00:00:00 at 2.09MiB/s
+[info] Writing video subtitles to: data/calls/Banco_do_Brasil/2T26/youtube.pt.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: data/calls/Banco_do_Brasil/2T26/youtube.pt.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at  Unknown B/s (00:00:00)[download]   31.00KiB at  Unknown B/s (00:00:00)[download]   63.00KiB at   26.75MiB/s (00:00:00)[download]  127.00KiB at   16.07MiB/s (00:00:00)[download]  255.00KiB at    4.15MiB/s (00:00:00)[download]  511.00KiB at    4.21MiB/s (00:00:00)[download]  723.00KiB at    4.71MiB/s (00:00:00)[download] 100% of  723.00KiB in 00:00:00 at 2.43MiB/s
+[info] Writing video metadata as JSON to: data/calls/Banco_do_Brasil/2T26/youtube.info.json

@@ -1,0 +1,9 @@
+# BTG Pactual — 2T26 versus 2T25
+Fonte primária: documents/BTG_Pactual/2026/2T26/Earnings_Release_2T26__60db3a76d472.pdf. Páginas abaixo são as impressas.
+Base: 2T25 reapresentado no release 2T26 para Consumer Finance/Pan; não implica perímetro orgânico constante. Release original 2T25 mostrava receita 8.294,1 milhões, lucro ajustado 4.182,1 milhões, ROAE 27,1% e eficiência 35,6%; reapresentado: 8.951 milhões, 4.194 milhões, 27,2%, 38,5% (p.2).
+2T26: receita 10.371,2 milhões; lucro ajustado 5.142,4 milhões; contábil 4.901,1 milhões; ROAE ajustado 26,7%; eficiência 37,1% (pp.2,5).
+Receitas 2T25 -> 2T26 (R$ milhões, p.6): IB 782 -> 421; Corporate 2.107 -> 2.500; S&T 1.913 -> 1.858; Asset 624 -> 794; Wealth 1.239 -> 1.447; Consumer 890 -> 1.546; Interest & Others 1.396 -> 1.805.
+Mecanismos atribuídos à administração: IB base recorde e menor DCM (p.8); Corporate carteira +21,3%, spreads menores por Special Situations (p.10); Asset AuM +24,8%, receita +27,2% (pp.12–13); Wealth WuM +24,4%, receita +16,8%, menor monetização (pp.14–15); Consumer +73,7% inclui participação adicional 20% Pan e 48% proporcional MeuTudo, além de crescimento orgânico (pp.16–17); Interest & Others +29,3% por maior patrimônio (p.18).
+Eficiência melhora 1,4 pp. Alíquota de IR/CS sobre lucro contábil antes de impostos cai de 22,4% a 19,5% (p.20); não confundir com alíquota da ponte de lucro ajustado p.5.
+Funding sem garantia 306,2 -> 405,3 bilhões (histórico inclui Pan, p.22); Basileia 16,2 -> 16,0%; LCR 170,1 -> 160,3% (release original 2T25 p.4 e 2T26 p.24). AuM/WuM 2.146,5 -> 2.675,3 bilhões (p.2).
+Inferência: crescimento de lucro deriva de expansão das franquias, aquisições, eficiência e tributação; ROAE não aumentou. O avanço não é inteiramente orgânico. Não foi realizada análise de transcrição nem reconciliação de fluxos de caixa para esta pergunta focada.
