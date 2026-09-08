@@ -2,6 +2,8 @@
 
 For reusable CEO/CFO bank specialists and complete-guide workflows, see [Bank specialists](specialists/START_HERE.md).
 
+Para recriar os seis agentes em outros modelos, sistemas ou IDEs, use o [kit de portabilidade](portability/README.md): instruções, conhecimento por banco, integração e validação.
+
 Start with [Executive comparison](reports/executive_comparison.md), then [Coverage and gaps](reports/coverage.md) and [Metric definitions](reports/methodology.md). The detailed bank reports link each metric to its official source file and page or cell.
 
 The project covers Banco do Brasil, Bradesco, BTG Pactual, Caixa, Itaú and Santander from 2024. The latest reviewed release is **2Q26**. Files are organized under `documents/Bank/Year/Quarter/`; originals are preserved with content hashes. The inventory retains official URLs, document categories, publication information and validation status. Audio/video sources, downloaded recordings and timestamped transcripts are preserved in the archive; see the call coverage report.

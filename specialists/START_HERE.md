@@ -1,5 +1,7 @@
 # Bank specialists for the CEO and CFO
 
+Para usar estes agentes fora da instalação original, consulte o [kit de portabilidade](../portability/README.md), com pacotes independentes de fornecedor para os seis bancos.
+
 Six reusable specialists connect to the official documents and financial history in this project. Each has its own bank-specific analytical priorities and knowledge directory. They can answer focused questions, generate a full guide, or update a previously reviewed guide with new evidence.
 
 | Bank | Invoke |

@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-09-08",
+  "repository": "https://github.com/franciscoljr/analise-resultados-bancos",
+  "source_commit": "9578cafa09720ac6eb309348fa18949f301008e1",
+  "latest_reviewed_period": "2T26",
+  "agents": [
+    {
+      "id": "Banco_do_Brasil",
+      "name": "Banco do Brasil",
+      "instructions": "portability/agents/Banco_do_Brasil/instructions.md",
+      "knowledge": "portability/agents/Banco_do_Brasil/knowledge.md",
+      "knowledge_directory": "specialists/knowledge/Banco_do_Brasil",
+      "call_periods": [
+        "1T25",
+        "2T25",
+        "3T25",
+        "4T25",
+        "1T26",
+        "2T26"
+      ],
+      "missing_call_periods": [],
+      "inputs": [
+        {
+          "path": "specialists/profiles.json",
+          "sha256": "d52d364e7ee76a74171a93bdd1a7ea6fc853eb2cc237e324f3c3c6521cf23a42"
+        },
+        {
+          "path": "specialists/shared/analytical_protocol.md",
+          "sha256": "49bc85c7273bd785d3c3146c4b6c130ba5549cc6d96c25b39e5a2a770c35a370"
+        },
+        {
+          "path": "specialists/shared/guide_contract.md",
+          "sha256": "19f7a84fad8c51352ca7675d57bf99dfd19679d595d499ac55d414fc8fc6a3e0"
+        },
+        {
+          "path": "specialists/knowledge/Banco_do_Brasil/latest_calls.json",
+          "sha256": "7cabdef4e2f74431c431e4180331575c5d8970d3bec949ed5038a94b1925b7e4"
+        },
+        {
+          "path": "specialists/knowledge/Banco_do_Brasil/latest_business_mix.json",
+          "sha256": "417aafec0d9af68dc4c04fc82e30c0a0f6211e7bd06bceec283266ed3fd91be0"
+        },
+        {
+          "path": "specialists/knowledge/Banco_do_Brasil/2026-09-07_calls_2025_2026/review.md",
+          "sha256": "12c07e1d20eba3d5e45ce25e7050db6fe85212adad4c014b469df09b6342ad5c"
+        },
+        {
+          "path": "specialists/knowledge/Banco_do_Brasil/2026-09-07_calls_2025_2026/sources.json",
+          "sha256": "b982160dad7067e3ff4d7f884f03e66081a281cea603051b6114c68882bcee98"
+        },
+        {
+          "path": "specialists/knowledge/Banco_do_Brasil/2026-09-07_business_mix_2T26/review.md",
+          "sha256": "92b4491135d1d5b4c4baff81d93b952e286bce76297de72f7cd76811b16819c8"
+        },
+        {
+          "path": "specialists/knowledge/Banco_do_Brasil/2026-09-07_business_mix_2T26/evidence.json",
+          "sha256": "694e3a723b8067035f8e2ffa0b5f142121b889d6fe4cbd638b5e258de4afcd2c"
+        }
+      ]
+    },
+    {
+      "id": "Bradesco",
+      "name": "Bradesco",
+      "instructions": "portability/agents/Bradesco/instructions.md",
+      "knowledge": "portability/agents/Bradesco/knowledge.md",
+      "knowledge_directory": "specialists/knowledge/Bradesco",
+      "call_periods": [
+        "1T25",
+        "2T25",
+        "3T25",
+        "4T25",
+        "1T26",
+        "2T26"
+      ],
+      "missing_call_periods": [],
+      "inputs": [
+        {
+          "path": "specialists/profiles.json",
+          "sha256": "d52d364e7ee76a74171a93bdd1a7ea6fc853eb2cc237e324f3c3c6521cf23a42"
+        },
+        {
+          "path": "specialists/shared/analytical_protocol.md",
+          "sha256": "49bc85c7273bd785d3c3146c4b6c130ba5549cc6d96c25b39e5a2a770c35a370"
+        },
+        {
+          "path": "specialists/shared/guide_contract.md",
+          "sha256": "19f7a84fad8c51352ca7675d57bf99dfd19679d595d499ac55d414fc8fc6a3e0"
+        },
+        {
+          "path": "specialists/knowledge/Bradesco/latest_calls.json",
+          "sha256": "9600b496973f7c5adf8f545b143ac3b548d3fcb4021c28e6c13cddca4baff1cd"
+        },
+        {
+          "path": "specialists/knowledge/Bradesco/latest_business_mix.json",
+          "sha256": "e2045d3db94aff5b6acde6a8244fb18c67a5326950cc94e96f154d919e19d5bc"
+        },
+        {
+          "path": "specialists/knowledge/Bradesco/2026-09-07_calls_2025_2026/review.md",
+          "sha256": "104c97b5cb7b311275a15263407c1740a2e250fdb93c07742c89fe1786b746e2"
+        },
+        {
+          "path": "specialists/knowledge/Bradesco/2026-09-07_calls_2025_2026/sources.json",
+          "sha256": "d37187ab4b84235ee871e94a79c808038391c9ed28f6d0635e5110b35e0e0484"
+        },
+        {
+          "path": "specialists/knowledge/Bradesco/2026-09-07_business_mix_2T26/review.md",
+          "sha256": "a4da8bfdddfcb1a7dc655cca40c4c93ea71394ca51d2876ddc64f720527053f0"
+        },
+        {
+          "path": "specialists/knowledge/Bradesco/2026-09-07_business_mix_2T26/evidence.json",
+          "sha256": "180ca5ae22219f3fd3be6ead696b0e7f01551f4f4e15eede5301dafdc1d160f3"
+        }
+      ]
+    },
+    {
+      "id": "BTG_Pactual",
+      "name": "BTG Pactual",
+      "instructions": "portability/agents/BTG_Pactual/instructions.md",
+      "knowledge": "portability/agents/BTG_Pactual/knowledge.md",
+      "knowledge_directory": "specialists/knowledge/BTG_Pactual",
+      "call_periods": [
+        "1T25",
+        "2T25",
+        "3T25",
+        "4T25",
+        "1T26",
+        "2T26"
+      ],
+      "missing_call_periods": [],
+      "inputs": [
+        {
+          "path": "specialists/profiles.json",
+          "sha256": "d52d364e7ee76a74171a93bdd1a7ea6fc853eb2cc237e324f3c3c6521cf23a42"
+        },
+        {
+          "path": "specialists/shared/analytical_protocol.md",
+          "sha256": "49bc85c7273bd785d3c3146c4b6c130ba5549cc6d96c25b39e5a2a770c35a370"
+        },
+        {
+          "path": "specialists/shared/guide_contract.md",
+          "sha256": "19f7a84fad8c51352ca7675d57bf99dfd19679d595d499ac55d414fc8fc6a3e0"
+        },
+        {
+          "path": "specialists/knowledge/BTG_Pactual/latest_calls.json",
+          "sha256": "b756cba528704a96e54bcab53cc924927fff37c3b8dce220640e8494bf69cee0"
+        },
+        {
+          "path": "specialists/knowledge/BTG_Pactual/latest_business_mix.json",
+          "sha256": "92b734181ea91451ef33f957733fa439411c076fa89bb4f9f4192f3d7876b4a4"
+        },
+        {
+          "path": "specialists/knowledge/BTG_Pactual/2026-09-07_calls_2025_2026/review.md",
+          "sha256": "611a7093d33203aeb21b0bdd5d166532028394ba2f12ed2220cb666d9a40dd4f"
+        },
+        {
+          "path": "specialists/knowledge/BTG_Pactual/2026-09-07_calls_2025_2026/sources.json",
+          "sha256": "fdd71b18f68064be38f2e8db54725011b506d38693bc80be19debb8bdea1c20e"
+        },
+        {
+          "path": "specialists/knowledge/BTG_Pactual/2026-09-07_business_mix_2T26/review.md",
+          "sha256": "104dc465d22661775294c3ff293305b64186204ca8506e88eca45ea6acad7ccb"
+        },
+        {
+          "path": "specialists/knowledge/BTG_Pactual/2026-09-07_business_mix_2T26/evidence.json",
+          "sha256": "ac9655e51113e1a15f4ef113195ed372267d7e2042098ad949f6b884ef24c827"
+        }
+      ]
+    },
+    {
+      "id": "Caixa",
+      "name": "Caixa Econômica Federal",
+      "instructions": "portability/agents/Caixa/instructions.md",
+      "knowledge": "portability/agents/Caixa/knowledge.md",
+      "knowledge_directory": "specialists/knowledge/Caixa",
+      "call_periods": [
+        "2T26"
+      ],
+      "missing_call_periods": [
+        "1T25",
+        "2T25",
+        "3T25",
+        "4T25",
+        "1T26"
+      ],
+      "inputs": [
+        {
+          "path": "specialists/profiles.json",
+          "sha256": "d52d364e7ee76a74171a93bdd1a7ea6fc853eb2cc237e324f3c3c6521cf23a42"
+        },
+        {
+          "path": "specialists/shared/analytical_protocol.md",
+          "sha256": "49bc85c7273bd785d3c3146c4b6c130ba5549cc6d96c25b39e5a2a770c35a370"
+        },
+        {
+          "path": "specialists/shared/guide_contract.md",
+          "sha256": "19f7a84fad8c51352ca7675d57bf99dfd19679d595d499ac55d414fc8fc6a3e0"
+        },
+        {
+          "path": "specialists/knowledge/Caixa/latest_calls.json",
+          "sha256": "9a7701bda52f8676fa81212d9b5ab4a268ca14eb322e5c59a9f6f175adff2004"
+        },
+        {
+          "path": "specialists/knowledge/Caixa/latest_business_mix.json",
+          "sha256": "cc350211631d235bdd4e91d57f9bf7f2368785e297034092597fd31ab3a6dc43"
+        },
+        {
+          "path": "specialists/knowledge/Caixa/2026-09-07_calls_2025_2026/review.md",
+          "sha256": "1daeb847c39ca071524ce0d1f62e8560909e9f7986703609cdedfbdf8bb85d53"
+        },
+        {
+          "path": "specialists/knowledge/Caixa/2026-09-07_calls_2025_2026/sources.json",
+          "sha256": "dccdc25acf31b7c6a4ff5f2f6381c6d794a797ef2a065957e9f051840e7a7619"
+        },
+        {
+          "path": "specialists/knowledge/Caixa/2026-09-07_business_mix_2T26/review.md",
+          "sha256": "a1105585b3a6fc9c4690914196bbba49e38f6480b4484b27a8a3ca205a74e7c5"
+        },
+        {
+          "path": "specialists/knowledge/Caixa/2026-09-07_business_mix_2T26/evidence.json",
+          "sha256": "1e4833debf62fc88fffef79acb8d99fda7abb3f36bd4811652f22bd47e615094"
+        }
+      ]
+    },
+    {
+      "id": "Itau",
+      "name": "Itaú Unibanco",
+      "instructions": "portability/agents/Itau/instructions.md",
+      "knowledge": "portability/agents/Itau/knowledge.md",
+      "knowledge_directory": "specialists/knowledge/Itau",
+      "call_periods": [
+        "1T25",
+        "2T25",
+        "3T25",
+        "4T25",
+        "1T26",
+        "2T26"
+      ],
+      "missing_call_periods": [],
+      "inputs": [
+        {
+          "path": "specialists/profiles.json",
+          "sha256": "d52d364e7ee76a74171a93bdd1a7ea6fc853eb2cc237e324f3c3c6521cf23a42"
+        },
+        {
+          "path": "specialists/shared/analytical_protocol.md",
+          "sha256": "49bc85c7273bd785d3c3146c4b6c130ba5549cc6d96c25b39e5a2a770c35a370"
+        },
+        {
+          "path": "specialists/shared/guide_contract.md",
+          "sha256": "19f7a84fad8c51352ca7675d57bf99dfd19679d595d499ac55d414fc8fc6a3e0"
+        },
+        {
+          "path": "specialists/knowledge/Itau/latest_calls.json",
+          "sha256": "dae0cacf71c958213db57476af19288a3f10d6183d93bb8d350ec6126946ffbe"
+        },
+        {
+          "path": "specialists/knowledge/Itau/latest_business_mix.json",
+          "sha256": "a5249fe18fed3b34be39c13d15088324e8b5c089604559711c343f4c8db9ea7f"
+        },
+        {
+          "path": "specialists/knowledge/Itau/2026-09-07_calls_2025_2026/review.md",
+          "sha256": "2ae714fd7ec7d6eae69a44282a877de8936f6e8a51e56d36979f61f13c865134"
+        },
+        {
+          "path": "specialists/knowledge/Itau/2026-09-07_calls_2025_2026/sources.json",
+          "sha256": "3b0ef9505bf6701a347b59c3d81a0c6c2f894da48c26701ef07de44fe8ec50e6"
+        },
+        {
+          "path": "specialists/knowledge/Itau/2026-09-07_business_mix_2T26/review.md",
+          "sha256": "8c278919fb5002f3e16205978a94e0fde479ea29430bcb8843702b8193631031"
+        },
+        {
+          "path": "specialists/knowledge/Itau/2026-09-07_business_mix_2T26/evidence.json",
+          "sha256": "a07cd0c4d68db0a7161bb9d1ab35bd7aae39154cdf7da792d0dc26e9c02ee46a"
+        }
+      ]
+    },
+    {
+      "id": "Santander",
+      "name": "Santander Brasil",
+      "instructions": "portability/agents/Santander/instructions.md",
+      "knowledge": "portability/agents/Santander/knowledge.md",
+      "knowledge_directory": "specialists/knowledge/Santander",
+      "call_periods": [
+        "1T25",
+        "2T25",
+        "3T25",
+        "4T25",
+        "1T26",
+        "2T26"
+      ],
+      "missing_call_periods": [],
+      "inputs": [
+        {
+          "path": "specialists/profiles.json",
+          "sha256": "d52d364e7ee76a74171a93bdd1a7ea6fc853eb2cc237e324f3c3c6521cf23a42"
+        },
+        {
+          "path": "specialists/shared/analytical_protocol.md",
+          "sha256": "49bc85c7273bd785d3c3146c4b6c130ba5549cc6d96c25b39e5a2a770c35a370"
+        },
+        {
+          "path": "specialists/shared/guide_contract.md",
+          "sha256": "19f7a84fad8c51352ca7675d57bf99dfd19679d595d499ac55d414fc8fc6a3e0"
+        },
+        {
+          "path": "specialists/knowledge/Santander/latest_calls.json",
+          "sha256": "dacda4f42ce6da2e4847a21d93ed04f06aaa2c53005a151493d7f899847e54ff"
+        },
+        {
+          "path": "specialists/knowledge/Santander/latest_business_mix.json",
+          "sha256": "17df3a62ab3d08c9ce72250051dd5101ed8ad48688551cb71c274290219009d7"
+        },
+        {
+          "path": "specialists/knowledge/Santander/2026-09-07_calls_2025_2026/review.md",
+          "sha256": "3a18810869652a2164e37a6abf223fae24acf2ba4a85c3e0adc4c2f05516d55c"
+        },
+        {
+          "path": "specialists/knowledge/Santander/2026-09-07_calls_2025_2026/sources.json",
+          "sha256": "758f6ae238171996b272fcd15e175267257a2e7be71fc59496357c4f9a107fe2"
+        },
+        {
+          "path": "specialists/knowledge/Santander/2026-09-07_business_mix_2T26/review.md",
+          "sha256": "9333ecd352256aa535ca3bc35e9f99d9bf9b6b138a9b0142e2a7e1cb89582a83"
+        },
+        {
+          "path": "specialists/knowledge/Santander/2026-09-07_business_mix_2T26/evidence.json",
+          "sha256": "8a0a3cb75f434788adbba49b03032cad3bbad5bde47b669e7e5424116585ea11"
+        }
+      ]
+    }
+  ]
+}
